@@ -2,9 +2,9 @@
 title: Editing Wiki
 description: 
 published: true
-date: 2020-07-09T06:11:22.203Z
+date: 2020-07-14T18:01:09.190Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Who can edit the wiki
@@ -43,7 +43,7 @@ If you want people to find your page easier you can add it to the navigation men
 1. Editing the page
 2. Adding your page as a link to the page
 
-## Adding spoilers
+## Adding spoilers / editing doctrines
 To add spoilers for stuff like fittings please add use the following code:
 ```
 <details> 
@@ -117,6 +117,10 @@ Antimatter Charge M x3000
 Caldari Navy Tungsten Charge M x1000
 </details>
 
+You can add [doctrines](/community/doctrines) by editing the doctrine page directly. See the curent doctrines for how to structure the fittings.
 
 # How to edit pages
 You can edit all pages under the `/services` path by pressing on the big blue edit button.
+
+# Tracking changes
+All changes will be stored on git as a backup and posted on the wiki-editors-tracker channel on discord.
