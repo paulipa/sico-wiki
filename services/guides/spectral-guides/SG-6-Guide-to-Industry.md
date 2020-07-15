@@ -2,7 +2,7 @@
 title: SG-6 - Guide to Industry
 description: 
 published: true
-date: 2020-07-15T00:27:46.761Z
+date: 2020-07-15T00:31:06.058Z
 tags: 
 editor: markdown
 ---
@@ -16,14 +16,14 @@ You can however lose money in industry, this guide seeks to prevent you from doi
 ---
 Lets first take a basic look at the fundamentals of industry.  Industry is the process of taking blueprints such as this Hobgoblin I Blueprint, and producing the item by using ores and potentially other materials.
 
-If you click on the blueprint and head to the "Manufacturing" tab, you will be able to see what skills you need to use this blueprint as well as what materials you will need.
+If you search the blueprint in-game and head to the "Manufacturing" tab, you will be able to see what skills you need to use this blueprint as well as what materials you will need.
 
 It's not recommended however to do industry with an unresearched blueprint.  If you look underneath the name of that blueprint in the top left of the window, you will see two tabs with 0% next to them.  Hovering over these tabs you realise these are the Material Efficiency (ME) and Time Efficiency (TE) research tabs.
 
 ---
 ME can go up to 10% meaning you can reduce the material cost to produce the blueprint by 10%, TE goes up to 20% meaning you can reduce the time it takes to produce the blueprint by up to 20%.
 
-So before you begin actually using a blueprint, you first want to research it.  You can do this by going to the industry tab found here Neocom: Industry.
+So before you begin actually using a blueprint, you first want to research it.  You can do this by going to the industry tab.
 
 Click/drag the blueprint from your hanger into the industry slot, then underneath the blueprint there are 6 icons, you want the icons second from the left and third from the left for ME and TE research respectively.
 
