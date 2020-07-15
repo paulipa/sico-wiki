@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-15T00:53:24.049Z
+date: 2020-07-15T00:56:34.472Z
 tags: 
 editor: markdown
 ---
@@ -188,8 +188,8 @@ The purpose of tackle ships is to provide warp in points for the naga fleet and 
 They will also be HERO tackles that will hold targets in place until killed while the nagas snipe them down.
 
 <details>
-  <summary>Naga, DPS - Fleet - Close Range</summary>
-[Naga, DPS - Fleet - Close Range]
+  <summary>Naga - SLTRN (Blasters)</summary>
+[Naga, Naga - SLTRN (Blasters)]
 
 Damage Control II
 Magnetic Field Stabilizer II
@@ -199,8 +199,8 @@ Magnetic Field Stabilizer II
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
-X5 Enduring Stasis Webifier
 Faint Epsilon Scoped Warp Scrambler
+X5 Enduring Stasis Webifier
 
 Neutron Blaster Cannon I
 Neutron Blaster Cannon I
@@ -211,12 +211,14 @@ Neutron Blaster Cannon I
 Neutron Blaster Cannon I
 Neutron Blaster Cannon I
 
-Medium Anti-EM Screen Reinforcer I
+Medium EM Shield Reinforcer I
 Medium Ancillary Current Router I
 Medium Core Defense Field Extender I
 
+
 Antimatter Charge L x3000
-Caldari Navy Antimatter Charge L x920
+Caldari Navy Antimatter Charge L x1000
+Caldari Navy Tungsten Charge L x1000
 </details>
 
 <details>
