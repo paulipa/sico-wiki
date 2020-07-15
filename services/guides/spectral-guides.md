@@ -2,7 +2,7 @@
 title: Spectral Guides
 description: 
 published: true
-date: 2020-07-15T00:15:52.226Z
+date: 2020-07-15T00:16:40.550Z
 tags: 
 editor: markdown
 ---
@@ -28,4 +28,5 @@ Other Guides
 [SG-4 - Mission Running Fits](/services/guides/spectral-guides/SG-4-Mission-Running-Fits)
 [SG-5 - Guide to Mining](/services/guides/spectral-guides/SG-5-Guide-to-Mining)
 [SG-6 - Guide to Industry](/services/guides/spectral-guides/SG-6-Guide-to-Industry)
+[SG-7 - Guide to Incursions](/services/guides/spectral-guides/SG-7-Guide-to-Incursions)
 [SG-8 - Guide to the MQP](/services/guides/spectral-guides/SG-8-Guide-to-the-MQP)
