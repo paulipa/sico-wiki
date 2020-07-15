@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-15T00:46:16.411Z
+date: 2020-07-15T00:53:24.049Z
 tags: 
 editor: markdown
 ---
@@ -110,18 +110,18 @@ Caldari Navy Antimatter Charge M x1000
 ### Logistics
 
 <details>
-  <summary>Osprey, Logi - Fleet - Alpha</summary>
-[Osprey, Logi - Fleet - Alpha]
+  <summary>Osprey - SLTRN</summary>
+[Osprey, Osprey - SLTRN]
 
 Damage Control II
 Power Diagnostic System II
 Power Diagnostic System II
 
-Large F-S9 Regolith Compact Shield Extender
-Compact Adaptive Invulnerability Shield Hardener
 50MN Y-T8 Compact Microwarpdrive
 Large F-S9 Regolith Compact Shield Extender
-EM Ward Amplifier II
+Compact Multispectrum Shield Hardener
+EM Shield Amplifier II
+[Empty Med slot]
 
 Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
@@ -132,6 +132,7 @@ Medium Inductive Compact Remote Capacitor Transmitter
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
+
 
 Warrior I x4
 </details>
@@ -139,8 +140,8 @@ Warrior I x4
 ### Booster
 
 <details>
-  <summary>Sleipnir, Booster - Shields - PvP</summary>
-[Sleipnir, Booster - Shields - PvP]
+  <summary>Sleipnir - SLTRN</summary>
+[Sleipnir, Sleipnir - SLTRN]
 
 Damage Control II
 Power Diagnostic System II
@@ -149,25 +150,34 @@ Power Diagnostic System II
 Power Diagnostic System II
 
 50MN Quad LiF Restrained Microwarpdrive
-Multispectrum Shield Hardener II
-Multispectrum Shield Hardener II
 Medium Shield Extender II
 Medium Shield Extender II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
 
-720mm 'Scout' Artillery I
-720mm 'Scout' Artillery I
-720mm 'Scout' Artillery I
-720mm 'Scout' Artillery I
-720mm 'Scout' Artillery I
 Shield Command Burst II
 Shield Command Burst II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
+
+Warrior II x5
+
+
+Quake M x1000
+Tremor M x1000
+Republic Fleet EMP M x1000
+Republic Fleet Fusion M x1000
+Republic Fleet Phased Plasma M x1000
+Active Shielding Charge x300
 Shield Extension Charge x300
 Shield Harmonizing Charge x300
-Quake M x100
 </details>
 
 ## Naga Fleet
