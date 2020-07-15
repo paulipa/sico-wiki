@@ -2,9 +2,9 @@
 title: Spectral Guides
 description: 
 published: true
-date: 2020-07-09T07:28:35.948Z
+date: 2020-07-15T00:15:52.226Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 The guides Spectral have to offer are also delivered in the form of mailing lists.  To join a mailing list - open up your mail in-game, then at the bottom left click "Add Mailing List" and enter the name of the guide you wish to access.
@@ -26,3 +26,6 @@ Other Guides
 [SG-2 - Guide to Exploration](/services/guides/spectral-guides/SG-2-Guide-to-Exploration)
 [SG-3 - Guide to Mission Running](/services/guides/spectral-guides/SG-3-Guide-to-Mission-Running)
 [SG-4 - Mission Running Fits](/services/guides/spectral-guides/SG-4-Mission-Running-Fits)
+[SG-5 - Guide to Mining](/services/guides/spectral-guides/SG-5-Guide-to-Mining)
+[SG-6 - Guide to Industry](/services/guides/spectral-guides/SG-6-Guide-to-Industry)
+[SG-8 - Guide to the MQP](/services/guides/spectral-guides/SG-8-Guide-to-the-MQP)
