@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-15T00:56:34.472Z
+date: 2020-07-15T01:00:59.123Z
 tags: 
 editor: markdown
 ---
@@ -222,42 +222,44 @@ Caldari Navy Tungsten Charge L x1000
 </details>
 
 <details>
-  <summary>Naga, DPS - Fleet - Sniper</summary>
-[Naga, DPS - Fleet - Sniper]
+  <summary>Naga - SLTRN (Railguns)</summary>
+[Naga, Naga - SLTRN (Railguns)]
 
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
 
-F-90 Compact Sensor Booster
-F-90 Compact Sensor Booster
 50MN Cold-Gas Enduring Microwarpdrive
 Optical Compact Tracking Computer
 Optical Compact Tracking Computer
 Optical Compact Tracking Computer
+F-90 Compact Sensor Booster
+F-90 Compact Sensor Booster
 
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
-425mm Prototype Gauss Gun
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
+425mm Railgun I
 
-Medium Anti-EM Screen Reinforcer I
+Medium EM Shield Reinforcer I
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 
-ECCM Script x2
+
+Caldari Navy Antimatter Charge L x1000
 Caldari Navy Iridium Charge L x1000
+Caldari Navy Iron Charge L x1000
+Caldari Navy Thorium Charge L x1000
+Caldari Navy Tungsten Charge L x1000
+ECCM Script x2
+Scan Resolution Script x2
+Targeting Range Script x2
 Optimal Range Script x3
 Tracking Speed Script x3
-Caldari Navy Tungsten Charge L x1000
-Caldari Navy Antimatter Charge L x1000
-Caldari Navy Iron Charge L x1000
-Targeting Range Script x2
-Federation Navy Thorium Charge L x1000
 </details>
 
 ## Moa Fleet
