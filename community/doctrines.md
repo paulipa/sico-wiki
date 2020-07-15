@@ -2,9 +2,9 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-09T14:31:43.372Z
+date: 2020-07-15T00:46:16.411Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -29,42 +29,46 @@ This doctrine has proper logi to withstand enemy DPS for a longer duration of ti
 
 ### DPS
 <details>
-  <summary>Ferox, DPS - Fleet - Starter</summary>
-  [Ferox, DPS - Fleet - Starter]
+  <summary>Ferox - SLTRN (Basic)</summary>
+[Ferox, Ferox - SLTRN (Basic)]
 
-  Damage Control II
-  Magnetic Field Stabilizer II
-  Magnetic Field Stabilizer II
-  Magnetic Field Stabilizer II
+Damage Control II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
 
-  Large F-S9 Regolith Compact Shield Extender
-  Large F-S9 Regolith Compact Shield Extender
-  Compact Adaptive Invulnerability Shield Hardener
-  Compact Adaptive Invulnerability Shield Hardener
-  Small F-RX Compact Capacitor Booster
-  50MN Cold-Gas Enduring Microwarpdrive
+50MN Cold-Gas Enduring Microwarpdrive
+Large F-S9 Regolith Compact Shield Extender
+Large F-S9 Regolith Compact Shield Extender
+Compact Multispectrum Shield Hardener
+Compact Multispectrum Shield Hardener
+Small F-RX Compact Capacitor Booster
 
-  250mm Railgun I
-  250mm Railgun I
-  250mm Railgun I
-  250mm Railgun I
-  250mm Railgun I
-  250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
+[Empty High slot]
 
-  Medium Ancillary Current Router I
-  Medium Anti-EM Screen Reinforcer I
-  Medium Core Defense Field Extender I
+Medium Ancillary Current Router I
+Medium Core Defense Field Extender I
+Medium EM Shield Reinforcer I
 
-  Acolyte I x5
-  Caldari Navy Antimatter Charge M x1000
-  Cap Booster 200 x25
-  Antimatter Charge M x3000
-  Caldari Navy Tungsten Charge M x1000
+
+Acolyte I x5
+
+
+Navy Cap Booster 200 x25
+Antimatter Charge M x3000
+Caldari Navy Antimatter Charge M x1000
+Caldari Navy Tungsten Charge M x1000
 </details>
 
 <details>
-  <summary>Ferox, DPS - Fleet - Advanced</summary>
-[Ferox, DPS - Fleet - Advanced]
+  <summary>Ferox - SLTRN</summary>
+[Ferox, Ferox - SLTRN]
 
 Damage Control II
 Magnetic Field Stabilizer II
@@ -72,11 +76,11 @@ Magnetic Field Stabilizer II
 Reactor Control Unit II
 
 50MN Y-T8 Compact Microwarpdrive
-Small Capacitor Booster II
+Large Shield Extender II
+Large Shield Extender II
 Multispectrum Shield Hardener II
-Large Shield Extender II
-Large Shield Extender II
-Anti-EM Shield Hardener II
+EM Shield Hardener II
+Small Capacitor Booster II
 
 250mm Railgun II
 250mm Railgun II
@@ -84,18 +88,24 @@ Anti-EM Shield Hardener II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
+[Empty High slot]
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
-Medium Anti-Thermal Screen Reinforcer I
-  
+Medium Thermal Shield Reinforcer I
+
+
 Warrior II x5
-Federation Navy Antimatter Charge M x1240
+
+
 Javelin M x1000
-Cap Booster 200 x20
-Antimatter Charge M x3000
 Spike M x1000
+Navy Cap Booster 200 x25
+Antimatter Charge M x3000
+Caldari Navy Antimatter Charge M x1000
 </details>
+
+
 
 ### Logistics
 
