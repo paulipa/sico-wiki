@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:03:13.455Z
+date: 2020-07-16T21:04:50.715Z
 tags: 
 editor: markdown
 ---
@@ -1772,6 +1772,7 @@ First 2 fits are mainline (what we want you to fly), Frigates are only for if yo
 <details>
   <summary>DPS-WEDGE (hard to fit)</summary>
 [Thrasher, DPSWedge]
+
 Counterbalanced Compact Gyrostabilizer
 Counterbalanced Compact Gyrostabilizer
 
@@ -1803,6 +1804,7 @@ Republic Fleet Fusion S x300
 <details>
   <summary> Insta-Wedge (easier to fit) </summary>
 [Thrasher, Instawedge]
+
 Counterbalanced Compact Gyrostabilizer
 Counterbalanced Compact Gyrostabilizer
 
@@ -1836,6 +1838,7 @@ Republic Fleet Fusion S x300
 <details>
   <summary> Wedge Punisher </summary>
 [Punisher, WEDGE PUNISHER]
+
 400mm Rolled Tungsten Compact Plates
 Magnetic Field Stabilizer I
 Multispectrum Coating II
@@ -1864,6 +1867,7 @@ Antimatter Charge S x1000
 <details>
   <summary> Wedge Merlin </summary>
 [Merlin, WEDGE MERLIN]
+
 Damage Control I
 Magnetic Field Stabilizer I
 Vigor Compact Micro Auxiliary Power Core
@@ -1891,6 +1895,7 @@ Antimatter Charge S x1000
 <details>
   <summary>Wedge Atron </summary>
 [Atron, WEDGE ATRON]
+
 Micro Auxiliary Power Core I
 Magnetic Field Stabilizer I
 Damage Control I
