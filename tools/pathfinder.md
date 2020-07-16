@@ -2,7 +2,7 @@
 title: Pathfinder
 description: 
 published: true
-date: 2020-07-16T20:04:07.995Z
+date: 2020-07-16T20:17:56.303Z
 tags: 
 editor: markdown
 ---
@@ -27,9 +27,9 @@ For non-default locations, you can either use the SICO global map that is shared
 The core functions in Pathfinder are very easy to use. If you want to have a look at the manual for all of the functions/icons/etc., you may open the integrated manual by pressing the map button on the top right corner.
 
 ## Adding signatures
-If there no wormholes or signatures have been scanned out, your map will only show the HQ locations that we have pinned down in the map. If you are scanning from inside out you will see yourself in one of these locations.
+If no wormholes or signatures have been scanned out, your map will only show the HQ locations that we have pinned down in the map. If you are scanning from inside out you will see yourself in one of these locations.
 
-`The green marker` tells you the number of other active mappers in your system. Your name is displayed in the active system.
+`The green marker` tells you the number of other active mappers that have recently joined/entered the system. Your name is displayed in the active system.
 ![pathfinder4.jpg](/pathfinder4.jpg)
 
 Click on your active system to select it and to make it active. You now have more options visible for the selected system.
