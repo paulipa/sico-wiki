@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:49:18.705Z
+date: 2020-07-16T21:58:53.260Z
 tags: 
 editor: markdown
 ---
@@ -2370,7 +2370,38 @@ Small EM Shield Reinforcer II
 
 
 Warrior SW-300 x2
+</details>
 
+<details>
+  <summary>Links and Boosh - Stork</summary>
+[Stork, *Simulated Stork Fitting]
+
+Damage Control II
+Capacitor Power Relay II
+
+5MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Medium Shield Extender
+Republic Fleet Medium Shield Extender
+Multispectrum Shield Hardener II
+Micro Jump Field Generator
+EM Shield Amplifier II
+
+Shield Command Burst I
+Shield Command Burst I
+Arbalest Compact Light Missile Launcher
+
+Small Command Processor I
+Small Core Defense Field Extender II
+
+
+
+
+Caldari Navy Inferno Light Missile x240
+Active Shielding Charge x300
+Shield Harmonizing Charge x300
+
+
+</details>
 
   
 
