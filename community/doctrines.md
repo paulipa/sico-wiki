@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:04:50.715Z
+date: 2020-07-16T21:06:05.738Z
 tags: 
 editor: markdown
 ---
@@ -1765,7 +1765,7 @@ Nanite Repair Paste x50
 Caldari Navy Nova Torpedo x1500
 </details>
 
-## Wedge Fleet Doctrine
+## Wedge Fleet
 Weekly Friday night Thrasher Fleet
 Ships are free and will be supplied at dockup, no need to bring your own
 First 2 fits are mainline (what we want you to fly), Frigates are only for if you can't fly a Thrasher
