@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:32:40.738Z
+date: 2020-07-16T21:49:18.705Z
 tags: 
 editor: markdown
 ---
@@ -2285,6 +2285,94 @@ Republic Fleet Fusion S x1000
 Republic Fleet Phased Plasma S x500
 
 </details>
+
+
+
+
+## Harpy Fleet
+Harpy Fleet with Logi and Support. No good replacement ships for Newbros, as FC make sure to get the numbers you need to undock (minimum 15 Harpies+5 Logi)
+
+<details>
+  <summary> Mainline - Harpy</summary>
+[Harpy, Harpy]
+
+EFFA Compact Assault Damage Control
+Vortex Compact Magnetic Field Stabilizer
+Vortex Compact Magnetic Field Stabilizer
+
+Republic Fleet Small Shield Extender
+Republic Fleet Small Shield Extender
+5MN Quad LiF Restrained Microwarpdrive
+Faint Epsilon Scoped Warp Scrambler
+
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+
+Small EM Shield Reinforcer II
+Small Processor Overclocking Unit II
+
+
+
+
+Caldari Navy Antimatter Charge S x1000
+Spike S x1160
+Nanite Repair Paste x50
+Caldari Navy Uranium Charge S x1000
+</details>
+
+<details>
+  <summary>Kirin - Logi (blingy- downgrade A-Type Reps to Scoped if low on ISK)</summary>
+[Kirin, Kirin]
+Damage Control II
+Mark I Compact Capacitor Power Relay
+
+5MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Medium Shield Extender
+Multispectrum Shield Hardener II
+Small Capacitor Booster II
+EM Shield Amplifier II
+
+Small Remote Shield Booster II
+Gistii A-Type Small Remote Shield Booster
+Gistii A-Type Small Remote Shield Booster
+
+Small Core Defense Field Extender II
+Small EM Shield Reinforcer II
+
+Warrior II x1
+
+
+Navy Cap Booster 400 x23
+</details>
+
+<details>
+  <summary>Keres (Main Tackle for the Fleet, really important to have 1)</summary>
+[Keres, Keres]
+
+Damage Control II
+Capacitor Power Relay II
+Capacitor Power Relay II
+
+Warp Scrambler II
+Multispectrum Shield Hardener II
+5MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+Republic Fleet Medium Shield Extender
+
+125mm Gatling AutoCannon II
+Auto Targeting System I
+
+Small Core Defense Field Extender II
+Small EM Shield Reinforcer II
+
+
+
+Warrior SW-300 x2
+
+
+  
 
 
 
