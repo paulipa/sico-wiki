@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:58:53.260Z
+date: 2020-07-16T21:59:26.938Z
 tags: 
 editor: markdown
 ---
@@ -2374,7 +2374,7 @@ Warrior SW-300 x2
 
 <details>
   <summary>Links and Boosh - Stork</summary>
-[Stork, *Simulated Stork Fitting]
+[Stork, Stork]
 
 Damage Control II
 Capacitor Power Relay II
