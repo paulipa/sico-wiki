@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T12:13:43.038Z
+date: 2020-07-16T21:03:13.455Z
 tags: 
 editor: markdown
 ---
@@ -1764,6 +1764,158 @@ Missile Precision Script x1
 Nanite Repair Paste x50
 Caldari Navy Nova Torpedo x1500
 </details>
+
+## Wedge Fleet Doctrine
+Weekly Friday night Thrasher Fleet
+Ships are free and will be supplied at dockup, no need to bring your own
+First 2 fits are mainline (what we want you to fly), Frigates are only for if you can't fly a Thrasher
+<details>
+  <summary>DPS-WEDGE (hard to fit)</summary>
+[Thrasher, DPSWedge]
+Counterbalanced Compact Gyrostabilizer
+Counterbalanced Compact Gyrostabilizer
+
+5MN Quad LiF Restrained Microwarpdrive
+Alumel-Wired Enduring Sensor Booster
+Faint Scoped Warp Disruptor
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+
+Small Polycarbon Engine Housing I
+Small Polycarbon Engine Housing I
+Small Projectile Collision Accelerator I
+
+
+Republic Fleet Depleted Uranium S x300
+Republic Fleet EMP S x300
+Scan Resolution Script x1
+Republic Fleet Phased Plasma S x300
+Republic Fleet Fusion S x300
+
+</details>
+
+<details>
+  <summary> Insta-Wedge (easier to fit) </summary>
+[Thrasher, Instawedge]
+Counterbalanced Compact Gyrostabilizer
+Counterbalanced Compact Gyrostabilizer
+
+5MN Quad LiF Restrained Microwarpdrive
+Alumel-Wired Enduring Sensor Booster
+J5 Enduring Warp Disruptor
+
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+280mm Howitzer Artillery I
+
+Small Polycarbon Engine Housing I
+Small Polycarbon Engine Housing I
+Small Targeting System Subcontroller I
+
+
+
+
+Republic Fleet Depleted Uranium S x300
+Republic Fleet EMP S x300
+Scan Resolution Script x1
+Republic Fleet Phased Plasma S x300
+Republic Fleet Fusion S x300
+
+</details>
+
+<details>
+  <summary> Wedge Punisher </summary>
+[Punisher, WEDGE PUNISHER]
+400mm Rolled Tungsten Compact Plates
+Magnetic Field Stabilizer I
+Multispectrum Coating II
+Multispectrum Coating II
+Damage Control I
+
+Initiated Compact Warp Scrambler
+5MN Microwarpdrive I
+
+Limited Light Neutron Blaster I
+Limited Light Neutron Blaster I
+Limited Light Neutron Blaster I
+Limited Light Neutron Blaster I
+
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+
+
+
+
+Caldari Navy Antimatter Charge S x600
+Antimatter Charge S x1000
+
+</details>
+<details>
+  <summary> Wedge Merlin </summary>
+[Merlin, WEDGE MERLIN]
+Damage Control I
+Magnetic Field Stabilizer I
+Vigor Compact Micro Auxiliary Power Core
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+Fleeting Compact Stasis Webifier
+J5b Enduring Warp Scrambler
+
+Limited Light Ion Blaster I
+Limited Light Ion Blaster I
+Limited Light Ion Blaster I
+
+Small EM Shield Reinforcer I
+Small Polycarbon Engine Housing I
+Small Ancillary Current Router I
+
+
+
+
+Caldari Navy Antimatter Charge S x600
+Antimatter Charge S x1000
+
+</details>
+<details>
+  <summary>Wedge Atron </summary>
+[Atron, WEDGE ATRON]
+Micro Auxiliary Power Core I
+Magnetic Field Stabilizer I
+Damage Control I
+
+Faint Epsilon Scoped Warp Scrambler
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+
+Anode Light Ion Particle Cannon I
+Anode Light Ion Particle Cannon I
+Anode Light Ion Particle Cannon I
+
+Small Polycarbon Engine Housing I
+Small Core Defense Field Extender I
+Small Ancillary Current Router I
+
+
+
+
+Caldari Navy Antimatter Charge S x600
+Antimatter Charge S x1000
+
+</details>
+
+
 
 ## Sov Entosis Sigil
 Entosis ship for toasting sov space
