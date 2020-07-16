@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:59:54.386Z
+date: 2020-07-16T22:01:12.632Z
 tags: 
 editor: markdown
 ---
@@ -2290,7 +2290,7 @@ Republic Fleet Phased Plasma S x500
 
 
 ## Harpy Fleet
-Harpy Fleet with Logi and Support. No good replacement ships for Newbros, as FC make sure to get the numbers you need to undock (minimum 15 Harpies+5 Logi)
+Harpy Fleet with Logi and Support. No good replacement ships for Newbros, as FC make sure to get the numbers you need to undock (minimum 10-15 Harpies+3-5 Logi)
 
 <details>
   <summary> Mainline - Harpy</summary>
