@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-15T01:00:59.123Z
+date: 2020-07-16T12:13:43.038Z
 tags: 
 editor: markdown
 ---
@@ -119,9 +119,9 @@ Power Diagnostic System II
 
 50MN Y-T8 Compact Microwarpdrive
 Large F-S9 Regolith Compact Shield Extender
+Large F-S9 Regolith Compact Shield Extender
 Compact Multispectrum Shield Hardener
 EM Shield Amplifier II
-[Empty Med slot]
 
 Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
