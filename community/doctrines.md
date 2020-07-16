@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:59:26.938Z
+date: 2020-07-16T21:59:54.386Z
 tags: 
 editor: markdown
 ---
@@ -2373,7 +2373,7 @@ Warrior SW-300 x2
 </details>
 
 <details>
-  <summary>Links and Boosh - Stork</summary>
+  <summary>Links and Boosh - Stork (upgrade to T2 links if you can)</summary>
 [Stork, Stork]
 
 Damage Control II
