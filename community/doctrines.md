@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T21:06:05.738Z
+date: 2020-07-16T21:09:25.529Z
 tags: 
 editor: markdown
 ---
@@ -1769,6 +1769,7 @@ Caldari Navy Nova Torpedo x1500
 Weekly Friday night Thrasher Fleet
 Ships are free and will be supplied at dockup, no need to bring your own
 First 2 fits are mainline (what we want you to fly), Frigates are only for if you can't fly a Thrasher
+Maximum of 2-3 Logi in Fleet
 <details>
   <summary>DPS-WEDGE (hard to fit)</summary>
 [Thrasher, DPSWedge]
@@ -1834,6 +1835,37 @@ Republic Fleet Phased Plasma S x300
 Republic Fleet Fusion S x300
 
 </details>
+
+<details>
+  <summary> Logi-Burst (Medium Ancillary) </summary>
+[Burst, Simulated Burst Fitting]
+
+Damage Control II
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+
+5MN Quad LiF Restrained Microwarpdrive
+Small F-RX Compact Capacitor Booster
+Small Shield Extender I
+
+Medium Ancillary Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+
+Small EM Shield Reinforcer I
+Small Thermal Shield Reinforcer I
+Small Ancillary Current Router I
+
+
+
+Warrior I x1
+
+Navy Cap Booster 50 x60
+Navy Cap Booster 400 x14
+
+</details>
+
+
 
 <details>
   <summary> Wedge Punisher </summary>
