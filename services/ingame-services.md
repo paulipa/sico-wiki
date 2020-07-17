@@ -2,12 +2,12 @@
 title: Ingame Services
 description: 
 published: true
-date: 2020-07-09T08:14:34.623Z
+date: 2020-07-17T09:48:48.403Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-## [Asset Deposti](/services/ingame-services/asset-deposit)
+## [Asset Deposit](/services/ingame-services/asset-deposit)
 ## [Citadels](/services/ingame-services/citadels)
 ## [Refining Service](/services/ingame-services/highend-refining)
 ## [Mining Fleets](/services/ingame-services/mining-fleets)
