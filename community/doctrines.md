@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T10:54:25.426Z
+date: 2020-07-17T10:57:33.830Z
 tags: 
 editor: markdown
 ---
@@ -27,3 +27,5 @@ These are the doctrines used by Haunting Deity.
 You may also view the fits in-game by joining in-game channel "HD Doctrines" then heading to the appropriate doctrine from there.
 
 ---
+
+## [Garens Doctrines](/community/doctrines/Garens-Doctrines)
