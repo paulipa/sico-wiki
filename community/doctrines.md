@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T10:57:33.830Z
+date: 2020-07-17T11:01:14.908Z
 tags: 
 editor: markdown
 ---
@@ -28,4 +28,4 @@ You may also view the fits in-game by joining in-game channel "HD Doctrines" the
 
 ---
 
-## [Garens Doctrines](/community/doctrines/Garens-Doctrines)
+## [Garens Doctrines](/community/doctrines/Garens-Corner)
