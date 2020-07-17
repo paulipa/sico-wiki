@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T10:40:27.984Z
+date: 2020-07-17T10:40:37.172Z
 tags: 
 editor: markdown
 ---
@@ -10,6 +10,7 @@ editor: markdown
 
 # Doctrines
 Important note: Throughout these pages you will find the fittings under spoilers. To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
+
 Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
 
 ## [Official Doctrines](/community/doctrines)
