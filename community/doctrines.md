@@ -2,16 +2,13 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-16T22:01:12.632Z
+date: 2020-07-17T10:35:55.880Z
 tags: 
 editor: markdown
 ---
 
 
-# Doctrines
-
-Important note: Throughout this page you will find the fittings under spoilers. To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
-Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
+# SICO Doctrines
 
 ## Ferox Fleet
 
