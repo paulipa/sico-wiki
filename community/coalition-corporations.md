@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-17T14:51:25.615Z
+date: 2020-07-17T14:51:49.516Z
 tags: 
 editor: markdown
 ---
@@ -67,5 +67,5 @@ editor: markdown
 - Russian
 ## [Russian Space Academy [RSAAA]](/community/coalition-corporations/rsaaa)
 - Russian
-## [AOM University [AOM.U]](/community/coalition-corporations/aom.u)
+## [AOM University [AOM.U]](/community/coalition-corporations/aom-u)
 - Chinese
