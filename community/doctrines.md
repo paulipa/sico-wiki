@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T11:02:32.585Z
+date: 2020-07-17T11:04:38.345Z
 tags: 
 editor: markdown
 ---
@@ -30,6 +30,10 @@ You may also view the fits in-game by joining in-game channel "HD Doctrines" the
 
 ## [Garens Corner](/community/doctrines/Garens-Corner)
 
-biggest kent in new eden, trash doctrines dont fly them
+Doctrines used by Garen Willow.
+
+In-game channel for direct fit copies at: "Garens Corner"
+
+Wild mix of Tryhard doctrines, cheap T1's, and Spicy Meme Extravaganza. Feel free to copy pasta for your own fleets!
 
 ---
