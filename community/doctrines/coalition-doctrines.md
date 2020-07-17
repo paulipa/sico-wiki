@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-17T10:37:13.770Z
+date: 2020-07-17T10:42:42.785Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -12,7 +12,9 @@ editor: markdown
 
 ## Ferox Fleet
 
-Primary combat doctrine for important large fights. 
+> Primary combat doctrine for important large fights. 
+{.is-info}
+
 
 This doctrine has proper logi to withstand enemy DPS for a longer duration of time but lacks a bit of DPS compared to the Naga fleet. 
 
