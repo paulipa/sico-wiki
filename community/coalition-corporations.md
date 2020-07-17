@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-17T14:45:49.015Z
+date: 2020-07-17T14:46:49.869Z
 tags: 
 editor: markdown
 ---
@@ -35,6 +35,11 @@ editor: markdown
 - Abyssal Deadspace
 ## Silent Industry [XSINY]
 - Industry
+## Atlantis Industrial Ltd
+- Industry
+## Spectral Incorporated
+- Tight knit
+- Education
 
 # Null Sec
 ## Xa’sar [XASAR]
