@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T10:51:23.987Z
+date: 2020-07-17T10:51:51.411Z
 tags: 
 editor: markdown
 ---
@@ -18,4 +18,7 @@ Official coalition doctrines that are used with all of our programs and imporant
 > Offical doctrines such as the ferox and moa fleet are what we use for all imporant operations
 {.is-success}
 
+---
+
 ## [HD Doctrines](/community/doctrines/HD-Doctrines)
+These are the doctrines used by Haunting Deity.  
