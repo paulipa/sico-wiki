@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-17T14:43:55.410Z
+date: 2020-07-17T14:45:49.015Z
 tags: 
 editor: markdown
 ---
@@ -57,6 +57,10 @@ editor: markdown
 
 # Language Partners
 ## Red Cold Chili Banderlogs Academy [RCCBA]
+- Russian
+## 000 Russian Academy 000 [RUSAC]
+- Russian
+## Russian Space Academy
 - Russian
 ## AOM University [AOM.U]
 - Chinese
