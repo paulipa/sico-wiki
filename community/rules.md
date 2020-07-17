@@ -2,9 +2,9 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-07-07T16:07:26.239Z
+date: 2020-07-17T06:32:35.250Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 The most important goal of the coalition is to create an environment where each different type of player are able to enjoy the game and pursuit the goals they have set for them.
@@ -42,7 +42,7 @@ While we do understand that in the heat of a battle you most often want to smack
 - **You are bint by EVE Online EULA** no matter what you do. EULA includes some pretty basic stuff such as: You may not submit any content to any chat room or other public forum within the Game that is harassing, abusive, threatening, harmful, obscene, libelous or defamatory, encourages conduct that could constitute a criminal offense or give rise to civil liabilities, or is unlawful in any other way, including without limitation the submission of content that infringes on a third-party’s intellectual property rights.
 - **You are prohibited to do personal attacks** on players outside the coalition in terms of communications. You may gank them but always be polite about it!
 - **No toxic behavior** in any situations
-- **All real life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a back of dicks.
+- **All real life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
 
 ## Requirements for all coalition members
 - **Communicate in english** when talking or typing in any of our public or coalition restricted text or voice channels.
