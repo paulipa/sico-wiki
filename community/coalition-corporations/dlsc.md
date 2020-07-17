@@ -2,12 +2,13 @@
 title: Deep Stellar Coalition Enterprises [DLSC]
 description: 
 published: true
-date: 2020-07-17T15:00:28.066Z
+date: 2020-07-17T15:00:49.504Z
 tags: 
 editor: markdown
 ---
 
-Deep Stellar Coalition Enterprises is a sister corporation of Strategic Exploration and Development Corp [SEADC]
+> Deep Stellar Coalition Enterprises is a overflow corporation of Strategic Exploration and Development Corp [SEADC]
+{.is-success}
 
 This corporation has exactly the same services, benefits and requirements as SEADC has and serves as the entry level corporation for SiCO when SEADC is full.
 
