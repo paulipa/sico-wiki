@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T10:52:28.173Z
+date: 2020-07-17T10:54:25.426Z
 tags: 
 editor: markdown
 ---
@@ -23,5 +23,7 @@ Official coalition doctrines that are used with all of our programs and imporant
 ## [HD Doctrines](/community/doctrines/HD-Doctrines)
 
 These are the doctrines used by Haunting Deity.  
+
+You may also view the fits in-game by joining in-game channel "HD Doctrines" then heading to the appropriate doctrine from there.
 
 ---
