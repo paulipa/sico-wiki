@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-17T10:42:01.047Z
+date: 2020-07-17T10:50:30.821Z
 tags: 
 editor: markdown
 ---
@@ -17,3 +17,5 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 Official coalition doctrines that are used with all of our programs and imporant operations. These are the doctrines that serve strategic value for the coalition. Having our members able to fly our coalition doctrines means that our coalition has more punching power when it comes to imporant operations.
 > Offical doctrines such as the ferox and moa fleet are what we use for all imporant operations
 {.is-success}
+
+[HD-Doctrines](/community/doctrines/HD-Doctrines)
