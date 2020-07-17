@@ -2,8 +2,8 @@
 title: Deep Stellar Coalition Enterprises [DLSC]
 description: 
 published: true
-date: 2020-07-17T15:00:49.504Z
-tags: 
+date: 2020-07-17T15:01:53.896Z
+tags: entry corporation, high sec
 editor: markdown
 ---
 
