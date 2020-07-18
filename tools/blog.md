@@ -2,10 +2,28 @@
 title: Blog & Store
 description: 
 published: true
-date: 2020-07-18T05:27:58.440Z
+date: 2020-07-18T05:39:17.757Z
 tags: 
 editor: markdown
 ---
+
+# Blog writers
+As a reporter you are able to write blog posts on the homepages news section. You can write anything from your own journeys to recent events in New Eden, the choise is yours.
+
+When you write content you will label it with a correct category in order for people to know what your post is all about. If no relevant categories are available you are able to create new ones.
+
+## Joining reporter group
+To join the reporter group simply apply to the reporter group on AUTH group section. You will be interviewed via discord so make sure your discord service is active.
+
+## Writing articles
+After you have been approved as a vendor you can start writing your articles.
+1. Navigate to the homepage https://www.silentcoalition.com/ and log in with your main character using the EVE Online SSO login
+1. After you have logged in you will be able to see an admin dashboard. To add a new post click on `new->post`
+1. Add a title and content for your article
+1. Add a featured image to your post from the right hand side bar under the `featured image`. You can use the images we have or upload your own.
+1. Select a category from the categories section.
+1. Add tags for your post if you want. This is just optimal and mainly a SEO thing
+1. No need to touch any other options, simply click on publish to make your post public
 
 # Store vendors
 As a vendor you can manage orders via the SiCO web shop just like any normal orders. The homepage shop is running on woocommerce which is one of the most popular shop platforms out there. Combined with a multiseller addon there can be multiple sellers on the platform.
