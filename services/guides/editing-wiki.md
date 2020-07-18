@@ -2,7 +2,7 @@
 title: Editing Wiki
 description: 
 published: true
-date: 2020-07-14T18:01:09.190Z
+date: 2020-07-18T07:33:50.552Z
 tags: 
 editor: markdown
 ---
@@ -118,6 +118,9 @@ Caldari Navy Tungsten Charge M x1000
 </details>
 
 You can add [doctrines](/community/doctrines) by editing the doctrine page directly. See the curent doctrines for how to structure the fittings.
+
+## Linking to titles
+You can make direct link to the titles in pages. To get the url to the title hover over the title and see the icon that appears on the right side. Copy the URL of this icon by right clicking it. It will look something like this: https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#naga-fleet
 
 # How to edit pages
 You can edit all pages under the `/services` path by pressing on the big blue edit button.
