@@ -2,7 +2,7 @@
 title: Atlantis Industrial Ltd [20AIL]
 description: 
 published: true
-date: 2020-07-18T07:36:55.382Z
+date: 2020-07-18T10:37:03.646Z
 tags: 
 editor: markdown
 ---
@@ -40,8 +40,6 @@ Here are just some of the many things we can offer:
 
  
 
-If your Interested in joining please speak to a Recruiter from the Corp in game
+If your Interested in joining please speak to **Carl Sorensen** in game or via discord https://discord.gg/jrsCz6e
 
-Operations Officer: Leyroy  Jenkinnns
 
-Personnel Officer: toxicmonkey85
