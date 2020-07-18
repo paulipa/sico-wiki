@@ -2,12 +2,17 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-17T14:57:29.508Z
+date: 2020-07-18T07:25:21.526Z
 tags: 
 editor: markdown
 ---
 
 # Entry Corporations
+The following corporations are full members of the coalition and offer an easy entry for all English players. From these entry level corporations you can then advance into more focused and advanced corporations within the coalition.
+
+The entry corporations are open corporations that you can join by simply clicking on the apply to join button. No interview or APIs required!
+
+All of the entry level corporations are fairly similar and have the same services. You can simply pick a corporation that name you like the most!
 ## [Strategic Exploration and Development Corp [SEADC]](/community/coalition-corporations/seadc)
 - High Security Space
 - Entry level
