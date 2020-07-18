@@ -2,9 +2,9 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2020-07-11T12:14:07.752Z
+date: 2020-07-18T07:31:51.415Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 > The Dark Arts are many, varied, ever-changing, and eternal. Fighting them is like fighting a many-headed monster, which, each time a neck is severed, sprouts a head even fiercer and cleverer than before. You are fighting that which is unfixed, mutating, indestructible.
@@ -43,7 +43,7 @@ The following section will explain you how to inject to the required skills to f
 ## Ferox
 1. The first thing that you need to do is to obviously to redeem the free skill points. Open your redeem item windows and redeem the civilian skill point pack! You now have 1 000 000 free skill points that you can inject.
 ![redeem_items.jpg](/redeem_items.jpg =700x)
-1. Open our `Ferox, DPS - Fleet - Starter` fit in the ingame fitting window from the corporation fittings or copy paste it from https://wiki.silentcoalition.com/en/community/doctrines#ferox-fleet
+1. Open our `Ferox, SLTRN (basic)` fit in the ingame fitting window from the corporation fittings or copy paste it from https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#ferox-fleet
 ![simulate_fitting.jpg](/simulate_fitting.jpg =700x)
 1. As you can see you are lacking a lot of skills! Hover over the yellow warning and you can see the skills you are missing. Press on buy all to buy all the skills you are missing (costs is around 5 mil isk). **Ask in the SLTRN discord channel for someone to send you the money if you do not have it!**
 ![ferox_missing_skills.jpg](/ferox_missing_skills.jpg =700x)
@@ -64,7 +64,7 @@ The following section will explain you how to inject to the required skills to f
 ## Osprey
 Next you will need to train for the second doctrine ship which is the logistics Osprey. The process for this is exactly the same as it was for the Ferox.
 
-1. Open the `Osprey, Logi - Fleet - Alpha` fitting in your fitting simulator from corporation fits or from https://wiki.silentcoalition.com/en/community/doctrines#ferox-fleet
+1. Open the `Osprey, Logi - Fleet - Alpha` fitting in your fitting simulator from corporation fits or from https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#ferox-fleet
 ![osprey_missing_skills.jpg](/osprey_missing_skills.jpg =700x)
 1. Again repeat what you did with the Ferox: `Open missing skills window -> Buy missing skills -> Apply skill points` until you can use all the modules and the warning for missing skills is gone.
 ![osprey_competed.jpg](/osprey_competed.jpg)
@@ -72,7 +72,7 @@ Next you will need to train for the second doctrine ship which is the logistics 
 ## Naga
 Next we will be training for the last ship: The Naga. The process is exactly the same so:
 
-1. Open the `Naga, DPS - Fleet - Close Range` fitting in your fitting simulator from corporation fits or from https://wiki.silentcoalition.com/en/community/doctrines#naga-fleet
+1. Open the `Naga, DPS - Fleet - Close Range` fitting in your fitting simulator from corporation fits or from https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#naga-fleet
 1. Again repeat what you did with the Ferox and the Osprey: Open missing skills window -> `Buy missing skills -> Apply skill` points until you can use all the modules and the warning for missing skills is gone.
 ![naga_missing_skills.jpg](/naga_missing_skills.jpg =700x)
 
