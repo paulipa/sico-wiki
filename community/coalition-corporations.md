@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-18T07:25:21.526Z
+date: 2020-07-18T07:45:04.903Z
 tags: 
 editor: markdown
 ---
@@ -45,6 +45,7 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Spectral Incorporated [SPRAL]](/community/coalition-corporations/spral)
 - Tight knit
 - Education
+## [Absolute Order [ABSOD]](/community/coalition-corporations/absod)
 
 # Null Sec
 ## [Xa’sar [XASAR]](/community/coalition-corporations/xasar)
