@@ -2,9 +2,9 @@
 title: Changing Corporations
 description: 
 published: true
-date: 2020-07-07T08:37:32.483Z
+date: 2020-07-18T07:28:22.824Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Changing Corporations
@@ -13,7 +13,7 @@ If you are looking to find a new corporation within the coalition then this is t
 All we care about is that you find a place that fits your personal playstyle.
 
 ## What corporations can i join
-Official SICO corporations are located in here https://www.silentcoalition.com/about-us/
+Official SICO corporations are located in here [coalition-corporations](/community/coalition-corporations)
 
 In order to access the page you will need to log in with EVE SSO.
 
