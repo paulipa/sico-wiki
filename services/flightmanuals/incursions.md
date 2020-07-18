@@ -2,9 +2,9 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-07-09T08:29:31.617Z
+date: 2020-07-18T10:53:39.985Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # SICO Incursions
@@ -14,7 +14,7 @@ editor: undefined
 A: Incursions in eve are high-difficulty group PvE content, with the goal of making ISK. There are several “tiers” of Incursion sites, with varying payouts, required fleet sizes and sites. We run Vanguard sites, which require fleets of 10-12 pilots.
 
 ## Q: What ships can I bring?
-A: Our VG doctrine fits can be found here: https://wiki.silentcoalition.com/en/community/doctrines#incursions-vanguards
+A: Our VG doctrine fits can be found here: https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#incursions-vanguards
 
 ## Q: Can I make changes to my fit?
 A: In short, no. A lot of careful consideration and optimisation has gone into developing our doctrine, and seemingly small changes can lead to a ship that is not fit to fulfil its role and may struggle to survive encounters (or even endanger the fleet!). The obvious exception are direct upgrades, like using T2 guns or faction damage mods.
