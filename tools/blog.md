@@ -2,10 +2,35 @@
 title: Blog & Store
 description: 
 published: true
-date: 2020-07-18T05:39:17.757Z
+date: 2020-07-18T05:45:44.096Z
 tags: 
 editor: markdown
 ---
+
+# Store
+Our homepage includes a store where you can buy different ingame products and services from. Operating the store is like operating any other online store
+
+## Buying from the store
+1. Log in to the site with EVE Online SSO by pressing on the login button.
+1. Go to the shop page and put the items you are looking to buy in your cart. Some of the items may have a price on them.
+1. Once you are done shopping go to the cart and checkout page
+1. Make sure your billing name is exact as your character name. This is automatically pulled from your logged in character name unless you change it
+1. If you want to receive updates about your order via email then enter a valid email address.
+1. Add additional information if needed
+1. Place order
+
+## Paying for your order
+> If your order costs ISK you will need to pay for the order before we will start to process it
+{.is-warning}
+
+After checking out send the same amount of money to corporation called `Silent Coalition Holdings` and add the order number as the reason (ie. #6506).
+
+> You must include the order hashtag
+{.is-warning}
+
+After API pulls your deposit your order status will change to processing.
+
+![how_to_buy_shares-800x299.jpg](/how_to_buy_shares-800x299.jpg =700x)
 
 # Blog writers
 As a reporter you are able to write blog posts on the homepages news section. You can write anything from your own journeys to recent events in New Eden, the choise is yours.
