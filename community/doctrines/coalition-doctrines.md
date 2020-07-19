@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-19T12:10:09.917Z
+date: 2020-07-19T12:54:16.603Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -559,7 +559,7 @@ Small Core Defense Field Extender I
 
 Void S x1740
 Null S x1000
-
+</details>
 
 
 
