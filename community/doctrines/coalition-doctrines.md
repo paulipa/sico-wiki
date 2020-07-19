@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-17T11:19:13.033Z
+date: 2020-07-19T12:10:09.917Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -532,6 +532,36 @@ Warrior I x4
 
 Imperial Navy Multifrequency S x3
 </details>
+
+<details>
+  <summary>T2 Merlin - Only for Returners (Omega)</summary>
+[Merlin, T2 MQP MERLIN]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Damage Control II
+
+5MN Y-T8 Compact Microwarpdrive
+Fleeting Compact Stasis Webifier
+Faint Epsilon Scoped Warp Scrambler
+Small Shield Extender II
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+
+Small Core Defense Field Extender I
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+
+
+
+
+Void S x1740
+Null S x1000
+
+
+
 
 ### Logistics
 <details>
