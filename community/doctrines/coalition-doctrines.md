@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-19T12:54:16.603Z
+date: 2020-07-19T18:23:43.165Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1591,6 +1591,10 @@ Phased Plasma XL x1500
 </details>
 
 ### FAX
+
+> FAX fits are outdated! Do not use!
+{.is-danger}
+
 
 <details>
 <summary>Apostle, Active Apostle Fitting</summary>
