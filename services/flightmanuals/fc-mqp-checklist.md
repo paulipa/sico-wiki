@@ -2,9 +2,9 @@
 title: FC's checklist for MQP fleets
 description: 
 published: true
-date: 2020-07-07T07:20:12.882Z
+date: 2020-07-19T11:57:22.273Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # FC's MQP checklist
@@ -30,11 +30,11 @@ As a fleet commander or a fleet commander trainee you need to setup your systems
 Make sure you have set up Mumble so that you have command channel keys set up. Guide for setting them up is in here https://www.silentcoalition.com/help-center/mumble/#Setting-up-keybinds
 
 ## A pure MQP fleet
-A fleet that is only aimed to complete the parts needed for MQP training is a null sec roaming fleet to provi region. It will go through a few low sec gates into a random null sec pocket.
+A fleet that is only aimed to complete the parts needed for MQP training is a null sec roaming fleet to Curse/Catch region. It will go through a few low sec gates into a random null sec pocket.
 
-Distance to final destination is normally around 15 jumps. The whole fleet will take an hour in total including the training part (20min training 40 min traveling and fighting)
+Distance to final destination is normally around 15 jumps. The whole fleet will take 1-2 hours in total including the training part (one third training and two thirds traveling and fighting)
 
-Current closest null sec entry is in Provi
+Current closest null sec entry is in Curse.
 
 ## Comms
 Select what voice comms you are going to use. In most cases you will be using Discord as it is a bit easier to use. Mumble is used for larger operations or operations where we have multiple fleets out at the sametime.
