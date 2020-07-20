@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-20T05:37:41.639Z
+date: 2020-07-20T05:39:49.300Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1592,6 +1592,7 @@ Phased Plasma XL x1500
 
 ### FAX
 
+Requires: `Inherent Implants 'Squire' Power Grid Management EG-602`
 <details>
 <summary>Apostle, Fleet PVP</summary>
 [Apostle, Fleet PVP]
