@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-20T05:39:49.300Z
+date: 2020-07-20T15:26:13.697Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1485,36 +1485,31 @@ Tracking Speed Script x3
 
 <details>
 <summary>Revelation, Buffer</summary>
-[Revelation, Buffer]
+[Revelation, That Ender's Revelation]
 
 Damage Control II
-25000mm Steel Plates I
-25000mm Steel Plates I
+25000mm Steel Plates II
+25000mm Steel Plates II
+Multispectrum Coating II
+Thermal Armor Hardener II
+Multispectrum Coating II
+EM Armor Hardener II
 Heat Sink II
-Heat Sink II
-Heat Sink II
-Adaptive Nano Plating II
-Adaptive Nano Plating II
 
-Heavy Capacitor Booster II
-Tracking Computer II
-Tracking Computer II
-Heavy Capacitor Booster II
+Capital F-RX Compact Capacitor Booster, Cap Booster 3200
+Tracking Computer II, Optimal Range Script
+Tracking Computer II, Optimal Range Script
+Tracking Computer II, Tracking Speed Script
 
+Capital Infectious Scoped Energy Neutralizer
 Siege Module II
-Dual Giga Pulse Laser II
-Dual Giga Pulse Laser II
-Capital Energy Neutralizer II
-Dual Giga Pulse Laser II
+Dual Giga Pulse Laser II, Scorch XL
+Dual Giga Pulse Laser II, Scorch XL
+Dual Giga Pulse Laser II, Scorch XL
 
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
-
-Cap Booster 3200 x15
-Multifrequency XL x3
-Sanshas Multifrequency XL x6
-Sanshas Standard XL x6
 </details>
 
 <details>
