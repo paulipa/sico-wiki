@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-20T15:34:30.204Z
+date: 2020-07-20T18:26:21.519Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -591,7 +591,7 @@ Warrior I x1
 Navy Cap Booster 400 x15
 </details>
 <details>
-  <summary>Burst - MQP (Alpha)</summary>
+  <summary>Bantam - MQP (Alpha)</summary>
 [Bantam, Bantam - PVP (Alpha Fleet)]
 
 Damage Control I
