@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-20T16:22:23.189Z
+date: 2020-07-20T16:22:43.647Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ Official coalition doctrines that are used with all of our programs and imporant
 
 ---
 
-## [HD-Doctrines](/community/doctrines/HD-Doctrines)
+## [HD Doctrines](/community/doctrines/HD-Doctrines)
 
 These are the doctrines used by Haunting Deity.  
 
