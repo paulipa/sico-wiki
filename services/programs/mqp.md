@@ -2,9 +2,9 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2020-07-11T12:10:29.676Z
+date: 2020-07-20T11:47:55.949Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Member Qualification Program
@@ -70,7 +70,7 @@ MQP fleets have a standard doctrine that will help you getting started with the 
 
 Newbro MQP fits are meant for brand new players who have low skill points. These basic ships are super fast to train for and will allow you to join any MQP fleet. They include both low value DPS ships and logistic ships for you to choose from.
 
-> MQP doctrines are located at https://wiki.silentcoalition.com/en/community/doctrines#mqp-fleet
+> MQP doctrines are located at https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#mqp-fleet
 {.is-info}
 
 ### Coalition Primary Combat Doctrines
