@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-20T15:26:13.697Z
+date: 2020-07-20T15:34:30.204Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1484,8 +1484,8 @@ Tracking Speed Script x3
 ### Dreadnaughts
 
 <details>
-<summary>Revelation, Buffer</summary>
-[Revelation, That Ender's Revelation]
+<summary>Revelation, Fleet PVP</summary>
+[Revelation, Fleet PVP]
 
 Damage Control II
 25000mm Steel Plates II
@@ -1496,7 +1496,7 @@ Multispectrum Coating II
 EM Armor Hardener II
 Heat Sink II
 
-Capital F-RX Compact Capacitor Booster, Cap Booster 3200
+Capital Capacitor Booster II, Cap Booster 3200
 Tracking Computer II, Optimal Range Script
 Tracking Computer II, Optimal Range Script
 Tracking Computer II, Tracking Speed Script
@@ -1510,6 +1510,16 @@ Dual Giga Pulse Laser II, Scorch XL
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
+
+
+Conflagration XL x3
+Scorch XL x3
+Cap Booster 3200 x40
+Nanite Repair Paste x100
+Optimal Range Script x3
+Tracking Speed Script x3
+Helium Isotopes x50000
+Strontium Clathrates x500
 </details>
 
 <details>
