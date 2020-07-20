@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-19T18:23:43.165Z
+date: 2020-07-20T05:37:41.639Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1592,83 +1592,149 @@ Phased Plasma XL x1500
 
 ### FAX
 
-> FAX fits are outdated! Do not use!
-{.is-danger}
-
-
 <details>
-<summary>Apostle, Active Apostle Fitting</summary>
-[Apostle, Active Apostle Fitting]
+<summary>Apostle, Fleet PVP</summary>
+[Apostle, Fleet PVP]
 
-Damage Control II
-Armor Explosive Hardener II
-Armor Kinetic Hardener II
-Armor Thermal Hardener II
-Energized Adaptive Nano Membrane II
-Armor EM Hardener II
-Capital Armor Repairer I
+Capital I-a Enduring Armor Repairer
+Capital I-a Enduring Armor Repairer
+Imperial Navy Energized Adaptive Nano Membrane
+Imperial Navy Energized Adaptive Nano Membrane
+Kinetic Armor Hardener II
+Thermal Armor Hardener II
+Explosive Armor Hardener II
 
-Heavy Capacitor Booster II
-Capital Capacitor Booster I
-Capital Capacitor Booster I
-Capital Capacitor Booster I
+Capital Capacitor Booster II
+Cap Recharger II
+Cap Recharger II
+Capital Cap Battery II
 
-Capital Remote Armor Repairer I
-Capital Remote Armor Repairer I
-Capital Remote Armor Repairer I
-Capital Remote Capacitor Transmitter I
-Armor Command Burst II
 Triage Module II
+Capital I-ax Enduring Remote Armor Repairer
+Capital I-ax Enduring Remote Armor Repairer
+Capital Remote Capacitor Transmitter I
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
 
-Capital Ancillary Current Router I
-Capital Ancillary Current Router I
 Capital Auxiliary Nano Pump I
+Capital Auxiliary Nano Pump I
+Capital Capacitor Control Circuit I
 
-Heavy Armor Maintenance Bot II x15
-Heavy Hull Maintenance Bot II x5
-Heavy Shield Maintenance Bot II x2
-Hornet EC-300 x10
-Armor Energizing Charge x300
-Armor Reinforcement Charge x600
-Rapid Repair Charge x600
-Cap Booster 3200 x29
+
+Heavy Armor Maintenance Bot I x5
+Heavy Hull Maintenance Bot I x5
+Heavy Shield Maintenance Bot I x5
+Hornet EC-300 x5
+Medium Armor Maintenance Bot I x5
+Medium Hull Maintenance Bot I x5
+Medium Shield Maintenance Bot I x5
+
+
+Cap Booster 3200 x10
+Nanite Repair Paste x500
+Standard Exile Booster x1
+Standard Mindflood Booster x1
+Inherent Implants 'Squire' Power Grid Management EG-602 x1
+Prototype Cloaking Device I x1
+Inertial Stabilizers II x2
+500MN Quad LiF Restrained Microwarpdrive x1
+Warp Core Stabilizer I x7
 </details>
 
 <details>
-<summary>Ninazu, Active Ninazu</summary>
-[Ninazu, Active Ninazu]
+<summary>Ninazu, Fleet PVP</summary>
+[Ninazu, Fleet PVP]
 
-Capital Armor Repairer I
-Capital Armor Repairer I
-Adaptive Nano Plating II
-Adaptive Nano Plating II
-Damage Control II
+Capital I-a Enduring Armor Repairer
+Capital I-a Enduring Armor Repairer
 Reactive Armor Hardener
+Damage Control II
+Imperial Navy Energized Adaptive Nano Membrane
+Imperial Navy Energized Adaptive Nano Membrane
 
-Heavy Capacitor Booster II
-Heavy Capacitor Booster II
-Heavy Capacitor Booster II
-Heavy Capacitor Booster II
-Heavy Capacitor Booster II
+Capital Capacitor Booster II
+Capital Cap Battery II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
 
-Capital Remote Armor Repairer I
-Capital Remote Armor Repairer I
-Capital Remote Armor Repairer I
-Capital Remote Capacitor Transmitter I
 Triage Module II
-Armor Command Burst II
+Capital I-ax Enduring Remote Armor Repairer
+Capital I-ax Enduring Remote Armor Repairer
+Capital Remote Capacitor Transmitter I
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
 
-Capital Anti-Explosive Pump I
+Capital Ancillary Current Router I
 Capital Auxiliary Nano Pump I
-Capital Auxiliary Nano Pump I
+Capital Capacitor Control Circuit I
 
-Hammerhead II x10
-Heavy Shield Maintenance Bot II x5
-Hobgoblin II x10
+
+Heavy Armor Maintenance Bot I x5
+Heavy Hull Maintenance Bot I x5
+Heavy Shield Maintenance Bot I x5
 Hornet EC-300 x5
-Ogre II x5
-Warrior II x5
-Wasp II x5
+Medium Armor Maintenance Bot I x5
+Medium Hull Maintenance Bot I x5
+Medium Shield Maintenance Bot I x5
+
+
+Cap Booster 3200 x10
+Nanite Repair Paste x500
+Agency 'Hardshell' TB5 Dose II x1
+Standard Exile Booster x1
+Standard Mindflood Booster x1
+Prototype Cloaking Device I x1
+Inertial Stabilizers II x2
+500MN Quad LiF Restrained Microwarpdrive x1
+Warp Core Stabilizer I x6
+</details>
+
+<details>
+<summary>Ninazu, Fleet PVP</summary>
+[Lif, Fleet PVP]
+
+Damage Control II
+True Sansha Power Diagnostic System
+True Sansha Power Diagnostic System
+True Sansha Power Diagnostic System
+True Sansha Power Diagnostic System
+
+Capital Clarity Ward Enduring Shield Booster
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+Capital Capacitor Booster II
+Shield Boost Amplifier II
+Capital Cap Battery II
+
+Triage Module II
+Capital I-ax Enduring Remote Armor Repairer
+Capital I-ax Enduring Remote Armor Repairer
+Capital Inductive Compact Remote Capacitor Transmitter
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
+
+Capital EM Shield Reinforcer II
+Capital EM Shield Reinforcer II
+Capital Thermal Shield Reinforcer II
+
+Heavy Armor Maintenance Bot I x5
+Heavy Hull Maintenance Bot I x5
+Heavy Shield Maintenance Bot I x5
+Hornet EC-300 x5
+Medium Armor Maintenance Bot I x5
+Medium Hull Maintenance Bot I x5
+Medium Shield Maintenance Bot I x5
+
+Cap Booster 3200 x10
+Nanite Repair Paste x500
+Agency 'Hardshell' TB5 Dose II x1
+Standard Blue Pill Booster x1
+Standard Mindflood Booster x1
+Prototype Cloaking Device I x1
+Inertial Stabilizers II x2
+500MN Quad LiF Restrained Microwarpdrive x1
+Warp Core Stabilizer I x5
 </details>
 
 ## Bombers
