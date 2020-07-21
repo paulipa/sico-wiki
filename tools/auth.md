@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-07-21T08:51:21.812Z
+date: 2020-07-21T08:53:57.658Z
 tags: 
 editor: markdown
 ---
@@ -39,7 +39,7 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 ## Adding alts
 > Do not create new accounts for alt characters. All alts are added under your main account.
 {.is-warning}
-1. To add alts under your main so that their activity are counted as activity for your main press the `add character` button on AUTH dashboard.
+1. To add alts under your main so that their activity are counted as activity for your main press the [add character](https://auth.silentcoalition.com/account/characters/add/) button on AUTH dashboard. This will link your alts to your main character.
 
 ## Joining Groups
 The coalition has a lot of different types of players with different goals in EVE. Since we do not want to spam you with any content you are not interested in we have created special interest groups, SIGs
