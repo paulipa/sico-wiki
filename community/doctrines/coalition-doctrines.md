@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-20T18:26:21.519Z
+date: 2020-07-21T16:00:27.154Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -177,6 +177,32 @@ Republic Fleet Phased Plasma M x1000
 Active Shielding Charge x300
 Shield Extension Charge x300
 Shield Harmonizing Charge x300
+</details>
+
+### Tackle
+<details>
+  <summary>Merlin - Scram Merlin</summary>
+[Merlin, Merlin - Scram Merlin]
+
+Damage Control I
+Magnetic Field Stabilizer I
+Micro Auxiliary Power Core I
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+X5 Enduring Stasis Webifier
+Warp Scrambler I
+
+Anode Light Electron Particle Cannon I
+Anode Light Electron Particle Cannon I
+Anode Light Electron Particle Cannon I
+
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+Small Auxiliary Thrusters I
+
+
+Caldari Navy Antimatter Charge S x1000 
 </details>
 
 ## Naga Fleet
