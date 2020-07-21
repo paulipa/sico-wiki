@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2020-07-18T07:31:51.415Z
+date: 2020-07-21T08:45:50.647Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,8 @@ The free SP you get is enough for you to inject to the entry version of our prim
 1. Next you want to create a caldari character.
 1. Since we want to have a tiny bit or RP in this corporation please pick a Harry Potter series themed name. You can create variations of the names if the name you are looking for is not available but try to keep it somehow related. This way when our horde of wizards enters locals space people will know shit is going down! You can use this list for help https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters
 1. Make an ingame application to the Defence Against the Dark Arts [SLTRN] corporation
+1. Apply to the `Defence Against the Dark Arts Wizzard` on [AUTH groups](https://auth.silentcoalition.com/groups/). You will need to do this to gain access to the SLTRN channel on discord.
+7. Link your SLTRN alt with your main character by pressing on the [add character button](https://auth.silentcoalition.com/account/characters/add/) on AUTH dashboard
 
 You have now created your new SLTRN character! Next we will be injecting the needed skills with the free SP we got from the buddy invite
 
