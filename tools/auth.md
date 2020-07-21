@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-07-21T13:34:56.982Z
+date: 2020-07-21T13:36:10.631Z
 tags: 
 editor: markdown
 ---
@@ -202,6 +202,10 @@ Coalition aims to keep pings to minimum so that in case we have an actual impora
 	1. For stratop and CTA fleets use `@here` pings. We want to keep these to minimum
   	2. For every other fleet please pick the correct SIG group from the drop down window on the formatter.
 
+### Pre Pings
+For imporant operations you can create a pre ping by ticking the pre ping box on the formatter and selecting the channel to be PRE pings channel `#operations`. In here you can include more details about your fleet.
+
+Do not create any pings and use the `no ping` option for pre fleets unles it is a CTA fleet!
 
 
 
