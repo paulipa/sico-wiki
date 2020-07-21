@@ -2,9 +2,9 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-07-11T10:02:55.054Z
+date: 2020-07-21T08:51:21.812Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # What is AUTH
@@ -17,7 +17,7 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 > Using SSO login is perfectly safe. You will be logging in on an official EVE Online page and the page will then let our system know that you are who you claim to be. No account information is shared to us.
 {.is-success}
 
-> Our AUTH only requires a public scope that provides us the same information as viewing your profile ingame does.
+> Our AUTH only requires a public scope that provides us the same information as viewing your profile ingame does. We can't see any of your personal information.
 {.is-info}
 
 # Registering On AUTH
