@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-07-21T08:53:57.658Z
+date: 2020-07-21T13:34:56.982Z
 tags: 
 editor: markdown
 ---
@@ -187,18 +187,21 @@ You are able to pre schedule fleets and add them to our fleet board. The fleet b
 1. Click on the create fleet button
 1. Fill in all needed information
 
-## Fleet pings
-You are able to send fleet pings to the #fleet-pings channel on our discord via https://auth.silentcoalition.com/discordpingformatter/
+## Discord Fleet Pings
+In order to send out a fleet ping on discord please use the ping formatter found on auth https://auth.silentcoalition.com/discordpingformatter/
 
-Roles required for sending pings: CEO, Director, Fleet commander or Junior Fleet Commander
+Coalition aims to keep pings to minimum so that in case we have an actual imporant operation people will pay attention to the pings.
 
-> Never ping @everyone unless the operation is a CTA level operation
+> Please stick to the ping rules as bellow
 {.is-warning}
 
-### To send a ping
-When your fleet goes up you can send an `@here` ping with the tool. Fill in all the needed information in the fields.
+### Ping rules
+1. Schedule fleets via https://auth.silentcoalition.com/optimer/. All fleets scheduled in here will automatically be posted in the `#operations` channel on discord. 
+1. 30 minutes prior to the fleet timer there will be an automatic notification again on the `#operations` channel
+1. When your fleet goes up ping it at the `#fleet-pings` channel with the formatter.
+	1. For stratop and CTA fleets use `@here` pings. We want to keep these to minimum
+  	2. For every other fleet please pick the correct SIG group from the drop down window on the formatter.
 
-If you want to send pre fleet pings only use the `Special Interest` groups to ping them
 
 
 
