@@ -2,7 +2,7 @@
 title: Loud Crew [LOUCR]
 description: 
 published: true
-date: 2020-07-21T15:31:35.738Z
+date: 2020-07-21T16:43:59.003Z
 tags: 
 editor: markdown
 ---
