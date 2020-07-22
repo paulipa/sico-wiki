@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-22T06:13:47.619Z
+date: 2020-07-22T15:10:58.206Z
 tags: 
 editor: markdown
 ---
