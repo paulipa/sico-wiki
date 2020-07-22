@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-18T07:45:04.903Z
+date: 2020-07-22T06:13:47.619Z
 tags: 
 editor: markdown
 ---
@@ -62,10 +62,12 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Useless Idea [US3]](/community/coalition-corporations/us3)
 - Wormholes
 
-# Nomads
+# Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
 - WHAT DO YOU GUYS  EVEN DO?!?!?
-
+## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
+- Triglavian Invasions
+- PRO Triglavian
 # Language Partners
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
 - Russian
