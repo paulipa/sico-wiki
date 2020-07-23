@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-22T15:10:58.206Z
+date: 2020-07-23T06:34:46.697Z
 tags: 
 editor: markdown
 ---
@@ -53,6 +53,7 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
 - Industry
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
+- Industry
 - PvE
 
 # Wormholes
