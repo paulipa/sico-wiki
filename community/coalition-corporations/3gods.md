@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: 
 published: true
-date: 2020-07-23T06:42:00.648Z
+date: 2020-07-23T06:50:13.843Z
 tags: 
 editor: markdown
 ---
@@ -44,3 +44,14 @@ While many of the corporations within the Silent Coalition have Doctrines that a
 1. $ Profit $
 
 There is always something for everyone to enjoy. So let’s go forth and dominate New Eden for fun and profit!
+
+## For more information please contact one of the following:
+**US and non-EU Timezones:**
+- Jafner, co-CEO
+- Xanos Ragnarok, Director
+- Corinth Rivelion, Recruiter
+- Mace Caderu, Recruiter
+
+**EU Timezones:**
+- Junto Kast, co-CEO
+- Liesgen, Director
