@@ -2,12 +2,14 @@
 title: Game Of Drones [3GODS]
 description: 
 published: true
-date: 2020-07-23T06:51:05.081Z
+date: 2020-07-23T16:38:53.537Z
 tags: 
 editor: markdown
 ---
 
 Hello from Game of Drones!
+
+![3gods_logo.png](/3gods_logo.png)
 # Who are we, you ask?
 
 Game of Drones is a Nullsec Mining, Industrial and Planetary Interaction specialized Corporation within the Silent Coalition and Null Sec. With many of us enjoying the carebear lifestyle but with the options to delve into bigger things, such as PVP.
