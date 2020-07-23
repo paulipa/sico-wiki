@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-07-17T06:32:35.250Z
+date: 2020-07-23T14:43:47.674Z
 tags: 
 editor: markdown
 ---
@@ -113,12 +113,13 @@ You are able to find a list of all of our corporations in here https://www.silen
 {.is-warning}
 
 # Chain of command
-**The coalition is led by the corporation CEOs**, guided by the coalition board of directors. While each full member corporation has 100% autonomy over their own corporation it is in all of our interests to play the game together and seek to help out each other’s as much as possible.
+**The coalition leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our coalition of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and programs on the general level of the coalition are decided together and stated on this wiki.
 
-**In events of breaking any rules set for the coalition or for the corporations** you are bound to listen and obey the commands given to you from players that outrank you. Each of the players holding coalition roles are well trained and trusted members of the coalition that are trying to help moderate, oversee and guide all players.
+**Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve coalition rule violations.
+
+**In events of member rule violations** you are bound to listen and obey the commands given to you from players that outrank you. Each of the players holding coalition roles are well trained and trusted members of the coalition that are trying to help moderate, oversee and guide all players.
 
 The chain of command from top to down for the current coalition roles are:
-- Coalition Board Of Directors
 - CEO
 - Wing Director
 - Diplomats
