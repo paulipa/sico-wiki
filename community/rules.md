@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-07-23T14:43:47.674Z
+date: 2020-07-23T14:51:21.980Z
 tags: 
 editor: markdown
 ---
@@ -113,11 +113,13 @@ You are able to find a list of all of our corporations in here https://www.silen
 {.is-warning}
 
 # Chain of command
-**The coalition leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our coalition of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and programs on the general level of the coalition are decided together and stated on this wiki.
+**The coalition leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our coalition of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and guidelines on the general level of the coalition are decided together and stated on this wiki. 
 
-**Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve coalition rule violations.
+Players holding these roles are expected to behave with dignity and follow the coalition rules and guidelines in all situations, even if it would fight against their personal beliefs. A level of professionalism is expected from these players when acting outside their own corporation channels.
 
-**In events of member rule violations** you are bound to listen and obey the commands given to you from players that outrank you. Each of the players holding coalition roles are well trained and trusted members of the coalition that are trying to help moderate, oversee and guide all players.
+**Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve coalition rule or guideline violations.
+
+**Players with these roles have the authority over you when it comes to coalition rule violations**. You are bound to listen and follow their orders in such matters.
 
 The chain of command from top to down for the current coalition roles are:
 - CEO
