@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-07-23T14:56:40.890Z
+date: 2020-07-23T14:59:33.156Z
 tags: 
 editor: markdown
 ---
@@ -119,6 +119,8 @@ You are able to find a list of all of our corporations in here https://www.silen
 Players holding these roles are expected to behave with dignity and follow the coalition rules and guidelines in all situations, even if it would fight against their personal beliefs. A level of professionalism is expected from these players when acting outside their own corporation channels.
 
 **Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve coalition rule or guideline violations.
+
+**These players are expected to use the tools at their hands by keeping the previous sections in mind**. This includes matters of removing content, messages and pages made by other players unless they are direct violations of the coalition rules.
 
 **Players with these roles have the authority over you when it comes to coalition rule violations**. You are bound to listen and follow their orders in such matters.
 
