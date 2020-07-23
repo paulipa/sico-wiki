@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: 
 published: true
-date: 2020-07-23T06:50:13.843Z
+date: 2020-07-23T06:51:05.081Z
 tags: 
 editor: markdown
 ---
@@ -28,11 +28,11 @@ Our members enjoy taking on big projects such as Capital, Sub-Capital production
 
 In order to become a part of Game of Drones, you will need to fulfill some basic requirements. Though we are an entry-level corp, null-sec is a harsh and unforgiving place. These requirements are here for you to be able to make the most of your time in Null Sec
 
-A) Have been within any of Silent Coalition’s corporations for at least 30 days, or Previously have lived in Null Sec for more than 60 days.
-B) You will need to have at least 3.5 million skill points and be able to at least fly a fit procurer or an entry level ratting ship. This will also mean that you will need to be Omega. Though it is not required, some basic skills into PVP ships and accompanying fittings will be a big plus.
-C) Be willing to work as a team, while we generally let people pursue the activities that interest them the most, please be willing to work towards a common goal within the corporation. Such as; Mining ores if we need more minerals or Setting up Planetary if a big job requires it.
-D) In order to keep both the corp and our alliance safe, we review incoming members. This does not mean that if you have previously been part of another big null bloc that we will refuse you. We just want to know any pertinent information so that we are aware of the situation as it stands so that we may keep our corp a fun place for all.
-E) You Will be required to auth with WinterCo. No Exceptions.
+- A) Have been within any of Silent Coalition’s corporations for at least 30 days, or Previously have lived in Null Sec for more than 60 days.
+- B) You will need to have at least 3.5 million skill points and be able to at least fly a fit procurer or an entry level ratting ship. This will also mean that you will need to be Omega. Though it is not required, some basic skills into PVP ships and accompanying fittings will be a big plus.
+- C) Be willing to work as a team, while we generally let people pursue the activities that interest them the most, please be willing to work towards a common goal within the corporation. Such as; Mining ores if we need more minerals or Setting up Planetary if a big job requires it.
+- D) In order to keep both the corp and our alliance safe, we review incoming members. This does not mean that if you have previously been part of another big null bloc that we will refuse you. We just want to know any pertinent information so that we are aware of the situation as it stands so that we may keep our corp a fun place for all.
+- E) You Will be required to auth with WinterCo. No Exceptions.
 
 While many of the corporations within the Silent Coalition have Doctrines that are to be used within PVP fleets, Game of Drones does not require them. Instead, for Mining fleets, we provide you with an optional setup to help you get started building your mining ship. Through our alliance, we do have some PVP/Defense doctrines that are highly suggested that you be able to fly if you wish to help defend our home or participate in ongoing wars abroad. We also expect you to actively take part in relaying intel to help keep our fellow players safe while operating within Null Sec.
 
