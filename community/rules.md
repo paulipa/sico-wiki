@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-07-23T14:51:21.980Z
+date: 2020-07-23T14:56:40.890Z
 tags: 
 editor: markdown
 ---
@@ -112,9 +112,10 @@ You are able to find a list of all of our corporations in here https://www.silen
 > Corporations are not allowed to poach members from other corporations. Make your corporations attractive so that people want to join you to get their hands on the content you are creating for them!
 {.is-warning}
 
-# Chain of command
+# Leadership
 **The coalition leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our coalition of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and guidelines on the general level of the coalition are decided together and stated on this wiki. 
 
+## Expectations and capabilities
 Players holding these roles are expected to behave with dignity and follow the coalition rules and guidelines in all situations, even if it would fight against their personal beliefs. A level of professionalism is expected from these players when acting outside their own corporation channels.
 
 **Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve coalition rule or guideline violations.
