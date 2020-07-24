@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-07-18T05:15:52.803Z
+date: 2020-07-24T20:21:45.682Z
 tags: 
 editor: markdown
 ---
@@ -30,5 +30,11 @@ What we need from you:
 -Remembering that RL comes before a video game.
 
 If this interests you feel free to join our discord https://discord.gg/fA6KTYk
+
+Points of contact
+tehnube CEO
+Cresenne jaTerba XO
+Voice intheclouds XO
+Ezekiel Ezreal XO
 > Due to the war with the imperium recruitment is currently closed please check back after the war.  
 {.is-warning}
