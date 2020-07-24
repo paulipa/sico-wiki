@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-07-23T06:34:46.697Z
+date: 2020-07-24T16:46:23.727Z
 tags: 
 editor: markdown
 ---
@@ -61,7 +61,9 @@ All of the entry level corporations are fairly similar and have the same service
 - Wormholes
 - Hardcore
 ## [Useless Idea [US3]](/community/coalition-corporations/us3)
+- Polish corporation
 - Wormholes
+- PvP focused
 
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
