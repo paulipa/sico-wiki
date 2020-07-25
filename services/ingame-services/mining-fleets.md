@@ -2,9 +2,9 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2020-07-07T06:15:10.941Z
+date: 2020-07-25T09:14:02.828Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Mining Fleets
@@ -163,6 +163,15 @@ To generate the SRP link you need to have the mining booster role. See the guide
 This way all players who wish to mine always know what fleet to join and what to do when in the fleet!
 
 Once you are about to close down the fleet or if the fleet has been online for a good while (around 1 hour) you should give the members some FAT points.
+
+# Coalition fundraising fleets
+Any player with the mining booster role is able to raise coalition fund raising fleets. The income from these fleets will be used to support other coalition programs such as the capital ship program.
+
+To raise a fleet:
+1. Schedule a fleet via the AUTH fleet operations section. Guide located in here https://wiki.silentcoalition.com/en/tools/auth#scheduling-fleets
+1. Once the fleet goes live ping the mining SIG with the ping tool https://wiki.silentcoalition.com/en/tools/auth#discord-fleet-pings
+1. Dedicate a hauler and have it gather all the ores
+1. Contract the ores over via buyback using 100% donation level
 
 
 
