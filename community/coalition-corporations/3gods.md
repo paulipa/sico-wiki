@@ -1,15 +1,15 @@
 ---
 title: Game Of Drones [3GODS]
-description: 
+description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2020-07-23T16:38:53.537Z
+date: 2020-07-25T22:14:31.653Z
 tags: 
 editor: markdown
 ---
 
 Hello from Game of Drones!
 
-![3gods_logo.png](/3gods_logo.png)
+![game_of_drones_splash.png](/game_of_drones_splash.png)
 # Who are we, you ask?
 
 Game of Drones is a Nullsec Mining, Industrial and Planetary Interaction specialized Corporation within the Silent Coalition and Null Sec. With many of us enjoying the carebear lifestyle but with the options to delve into bigger things, such as PVP.
@@ -25,6 +25,8 @@ Currently, we are living in Nullsec space under Fraternity control. The region i
 Game of Drones boasts a massive collection of over 1000 Blueprint Originals that members have access to use and make their own copies. We also have a player curated general store that is available for all corp members to use. There are two market hubs only a few jumps out of our staging system, that are stocked with hundreds of items, making for a great place to trade.
 
 Our members enjoy taking on big projects such as Capital, Sub-Capital production, and operating as a frontline wartime supplier. Plus smaller projects such as; stocking markets with needed items and building fuel for allied starbases so there will always be something for you to do. Within our area of space, there are many choices open to you beyond just mining and industry. Thanks to our alliance and association to WinterCo. we have access to bigger fleets aimed at PVP and PvE such as roaming, WH day trips and more. We also have some active and helpful intel channels, these are here to help keep you safe from threats such as roaming groups and gankers while you are playing in Null Sec space.
+
+![3gods_satation_cropped.png](/3gods_satation_cropped.png)
 
 ## What we require of you.
 
@@ -57,3 +59,14 @@ There is always something for everyone to enjoy. So let’s go forth and dominat
 **EU Timezones:**
 - Junto Kast, co-CEO
 - Liesgen, Director
+
+
+<table width=512>
+<tr>
+  <td>Jafner, co-CEO</td><td></td><td>Junto Kast, co-CEO</td>
+</tr>
+</table>
+
+![jafner_311364944_256.jpg](/jafner_311364944_256.jpg)  ![junto_256.jpg](/junto_256.jpg) 
+
+
