@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T15:07:15.813Z
+date: 2020-07-26T15:17:03.364Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1587,8 +1587,8 @@ Scourge XL Torpedo x2000
 </details>
 
 <details>
-<summary>Naglfar, Buffer Naglfar</summary>
-[Naglfar, Buffer Naglfar]
+<summary>Naglfar, Fleet PvP</summary>
+[Naglfar, Fleet PvP]
 
 Damage Control II
 Gyrostabilizer II
@@ -1598,28 +1598,27 @@ Tracking Enhancer II
 Tracking Enhancer II
 
 Multispectrum Shield Hardener II
-Capital Shield Extender I
-Heavy Capacitor Booster II
-Anti-EM Shield Hardener II
-Capital Shield Extender I
 Multispectrum Shield Hardener II
+Pithum C-Type EM Shield Amplifier
+Pithum C-Type Thermal Shield Amplifier
+Capital Shield Booster I
+Capital Capacitor Booster I, Navy Cap Booster 3200
 
-Hexa 2500mm Repeating Cannon I
-Capital Energy Neutralizer I
-Hexa 2500mm Repeating Cannon I
+Capital Infectious Scoped Energy Neutralizer
 Siege Module II
-Hexa 2500mm Repeating Cannon I
+Scout Scoped Hexa 2500mm Repeating Cannon
+Scout Scoped Hexa 2500mm Repeating Cannon
+Scout Scoped Hexa 2500mm Repeating Cannon
 
 Capital Core Defense Field Extender I
 Capital Core Defense Field Extender I
 Capital Core Defense Field Extender I
 
-Cap Booster 3200 x12
-Arch Angel Depleted Uranium XL x1500
-Arch Angel EMP XL x1500
-Arch Angel Fusion XL x1500
-Arch Angel Phased Plasma XL x1500
-Phased Plasma XL x1500
+
+Cap Booster 3200 x16
+Arch Angel EMP XL x1000
+Arch Angel Fusion XL x1000
+Arch Angel Phased Plasma XL x1000
 </details>
 
 ### FAX
