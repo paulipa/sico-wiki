@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T16:42:59.379Z
+date: 2020-07-26T16:44:34.990Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1298,6 +1298,7 @@ Warrior I x4
 Antimatter Charge S x500
 Core Scanner Probe I x16
 </details>
+
 <details>
 <summary>Heron - Exploration (Alpha)</summary>
 [Heron, Heron - Exploration (Alpha)]
@@ -1328,6 +1329,65 @@ Antimatter Charge S x1000
 Core Scanner Probe I x16
 </details>
 
+Gallente
+<details>
+<summary>Imicus - Exploration (Omega)</summary>
+[Imicus, Imicus - Exploration (Omega)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Inertial Stabilizers
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Type-E Enduring Cargo Scanner
+
+Core Probe Launcher I
+Prototype Cloaking Device I
+Limited Light Electron Blaster I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x4
+Warrior I x4
+
+
+Antimatter Charge S x500
+Core Scanner Probe I x16
+</details>
+
+<details>
+<summary>Imicus - Exploration (Alpha)</summary>
+[Imicus, Imicus - Exploration (Alpha)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Inertial Stabilizers
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Type-E Enduring Cargo Scanner
+
+Core Probe Launcher I
+Limited Light Electron Blaster I
+[Empty High slot]
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x4
+Warrior I x4
+
+
+Antimatter Charge S x500
+Core Scanner Probe I x16
 </details>
 
 ## WH Daytrip
