@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-21T16:00:27.154Z
+date: 2020-07-26T15:07:15.813Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1510,42 +1510,43 @@ Tracking Speed Script x3
 ### Dreadnaughts
 
 <details>
-<summary>Revelation, Fleet PVP</summary>
-[Revelation, Fleet PVP]
+<summary>Revelation, Fleet PvP</summary>
+[Revelation, Fleet PvP]
 
+Capital Armor Repairer I
+25000mm Steel Plates I
 Damage Control II
-25000mm Steel Plates II
-25000mm Steel Plates II
-Multispectrum Coating II
-Thermal Armor Hardener II
-Multispectrum Coating II
-EM Armor Hardener II
+Reactive Armor Hardener
+True Sansha Multispectrum Coating
+True Sansha Multispectrum Coating
+Heat Sink II
 Heat Sink II
 
-Capital Capacitor Booster II, Cap Booster 3200
-Tracking Computer II, Optimal Range Script
-Tracking Computer II, Optimal Range Script
-Tracking Computer II, Tracking Speed Script
+Capital Capacitor Booster I
+Tracking Computer II
+Tracking Computer II
+Tracking Computer II
 
-Capital Infectious Scoped Energy Neutralizer
+Capital Energy Neutralizer I
 Siege Module II
-Dual Giga Pulse Laser II, Scorch XL
-Dual Giga Pulse Laser II, Scorch XL
-Dual Giga Pulse Laser II, Scorch XL
+Dual Giga Pulse Laser I
+Dual Giga Pulse Laser I
+Dual Giga Pulse Laser I
 
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
 
-
-Conflagration XL x3
-Scorch XL x3
-Cap Booster 3200 x40
+Cap Booster 3200 x16
+Gamma XL x3
+Microwave XL x3
+Sanshas Multifrequency XL x3
+Sanshas Radio XL x3
+Sanshas Standard XL x3
+Standard XL x3
 Nanite Repair Paste x100
 Optimal Range Script x3
 Tracking Speed Script x3
-Helium Isotopes x50000
-Strontium Clathrates x500
 </details>
 
 <details>
