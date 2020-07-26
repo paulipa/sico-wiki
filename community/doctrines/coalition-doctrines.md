@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T15:21:40.436Z
+date: 2020-07-26T16:42:59.379Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1265,6 +1265,69 @@ Small Anti-EM Screen Reinforcer I
 Small Anti-Thermal Screen Reinforcer I
 
 Republic Fleet EMP S x1500
+</details>
+
+## Exploration Fits
+Caldari
+<details>
+<summary>Heron - Exploration (Omega)</summary>
+[Heron, Heron - Exploration (Omega)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+
+5MN Quad LiF Restrained Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Type-E Enduring Cargo Scanner
+Scan Pinpointing Array I
+
+Core Probe Launcher I
+Prototype Cloaking Device I
+Limited Light Ion Blaster I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x3
+Warrior I x4
+
+
+Antimatter Charge S x500
+Core Scanner Probe I x16
+</details>
+<details>
+<summary>Heron - Exploration (Alpha)</summary>
+[Heron, Heron - Exploration (Alpha)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Type-E Enduring Cargo Scanner
+Scan Rangefinding Array I
+
+Core Probe Launcher I
+Limited Light Electron Blaster I
+Limited Light Electron Blaster I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x3
+Warrior I x4
+
+
+Antimatter Charge S x1000
+Core Scanner Probe I x16
+</details>
+
 </details>
 
 ## WH Daytrip
