@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T15:17:03.364Z
+date: 2020-07-26T15:20:03.631Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1547,43 +1547,6 @@ Standard XL x3
 Nanite Repair Paste x100
 Optimal Range Script x3
 Tracking Speed Script x3
-</details>
-
-<details>
-<summary>Phoenix, Buffer Phoenix</summary>
-[Phoenix, Buffer Phoenix]
-
-Ballistic Control System II
-Ballistic Control System II
-Ballistic Control System II
-Reactor Control Unit II
-Damage Control II
-
-Multispectrum Shield Hardener II
-Capital Shield Extender I
-Anti-EM Shield Hardener II
-Capital Capacitor Booster I
-Missile Guidance Computer II
-Capital Shield Extender I
-Multispectrum Shield Hardener II
-
-XL Torpedo Launcher I
-Capital Energy Neutralizer II
-XL Torpedo Launcher I
-Siege Module II
-XL Torpedo Launcher I
-
-Capital Core Defense Field Extender I
-Capital Core Defense Field Extender I
-Capital Core Defense Field Extender I
-
-Missile Precision Script x1
-Missile Range Script x1
-Guristas Inferno XL Torpedo x500
-Guristas Mjolnir XL Torpedo x500
-Guristas Nova XL Torpedo x500
-Guristas Scourge XL Torpedo x500
-Scourge XL Torpedo x2000
 </details>
 
 <details>
