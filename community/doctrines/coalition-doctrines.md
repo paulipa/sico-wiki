@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T15:20:39.372Z
+date: 2020-07-26T15:21:18.922Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1586,9 +1586,10 @@ Arch Angel Phased Plasma XL x1000
 
 ### FAX
 
-Requires: `Inherent Implants 'Squire' Power Grid Management EG-602`
+
 <details>
 <summary>Apostle, Fleet PVP</summary>
+Requires: `Inherent Implants 'Squire' Power Grid Management EG-602`
 [Apostle, Fleet PVP]
 
 Capital I-a Enduring Armor Repairer
