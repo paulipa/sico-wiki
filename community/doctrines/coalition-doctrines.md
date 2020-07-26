@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T16:45:31.635Z
+date: 2020-07-26T16:46:47.034Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1448,6 +1448,67 @@ Warrior I x4
 
 
 EMP S x1000
+Core Scanner Probe I x16
+</details>
+
+Amarr
+<details>
+<summary>Magnate - Exploration (Omega)</summary>
+[Magnate, Magnate - Exploration (Omega)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Inertial Stabilizers
+Type-D Restrained Inertial Stabilizers
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+
+Core Probe Launcher I
+Prototype Cloaking Device I
+Small Focused Modal Pulse Laser I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x4
+Warrior I x4
+
+
+Multifrequency S x1
+Core Scanner Probe I x16
+</details>
+
+<details>
+<summary>Magnate - Exploration (Alpha)</summary>
+[Magnate, Magnate - Exploration (Alpha)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Inertial Stabilizers
+Type-D Restrained Inertial Stabilizers
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+
+Core Probe Launcher I
+Gatling Modulated Energy Beam I
+Gatling Modulated Energy Beam I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x4
+Warrior I x4
+
+
+Multifrequency S x2
 Core Scanner Probe I x16
 </details>
 
