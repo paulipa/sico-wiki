@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T15:20:03.631Z
+date: 2020-07-26T15:20:39.372Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1686,7 +1686,7 @@ Warp Core Stabilizer I x6
 </details>
 
 <details>
-<summary>Ninazu, Fleet PVP</summary>
+<summary>Lif, Fleet PVP</summary>
 [Lif, Fleet PVP]
 
 Damage Control II
