@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T16:44:34.990Z
+date: 2020-07-26T16:45:31.635Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1387,6 +1387,67 @@ Warrior I x4
 
 
 Antimatter Charge S x500
+Core Scanner Probe I x16
+</details>
+
+Minmatar
+<details>
+<summary>Probe - Exploration (Omega)</summary>
+[Probe, Probe - Exploration (Omega)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Inertial Stabilizers
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Type-E Enduring Cargo Scanner
+
+Core Probe Launcher I
+Prototype Cloaking Device I
+200mm Light Gallium Machine Gun
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x3
+Warrior I x4
+
+
+EMP S x1000
+Core Scanner Probe I x16
+</details>
+
+<details>
+<summary>Probe - Exploration (Alpha)</summary>
+[Probe, Probe - Exploration (Alpha)]
+
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Inertial Stabilizers
+
+5MN Quad LiF Restrained Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Type-E Enduring Cargo Scanner
+
+Core Probe Launcher I
+200mm Light Gallium Machine Gun
+200mm Light Gallium Machine Gun
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+
+
+Hobgoblin I x3
+Warrior I x4
+
+
+EMP S x1000
 Core Scanner Probe I x16
 </details>
 
