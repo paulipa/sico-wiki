@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-26T16:46:47.034Z
+date: 2020-07-29T07:07:48.817Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -67,6 +67,8 @@ Caldari Navy Tungsten Charge M x1000
 
 <details>
   <summary>Ferox - SLTRN</summary>
+You can replace Drone Link Augmentor I with command burst modules if you are an skilled Omega pilot
+  
 [Ferox, Ferox - SLTRN]
 
 Damage Control II
@@ -87,7 +89,7 @@ Small Capacitor Booster II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
-[Empty High slot]
+Drone Link Augmentor I
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
