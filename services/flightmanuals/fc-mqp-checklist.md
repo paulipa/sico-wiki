@@ -2,7 +2,7 @@
 title: FC's checklist for MQP fleets
 description: 
 published: true
-date: 2020-07-19T11:57:22.273Z
+date: 2020-07-29T18:19:41.567Z
 tags: 
 editor: markdown
 ---
@@ -87,7 +87,7 @@ After undocking the fleet should stop their ships by pressing ctrl + space. This
 Make sure your fleet members have loaded the Z-S overview. Explain them briefly the benefits of a good overview:
 - Filter out unwanted ships
 - Filter in ships you want
-- Fast swaping depending on fleet situations
+- Fast swapping depending on fleet situations
 
 ## Fleet window settings
 - `Broadcast settings` set to broadcast history – To make sure they are not seeing junk notifications that will pile up on the history tab.
@@ -98,12 +98,15 @@ Make sure your fleet members have loaded the Z-S overview. Explain them briefly 
 {.is-info}
 
 ## Watchlist
-Tell your fleet members how to add their FC to the watchlist and explain what the watchlist us used for
+Tell your fleet members how to add their FC/scouts to the watchlist and explain what the watchlist us used for
 
 - To quickly target the FC
-- To quickly anchoring on FC
+- To quickly anchor on FC
 - To quickly warp on FC
 - To see FC ship armors
+
+### Only for Logi pilots:
+- get logi pilots to x-up / l-up in fleetchat so they can add each other to the watchlist
 
 ## Anchoring
 After you have covered all settings your members should be able to anchor up easily on the FC.
@@ -111,9 +114,9 @@ After you have covered all settings your members should be able to anchor up eas
 - `Anchor on FC` – Tell your members to anchor on you by using the watchlist. make sure all members are following you. In MQP fleets you want to use the approach as your anchoring up as its faster and easier.
 - `Usage of propmod` – Tell your members to listen to FC commands for prop mods and also that if they are far behind from the fleet and the FC that they should determine themselves if they need to cycle the propmod
 
-> While we are out in a fleet you will hear several commands, the first one we will be learning is Anchoring up. To anchor up you want to right click your fleet commander, that being (name), and right choose “Approach”. Anchor up please! ->(check everyone is anchored)
+> While we are out in a fleet you will hear several commands, the first one we will be learning is Anchoring up. To anchor up you want to right click your fleet commander, that being (name), and right choose “Approach”. Anchor up please! ->(**check everyone is anchored**)
 
-> the other command you might hear is prop mod on. This means you should turn on your propulsion module… Your prop mod is your afterburner or your microwarpdrive, As we are using does anyone here not have a microwarpdrive? ->(tell the numpty they should be flying a doctrine ship)
+> the other command you might hear is prop mod on. This means you should turn on your propulsion module… Your prop mod is your afterburner or your microwarpdrive, As we are using the latter does anyone here not have a microwarpdrive? ->(tell the numpty they should be flying a doctrine ship)
 
 > so can we turn our prop mods on please, prop mod on!
 
@@ -193,7 +196,7 @@ After you have jumped your first gate you will need to explain the following ter
 Tell the fleet to “take fleet warp” but only warp yourself out. Explain to them that sometimes fcs fuck up and the members have to use their own brains for moving and warping if this happens.
 
 ## Fleet traveling and scouting
-When you are about to enter a hostile area or if you are only traveling in high sec space ask one of your members to do scouting. All that a scout needs to do is:
+**If not done previously:** When you are about to enter a hostile area or if you are only traveling in high sec space ask one of your members to do scouting. All that a scout needs to do is:
 
 - Stay one jump ahead of the fleet (scout go +1=
 - Report for any hostiles at gate
@@ -223,7 +226,7 @@ Members in your fleet should never shoot at something unless the FC tells them t
 - Weapon timers
 - Targets VS telling them on comms
 
-> (Hitting Low Sec) Ok, so we are now in Low security space, Scount hold on in this system for this part… that means if anyone takes shots on a player concord will not come to the rescue, there are however stil guns on the gates, if someone engages a target within 150km of a gate they will be attacked by the gate guns, they are extremely accurate and will destroy you, so if we want to find a target in low sec we will need to Shotgun the system, there are two types of shotgunning, if you open your probe scanner with CTRL+P or by clicking the small radar icon to the left of your capacitor and selecting the bubble like icon that appears to the left of it. 
+> (Hitting Low Sec) Ok, so we are now in Low security space, Scout hold on in this system for this part… that means if anyone takes shots on a player concord will not come to the rescue, there are however stil guns on the gates, if someone engages a target within 150km of a gate they will be attacked by the gate guns, they are extremely accurate and will destroy you, so if we want to find a target in low sec we will need to Shotgun the system, there are two types of shotgunning, if you open your probe scanner with CTRL+P or by clicking the small radar icon to the left of your capacitor and selecting the bubble like icon that appears to the left of it. 
 
 ## Logistics
 If you have new logistic pilots in the fleet you should briefly mention to them how logistics work. However this is not a logistics fleet and the new logistic pilots are there simply to experience the role. For more advanced logistic tactics we will try to raise logi fleets.
@@ -247,7 +250,7 @@ Once you reach an empty or quiet null sec system it is time to teach your member
 If you are able to get a bubbler with you you need to teach your members about warp bubbles. If not try to find one in the hostile areas.
 
 > (Null sec) Hold cloak. now that we are in null sec we have no gate guns, you can also find interdiction spheres, commonly called bubbles. These are big bubbles that prevent warping, when you are trying to escape one of these you will be told to burn out of the bubble, when this happens you will want to activate your prop mod and double left click in space, your ship will head in the direction you clicked, this is a form of manual piloting, since we don’t have a bubble available at the moment lets burn away from the gate, click in space in teh direction that is appropriate for where your ship is to move away from the gate to get to know how this works.
-(jsut let the mess happen XD)
+(just let the mess happen XD)
 Now fleet allign to the out gate. 
 
 ## Free Burn
