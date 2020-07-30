@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-07-21T13:36:10.631Z
+date: 2020-07-30T16:13:26.706Z
 tags: 
 editor: markdown
 ---
@@ -186,6 +186,8 @@ You are able to pre schedule fleets and add them to our fleet board. The fleet b
 1. Check that there are no fleets scheduled to the time you are going to schedule
 1. Click on the create fleet button
 1. Fill in all needed information
+
+Notifications will automatically go out on discord `#operations-tracker` channel for new, deleted and edited operations.
 
 ## Discord Fleet Pings
 In order to send out a fleet ping on discord please use the ping formatter found on auth https://auth.silentcoalition.com/discordpingformatter/
