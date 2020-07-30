@@ -2,7 +2,7 @@
 title: Loud Crew [LOUCR]
 description: 
 published: true
-date: 2020-07-21T16:44:08.767Z
+date: 2020-07-30T07:14:36.519Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ The process of creating an alt for LOUCR is very similar to the SLTRN war corpor
 The following steps will get you into your very own 500 dps ganking catalyst, made famous by CODE.
 
 
-1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: http://secure.eveonline.com/signup/?invc=7cdcaec8-071e-4050-8206-d2e9e413952a&action=budd
+1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=d2b6ac02-0cb8-4ae6-b66f-b9e110c12dea
 1. Create a new account and activate it.
 1. Next you want to create a gallente character.
 1. Make an ingame application to the Loud Crew [LOUCR] corporation
