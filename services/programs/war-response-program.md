@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2020-07-21T08:45:50.647Z
+date: 2020-07-30T07:14:12.106Z
 tags: 
 editor: markdown
 ---
@@ -22,14 +22,14 @@ Welcome to Defence Of The Dark Arts. **This corporation is the primary fast resp
 {.is-success}
 
 ## Creating a new alpha account with buddy invite
-The whole process of joining and creating a new character to SLTRN is based on the buddy invite. When you create a new character with an buddy invite you get a massive 1 000 000 free skill points to inject!
+The whole process of joining and creating a new charactser to SLTRN is based on the buddy invite. When you create a new character with an buddy invite you get a massive 1 000 000 free skill points to inject!
 
 The free SP you get is enough for you to inject to the entry version of our primary doctrine. This means that you do not have to spend a second training for the skills or logging in to train for the skills for the SLTRN entry doctrines.
 
 > Please follow the following steps for creating your SLTRN character
 {.is-warning}
 
-1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: http://secure.eveonline.com/signup/?invc=7cdcaec8-071e-4050-8206-d2e9e413952a&action=budd
+1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=d2b6ac02-0cb8-4ae6-b66f-b9e110c12dea
 1. Create a new account and activate it.
 1. Next you want to create a caldari character.
 1. Since we want to have a tiny bit or RP in this corporation please pick a Harry Potter series themed name. You can create variations of the names if the name you are looking for is not available but try to keep it somehow related. This way when our horde of wizards enters locals space people will know shit is going down! You can use this list for help https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters
