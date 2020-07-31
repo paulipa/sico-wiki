@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-07-17T11:17:08.242Z
+date: 2020-07-31T10:57:52.055Z
 tags: 
 editor: markdown
 ---
@@ -645,3 +645,262 @@ Active Shielding Charge x300
 Shield Harmonizing Charge x300
 
 </details>
+
+## ADHD Fleet
+Combat Interceptors with Logistics/ a Bubbler. 8AU/s Warpspeed required.
+If you want to fill your Cargo as DPS, bring Navy Cap Booster 400's for Logis
+
+### Standard Fits
+<details>
+  <summary>Raptor - Brawly</summary>
+[Raptor, ADHD]
+
+Micro Auxiliary Power Core II
+Magnetic Field Stabilizer II
+Nanofiber Internal Structure II
+
+5MN Y-T8 Compact Microwarpdrive
+Republic Fleet Medium Shield Extender
+Warp Scrambler II
+Fleeting Compact Stasis Webifier
+
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+
+Small EM Shield Reinforcer II
+Small Core Defense Field Extender I
+
+
+Null S x1000
+Void S x2000
+Nanite Repair Paste x50
+Agency 'Overclocker' SB3 Dose I x2
+</details>
+<details> 
+  <summary>Claw - Kitey Artillery (very tight fitting) </summary>
+[Claw, ADHD]
+
+IFFA Compact Damage Control
+Small Ancillary Armor Repairer
+Gyrostabilizer II
+Fourier Compact Tracking Enhancer
+
+5MN Quad LiF Restrained Microwarpdrive
+Initiated Compact Warp Disruptor
+
+280mm Howitzer Artillery II, Republic Fleet EMP S
+280mm Howitzer Artillery II, Republic Fleet EMP S
+280mm Howitzer Artillery II, Republic Fleet EMP S
+[Empty High slot]
+
+Small Projectile Collision Accelerator II
+Small Ionic Field Projector II
+
+
+Nanite Repair Paste x50
+Republic Fleet Depleted Uranium S x300
+Republic Fleet EMP S x300
+Republic Fleet Fusion S x300
+Republic Fleet Phased Plasma S x300
+Agency 'Overclocker' SB3 Dose I x2
+</details>
+<details>
+  <summary>Taranis - Brawly</summary>
+  [Taranis, ADHD]
+
+Micro Auxiliary Power Core II
+Damage Control II
+Magnetic Field Stabilizer II
+
+5MN Quad LiF Restrained Microwarpdrive
+Faint Epsilon Scoped Warp Scrambler
+Republic Fleet Medium Shield Extender
+
+Light Ion Blaster II, Void S
+Light Ion Blaster II, Void S
+Light Ion Blaster II, Void S
+[Empty High slot]
+
+Small EM Shield Reinforcer II
+Small Core Defense Field Extender I
+
+
+Warrior II x2
+
+
+Null S x1000
+Void S x2000
+Nanite Repair Paste x50
+Agency 'Overclocker' SB3 Dose I x2
+</details>
+<details>
+  <summary>Scalpel - Logi (SRP for Logi)</summary>
+[Scalpel, ADHD]
+
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Medium Shield Extender
+Multispectrum Shield Hardener II
+Small Capacitor Booster II, Navy Cap Booster 400
+
+Gistii B-Type Small Remote Shield Booster
+Gistii B-Type Small Remote Shield Booster
+Gistii B-Type Small Remote Shield Booster
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+
+
+Navy Cap Booster 400 x21
+Agency 'Overclocker' SB3 Dose I x2
+</details>
+<details>
+  <summary>Sabre - Bubbles</summary>
+[Sabre, ADHD]
+
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+Medium Shield Extender II
+Republic Fleet Medium Shield Extender
+5MN Quad LiF Restrained Microwarpdrive
+Multispectrum Shield Hardener II
+
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+150mm Light AutoCannon II
+Interdiction Sphere Launcher I, Warp Disrupt Probe
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+
+
+Barrage S x1000
+Hail S x2000
+Warp Disrupt Probe x40
+Nanite Repair Paste x50
+Republic Fleet EMP S x1000
+Republic Fleet Phased Plasma S x1000
+Agency 'Overclocker' SB5 Dose II x2
+  </details>
+  
+### Newbro Fits
+This fits are only meant for Beginners. If you can fly one of the fits above, please bring those instead.
+Downgrade to T1 guns / meta guns if needed.
+<details>
+  <summary>Slasher - Newbro - cheap </summary>
+[Slasher, ADHD]
+
+Micro Auxiliary Power Core I
+Damage Control II
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+Compact EM Shield Amplifier
+
+200mm AutoCannon II, Hail S
+200mm AutoCannon II, Hail S
+200mm AutoCannon II, Hail S
+[Empty High slot]
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Small Core Defense Field Extender I
+
+
+Barrage S x750
+Hail S x1000
+Republic Fleet EMP S x750
+Agency 'Overclocker' SB3 Dose I x1
+</details>
+<details>
+  <summary>Condor - Newbro - cheap</summary>
+[Condor, ADHD]
+
+Damage Control II
+Micro Auxiliary Power Core I
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+Multispectrum Shield Hardener II
+
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+[Empty High slot]
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Small Core Defense Field Extender I
+
+Scourge Rage Rocket x1500
+Agency 'Overclocker' SB3 Dose I x1
+</details>
+<details>
+  <summary>Executioner - Newbro - cheap</summary>
+[Executioner, ADHD]
+
+IFFA Compact Damage Control
+Micro Auxiliary Power Core I
+Heat Sink II
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+Dual Light Pulse Laser II
+[Empty High slot]
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Small EM Shield Reinforcer II
+
+Scorch S x3
+Conflagration S x3
+Agency 'Overclocker' SB3 Dose I x1
+</details>
+<details> 
+  <summary> Comet - Newbro - expensive</summary>
+[Federation Navy Comet, ADHD]
+
+IFFA Compact Damage Control
+Micro Auxiliary Power Core I
+Vortex Compact Magnetic Field Stabilizer
+Vortex Compact Magnetic Field Stabilizer
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+[Empty High slot]
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Small EM Shield Reinforcer II
+
+
+Acolyte II x3
+Warrior II x3
+
+
+Null S x750
+Void S x1500
+Nanite Repair Paste x25
+Agency 'Overclocker' SB3 Dose I x2
+</details>
+
+
