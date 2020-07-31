@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-29T07:15:57.864Z
+date: 2020-07-31T08:36:07.686Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -29,6 +29,8 @@ This doctrine has proper logi to withstand enemy DPS for a longer duration of ti
 ### DPS
 <details>
   <summary>Ferox - SLTRN (Basic)</summary>
+[Ferox, Ferox - SLTRN (Basic)]
+
 [Ferox, Ferox - SLTRN (Basic)]
 
 Damage Control II
@@ -59,7 +61,7 @@ Medium EM Shield Reinforcer I
 Acolyte I x5
 
 
-Navy Cap Booster 200 x25
+Cap Booster 200 x25
 Antimatter Charge M x3000
 Caldari Navy Antimatter Charge M x1000
 Caldari Navy Tungsten Charge M x1000
@@ -89,7 +91,7 @@ Small Capacitor Booster II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
-Drone Link Augmentor I
+[Empty High slot]
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
@@ -101,7 +103,7 @@ Warrior II x5
 
 Javelin M x1000
 Spike M x1000
-Navy Cap Booster 200 x25
+Cap Booster 200 x25
 Antimatter Charge M x3000
 Caldari Navy Antimatter Charge M x1000
 </details>
