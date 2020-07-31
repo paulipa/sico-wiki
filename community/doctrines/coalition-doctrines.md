@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-31T08:36:07.686Z
+date: 2020-07-31T08:39:14.774Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -29,8 +29,6 @@ This doctrine has proper logi to withstand enemy DPS for a longer duration of ti
 ### DPS
 <details>
   <summary>Ferox - SLTRN (Basic)</summary>
-[Ferox, Ferox - SLTRN (Basic)]
-
 [Ferox, Ferox - SLTRN (Basic)]
 
 Damage Control II
