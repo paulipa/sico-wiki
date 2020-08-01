@@ -2,14 +2,12 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2020-07-25T22:14:31.653Z
+date: 2020-08-01T20:54:49.199Z
 tags: 
 editor: markdown
 ---
 
-Hello from Game of Drones!
-
-![game_of_drones_splash.png](/game_of_drones_splash.png)
+![3gods_header_color.jpg](/3gods_header_color.jpg)
 # Who are we, you ask?
 
 Game of Drones is a Nullsec Mining, Industrial and Planetary Interaction specialized Corporation within the Silent Coalition and Null Sec. With many of us enjoying the carebear lifestyle but with the options to delve into bigger things, such as PVP.
@@ -26,7 +24,7 @@ Game of Drones boasts a massive collection of over 1000 Blueprint Originals that
 
 Our members enjoy taking on big projects such as Capital, Sub-Capital production, and operating as a frontline wartime supplier. Plus smaller projects such as; stocking markets with needed items and building fuel for allied starbases so there will always be something for you to do. Within our area of space, there are many choices open to you beyond just mining and industry. Thanks to our alliance and association to WinterCo. we have access to bigger fleets aimed at PVP and PvE such as roaming, WH day trips and more. We also have some active and helpful intel channels, these are here to help keep you safe from threats such as roaming groups and gankers while you are playing in Null Sec space.
 
-![3gods_satation_cropped.png](/3gods_satation_cropped.png)
+![3gods_middlepage.jpg](/3gods_middlepage.jpg)
 
 ## What we require of you.
 
