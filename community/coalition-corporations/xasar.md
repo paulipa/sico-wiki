@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-07-24T20:21:45.682Z
+date: 2020-08-03T03:19:24.151Z
 tags: 
 editor: markdown
 ---
@@ -36,5 +36,4 @@ tehnube CEO
 Cresenne jaTerba XO
 Voice intheclouds XO
 Ezekiel Ezreal XO
-> Due to the war with the imperium recruitment is currently closed please check back after the war.  
-{.is-warning}
+
