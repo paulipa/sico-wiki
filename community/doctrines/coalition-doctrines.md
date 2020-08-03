@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-07-31T08:39:14.774Z
+date: 2020-08-03T15:05:30.477Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -499,7 +499,7 @@ These ships are used with the member qualification program (MQP). They are cheap
 ### Tackle
 <details>
   <summary>Incursus - MQP (Alpha)</summary>
-[Incursus, Incursus - PVP (MQP)]
+[Incursus, Incursus - PVP (Alpha Fleet)]
 
 Damage Control I
 Magnetic Field Stabilizer I
@@ -522,12 +522,13 @@ Small Auxiliary Thrusters I
 Warrior I x1
 
 
+Antimatter Charge S x2000
 Caldari Navy Antimatter Charge S x1000
 </details>
 
 <details>
   <summary>Merlin - MQP (Alpha)</summary>
-[Merlin, Merlin - PVP (MQP)]
+[Merlin, Merlin - PVP (Alpha Fleet)]
 
 Damage Control I
 Magnetic Field Stabilizer I
@@ -547,12 +548,13 @@ Small Core Defense Field Extender I
 Small Auxiliary Thrusters I
 
 
+Antimatter Charge S x2000
 Caldari Navy Antimatter Charge S x1000
 </details>
 
 <details>
   <summary>Rifter - MQP (Alpha)</summary>
-[Rifter, Rifter - PVP (MQP)]
+[Rifter, Rifter - PVP (Alpha Fleet)]
 
 Damage Control I
 Counterbalanced Compact Gyrostabilizer
@@ -572,6 +574,7 @@ Small Core Defense Field Extender I
 Small Auxiliary Thrusters I
 
 
+Phased Plasma S x2000
 Republic Fleet Phased Plasma S x1000
 </details>
 
