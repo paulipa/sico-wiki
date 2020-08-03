@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2020-08-01T20:54:49.199Z
+date: 2020-08-03T22:39:26.368Z
 tags: 
 editor: markdown
 ---
@@ -59,12 +59,5 @@ There is always something for everyone to enjoy. So let’s go forth and dominat
 - Liesgen, Director
 
 
-<table width=512>
-<tr>
-  <td>Jafner, co-CEO</td><td></td><td>Junto Kast, co-CEO</td>
-</tr>
-</table>
-
-![jafner_311364944_256.jpg](/jafner_311364944_256.jpg)  ![junto_256.jpg](/junto_256.jpg) 
-
+![3gods_jafner_junto.jpg](/3gods_jafner_junto.jpg)
 
