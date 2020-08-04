@@ -2,7 +2,7 @@
 title: Hermes Fast Freight [HEFFR]
 description: 
 published: true
-date: 2020-07-18T07:35:26.854Z
+date: 2020-08-04T07:02:38.974Z
 tags: 
 editor: markdown
 ---
@@ -24,4 +24,4 @@ At this time, I am anticipating needing at most about 6-10 freighter pilots, but
 
 For those interested, feel free to apply to Hermes Fast Freight in game with your contract alt and include in your application the name of your character in SiCO. You hauler is not required to be a SiCO member, just have a character in any of its corps. Also, be sure to join the hauling & logistics interest group in Auth!
 
-If you have any questions, please feel free to reach out to Jafner in game or on discord. You can also mail Mindy Merida (Jafner’s alt) who is CEO of Hermes.
+If you have any questions, please feel free to reach out to tehnube on discord.
