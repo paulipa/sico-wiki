@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-03T15:05:30.477Z
+date: 2020-08-05T15:37:28.092Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -742,7 +742,7 @@ Miner I
 Miner I
 Salvager I
 
-Small Anti-EM Screen Reinforcer I
+Small EM Shield Reinforcer I
 Small Core Defense Field Extender I
 Small Core Defense Field Extender I
 
