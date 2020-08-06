@@ -2,7 +2,7 @@
 title: HD Alpha Fleet
 description: 
 published: true
-date: 2020-08-06T15:02:07.517Z
+date: 2020-08-06T15:03:05.433Z
 tags: 
 editor: markdown
 ---
@@ -40,4 +40,84 @@ Warrior I x1
 
 Antimatter Charge S x2000
 Caldari Navy Antimatter Charge S x1000
+</details>
+
+<details>
+  <summary>Merlin - PVP (Alpha Fleet)</summary>
+[Merlin, Merlin - PVP (Alpha Fleet)]
+
+Damage Control I
+Magnetic Field Stabilizer I
+Micro Auxiliary Power Core I
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+X5 Enduring Stasis Webifier
+X5 Enduring Stasis Webifier
+
+Modal Light Electron Particle Accelerator I
+Modal Light Electron Particle Accelerator I
+Modal Light Electron Particle Accelerator I
+
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+Small Auxiliary Thrusters I
+
+
+Antimatter Charge S x2000
+Caldari Navy Antimatter Charge S x1000
+</details>
+
+<details>
+  <summary>Tormentor - PVP (Alpha Fleet)</summary>
+[Tormentor, Tormentor - PVP (Alpha Fleet)]
+
+Damage Control I
+Extruded Compact Heat Sink
+Type-D Restrained Nanofiber Structure
+Type-D Restrained Nanofiber Structure
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+J5b Enduring Warp Scrambler
+
+Gatling Modulated Energy Beam I
+Gatling Modulated Energy Beam I
+Gatling Modulated Energy Beam I
+
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+Small Auxiliary Thrusters I
+
+
+Warrior I x4
+
+
+Imperial Navy Multifrequency S x3
+</details>
+
+<details>
+  <summary>Rifter - PVP (Alpha Fleet)</summary>
+[Rifter, Rifter - PVP (Alpha Fleet)]
+
+Damage Control I
+Counterbalanced Compact Gyrostabilizer
+Micro Auxiliary Power Core I
+Type-D Restrained Nanofiber Structure
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Shield Extender I
+Initiated Compact Warp Scrambler
+
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+Small Auxiliary Thrusters I
+
+
+Phased Plasma S x2000
+Republic Fleet Phased Plasma S x1000
 </details>
