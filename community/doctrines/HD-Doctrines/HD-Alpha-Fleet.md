@@ -2,7 +2,7 @@
 title: HD Alpha Fleet
 description: 
 published: true
-date: 2020-08-06T15:03:34.475Z
+date: 2020-08-06T15:04:08.296Z
 tags: 
 editor: markdown
 ---
@@ -125,3 +125,5 @@ Small Auxiliary Thrusters I
 Phased Plasma S x2000
 Republic Fleet Phased Plasma S x1000
 </details>
+
+## Logi
