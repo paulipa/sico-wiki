@@ -2,7 +2,7 @@
 title: HD Doctrines
 description: 
 published: true
-date: 2020-07-20T16:28:05.681Z
+date: 2020-08-06T14:59:37.787Z
 tags: 
 editor: markdown
 ---
@@ -12,6 +12,5 @@ Important note: Throughout these pages you will find the fittings under spoilers
 Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
 
 ---
-[HD Alpha Fleet](/community/doctrines/HD-Doctrines/HD-Alpha-Fleet)
-
-[HD Bravo Fleet](/community/doctrines/HD-Doctrines/HD-Bravo-Fleet)
+## [HD Alpha Fleet](/community/doctrines/HD-Doctrines/HD-Alpha-Fleet)
+## [HD Bravo Fleet](/community/doctrines/HD-Doctrines/HD-Bravo-Fleet)
