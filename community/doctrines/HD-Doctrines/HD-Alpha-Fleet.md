@@ -2,7 +2,7 @@
 title: HD Alpha Fleet
 description: 
 published: true
-date: 2020-08-06T15:03:05.433Z
+date: 2020-08-06T15:03:34.475Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,7 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 
 ---
 ## DPS
+Gallente
 <details>
   <summary>Incursus - PVP (Alpha Fleet)</summary>
 [Incursus, Incursus - PVP (Alpha Fleet)]
@@ -42,6 +43,7 @@ Antimatter Charge S x2000
 Caldari Navy Antimatter Charge S x1000
 </details>
 
+Caldari
 <details>
   <summary>Merlin - PVP (Alpha Fleet)</summary>
 [Merlin, Merlin - PVP (Alpha Fleet)]
@@ -68,6 +70,7 @@ Antimatter Charge S x2000
 Caldari Navy Antimatter Charge S x1000
 </details>
 
+Amarr
 <details>
   <summary>Tormentor - PVP (Alpha Fleet)</summary>
 [Tormentor, Tormentor - PVP (Alpha Fleet)]
@@ -96,6 +99,7 @@ Warrior I x4
 Imperial Navy Multifrequency S x3
 </details>
 
+Minmatar
 <details>
   <summary>Rifter - PVP (Alpha Fleet)</summary>
 [Rifter, Rifter - PVP (Alpha Fleet)]
