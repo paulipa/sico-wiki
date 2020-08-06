@@ -2,7 +2,7 @@
 title: HD Alpha Fleet
 description: 
 published: true
-date: 2020-08-06T15:04:08.296Z
+date: 2020-08-06T15:05:24.928Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,7 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 
 ---
 ## DPS
+
 Gallente
 <details>
   <summary>Incursus - PVP (Alpha Fleet)</summary>
@@ -126,4 +127,59 @@ Phased Plasma S x2000
 Republic Fleet Phased Plasma S x1000
 </details>
 
+
 ## Logi
+
+<details>
+  <summary>Burst - PVP (Alpha Fleet)</summary>
+[Burst, Burst - PVP (Alpha Fleet)]
+
+Damage Control I
+Micro Auxiliary Power Core I
+Type-D Restrained Nanofiber Structure
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+Small F-RX Compact Capacitor Booster
+
+Small S95a Scoped Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+
+Small EM Shield Reinforcer I
+Small Thermal Shield Reinforcer I
+Small Core Defense Field Extender I
+
+
+Warrior I x1
+
+
+Navy Cap Booster 400 x15
+</details>
+
+<details>
+  <summary>Bantam - PVP (Alpha Fleet)</summary>
+[Bantam, Bantam - PVP (Alpha Fleet)]
+
+Damage Control I
+Micro Auxiliary Power Core I
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+Small F-RX Compact Capacitor Booster
+Enduring Multispectrum Shield Hardener
+
+Small S95a Scoped Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+
+Small EM Shield Reinforcer I
+Small Thermal Shield Reinforcer I
+Small Core Defense Field Extender I
+
+
+Warrior I x1
+
+
+Navy Cap Booster 400 x15
+</details>
