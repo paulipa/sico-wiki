@@ -2,7 +2,7 @@
 title: HD Alpha Fleet
 description: 
 published: true
-date: 2020-08-06T15:05:58.775Z
+date: 2020-08-06T15:06:08.192Z
 tags: 
 editor: markdown
 ---
