@@ -2,7 +2,7 @@
 title: HD Alpha Fleet
 description: 
 published: true
-date: 2020-08-06T15:05:24.928Z
+date: 2020-08-06T15:05:43.642Z
 tags: 
 editor: markdown
 ---
@@ -130,6 +130,7 @@ Republic Fleet Phased Plasma S x1000
 
 ## Logi
 
+Preferred
 <details>
   <summary>Burst - PVP (Alpha Fleet)</summary>
 [Burst, Burst - PVP (Alpha Fleet)]
@@ -157,6 +158,7 @@ Warrior I x1
 Navy Cap Booster 400 x15
 </details>
 
+Also Accepted
 <details>
   <summary>Bantam - PVP (Alpha Fleet)</summary>
 [Bantam, Bantam - PVP (Alpha Fleet)]
