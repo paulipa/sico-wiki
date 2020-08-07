@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-07T08:53:32.920Z
+date: 2020-08-07T08:56:10.821Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -382,7 +382,7 @@ Damage Control II
 Multispectrum Shield Hardener II
 Medium Compact Pb-Acid Cap Battery
 Large F-S9 Regolith Compact Shield Extender
-Compact Adaptive Invulnerability Shield Hardener
+Compact Multispectrum Shield Hardener
 
 Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
