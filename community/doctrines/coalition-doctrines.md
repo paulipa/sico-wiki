@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-05T15:37:28.092Z
+date: 2020-08-07T08:43:29.930Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -358,7 +358,7 @@ Medium F-RX Compact Capacitor Booster
 250mm Railgun II
 
 Medium Ancillary Current Router I
-Medium Anti-EM Screen Reinforcer II
+Medium EM Shield Reinforcer II
 Medium Anti-Thermal Screen Reinforcer I
 
 Warrior II x3
@@ -390,7 +390,7 @@ Medium Murky Compact Remote Shield Booster
 
 Medium Ancillary Current Router I
 Medium Capacitor Control Circuit I
-Medium Anti-EM Screen Reinforcer I
+Medium EM Shield Reinforcer I
 
 Hornet EC-300 x4
 Warrior II x5
@@ -447,9 +447,9 @@ Rapid Light Missile Launcher II
 Rapid Light Missile Launcher II
 Rapid Light Missile Launcher II
 
-Medium Anti-EM Screen Reinforcer I
+Medium EM Shield Reinforcer I
 Medium Core Defense Field Extender I
-Medium Anti-Thermal Screen Reinforcer I
+Medium Thermal Shield Reinforcer I
 
 Valkyrie TP-600 x4
 Inferno Fury Light Missile x1000
