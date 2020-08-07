@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-07T08:45:20.833Z
+date: 2020-08-07T08:47:53.975Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1587,7 +1587,7 @@ Focused Anode Medium Particle Stream I
 
 Medium Energy Locus Coordinator II
 Medium Trimark Armor Pump I
-Medium Anti-Explosive Pump I
+Medium Explosive Armor Reinforcer I
 
 Valkyrie I x4
 Microwave M x5
@@ -1618,7 +1618,7 @@ Small Infectious Scoped Energy Neutralizer
 Drone Link Augmentor I
 Small Solace Scoped Remote Armor Repairer
 
-Medium Anti-Explosive Pump II
+Medium Explosive Armor Reinforcer II
 Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 
@@ -1677,7 +1677,7 @@ Medium I-ax Enduring Remote Armor Repairer
 Medium I-ax Enduring Remote Armor Repairer
 
 Medium Ancillary Current Router I
-Medium Anti-Explosive Pump I
+Medium Explosive Armor Reinforcer I
 Medium Ancillary Current Router I
 
 Hobgoblin I x5
@@ -1712,7 +1712,7 @@ Armor Command Burst I
 
 Medium Command Processor I
 Medium Trimark Armor Pump I
-Medium Anti-Explosive Pump I
+Medium Explosive Armor Reinforcer I
 
 Berserker I x4
 Hammerhead II x5
