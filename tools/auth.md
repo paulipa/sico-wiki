@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-07-30T16:13:26.706Z
+date: 2020-08-07T09:46:53.024Z
 tags: 
 editor: markdown
 ---
@@ -149,7 +149,7 @@ Only one fat per fleet is allowed
 
 With FAT 2.0 you have a few ways to create links:
 
-> Fats over ESI is your primary method for FAR generation
+> Fats over ESI is your primary method for FAT generation
 {.is-info}
 
 ### Fats over ESI
@@ -157,10 +157,10 @@ With FAT 2.0 you have a few ways to create links:
 2. Go to the FAT page: https://auth.silentcoalition.com/bfat/
 3. Click on Add FATLink https://auth.silentcoalition.com/bfat/links/add/
 4. Click on Add FatLink from ESI
-5. Log in with the fleet commander toon and press the green arrow to register the scope
-6. Set a name for your fleet! Otherwise it will have a random generated name. All members will be pulled over ESI after a short while.
+5. Log in with the fleet boss toon and press the green arrow to register the scope
+6. Set a name for your fleet! Otherwise it will have a randomly generated name. All members will be pulled over ESI after a short while.
 
-> If you do not get any errors it means the FAT over ESI worked. It may take some time for the players to show up. Do not create a new fat if there was no errors.
+> If you do not get any errors it means the FAT over ESI worked. It may take some time for the players to show up. **Do not create a new fat if there was no errors.**
 {.is-warning}
 
 ### Fat links (not recommended)
@@ -179,7 +179,7 @@ With FAT 2.0 you have a few ways to create links:
 7. Players in fleet will pop up shortly on the fat!
 
 ## Scheduling fleets
-You are able to pre schedule fleets and add them to our fleet board. The fleet board is found on AUTH at https://auth.silentcoalition.com/optimer/. Please create a fleet in here whenever you plan to do a planned fleet in the future. You can always cancell the fleet in case you are unable to do it or if no one shows up.
+You are able to pre schedule fleets and add them to our fleet board. The fleet board is found on AUTH at https://auth.silentcoalition.com/optimer/. Please create a fleet in here whenever you plan to do a planned fleet in the future. You can always cancel the fleet in case you are unable to do it or if no one shows up.
 
 ### To create a fleet operation:
 1. Go to https://auth.silentcoalition.com/optimer/
@@ -192,7 +192,7 @@ Notifications will automatically go out on discord `#operations-tracker` channel
 ## Discord Fleet Pings
 In order to send out a fleet ping on discord please use the ping formatter found on auth https://auth.silentcoalition.com/discordpingformatter/
 
-Coalition aims to keep pings to minimum so that in case we have an actual imporant operation people will pay attention to the pings.
+Coalition aims to keep pings to a minimum so that in case we have an actual imporant operation people will pay attention to the pings.
 
 > Please stick to the ping rules as bellow
 {.is-warning}
@@ -202,12 +202,12 @@ Coalition aims to keep pings to minimum so that in case we have an actual impora
 1. 30 minutes prior to the fleet timer there will be an automatic notification again on the `#operations` channel
 1. When your fleet goes up ping it at the `#fleet-pings` channel with the formatter.
 	1. For stratop and CTA fleets use `@here` pings. We want to keep these to minimum
-  	2. For every other fleet please pick the correct SIG group from the drop down window on the formatter.
+  	2. For every other fleet **please pick the correct SIG group** from the drop down window on the formatter.
 
 ### Pre Pings
 For imporant operations you can create a pre ping by ticking the pre ping box on the formatter and selecting the channel to be PRE pings channel `#operations`. In here you can include more details about your fleet.
 
-Do not create any pings and use the `no ping` option for pre fleets unles it is a CTA fleet!
+Do not create any pings and use the `no ping` option for pre fleets **unless it is a CTA fleet!**
 
 
 
