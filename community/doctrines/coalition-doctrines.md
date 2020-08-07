@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-07T08:43:29.930Z
+date: 2020-08-07T08:45:20.833Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -767,7 +767,7 @@ Modulated Strip Miner II
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
-Medium Anti-EM Screen Reinforcer II
+Medium EM Shield Reinforcer II
 
 Hobgoblin II x5
 Hornet EC-300 x5
@@ -786,8 +786,8 @@ Multispectrum Shield Hardener II
 Modulated Strip Miner II
 Modulated Strip Miner II
 
-Medium Anti-EM Screen Reinforcer I
-Medium Anti-Thermal Screen Reinforcer I
+Medium EM Shield Reinforcer I
+Medium Thermal Shield Reinforcer I
 Medium Core Defense Field Extender I
 
 Mining Drone II x5
@@ -807,7 +807,7 @@ Modulated Strip Miner II
 Modulated Strip Miner II
 
 Medium Processor Overclocking Unit II
-Medium Anti-EM Screen Reinforcer I
+Medium EM Shield Reinforcer I
 Medium Core Defense Field Extender I
 
 Warrior II x5
@@ -1072,7 +1072,7 @@ Modal Mega Neutron Particle Accelerator I
 
 Large Hyperspatial Velocity Optimizer II
 Large Hyperspatial Velocity Optimizer II
-Large Anti-EM Screen Reinforcer II
+Large EM Shield Reinforcer II
 
 Acolyte II x5
 Acolyte II x5
