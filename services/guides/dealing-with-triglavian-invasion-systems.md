@@ -2,9 +2,9 @@
 title: Dealing With Triglavian Invasion Systems
 description: 
 published: true
-date: 2020-07-10T14:40:43.372Z
+date: 2020-08-07T15:46:25.125Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Dealing With Triglavian Invasion Systems
@@ -30,7 +30,7 @@ If you are not looking to participate in the invasions or you have hauling alts 
 A work-around for folks that want/need to move through Trig/EDENCOM Minor Victory systems, but aren’t participating in the invasion.
 1.  Use an empty clone. If you die the NPCs will destroy your pod.
 2. Buy a SoE fit destroyer that matches the region you are in. This matters since the Edencom NPC you shoot always spawn according to the empire region you are in and when you pick the right ship you can kill the frigate in a destroyer. Open your fitting window and select community fittings to find the fittings
-3. Locate a system that has a Triglavian minor victory status. A good site to see these is here - https://kybernaut.space
+3. Locate a system that has an EDENCOM Minor Victory status. A good site to see these is here - https://kybernaut.space
 4. Open your probe scanner window and look for a EDENCOM Forward Post. These are the easiest sites that spawn in the system.
 
 5. Warp to the site and approach the frigate class ship. They will not shoot at you as you should be neutral to them currently
@@ -38,7 +38,7 @@ A work-around for folks that want/need to move through Trig/EDENCOM Minor Victor
 
 7. After you have killed the frigate warp out. You only need to kill one single ship. If possible warp to a upwell structure and tether up to avoid roaming NPCs
 8. You will now need to wait 20 minutes for the ratting tick. Once this tick happens you will receive a notification that your standing with EDENCOM has decreased and increased with Triglavians.
-9. Warp to a triglavian site from your probe scanner to make sure you are now neutral to them and they are not shooting at you. Repeat this with an EDENCOm site.
+9. Warp to a triglavian site from your probe scanner to make sure you are now neutral to them and they are not shooting at you. Repeat this with an EDENCOM site.
 10. You can now travel thorough minor victory systems without getting killed at the gates.
 
 
