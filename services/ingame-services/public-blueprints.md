@@ -2,9 +2,9 @@
 title: Public Blueprints
 description: 
 published: true
-date: 2020-07-07T06:45:53.146Z
+date: 2020-08-07T10:41:25.048Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Blueprint system
@@ -18,7 +18,7 @@ As there is no such thing as alliance or public hangars in EVE the only way the 
 {.is-info}
 
 ## Where are the blueprints located and how do i access them? 
-Most of the blueprints that we have available in the system are stored in our research station in on high sec HQ. You can find the exact location for the blueprints by browsing the blueprint market on the website.
+Most of the blueprints that we have available in the system are stored in our research station in out high sec HQ. You can find the exact location for the blueprints by browsing the blueprint market on the website.
 
 ## Accessing the blueprints 
 Usually the first requirement for accessing the blueprints is to be in the corporation that owns the blueprints or have an alt inside of it. Once you meet this criteria you will need a Member title or higher to gain access to the industrial hangar.
@@ -72,15 +72,15 @@ To start a manufacturing job is pretty much similar for copying, with the except
 ### Researching
 Researching original blueprints takes a lot of time. To research a capital BPO from level 0 to perfect takes close to a year. As a character can only research a maximum of 11 BPOs at same time with maximum skills you can help out the corporation by researching those blueprints that are not yet on perfect level! Most of the +6 month research is done by the corporation dedicated characters so you do not have to worry about locking all of your research slots for researching BPOs for months and months.
 
-Simple if you have time and do not need your current research slots for anything pick a random corporation BPO located in the industry hangar and do some ME and TE research on it. If all of our members does this even with low skills we can have plenty of perfect blueprints after a while and that will again help out the players who want to copy and use the blueprints.
+If you have time and do not need your current research slots for anything simply pick a random corporation BPO located in the industry hangar and do some ME and TE research on it. If all of our members does this even with low skills we can have plenty of perfect blueprints after a while and that will again help out the players who want to copy and use the blueprints.
 
 To find out what blueprints needs to be researched open the manufacturing window once again and seek for the available corporation blueprints located in our research station the same way as explained earlier in this guide. Then simply look at the columns and install any jobs that does not have the ME or TE bar at full blue.
 
 ## Following the progress and delivering the job 
-You can follow the progress of your jobs and the jobs are installed by other corporation members from the public blueprints from the manufacturing window (alt + s) or from the BPO Library page. Navigate to the jobs tab on the manufacturing window and select the correct settings.
+You can follow the progress of your jobs and the jobs that are installed by other corporation members from the public blueprints from the manufacturing window (alt + s) or from the BPO Library page. Navigate to the jobs tab on the manufacturing window and select the correct settings.
 ![corporation-jobs-649x400.jpg](/corporation-jobs-649x400.jpg =300x)
 
-Once the job is completed a delivery button will will appear to the status column of this window. Once your job is done deliver it as fast as possible so that they do not start to stack up. When you click on the deliver button your job will be delivered to the hangar you selected for it when you installed the job! If you did ME or TE research then the BPO will stay in the industrial hangar as they are locked down.
+Once the job is completed a delivery button will appear to the status column of this window. Once your job is done deliver it as fast as possible so that they do not start to stack up. When you click on the deliver button your job will be delivered to the hangar you selected for it when you installed the job! If you did ME or TE research then the BPO will stay in the industrial hangar as they are locked down.
 
 > Be aware that anyone is able to complete your jobs and take the manufactured items out from the hangar. For this reason building from a copy in your own hangar is the best way
 {.is-warning}
