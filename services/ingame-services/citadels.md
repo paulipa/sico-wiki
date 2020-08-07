@@ -2,13 +2,13 @@
 title: Citadels
 description: 
 published: true
-date: 2020-07-07T08:29:00.778Z
+date: 2020-08-07T10:18:16.142Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Citadels
-Upwell Structures or citadels are player build and controlled stations with a variety of service. Currently they are still under development and have a limited amount of features but as time goes on the amount of things they are capable of will go up.
+Upwell Structures or citadels are player-built and controlled stations with a variety of services. Currently they are still under development and have a limited amount of features but as time goes on the amount of things they are capable of will go up.
 
 Silent Coalition offers a variety of different citadels for your use depending on your operating locations. All of these structures are designed to improve your quality of gaming and provide you safe places to stage from. 
 
@@ -23,7 +23,7 @@ Only the players who have been granted either ACL manager role or admin role are
 
 The coalition leadership will make sure that all the coalition members and blue players have acess to the citadels and structures we own as well as use the services installed on them.
 
-> As long as you are part of any silent coalition corporation you will have access to the coalition wide citadels.
+> As long as you are part of any Silent Coalition corporation you will have access to the coalition wide citadels.
 {.is-success}
 
 ## Finding your citadels
