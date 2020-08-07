@@ -2,19 +2,19 @@
 title: Blog & Store
 description: 
 published: true
-date: 2020-07-18T05:45:44.096Z
+date: 2020-08-07T09:53:46.391Z
 tags: 
 editor: markdown
 ---
 
 # Store
-Our homepage includes a store where you can buy different ingame products and services from. Operating the store is like operating any other online store
+Our homepage includes a store where you can buy different ingame products and services from. Operating the store is like operating any other online store.
 
 ## Buying from the store
 1. Log in to the site with EVE Online SSO by pressing on the login button.
 1. Go to the shop page and put the items you are looking to buy in your cart. Some of the items may have a price on them.
 1. Once you are done shopping go to the cart and checkout page
-1. Make sure your billing name is exact as your character name. This is automatically pulled from your logged in character name unless you change it
+1. Make sure your billing name is exactly the same as your character name. This is automatically pulled from your logged in character name unless you change it
 1. If you want to receive updates about your order via email then enter a valid email address.
 1. Add additional information if needed
 1. Place order
@@ -25,7 +25,7 @@ Our homepage includes a store where you can buy different ingame products and se
 
 After checking out send the same amount of money to corporation called `Silent Coalition Holdings` and add the order number as the reason (ie. #6506).
 
-> You must include the order hashtag
+> You must include the order hashtag (#)
 {.is-warning}
 
 After API pulls your deposit your order status will change to processing.
@@ -41,13 +41,13 @@ When you write content you will label it with a correct category in order for pe
 To join the reporter group simply apply to the reporter group on AUTH group section. You will be interviewed via discord so make sure your discord service is active.
 
 ## Writing articles
-After you have been approved as a vendor you can start writing your articles.
+After you have been approved as a writer you can start writing your articles.
 1. Navigate to the homepage https://www.silentcoalition.com/ and log in with your main character using the EVE Online SSO login
 1. After you have logged in you will be able to see an admin dashboard. To add a new post click on `new->post`
 1. Add a title and content for your article
 1. Add a featured image to your post from the right hand side bar under the `featured image`. You can use the images we have or upload your own.
 1. Select a category from the categories section.
-1. Add tags for your post if you want. This is just optimal and mainly a SEO thing
+1. Add tags for your post if you want. This is just optional and mainly a SEO thing
 1. No need to touch any other options, simply click on publish to make your post public
 
 # Store vendors
@@ -93,4 +93,4 @@ from Ikarus Cesaille
 1. If old orders have been completed you can delete them from the sheet. Pretty much all orders that have a vendor marked are good to be deleted.
 1. Once the copies have been created you can fulfill the order by finding all needed copies and contracting them over to the client whos name you can see on the order
 ![store-order-billing.jpg](/store-order-billing.jpg =400x)
-1. Once done click on completed to mark the order as completed.
+1. Once done click on 'completed' to mark the order as completed.
