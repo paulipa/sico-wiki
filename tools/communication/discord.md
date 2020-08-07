@@ -2,9 +2,9 @@
 title: Discord
 description: 
 published: true
-date: 2020-07-07T16:33:03.366Z
+date: 2020-08-07T10:04:52.107Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # What is Discord?
@@ -18,7 +18,7 @@ Discord can be used both as a public group chat as well as to have private conve
 {.is-success}
 
 ## Joining and authenticating
-To join and authenticate on our discord is super easy. Like with all of our services you will get started from the [AUTH](/tools/auth) system page. Once you have registered and selected a main character you will be able to activate services from the services section.
+Joining and authenticating on our discord is super easy. Like with all of our services you will get started from the [AUTH](/tools/auth) system page. Once you have registered and selected a main character you will be able to activate services from the services section.
 
 ### Step 1
 First you will need to register on AUTH at https://auth.silentcoalition.com/. Guide for this can be found in [here](/tools/auth).
@@ -30,7 +30,7 @@ First you will need to register on AUTH at https://auth.silentcoalition.com/. Gu
 After you have registered on AUTH you will need to go to the services section on AUTH https://auth.silentcoalition.com/services/ and activate the discod service by pressing the yellow button next to it.
 
 ### Step 3
-After you click on the activation button the program will direct you to the discord login page. `Log in with the discord user you use normally as your main discord account.` If you are using the discord desktop client make sure that you are using the same account!
+After you click on the activation button the program will direct you to the discord login page. `Log in with the discord user you normally use as your main discord account.` **If you are using the discord desktop client make sure that you are using the same account!**
 
 ### Step 4
 Allow the bot to invite you to the server.
@@ -59,7 +59,7 @@ Since we do not want to spam people with too many pings on discord which may cau
 ### When can you use them
 Since normal members are unable to use the default pings these rules apply for groups who are able to access them such as CEOs, Directors and fleet commanders.
 
-- `@everyone` - Do not use this ping on global channels such as SC Comms or notifications unless the matter is extremely important. Most often only things that qualify as extremely important are stuff like citadel defence fleet pings for final layers or top prior fleet operations going out. You may use this ping freely on the special interest and staff groups if you rly need to get the message to all of the players
+- `@everyone` - Do not use this ping on global channels such as SC Comms or notifications unless the matter is extremely important. Most often only things that qualify as extremely important are stuff like citadel defence fleet pings for final layers or top priority fleet operations going out. You may use this ping freely on the special interest and staff groups if you rly need to get the message to all of the players
 - `@here` - Same as above, do not use this on any global channels. This is the ping to use mainly for fleets going up when you want all online players to know what something is happening.
 
 # Troubleshooting
@@ -68,7 +68,7 @@ Most common fix for discord not linking your roles
 ## Case 1: Wrong account
 **Problem**: `Most common problem for not getting your roles to sync` after you have activated the discord service is that you have activated the service with a wrong discord account. This happens when you are logged in on the web browser version discord with a different account that you use with your client. This causes you to authenticate on the web browser account allowing you to get roles on that account while leaving your primary account that you use on the client unauthenticated.
 
-**Fix**: To fix this first log out from the discord web browser app. Additionally also log out or close the discord client on your PC. Deactivate the discord service on the AUTH service page by pressing the big red X. Now activate the service again and make sure that when asked to log in on the web browser discord (if you are not asked to log in you didnt log out your client) you log in with the account that you use on your discord client.
+**Fix**: To fix this first log out from the discord web browser app at discord.com/app. Additionally also log out or close the discord client on your PC. Deactivate the discord service on the AUTH service page by pressing the big red X. Now activate the service again and make sure that when asked to log in on the web browser discord (if you are not asked to log in you didnt log out your client) you log in with the account that you use on your discord client.
 
 ## Case 2: API Cache
 **Problem**: If you just joined the corporation and activated the discord service your API cache may have not been updated yet. If you got a guest role on discord it means that your account is synced correctly.
