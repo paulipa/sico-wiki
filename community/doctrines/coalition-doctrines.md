@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-07T08:47:53.975Z
+date: 2020-08-07T08:53:32.920Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -758,8 +758,8 @@ Mining Laser Upgrade II
 Mining Laser Upgrade II
 
 Multispectrum Shield Hardener II
-Compact Anti-Thermal Shield Hardener
-Anti-Kinetic Shield Hardener II
+Compact Thermal Shield Hardener
+Kinetic Shield Hardener II
 Medium Shield Extender II
 
 Modulated Strip Miner II
@@ -801,7 +801,7 @@ Mining Laser Upgrade II
 Mining Laser Upgrade II
 Mining Laser Upgrade II
 
-Compact Adaptive Invulnerability Shield Hardener
+Compact Multispectrum Shield Hardener
 
 Modulated Strip Miner II
 Modulated Strip Miner II
@@ -823,8 +823,8 @@ Damage Control II
 Mining Laser Upgrade II
 Mining Laser Upgrade II
 
-Thermal Dissipation Amplifier II
-Kinetic Deflection Amplifier II
+Thermal Shield Amplifier II
+Kinetic Shield Amplifier II
 Medium Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
@@ -850,8 +850,8 @@ Mining Laser Upgrade II
 Mining Laser Upgrade II
 
 Multispectrum Shield Hardener II
-Domination Thermal Dissipation Amplifier
-Domination Kinetic Deflection Amplifier
+Domination Thermal Shield Amplifier
+Domination Kinetic Shield Amplifier
 Survey Scanner II
 
 Modulated Strip Miner II
@@ -874,8 +874,8 @@ Mining Laser Upgrade II
 
 Survey Scanner II
 Compact Adaptive Invulnerability Shield Hardener
-EM Ward Amplifier II
-Thermal Dissipation Amplifier II
+EM Shield Amplifier II
+Thermal Shield Amplifier II
 
 Modulated Strip Miner II
 Modulated Strip Miner II
@@ -923,10 +923,10 @@ Damage Control II
 Reinforced Bulkheads II
 
 Multispectrum Shield Hardener II
-Anti-Kinetic Shield Hardener II
-Anti-EM Shield Hardener II
+Kinetic Shield Hardener II
+EM Shield Hardener II
 Multispectrum Shield Hardener II
-Anti-Thermal Shield Hardener II
+Thermal Shield Hardener II
 
 Medium Remote Shield Booster II
 Medium Remote Shield Booster II
@@ -1023,7 +1023,7 @@ Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 Federation Navy Stasis Webifier
 Federation Navy Stasis Webifier
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 
 Modal Mega Neutron Particle Accelerator I
 Modal Mega Neutron Particle Accelerator I
@@ -1218,7 +1218,7 @@ Republic Fleet Large Cap Battery
 Multispectrum Shield Hardener II
 50MN Y-T8 Compact Microwarpdrive
 Cap Recharger II
-Anti-EM Shield Hardener II
+EM Shield Hardener II
 Multispectrum Shield Hardener II
 
 Skirmish Command Burst II
@@ -1259,7 +1259,7 @@ Republic Fleet Large Cap Battery
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
-Pith A-Type Anti-EM Shield Hardener
+Pith A-Type EM Shield Hardener
 Eutectic Compact Cap Recharger
 
 Pithum A-Type Medium Remote Shield Booster
