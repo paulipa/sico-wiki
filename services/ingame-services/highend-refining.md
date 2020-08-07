@@ -2,9 +2,9 @@
 title: Refining Service
 description: 
 published: true
-date: 2020-07-06T17:13:01.184Z
+date: 2020-08-07T10:21:31.433Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Refining Service
@@ -13,7 +13,7 @@ May you be a miner looking to sell his/her ores in a more friendly form or a man
 
 Our coalition has characters in it that have maximum refining efficiency from skills and implants. As this is combined by our maximum rigged citadels with refining services you will be able to get the most of your ores with minor efforts!
 
-> The refining service is a totaly free refining service.
+> The refining service is a totally free service.
 {.is-info}
 
 ## How does it work
