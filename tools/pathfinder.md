@@ -2,7 +2,7 @@
 title: Pathfinder
 description: 
 published: true
-date: 2020-07-16T20:17:56.303Z
+date: 2020-08-07T10:14:11.682Z
 tags: 
 editor: markdown
 ---
@@ -19,7 +19,7 @@ Setting up Pathfinder is extremely simple. All you need to do is navigate to htt
 
 Right after you have logged in you will be able to see the different maps such as WH HQ, PI Land and SICO GLOBAL that will be used for all mappings. These maps are shared with all the SiCO corporations and all members in the coalition can take advantage of it.
 
-You should always use the correct map that corresponds to your current location. If you are scanning in our wormhole HQ system (J105348) you should use the map that says J105348. This is important in order to avoid clustering up maps with all different wormholes.
+You should always use the correct map that corresponds to your current location. If you are scanning in our PI Wormhole system (J133653) you should use the map that says 'J133653'. This is important in order to avoid clustering up maps with all different wormholes.
 
 For non-default locations, you can either use the SICO global map that is shared with all coalition members, or create a new one for your own corporation (not detailed here).
 
