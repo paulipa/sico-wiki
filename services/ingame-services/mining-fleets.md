@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2020-07-26T11:14:47.997Z
+date: 2020-08-07T10:36:09.688Z
 tags: 
 editor: markdown
 ---
@@ -25,10 +25,10 @@ Boosters in EVE (known as buffers in some MMOS) are players who are flying ships
 ## Fleet system
 The fleeting system in EVE is a game mechanism that makes it easier to maneuver several players at the same time, provide fleet broadcasts and boost the other fleet members. Fleets can be created at any time for any reason by any pilots. Different settings are used to allow different access types for other players to the fleet.
 
-A fleet can only have one boss who determines he access settings and is able to change the MOTD message of the fleet. Besides of the boss there can be several players in commander positions that are able to manipulate the players bellow them.
+A fleet can only have one boss who determines he access settings and is able to change the MOTD message of the fleet. Besides the boss there can be several players in commander positions that are able to manipulate the players below them.
 
 ## Fleet hierarchy
-A fleet has three different layers in it but not all of them has to be used. One fleet can hold up to 256 pilots. On top of te fleet layers is the fleet commander (fleet) position. Bellow the fleet commander there can be up to 5 different wing commanders (wings). Again under each wing there can be up to 5 different squad commanders (squads) while each of these squads holds unlimited amount of players, up to the fleets maximum capacity. Each of the players holding a commander position is able to maneuver all of the members bellow themselves. This means that the fleet commander is able to warp the whole fleet of 256 players at same time while the wing commanders are able to warp only a total of 51 pilots (all the players in the 5 squads bellow him + him/herself).
+A fleet has three different layers in it but not all of them have to be used. One fleet can hold up to 256 pilots. On top of the fleet layers is the fleet commander (fleet) position. Below the fleet commander there can be up to 5 different wing commanders (wings). Again under each wing there can be up to 5 different squad commanders (squads) while each of these squads holds unlimited amount of players, up to the fleets maximum capacity. Each of the players holding a commander position is able to maneuver all of the members below themselves. This means that the fleet commander is able to warp the whole fleet of 256 players at same time while the wing commanders are able to warp only a total of 51 pilots (all the players in the 5 squads below him + him/herself).
 
 When creating a new fleet the fleet only contains the minimum setup to host one squad of members which is: One fleet commander, one wing commander and one squad commander the member squad. The player holding the fleet boss status is able to create more wings and squads if needed.
 
@@ -60,16 +60,16 @@ The easiest way for you to see any fleets available for you is to use the fleet 
 Sometimes the mining fleet may be linked in the SC Comms MOTD. People may also drag and drop the fleet advert from the fleet finder window to chat channels to create direct links to the fleets. When you click on these links you will automatically join the fleet but only if you meet the set requirements (aka. you would see the fleet yourself on the fleet finder).
 
 ### Direct Invite
-The only way for you to join a fleet that you can’t see in the fleet finder is for someone to directly invite you to it. Each player in the fleet is able to invite players directly in to the positions bellow their own position. The easiest way for a commander to do this is to drag and drop the name of the player from a chat window to the desired position. When you receive a direct invite a pop-up window will appear. You only have 120 seconds to accept this invitation or the invitation expires. The pop-up will remain on your screen until you close it or try to accept it but if the invitation has expired you will not be able to join te fleet.
+The only way for you to join a fleet that you can’t see in the fleet finder is for someone to directly invite you to it. Each player in the fleet is able to invite players directly in to the positions below their own position. The easiest way for a commander to do this is to drag and drop the name of the player from a chat window to the desired position. When you receive a direct invite a pop-up window will appear. You only have 120 seconds to accept this invitation or the invitation expires. The pop-up will remain on your screen until you close it or try to accept it but if the invitation has expired you will not be able to join the fleet.
 
 ## How to receive the boost and find your fleet
 Once you have joined a fleet a new chat window and a fleet window will open. You will be using these windows to move yourself to the locations where the fleet is at and to receive the mining boost.
 
 In most SC Mining fleets the booster is sitting in the highest possible position and is holding the boss start for the fleet. Since the booster has to be located where the mining is happening the easiest way to find your fleet members is to right click on the fleet commander in the fleet window and pressing warp to member.
 
-If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster! Most of the SC fleets operates in Maspah as long as there is ores to be mined.
+If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster! Most of the SC fleets operates in Ronne or Jarkkolen as long as there is ores to be mined.
 
-After landing on the fleet you can start mining while remaining inside the range of the command burst ship. The best way to do this is to keep orbiting the command ship at range. Each minute the ship will send out a are of effect burst that will boost your mining attributes. Once your ore hold is full you simply empty it and repeat the steps.
+After landing on the fleet you can start mining while remaining inside the range of the command burst ship. The best way to do this is to keep orbiting the command ship at range. Each minute the ship will send out an area of effect burst that will boost your mining attributes. Once your ore hold is full you simply empty it and repeat the steps.
 
 > All miners who are on the mining fleets should be on voice comms! This is to alert them for incoming gankers or criminals in space.
 {.is-warning}
@@ -83,16 +83,16 @@ There are a few places where you can ask for people to raise mining fleets in ca
 ### Discord
 The ultimately best way to ask `mining boosters` to raise fleets is to do it in discord. 
 
-Discord is a third party chat and voice program which allows you to contact also those boosters that are not currently online but would otherwise be able to set up a fleet for you!
+Discord is a third party chat and voice program which allows you to contact all those boosters that are not currently online but would otherwise be able to set up a fleet for you!
 ![ping-commander-800x222.jpg](/ping-commander-800x222.jpg =400x)
 
-After registering and authenticating on [discord](/tools/communication/discord) you simple type `@imining booster` in the #sc-comms chat channel and ask them if anyone would be able to set up a fleet. Only ask once a while and never spam it in case no one is answering to you.
+After registering and authenticating on [discord](/tools/communication/discord) you simply type `@imining booster` in the #sc-comms chat channel and ask them if anyone would be able to set up a fleet. Only ask once a while and never spam it in case no one is answering to you.
 
 ### SC Comms
 If you do not want to use discord for some reason or happen to see a Industry Commander online in SC Comms you can try to ask in there for them to raise a fleet. However the disadvantage in this compared to discord is that the players holding the role are not getting a notification for this and the message could easily scroll away. The second downside is that the players might be simply AFK or doing something else on some other accounts.
 
 ## Ship Replacement Request 
-Sometimes you lose your ship and that is prefectly normal in EVE. To try to avoid this you should follow the guidelines we have set in here for the standard mining fleet:
+Sometimes you lose your ship and that is perfectly normal in EVE. To try to avoid this you should follow the guidelines we have set in here for the standard mining fleet:
 - Do not AFK mine
 - Be on voice comms
 - Use the doctrine Venture, Procurer, Skiff or Orca with proper fitting
@@ -164,7 +164,6 @@ To generate the SRP link you need to have the mining booster role. See the guide
 
 This way all players who wish to mine always know what fleet to join and what to do when in the fleet!
 
-Once you are about to close down the fleet or if the fleet has been online for a good while (around 1 hour) you should give the members some FAT points.
 
 # Coalition fundraising fleets
 Any player with the mining booster role is able to raise coalition fund raising fleets. The income from these fleets will be used to support other coalition programs such as the capital ship program.
