@@ -2,30 +2,30 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2020-07-20T11:47:55.949Z
+date: 2020-08-07T10:54:09.909Z
 tags: 
 editor: markdown
 ---
 
 # Member Qualification Program
-The Member Qualification Program (MQP) is a program that will push you thorough all of our core services and teach you the basics of flying together with your fellow pilots. It is designed to be easy to follow and complete even with minimal or none understanding of the various fleet mechanisms in the game.
+The Member Qualification Program (MQP) is a program that will push you thorough all of our core services and teach you the basics of flying together with your fellow pilots. It is designed to be easy to follow and complete even with minimal or no understanding of the various fleet mechanisms in the game.
 
 **After completing the course you will be rewarded a member title if you are in SEADC** and you will gain access to the in-game assets restricted behind this role.
 
-**The MQP is a three step program** that includes a systems checklist for setting up all of your systems (once before your first ever fleet), pre-fleet section (before every fleet you join) that will make sure you are set and ready for the training fleet and the actuall training fleet, in which you will be taken either into PvE or PvP action in a fleet enviroment and get to use the skills that you have red about in the pre-fleet section.
+**The MQP is a three step program** that includes a systems checklist for setting up all of your systems (once before your first ever fleet), pre-fleet section (before every fleet you join) that will make sure you are set and ready for the training fleet and the actual training fleet, in which you will be taken either into PvE or PvP action in a fleet enviromment and get to use the skills that you have read about in the pre-fleet section.
 
 Please follow each step mentioned in this guide to make sure you are ready for the training fleet and have activated all of the required services.
 
-> MQP fleets are not limited to new players! You are allowed to join them again later on at any time whenever a fleet goes live.
+> MQP fleets are not limited to new players! You are allowed to join them again later or at any time whenever a fleet goes live.
 {.is-success}
 
 # Systems Checklist
-It is highly recommended that you have everything set up for fleet operations before you attend the MQP fleets. This is to allow us to spend more time on the fleet itself rather than setting up each members that are not set up.
+It is highly recommended that you have everything set up for fleet operations before you attend the MQP fleets. This is to allow us to spend more time on the fleet itself rather than setting up each member that is not set up.
 
 You only need to do the systems checklist once before you join your first ever fleet. The systems will be all set after that for any future operations unless you change your PC and lose settings such as overview settings.
 
 ## 1. Join SC Comms ingame channel
-All of our fleets will be linked in the coalition general channel. While you should had done this right away when you joined the coalition now you can still fix the mistake if you havent. You can read more about the communication channel in here [Ingame Channels](/tools/communication/ingame-channels)
+All of our fleets will be linked in the coalition general channel. While you should had done this rightaway when you joined the coalition, you can still fix the mistake now if you haven't done so yet. You can read more about the communication channels in here [Ingame Channels](/tools/communication/ingame-channels)
 
 ## 2. Register on AUTH
 If for some reason you have not yet registered on AUTH now is the time to do it. Please follow the guide in here for AUTH registration as you will need it in the next steps: [AUTH guide](/tools/auth)
@@ -66,7 +66,7 @@ When we are talking about doctrinse in EVE online we are talking about ships, fi
 The corporation and coalition has created a few basic doctrine ships that you should aim for. These ships have been designed based on our fleet numbers and pilot capabilities. All of our doctrines are visible in here https://wiki.silentcoalition.com/en/community/doctrines
 
 ### MQP Doctrine
-MQP fleets have a standard doctrine that will help you getting started with the training for the larger doctrine hulls. There are two different types of MQP doctrines: Newbro MQP fits and Advanced MQP fits.
+MQP fleets have a standard doctrine that will help you getting started with the training for the larger doctrine hulls. There are two different types of MQP doctrines: Newbro MQP fits and 2 Advanced MQP fits.
 
 Newbro MQP fits are meant for brand new players who have low skill points. These basic ships are super fast to train for and will allow you to join any MQP fleet. They include both low value DPS ships and logistic ships for you to choose from.
 
@@ -84,13 +84,13 @@ This doctrine contains different types of ships with the following importance or
 The logistic ships are always in high demand in all fleet types. They are the ships that keeps the other ships alive (aka. healers). Since logistic ships do not provide any benefits for solo playing they are most often not the first choice for new players to train for. However the amount of logistics is what often determines if a fleet stays alive or dies. Great thing about logistic ships are that they work out with several different doctrine setups (shield logistics for shield tanked fleets and armor ones for armor tanked fleets)
 
 #### DPS Ships
-DPS ships are the main punching force of the fleet. It provides the killing force and without DPS there is no point to engage in a fight. Problem with DPS doctrines are that there are a vast variety of different DPS doctrines depending on the fleet composition. With a community that has a lot of different doctrines it also mean that you need to train for a lot of fits.
+DPS ships are the main punching force of the fleet. They provides the killing force and without DPS there is no point to engage in a fight. Problem with DPS doctrines are that there are a vast variety of different DPS doctrines depending on the fleet composition. With a community that has a lot of different doctrines it also mean that you need to train for a lot of fits.
 
 #### Tackle ships
 Tackle ships are also in key role in fleet engagements. Most often the amount of kills a fleet can get depends on the amount of enemies they are able to tackle and hold still. As the main DPS ships are slow and bulky they are unable to hold down the enemy ships. This is where tackle comes in. A good tackler in the right place can make all the difference in the killboard.
 
 #### Support Ships
-Support ships are designed for players with low skill points. While they do not provide much DPS or logistics or tackling power to the field they support and boost the effects of the main doctrine ships. They are most often fitted with electronic warfare modules such as target painters that will increase enemy signature radios making the whole rest of the fleet hit them harder.
+Support ships are designed for players with low skill points. While they do not provide much DPS or logistics or tackling power to the field they support and boost the effects of the main doctrine ships. They are most often fitted with electronic warfare modules such as target painters that will increase enemy signature radius making the whole rest of the fleet hit them harder.
 
 ## 7. Buying & Fitting doctrine ships
 Once you know what doctrine ships are used in the coalition fleets the next task is to buy and fit the ships. There are several methods for buying your ships, some more efficient than others.
@@ -109,13 +109,15 @@ If there are no doctrine contracts up for you then the next thing you can do is 
 
 You may not even find all of the items from the market you are looking at! If you are far out from markets then it is important that you have bought your fit and ship before the fleet starts!
 
+In the case of the MQP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the SiCo Trade Center. Due to the logistical effort the prices here will be higher than in Jita.
+
 ### Fitting doctrine ships
 You are allowed to change the meta version of the module (T1, T2 or meta 1-4) of any doctrine if you are unable to fly the fit with the T2 modules. 
 
 > You are not allowed to change the module type of the doctrines!
 {.is-danger}
 
-For example changing a micro warp drive to an afterburner because you do not have high enough fittings skills to fit the micro MWD. If you change the module types you change how the ship behave in combat situations and either hurt your own or the whole fleets performance.
+For example changing a micro warp drive to an afterburner because you do not have high enough fittings skills to fit the micro MWD is not allowed. If you change the module types you change how the ship behave in combat situations and either hurt your own or the whole fleets performance.
 
 > Changing meta version of the module may effect your ship total price. Be aware that if the total price is greatly increased you may not receive full SRP payouts for modified fits.
 {.is-warning}
@@ -141,10 +143,10 @@ If you do not have your MQP ship located in the starting location for the fleet 
 Like in most activities in EVE death is always lurking behind the corner. Be prepared to lose everything you bring with you, including your POD. To save your implants you should switch to an empty clone. It is also a good idea to have your death clone set at the staging system so that you can easily reship if you die. You can read more about jump and medical clones in here: [Guides: Clones](/services/guides/clones)
 
 # MQP Fleet
-It is finally time to actually get to play the game itself! When a MQP fleet is up this is how it is all going to go down. The actual fleet may and most likely will differ from the fleet structure descried in this section and it is more used as a guide for the fleet commanders so that they do not miss anything.
+It is finally time to actually get to play the game itself! When a MQP fleet is up this is how it is all going to go down. The actual fleet may and most likely will differ from the fleet structure described in this section and it is more used as a guide for the fleet commanders so that they do not miss anything.
 
 ## 1. Join the fleet
-**Whenever a flete is going up you will receive a ping on our discord.** Check the ping for the fleet details and find the fleet in the fleet finder or by clicking on the link that should be posted on the SC Comms in-game channel.
+**Whenever a fleet is going up you will receive a ping on our discord.** Check the ping for the fleet details and find the fleet in the fleet finder or by clicking on the link that should be posted on the SC Comms in-game channel.
 ![fleet-search.jpg](/fleet-search.jpg =300x)
 
 ## 2. Check the MOTD
@@ -153,20 +155,23 @@ The fleet MOTD is similar to normal MOTDs and will be located on top of the flee
 See the gif for reloading MOTD: [Reloading MOTD](/reload-motd_(1).mp4)
 
 ## 3. Join the voice comms
-Now that you are in a fleet all of the commands and information will be give over voice comms. Check the MOTD of the fleet channel to see if a specific channel is described and if not seek for Discord voice channel with members in it.
+Now that you are in a fleet all of the commands and information will be given over voice comms. Check the MOTD of the fleet channel to see if a specific channel is described and if not seek for Discord voice channel with members in it.
 
 > Always pay close attention to the commands on the voice comms and let the FC know if you need to AFK.
 {.is-info}
 
 # During the Fleet
-From this point on you are in the hands of your fleet commander. During the MQP fleets the commander will take you thorough the following things mentioned in the FC’s Checklist for MQP Fleets in here: [FC Checlist for MQP fleets](/services/flightmanuals/fc-mqp-checklist)
+From this point on you are in the hands of your fleet commander. During the MQP fleets the commander will take you through the following things mentioned in the FC’s Checklist for MQP Fleets in here: [FC Checlist for MQP fleets](/services/flightmanuals/fc-mqp-checklist)
 
 # After the fleet, finishing your training
 After the MQP fleet is over you are qualified for your member title. The member title will be given for all players who have attended the MQP fleets and who have registered their participation in the fleet by using the FAT system.
 
+> The FAT system is automatic and will be handled by your FC. Make sure to stay in the fleet even if you die early on to be applicable for the FAT and SRP.
+{.is-info}
+
 If you attended a PvP fleet and had losses in the fleet then you also may want to apply for SRP. You can read more about SRP in here: [Ship replacement program](/services/programs/ship-replacement-program)
 
-> If you want the membet title given on your alt please mail your alt names to your corporation CEO as we won’t check your alts when we give out the member title for the character that has taken part in the MQP fleet.
+> If you want the member title given on your alt please mail your alt names to your corporation CEO as we won’t check your alts when we give out the member title for the character that has taken part in the MQP fleet.
 {.is-success}
 
 
