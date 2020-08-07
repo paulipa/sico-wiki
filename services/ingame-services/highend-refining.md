@@ -2,7 +2,7 @@
 title: Refining Service
 description: 
 published: true
-date: 2020-08-07T10:21:31.433Z
+date: 2020-08-07T10:22:05.355Z
 tags: 
 editor: markdown
 ---
@@ -17,7 +17,7 @@ Our coalition has characters in it that have maximum refining efficiency from sk
 {.is-info}
 
 ## How does it work
-To get your ores refined you will both need to order a refining service from the homepage market section and contract your ores to the character, that you just bought the service from.
+To get your ores refined you will need to order a 'refining service' from the homepage market section and contract your ores to the character that you just bought the service from.
 
 Simply buy one of the refining services from the market and check the item description on the market about who you should contract your ores to.
 
