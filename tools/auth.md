@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-08-07T09:48:48.787Z
+date: 2020-08-08T16:40:18.528Z
 tags: 
 editor: markdown
 ---
@@ -199,16 +199,25 @@ Coalition aims to keep pings to a minimum so that in case we have an actually im
 
 ### Ping rules
 1. Schedule fleets via https://auth.silentcoalition.com/optimer/. All fleets scheduled in here will automatically be posted in the `#operations` channel on discord. 
-1. 30 minutes prior to the fleet timer there will be an automatic notification again on the `#operations` channel
 1. When your fleet goes up ping it at the `#fleet-pings` channel with the formatter.
-	1. For stratop and CTA fleets use `@here` pings. We want to keep these to minimum
+	1. For stratop and CTA fleets use `@here` or `@everyone` pings. We want to keep these to minimum
   	2. For every other fleet **please pick the correct SIG group** from the drop down window on the formatter.
+    
+If you need to hype or rage ping a non CTA fleet more than this you can ping `@here` inside the SIG channels.
 
 ### Pre Pings
-For imporant operations you can create a pre ping by ticking the pre ping box on the formatter and selecting the channel to be PRE pings channel `#operations`. In here you can include more details about your fleet.
+You can create pre notifications about your fleet if you want to hype it up. To do so:
+1. Open the Discord Ping Formatter
+1. Tick the Pre-Ping box
+1. Ping target: 
+	1. For stratop and CTA fleets use `@here` pings.
+  	1. For every other fleet **please pick the correct SIG group** from the drop down window on the formatter.
+    1. You can also send out the pre notification without a ping. Use the NO PING option.
+1. Select ping target to `PRE pings (#operations)`
+1. Fill in rest of the information
 
-Do not create any pings and use the `no ping` option for pre fleets **unless it is a CTA fleet!**
 
+If you want to hype a normal non CTA fleet more than this you can ping `@here` inside the SIG channels.
 
 
 
