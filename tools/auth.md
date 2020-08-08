@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-08-08T16:41:19.043Z
+date: 2020-08-08T16:41:29.110Z
 tags: 
 editor: markdown
 ---
@@ -217,7 +217,7 @@ You can create pre notifications about your fleet if you want to hype it up. To 
 1. Fill in rest of the information
 
 
-If you want to hype a normal non CTA fleet more than this you can ping `@here` inside the SIG channels.
+If you need to hype or rage ping a non CTA fleet more or extend the ping to multiple SIGS you can ping `@here` inside the SIG channels.
 
 
 
