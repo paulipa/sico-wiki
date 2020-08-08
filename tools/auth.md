@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-08-08T16:40:18.528Z
+date: 2020-08-08T16:41:19.043Z
 tags: 
 editor: markdown
 ---
@@ -203,7 +203,7 @@ Coalition aims to keep pings to a minimum so that in case we have an actually im
 	1. For stratop and CTA fleets use `@here` or `@everyone` pings. We want to keep these to minimum
   	2. For every other fleet **please pick the correct SIG group** from the drop down window on the formatter.
     
-If you need to hype or rage ping a non CTA fleet more than this you can ping `@here` inside the SIG channels.
+If you need to hype or rage ping a non CTA fleet more or extend the ping to multiple SIGS you can ping `@here` inside the SIG channels.
 
 ### Pre Pings
 You can create pre notifications about your fleet if you want to hype it up. To do so:
