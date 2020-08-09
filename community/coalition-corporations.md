@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-08-09T09:43:25.009Z
+date: 2020-08-09T09:44:19.928Z
 tags: 
 editor: markdown
 ---
@@ -72,7 +72,7 @@ All of the entry level corporations are fairly similar and have the same service
 - Triglavian Invasions
 - PRO Triglavian
 # Language Partners
-## [Maniac Mining SQUAD](/community/coalition-corporations/mmsq)
+## [Maniac Mining SQUAD [MMSQ]](/community/coalition-corporations/mmsq)
 - Korean
 - High Sec
 - Silent Company member
