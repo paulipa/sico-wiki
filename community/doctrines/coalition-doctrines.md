@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-07T08:56:10.821Z
+date: 2020-08-10T20:41:09.438Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1595,6 +1595,39 @@ Tracking Speed Script x1
 Imperial Navy Multifrequency M x5
 Imperial Navy Standard M x5
 Optimal Range Script x1
+</details>
+
+<details>
+<summary>Vexor, Vexor Daytrip</summary>
+[Vexor, ༺༒༻ Vexor Daytrip]
+AE-K Compact Drone Damage Amplifier
+AE-K Compact Drone Damage Amplifier
+Prototype Energized Adaptive Nano Membrane I
+Prototype Energized Adaptive Nano Membrane I
+800mm Crystalline Carbonide Restrained Plates
+
+50MN Y-T8 Compact Microwarpdrive
+X5 Enduring Stasis Webifier
+Faint Scoped Warp Disruptor
+Large Compact Pb-Acid Cap Battery
+
+Drone Link Augmentor I
+150mm Carbide Railgun I
+150mm Carbide Railgun I
+150mm Carbide Railgun I
+
+Medium Explosive Armor Reinforcer I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+
+Valkyrie I x5
+Hobgoblin I x5
+Hammerhead I x5
+
+Lead Charge S x10000
+Antimatter Charge S x10120
 </details>
 
 <details>
