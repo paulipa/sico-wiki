@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-10T20:45:47.885Z
+date: 2020-08-10T20:54:48.085Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1600,6 +1600,7 @@ Optimal Range Script x1
 <details>
 <summary>Vexor, Vexor Daytrip</summary>
 [Vexor, ༺༒༻ Vexor Daytrip]
+  
 AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
 Prototype Energized Adaptive Nano Membrane I
