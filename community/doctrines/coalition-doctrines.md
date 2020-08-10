@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-10T20:41:09.438Z
+date: 2020-08-10T20:45:47.885Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -1628,37 +1628,6 @@ Hammerhead I x5
 
 Lead Charge S x10000
 Antimatter Charge S x10120
-</details>
-
-<details>
-<summary>Vexor Navy Issue, WH Daytrip VNI</summary>
-[Vexor Navy Issue, WH Daytrip VNI]
-
-Drone Damage Amplifier II
-Drone Damage Amplifier II
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
-Damage Control II
-1600mm Steel Plates II
-
-10MN Afterburner II
-X5 Enduring Stasis Webifier
-Warp Scrambler II
-Small Capacitor Booster II
-
-Small Infectious Scoped Energy Neutralizer
-Small Infectious Scoped Energy Neutralizer
-Drone Link Augmentor I
-Small Solace Scoped Remote Armor Repairer
-
-Medium Explosive Armor Reinforcer II
-Medium Trimark Armor Pump I
-Medium Trimark Armor Pump I
-
-Federation Navy Ogre x5
-Valkyrie II x5
-Warrior II x5
-Navy Cap Booster 400 x24
 </details>
 
 ### Logistics
