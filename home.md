@@ -2,11 +2,12 @@
 title: Wiki Home
 description: 
 published: true
-date: 2020-07-07T11:33:23.570Z
+date: 2020-08-11T08:26:32.332Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
+# ![sico-logo-512x512.png](/sico-logo-512x512.png =32x) Silent Coalition Wiki
 Welcome to the public Silent Coalition wiki.
 
 This wiki contains information that is relevant for operations for coalition pilots.
