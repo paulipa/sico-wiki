@@ -2,9 +2,9 @@
 title: Joining us
 description: 
 published: true
-date: 2020-07-07T15:53:15.595Z
+date: 2020-08-12T15:25:00.500Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Joining us as a player
@@ -52,12 +52,17 @@ You can check your application status from `corporation window->recruitment->my 
 To accept the invitation open the `corporation window->recruitment->my applications` and press on accept on the invitation.
 
 ## Language options
+These corporations are our recommended language partners that we offer for players that do not wish or can't operate in Enlish speaking corporations. 
+
+While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
+
 The default entry corporations are english speaking only. If you are looking for corporations within the coalition that do not communicate in english have a look at the following channels:
 
 - For russian corporations join channel `Sico Public RU`
 - For chinese corporations join channel `Sico Public ZH`
+- For korean corporations join channel `Sico Public KO`
 
-Follow the information in the pinned message in each channel to proceed.
+Follow the information in the pinned message in each channel to proceed to join the corporation of your choise.
 
 # Joining coalition as a corporation
 If you are seeking to join the coalition as a corporation please refer to the coalition rules and the requirements for different types of coalition corporations in here: [Requirements for coalition corporations](/community/rules#requirements-for-all-coalition-members)
