@@ -2,7 +2,7 @@
 title: Joining us
 description: 
 published: true
-date: 2020-08-12T15:25:17.002Z
+date: 2020-08-12T15:28:37.242Z
 tags: 
 editor: markdown
 ---
@@ -52,7 +52,7 @@ You can check your application status from `corporation window->recruitment->my 
 To accept the invitation open the `corporation window->recruitment->my applications` and press on accept on the invitation.
 
 ## Language options
-These corporations are our recommended language partners that we offer for players that do not wish or can't operate in Enlish speaking corporations. 
+These corporations are our recommended language partners that we offer for players who do not wish or can't operate in Enlish. 
 
 While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
 
