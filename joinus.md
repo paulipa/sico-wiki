@@ -2,7 +2,7 @@
 title: Joining us
 description: 
 published: true
-date: 2020-08-12T15:25:00.500Z
+date: 2020-08-12T15:25:17.002Z
 tags: 
 editor: markdown
 ---
@@ -62,7 +62,7 @@ The default entry corporations are english speaking only. If you are looking for
 - For chinese corporations join channel `Sico Public ZH`
 - For korean corporations join channel `Sico Public KO`
 
-Follow the information in the pinned message in each channel to proceed to join the corporation of your choise.
+Follow the information in the pinned message in each channel to proceed to join the corporation of your choice.
 
 # Joining coalition as a corporation
 If you are seeking to join the coalition as a corporation please refer to the coalition rules and the requirements for different types of coalition corporations in here: [Requirements for coalition corporations](/community/rules#requirements-for-all-coalition-members)
