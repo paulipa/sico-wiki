@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-07-23T14:59:33.156Z
+date: 2020-08-12T15:27:42.106Z
 tags: 
 editor: markdown
 ---
@@ -87,9 +87,11 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 - Corporation has full autonomy over their own corporation excluding the matters mentioned above.
 
 ## Language partner corporations
-Language partner corporations are special case corporations that are loosely integrated into the coalition. The purpose of these non English speaking corporations is to provide content for non English speaking players.
+Language partner corporations are special case corporations that are loosely connected to the coalition. The purpose of these non English speaking corporations is to provide content for non English speaking players.
 
-As most of the members in these corporations do not speak English or may not be able to register to coalition services due to geo-blocking the above coalition rules do not apply on these corporations.
+These corporations are our recommended language partners that we offer for players who do not wish or can't operate in Enlish. We also advertise these corporations in our general recruitment mails.
+
+While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
 
 In order to qualify as a language partner corporation for SiCO your corporation will need to:
 
