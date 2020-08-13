@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-08-13T13:24:12.656Z
+date: 2020-08-13T13:24:50.636Z
 tags: 
 editor: markdown
 ---
@@ -350,7 +350,7 @@ Acolyte II x5
 
 Armor Energizing Charge x300
 Rapid Repair Charge x300
-Inherent Implants 'Squire' Power Grid Management EG-601 x1
+Inherent Implants 'Squire' Power Grid Management EG-602 x1
 </details>
 
 ### Logi and Tackle
