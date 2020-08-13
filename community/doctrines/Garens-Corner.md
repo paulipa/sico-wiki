@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-08-13T11:00:25.294Z
+date: 2020-08-13T13:24:12.656Z
 tags: 
 editor: markdown
 ---
@@ -327,7 +327,7 @@ Inherent Implants 'Squire' Power Grid Management EG-602 x1
 
 Damage Control II
 Energized Adaptive Nano Membrane II
-400mm Rolled Tungsten Compact Plates
+400mm Steel Plates II
 Multispectrum Coating II
 Multispectrum Coating II
 
