@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-08-13T13:24:50.636Z
+date: 2020-08-13T13:25:40.307Z
 tags: 
 editor: markdown
 ---
@@ -322,7 +322,7 @@ Inherent Implants 'Squire' Power Grid Management EG-602 x1
 </details>
 
 <details>
-  <summary>Links - Pontifex (Replace with T2 Links if possible)</summary>
+  <summary>Links - Pontifex (Replace with T2 Links and add PG-602 if possible)</summary>
 [Pontifex, *Pontifex]
 
 Damage Control II
@@ -350,7 +350,6 @@ Acolyte II x5
 
 Armor Energizing Charge x300
 Rapid Repair Charge x300
-Inherent Implants 'Squire' Power Grid Management EG-602 x1
 </details>
 
 ### Logi and Tackle
