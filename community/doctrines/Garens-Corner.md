@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-07-31T10:57:52.055Z
+date: 2020-08-13T11:00:25.294Z
 tags: 
 editor: markdown
 ---
@@ -389,11 +389,11 @@ Navy Cap Booster 400 x20
 [Thalia, Thalia]
 
 Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Coating II
 400mm Rolled Tungsten Compact Plates
 Energized Explosive Membrane II
 
-Peripheral Compact Target Painter
+Remote Sensor Booster II, Scan Resolution Script
 Small F-RX Compact Capacitor Booster
 5MN Y-T8 Compact Microwarpdrive
 
@@ -403,7 +403,6 @@ Small Coaxial Compact Remote Armor Repairer
 
 Small Trimark Armor Pump II
 Small Trimark Armor Pump II
-
 </details>
 
 
