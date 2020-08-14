@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-08-12T15:27:42.106Z
+date: 2020-08-14T20:20:18.621Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,10 @@ While we do understand that in the heat of a battle you most often want to smack
 The coalition corporations may have different requirements set on them depending on if they belong to the coalition entry level alliance or if they are a full member corporation of the coalition.
 
 **Both full member and entry level alliance member corporations have the same benefits and services** in use for their needs as well as the same access to systems and services. The main difference between these two comes from the side of system management.
+
+> There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
+{.is-success}
+
 
 ## Full Coalition Member Corporation Requirements
 These corporations are not added to the alliance. Instead they will be linked to other corporations with standings. They will use the general communication channels the same way normal alliances use the alliance channell.
