@@ -2,7 +2,7 @@
 title: HD Doctrines
 description: 
 published: true
-date: 2020-08-06T14:59:37.787Z
+date: 2020-08-14T10:11:57.189Z
 tags: 
 editor: markdown
 ---
@@ -14,3 +14,4 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 ---
 ## [HD Alpha Fleet](/community/doctrines/HD-Doctrines/HD-Alpha-Fleet)
 ## [HD Bravo Fleet](/community/doctrines/HD-Doctrines/HD-Bravo-Fleet)
+## [HD Charlie Fleet](/community/doctrines/HD-Doctrines/HD-Charlie-Fleet)
