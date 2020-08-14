@@ -2,10 +2,91 @@
 title: HD Charlie Fleet
 description: 
 published: true
-date: 2020-08-14T10:11:18.191Z
+date: 2020-08-14T10:13:42.006Z
 tags: 
 editor: markdown
 ---
 
-# Header
-Your content here
+To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
+
+Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
+
+---
+## DPS
+
+<details>
+  <summary>Caracal - PVP (Charlie Fleet)</summary>
+[Caracal, Caracal - PVP (Charlie Fleet)]
+
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Nanofiber Internal Structure II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Warp Disruptor II
+
+Rapid Light Missile Launcher II
+Rapid Light Missile Launcher II
+Rapid Light Missile Launcher II
+Rapid Light Missile Launcher II
+Rapid Light Missile Launcher II
+
+Medium EM Shield Reinforcer II
+Medium Hyperspatial Velocity Optimizer I
+Medium Hyperspatial Velocity Optimizer I
+
+
+Warrior II x2
+
+
+Inferno Fury Light Missile x500
+Mjolnir Fury Light Missile x500
+Nova Fury Light Missile x500
+Scourge Fury Light Missile x500
+Caldari Navy Inferno Light Missile x500
+Caldari Navy Mjolnir Light Missile x500
+Caldari Navy Nova Light Missile x500
+Caldari Navy Scourge Light Missile x500
+Nanite Repair Paste x50
+</details>
+
+<details>
+  <summary>Caracal - PVP (Charlie Fleet - Basic)</summary>
+[Caracal, Caracal - PVP (Charlie Fleet - Basic)]
+
+Damage Control I
+Ballistic Control System I
+Ballistic Control System I
+Type-D Restrained Nanofiber Structure
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Azeotropic Restrained Shield Extender
+Large Azeotropic Restrained Shield Extender
+Enduring Multispectrum Shield Hardener
+Small F-RX Compact Capacitor Booster
+
+Limited 'Limos' Rapid Light Missile Launcher
+Limited 'Limos' Rapid Light Missile Launcher
+Limited 'Limos' Rapid Light Missile Launcher
+Limited 'Limos' Rapid Light Missile Launcher
+Limited 'Limos' Rapid Light Missile Launcher
+
+Medium EM Shield Reinforcer I
+Medium Hyperspatial Velocity Optimizer I
+Medium Hyperspatial Velocity Optimizer I
+
+
+Warrior I x2
+
+
+Cap Booster 200 x15
+Inferno Light Missile x1000
+Mjolnir Light Missile x1000
+Nova Light Missile x1000
+Scourge Light Missile x1000
+Nanite Repair Paste x50
+</details>
