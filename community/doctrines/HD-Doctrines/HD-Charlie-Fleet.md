@@ -2,7 +2,7 @@
 title: HD Charlie Fleet
 description: 
 published: true
-date: 2020-08-14T10:13:42.006Z
+date: 2020-08-14T10:16:37.771Z
 tags: 
 editor: markdown
 ---
@@ -89,4 +89,72 @@ Mjolnir Light Missile x1000
 Nova Light Missile x1000
 Scourge Light Missile x1000
 Nanite Repair Paste x50
+</details>
+
+
+## Logi
+
+NOTE: If you can't use the t2 drones, just use t1.
+
+<details>
+  <summary>Scythe - PVP (Charlie Fleet)</summary>
+[Scythe, Scythe - PVP (Charlie Fleet)]
+
+Damage Control II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+
+50MN Quad LiF Restrained Microwarpdrive
+Large F-S9 Regolith Compact Shield Extender
+Multispectrum Shield Hardener II
+Compact Multispectrum Shield Hardener
+Medium Compact Pb-Acid Cap Battery
+
+Medium Murky Compact Remote Shield Booster
+Medium Murky Compact Remote Shield Booster
+Medium Murky Compact Remote Shield Booster
+
+Medium Ancillary Current Router I
+Medium Hyperspatial Velocity Optimizer I
+Medium Hyperspatial Velocity Optimizer I
+
+
+Medium Armor Maintenance Bot II x4
+Warrior II x1
+
+
+Nanite Repair Paste x50
+</details>
+
+
+## Newbros
+
+NOTE: Only fly if you are super new to Eve and cannot fly the basic caracal.
+
+<details>
+  <summary>Merlin - PVP (Charlie Fleet)</summary>
+[Merlin, Merlin - PVP (Charlie Fleet)]
+
+Damage Control I
+Type-D Restrained Nanofiber Structure
+Micro Auxiliary Power Core I
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender I
+Faint Epsilon Scoped Warp Scrambler
+X5 Enduring Stasis Webifier
+
+Limited Light Electron Blaster I
+Limited Light Electron Blaster I
+Limited Light Electron Blaster I
+
+Small Hyperspatial Velocity Optimizer I
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+
+
+Antimatter Charge S x2000
+Caldari Navy Antimatter Charge S x1000
 </details>
