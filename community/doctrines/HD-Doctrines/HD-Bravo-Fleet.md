@@ -2,7 +2,7 @@
 title: HD Bravo Fleet
 description: 
 published: true
-date: 2020-08-07T04:51:02.693Z
+date: 2020-08-18T09:21:09.403Z
 tags: 
 editor: markdown
 ---
@@ -185,7 +185,7 @@ Amarr - Also Accepted
 
 Damage Control I
 400mm Crystalline Carbonide Restrained Plates
-Prototype Energized Adaptive Nano Membrane I
+Compact Multispectrum Energized Membrane
 Micro Auxiliary Power Core I
 
 5MN Quad LiF Restrained Microwarpdrive
