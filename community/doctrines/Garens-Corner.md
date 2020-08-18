@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-08-13T13:25:40.307Z
+date: 2020-08-18T11:51:24.742Z
 tags: 
 editor: markdown
 ---
@@ -265,7 +265,7 @@ Caldari Navy Antimatter Charge S x1000
   <summary> Wolf - Mainline low priority</summary>
   [Wolf, Wolf]
 
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Centii A-Type Explosive Coating
 400mm Rolled Tungsten Compact Plates
 EFFA Compact Assault Damage Control
@@ -300,8 +300,8 @@ Nanite Repair Paste x50
   <summary>Lock-Keres</summary>
 [Keres, *Keres]
 
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 400mm Rolled Tungsten Compact Plates
 
 Sensor Booster II
@@ -326,7 +326,7 @@ Inherent Implants 'Squire' Power Grid Management EG-602 x1
 [Pontifex, *Pontifex]
 
 Damage Control II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 400mm Steel Plates II
 Multispectrum Coating II
 Multispectrum Coating II
@@ -359,8 +359,8 @@ Rapid Repair Charge x300
 [Deacon, *Deacon]
 
 Corpii A-Type Kinetic Coating
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 Corpii A-Type Thermal Coating
 400mm Rolled Tungsten Compact Plates
 
@@ -387,10 +387,10 @@ Navy Cap Booster 400 x20
   <summary>Thalia - Gallente Logi</summary>
 [Thalia, Thalia]
 
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Multispectrum Coating II
 400mm Rolled Tungsten Compact Plates
-Energized Explosive Membrane II
+Explosive Energized Membrane II
 
 Remote Sensor Booster II, Scan Resolution Script
 Small F-RX Compact Capacitor Booster
@@ -411,7 +411,7 @@ Small Trimark Armor Pump II
 [Malediction, Malediction]
 
 Damage Control II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Nanofiber Internal Structure II
 400mm Crystalline Carbonide Restrained Plates
 
@@ -437,7 +437,7 @@ Agency 'Overclocker' SB5 Dose II x2
   <summary>Tackle Wolf</summary>
 [Wolf, Wolf]
 
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 Centii A-Type Explosive Coating
 Nanofiber Internal Structure II
 400mm Crystalline Carbonide Restrained Plates
@@ -478,7 +478,7 @@ Counterbalanced Compact Gyrostabilizer
 400mm Crystalline Carbonide Restrained Plates
 200mm Crystalline Carbonide Restrained Plates
 Multispectrum Coating II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 
 Initiated Compact Warp Scrambler
 5MN Y-T8 Compact Microwarpdrive
@@ -505,7 +505,7 @@ Republic Fleet Phased Plasma S x500
   <summary>Newbean Rifter</summary>
 [Rifter, Rifter]
 
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
 400mm Rolled Tungsten Compact Plates
 Multispectrum Coating II
 Multispectrum Coating II
