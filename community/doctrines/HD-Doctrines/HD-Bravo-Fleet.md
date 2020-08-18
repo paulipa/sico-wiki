@@ -2,7 +2,7 @@
 title: HD Bravo Fleet
 description: 
 published: true
-date: 2020-08-18T11:54:25.557Z
+date: 2020-08-18T11:54:32.972Z
 tags: 
 editor: markdown
 ---
@@ -206,5 +206,3 @@ Warrior I x1
 Navy Cap Booster 400 x15
 Nanite Repair Paste x20
 </details>
-
-t
