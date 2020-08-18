@@ -2,9 +2,9 @@
 title: Silent Coalition Manifesto 2019
 description: 
 published: true
-date: 2020-07-09T08:03:29.560Z
+date: 2020-08-18T09:58:21.601Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Introduction to SiCO
@@ -116,5 +116,10 @@ Secondary goals that are created based on these goals are:
 In order to keep our coalition of thousands of players as a friendly and a nice place to play we have set some ground rules that apply on each member within the coalition corporations. With these rules we are trying to keep our focus on EVE and on enjoying the game with players from all over the world with all types of ideologies. 
 
 The rules that are currently in effect can be found from here: [Coalition Rules](/community/rules)
+
+# Logo
+The high resolution version of our logo can be found from here:
+[sico-logo.eps](/sico.eps)
+[sico-logo-png](/sico.png)
 
 
