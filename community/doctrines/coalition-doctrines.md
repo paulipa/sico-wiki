@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-10T20:54:48.085Z
+date: 2020-08-18T09:11:03.707Z
 tags: fittings, sico official
 editor: markdown
 ---
@@ -359,7 +359,7 @@ Medium F-RX Compact Capacitor Booster
 
 Medium Ancillary Current Router I
 Medium EM Shield Reinforcer II
-Medium Anti-Thermal Screen Reinforcer I
+Medium Thermal Shield Reinforcer I
 
 Warrior II x3
 Spike M x2000
@@ -873,7 +873,7 @@ Mining Laser Upgrade II
 Mining Laser Upgrade II
 
 Survey Scanner II
-Compact Adaptive Invulnerability Shield Hardener
+Compact Multispectrum Shield Hardener
 EM Shield Amplifier II
 Thermal Shield Amplifier II
 
@@ -1307,10 +1307,10 @@ Small Energy Neutralizer I
 200mm Light Carbine Repeating Cannon I
 200mm Light Carbine Repeating Cannon I
 
-Small Anti-EM Screen Reinforcer I
-Small Anti-EM Screen Reinforcer I
-Small Anti-Thermal Screen Reinforcer I
-
+Small EM Shield Reinforcer I
+Small EM Shield Reinforcer I
+Small Thermal Shield Reinforcer I
+  
 Republic Fleet EMP S x1500
 </details>
 
@@ -1571,8 +1571,8 @@ The fittings for wormhole daytrips.
 Extruded Compact Heat Sink
 Extruded Compact Heat Sink
 800mm Rolled Tungsten Compact Plates
-Prototype Energized Adaptive Nano Membrane I
-Prototype Energized Adaptive Nano Membrane I
+Compact Multispectrum Energized Membrane
+Compact Multispectrum Energized Membrane
 Capacitor Power Relay II
 
 50MN Quad LiF Restrained Microwarpdrive
@@ -1603,8 +1603,8 @@ Optimal Range Script x1
   
 AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
-Prototype Energized Adaptive Nano Membrane I
-Prototype Energized Adaptive Nano Membrane I
+Compact Multispectrum Energized Membrane
+Compact Multispectrum Energized Membrane
 800mm Crystalline Carbonide Restrained Plates
 
 50MN Y-T8 Compact Microwarpdrive
@@ -1637,8 +1637,8 @@ Antimatter Charge S x10120
 [Augoror, Augoror Daytrip]
 
 IFFA Compact Damage Control
-Energized Adaptive Nano Membrane I
-Energized Adaptive Nano Membrane I
+Multispectrum Energized Membrane I
+Multispectrum Energized Membrane I
 Reactive Armor Hardener
 400mm Rolled Tungsten Compact Plates
 
@@ -1665,8 +1665,8 @@ ECCM Script x1
 
 Mark I Compact Reactor Control Unit
 Mark I Compact Power Diagnostic System
-Prototype Energized Adaptive Nano Membrane I
-Prototype Energized Adaptive Nano Membrane I
+Compact Multispectrum Energized Membrane
+Compact Multispectrum Energized Membrane
 800mm Rolled Tungsten Compact Plates
 IFFA Compact Damage Control
 
@@ -1696,8 +1696,8 @@ Warrior I x5
 
 Drone Damage Amplifier II
 Drone Damage Amplifier II
-Energized Adaptive Nano Membrane II
-Energized Adaptive Nano Membrane II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 800mm Steel Plates II
 Damage Control II
 
@@ -1734,8 +1734,8 @@ Core Scanner Probe I x8
 [Archon, Archon w/refit]
 
 Damage Control II
-Imperial Navy Adaptive Nano Plating
-Imperial Navy Adaptive Nano Plating
+Imperial Navy Multispectrum Coating
+Imperial Navy Multispectrum Coating
 25000mm Rolled Tungsten Compact Plates
 25000mm Rolled Tungsten Compact Plates
 Drone Damage Amplifier II
@@ -1771,9 +1771,9 @@ Tracking Speed Script x3
 
 25000mm Steel Plates I
 25000mm Steel Plates I
-Imperial Navy Energized Adaptive Nano Membrane
-Imperial Navy Energized Adaptive Nano Membrane
-Energized Explosive Membrane II
+Imperial Navy Multispectrum Energized Membrane
+Imperial Navy Multispectrum Energized Membrane
+Explosive Energized Membrane II
 Damage Control II
 
 10000MN Afterburner I
@@ -1890,8 +1890,8 @@ Requires: Inherent Implants 'Squire' Power Grid Management EG-602
 
 Capital I-a Enduring Armor Repairer
 Capital I-a Enduring Armor Repairer
-Imperial Navy Energized Adaptive Nano Membrane
-Imperial Navy Energized Adaptive Nano Membrane
+Imperial Navy Multispectrum Energized Membrane
+Imperial Navy Multispectrum Energized Membrane
 Kinetic Armor Hardener II
 Thermal Armor Hardener II
 Explosive Armor Hardener II
@@ -1941,8 +1941,8 @@ Capital I-a Enduring Armor Repairer
 Capital I-a Enduring Armor Repairer
 Reactive Armor Hardener
 Damage Control II
-Imperial Navy Energized Adaptive Nano Membrane
-Imperial Navy Energized Adaptive Nano Membrane
+Imperial Navy Multispectrum Energized Membrane
+Imperial Navy Multispectrum Energized Membrane
 
 Capital Capacitor Booster II
 Capital Cap Battery II
