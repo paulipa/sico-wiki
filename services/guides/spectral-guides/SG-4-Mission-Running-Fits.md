@@ -2,12 +2,14 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-07-09T07:27:17.305Z
-tags: 
-editor: undefined
+date: 2020-08-19T14:43:11.729Z
+tags: fittings, guide
+editor: markdown
 ---
 
 These are basic t1 ship fittings I recommend you use in your missions.  It's not to say these are the only way to fit these ships, but they are certainly one good way of doing so.
+
+I have a recorded class on PVE Fitting Theory which all the below fits are based on.  If you would like to learn the theory behind these fits as well as learning how to improve your own, head to https://www.youtube.com/watch?v=8Ick5f4RCOk .
 
 I have made fits for all factions excluding minmatar as the t1 basic minmatar ships are simply not good for most PVE applications due to their choice of weaponry (some exceptions can be made, but this is a general rule of thumb).
 
