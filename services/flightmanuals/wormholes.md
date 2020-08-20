@@ -2,9 +2,9 @@
 title: Wormholes
 description: 
 published: true
-date: 2020-07-07T07:59:55.708Z
+date: 2020-08-20T21:47:23.225Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Wormholes Manual
@@ -188,5 +188,15 @@ Bookmarks should always be stored inside a folder instead of right to the corpor
 ## Deleting Bookmarks
 When signatures vanish the bookmarks needs to be cleaned up. To clean up bookmarks simply check if the probe scanner has a signature with the ID of the bookmark. If not, delete the bookmark by right clicking it and press delete. All members are able to delete bookmarks so make sure you don’t delete active bookmarks in mistake. Most often only wormhole and signature bookmarks needs to be deleted.
 
+# Thera system
+A special system exist in the Anoikis galaxy that behaves somewhat inbetween a known space system and a wormhole system. 
 
+Thera is the only j-space system that has NPC stations in which you can install a medical or utilize normal jump clone mechanics. Altought it is considered a huge PVP subcap arena (solar system diameter around 342AU), it is also a great travelling hub due to its increased wormhole connectivty (9 k-space statics + additional wandering/k162 wormholes ).
+
+For the purpose of navigating in/out of Thera, you can use a public bookmark folder that is available courtesy of a group of players that dedicated themselves to scanning the connections and maintaining said folder ( https://www.eve-scout.com/ ). In order to get access, you need to join the ingame channel : "EVE-SCOUT" and online the folder from the channel MOTD (message of the day).
+
+For a video description see here : https://www.youtube.com/watch?v=GIOqsQyjQgY
+
+> Remember to always check the wormhole size/ship mass jump limit, if you are flying anything bigger than a destroyer.
+{.is-warning}
 
