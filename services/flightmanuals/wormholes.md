@@ -2,7 +2,7 @@
 title: Wormholes
 description: 
 published: true
-date: 2020-08-20T21:58:12.191Z
+date: 2020-08-20T22:04:27.684Z
 tags: 
 editor: markdown
 ---
@@ -195,7 +195,7 @@ Thera is the only j-space system that has NPC stations in which you can install 
 
 For the purpose of navigating in/out of Thera, you can use a public bookmark folder that is available courtesy of a group of players that dedicated themselves to scanning the connections and maintaining said folder ( https://www.eve-scout.com/ ). In order to get access, you need to join the ingame channel : "EVE-SCOUT" , and afterwards online the folder from the channel MOTD (message of the day).
 
-For a quick video description, see here : https://www.youtube.com/watch?v=GIOqsQyjQgY
+> For a quick video description, see here : https://www.youtube.com/watch?v=GIOqsQyjQgY
 
 > Remember to always check the wormhole size/ship mass jump limit, if you are flying anything bigger than a destroyer.
 {.is-warning}
