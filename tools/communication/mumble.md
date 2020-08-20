@@ -2,9 +2,9 @@
 title: Mumble
 description: 
 published: true
-date: 2020-07-07T05:36:52.887Z
+date: 2020-08-20T21:53:05.771Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # What is Mumble?
@@ -16,6 +16,8 @@ The crucial functions that are missing from Discord voice chat and can be achiev
 
 > For the reasons mentioned above Mumble is used for all important large scale operations within SiCO. This is why you should have it set up sooner than the beginning of the event or fleets.
 {.is-info}
+
+For a quick video description about setting up/using Mumble, check this: https://www.youtube.com/watch?v=y1uBNaaaL2o
 
 # Setting up the Mumble program
 This section will cover you the basic setup of the Mumble program.
