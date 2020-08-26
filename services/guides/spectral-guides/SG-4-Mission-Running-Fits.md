@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-08-26T21:09:07.363Z
+date: 2020-08-26T21:09:46.702Z
 tags: fittings, guide
 editor: markdown
 ---
@@ -442,7 +442,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
   
-  Amarr - EM/Thermal Damage Locked until Level 4 
+Minmatar - Lower Tank than Caldari, However Typhoon > Raven 
 <details>
   <summary>Level 1) Thrasher - PVE (Basic)</summary>
 [Thrasher, Thrasher - PVE (Basic)]
