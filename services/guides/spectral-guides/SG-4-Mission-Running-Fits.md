@@ -2,17 +2,16 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-08-19T14:43:11.729Z
+date: 2020-08-26T21:09:07.363Z
 tags: fittings, guide
 editor: markdown
 ---
 
 These are basic t1 ship fittings I recommend you use in your missions.  It's not to say these are the only way to fit these ships, but they are certainly one good way of doing so.
 
-I have a recorded class on PVE Fitting Theory which all the below fits are based on.  If you would like to learn the theory behind these fits as well as learning how to improve your own, head to https://www.youtube.com/watch?v=8Ick5f4RCOk .
+I have a recorded class on PVE Fitting Theory which all the below fits are based on.  If you would like to learn the theory behind these fits as well as learning how to improve your own, head to https://www.youtube.com/watch?v=8Ick5f4RCOk.
 
-I have made fits for all factions excluding minmatar as the t1 basic minmatar ships are simply not good for most PVE applications due to their choice of weaponry (some exceptions can be made, but this is a general rule of thumb).
-
+---
 It is important to make sure that you train good skills alongside your ship and modules - upgrading to t2 modules when you can.  For a good tailored skillplan to follow for your ships, you can show info on any of the ships., I will take the Drake as an example.  Head to the 'Mastery' tab and you can follow the levels.
 
 One important thing to note about the mastery tabs is they can occasionally have skills you wouldn't use or train, so use common sense when following them.  E.g: the Drake under medium missiles has both Heavy Missiles and Heavy Assault Missiles in it... but if you are only going to use Heavy Missiles then obviously don't train Heavy Assault Missiles.
@@ -122,7 +121,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
 <details>
-  <summary>Level 4) Dominix - PVE (Basic) <-- imo the best t1 level 4 mission running BS</summary>
+  <summary>Level 4) Dominix - PVE (Basic) <--- Most recommended.</summary>
 [Dominix, Dominix - PVE (Basic)]
 
 Large I-a Enduring Armor Repairer
@@ -165,7 +164,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
   
-Caldari - Close Contender (But Raven is Meh)
+Caldari - Great Until the Raven
 <details>
   <summary>Level 1) Corax - PVE (Basic)</summary>
 [Corax, Corax - PVE (Basic)]
@@ -260,7 +259,7 @@ Scourge Heavy Missile x2500
 Missile Precision Script x1
 </details>
 <details>
-  <summary>Level 4) Raven - PVE (Basic) <-- unfortunately low dps and forced to range tank</summary>
+  <summary>Level 4) Raven - PVE (Basic) <--- Raven is an unfortunately poor ship.</summary>
 [Raven, Raven - PVE (Basic)]
 
 Ballistic Control System I
@@ -299,7 +298,7 @@ Scan Resolution Script x1
 Targeting Range Script x1
 </details>
 
-  Amarr - Okay but EM/Thermal Damage Locked Until Level 4 
+Amarr - EM/Thermal Damage Locked until Level 4 
 <details>
   <summary>Level 1) Coercer - PVE (Basic)</summary>
 [Coercer, Coercer - PVE (Basic)]
@@ -401,7 +400,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
 <details>
-  <summary>Level 4) Armageddon - PVE (Basic) <-- drop the CPU rig for a cap rig if you can</summary>
+  <summary>Level 4) Armageddon - PVE (Basic) <--- Tied.</summary>
 [Armageddon, Armageddon - PVE (Basic)]
 
 Large I-a Enduring Armor Repairer
@@ -441,6 +440,143 @@ Scan Resolution Script x1
 Targeting Range Script x1
 Optimal Range Script x1
 Tracking Speed Script x1
+</details>
+  
+  Amarr - EM/Thermal Damage Locked until Level 4 
+<details>
+  <summary>Level 1) Thrasher - PVE (Basic)</summary>
+[Thrasher, Thrasher - PVE (Basic)]
+
+Counterbalanced Compact Gyrostabilizer
+Counterbalanced Compact Gyrostabilizer
+
+5MN Quad LiF Restrained Microwarpdrive
+Small Clarity Ward Enduring Shield Booster
+Eutectic Compact Cap Recharger
+
+250mm Light Carbine Howitzer I
+250mm Light Carbine Howitzer I
+250mm Light Carbine Howitzer I
+250mm Light Carbine Howitzer I
+250mm Light Carbine Howitzer I
+250mm Light Carbine Howitzer I
+250mm Light Carbine Howitzer I
+[Empty High slot]
+
+[Empty Rig slot]
+[Empty Rig slot]
+[Empty Rig slot]
+
+
+EMP S x1000
+Proton S x1000
+</details>
+<details>
+  <summary>Level 2) Bellicose - PVE (Basic)</summary>
+[Bellicose, Bellicose - PVE (Basic)]
+
+Ballistic Control System I
+Ballistic Control System I
+Pro-Nav Compact Missile Guidance Enhancer
+Mark I Compact Power Diagnostic System
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large F-S9 Regolith Compact Shield Extender
+Large F-S9 Regolith Compact Shield Extender
+Enduring Kinetic Shield Hardener
+Enduring Thermal Shield Hardener
+
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+
+Medium Core Defense Field Purger I
+Medium Core Defense Field Purger I
+Medium Core Defense Field Purger I
+
+
+Hornet I x4
+Vespa I x2
+
+
+Scourge Heavy Missile x2500
+</details>
+<details>
+  <summary>Level 3) Cyclone - PVE (Basic)</summary>
+[Cyclone, Cyclone - PVE (Basic)]
+
+Ballistic Control System I
+Ballistic Control System I
+Pro-Nav Compact Missile Guidance Enhancer
+Type-D Restrained Shield Power Relay
+Type-D Restrained Shield Power Relay
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Azeotropic Restrained Shield Extender
+Large Azeotropic Restrained Shield Extender
+Enduring Kinetic Shield Hardener
+Enduring Thermal Shield Hardener
+
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+XR-3200 Heavy Missile Bay
+Shield Command Burst I
+Drone Link Augmentor I
+
+Medium Core Defense Field Purger I
+Medium Core Defense Field Purger I
+Medium Core Defense Field Purger I
+
+
+Vespa I x5
+
+
+Scourge Heavy Missile x2500
+Shield Extension Charge x600
+</details>
+<details>
+  <summary>Level 4) Typhoon - PVE (Basic) <--- Tied.</summary>
+[Typhoon, Typhoon - PVE (Basic)]
+
+Ballistic Control System I
+Ballistic Control System I
+Ballistic Control System I
+Large I-a Enduring Armor Repairer
+Large I-a Enduring Armor Repairer
+Experimental Enduring Thermal Armor Hardener I
+Experimental Enduring Kinetic Armor Hardener I
+
+500MN Cold-Gas Enduring Microwarpdrive
+Alumel-Wired Enduring Sensor Booster
+Large Compact Pb-Acid Cap Battery
+Large Compact Pb-Acid Cap Battery
+Missile Guidance Computer I
+
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+'Arbalest' Cruise Launcher I
+Drone Link Augmentor I
+
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+
+
+Hornet I x5
+Warden I x4
+
+
+Scourge Cruise Missile x2500
+Missile Precision Script x1
+Missile Range Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
 </details>
   
 ---
