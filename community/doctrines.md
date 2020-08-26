@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-07-20T16:22:43.647Z
+date: 2020-08-26T09:54:31.603Z
 tags: 
 editor: markdown
 ---
@@ -37,3 +37,9 @@ In-game channel for direct fit copies at: "Garens Corner"
 Wild mix of Tryhard doctrines, cheap T1's, and Spicy Meme Extravaganza. Feel free to copy pasta for your own fleets!
 
 ---
+## [Abyssal plungers](https://ex-sa.surge.sh/abyssal-guide)
+Guides & starting abyssal fits for both cruiser and frigate hulls.
+
+Cruiser fits will get you started on your solo runs while frigate doctrines are used in Skipp's Abyssal training fleets.
+
+For more help and info, join the in-game channel: "EX-SA Abyssals"
