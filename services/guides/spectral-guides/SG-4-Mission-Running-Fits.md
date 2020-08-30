@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-08-30T17:30:29.770Z
+date: 2020-08-30T17:30:59.336Z
 tags: fittings, guide
 editor: markdown
 ---
@@ -304,7 +304,7 @@ Amarr - EM/Thermal Damage Locked until Level 4
 [Coercer, Coercer - PVE (Basic)]
 
 Small I-a Enduring Armor Repairer
-'Refuge' Adaptive Nano Plating I
+Upgraded Multispectrum Coating I
 Extruded Compact Heat Sink
 
 5MN Quad LiF Restrained Microwarpdrive
