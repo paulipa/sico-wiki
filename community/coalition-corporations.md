@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-08-09T09:44:19.928Z
+date: 2020-08-30T12:41:25.743Z
 tags: 
 editor: markdown
 ---
@@ -36,8 +36,9 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Hermes Fast Freight [HEFFR]](/community/coalition-corporations/heffr)
 - Hauling
 ## [Explorers’ Sanctum [EX-SA]](/community/coalition-corporations/ex-sa)
-- Exploration
 - Abyssal Deadspace
+- Small gang PvP & NPSI roams
+- Exploration
 ## [Silent Industry [XSINY]](/community/coalition-corporations/xsiny)
 - Industry
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
