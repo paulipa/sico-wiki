@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-08-26T21:09:46.702Z
+date: 2020-08-30T17:30:29.770Z
 tags: fittings, guide
 editor: markdown
 ---
@@ -23,7 +23,7 @@ Gallente - Most Recommended
 [Algos, Algos - PVE (Basic)]
 
 Small I-a Enduring Armor Repairer
-'Collateral' Adaptive Nano Plating I
+Upgraded Multispectrum Coating I
 AE-K Compact Drone Damage Amplifier
 
 5MN Quad LiF Restrained Microwarpdrive
