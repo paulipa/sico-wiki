@@ -2,9 +2,10 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-08-18T09:11:03.707Z
+date: 2020-09-08T11:34:20.667Z
 tags: fittings, sico official
 editor: markdown
+dateCreated: 2020-07-17T10:35:25.702Z
 ---
 
 
@@ -105,8 +106,6 @@ Cap Booster 200 x25
 Antimatter Charge M x3000
 Caldari Navy Antimatter Charge M x1000
 </details>
-
-
 
 ### Logistics
 
@@ -460,34 +459,34 @@ Nova Fury Light Missile x1000
 ## Cormorant Fleet
 Fast hitting cheap slippery fitting with long range. Hit and run.
 <details>
-<summary>Cormorant, SLTRN - Cormorant - Alpha</summary>
-[Cormorant, SLTRN - Cormorant - Alpha]
+<summary>Cormorant - PVP (SLTRN)</summary>
+[Cormorant, Cormorant - PVP (SLTRN)]
 
 Magnetic Field Stabilizer I
-Magnetic Field Stabilizer I
+Fourier Compact Tracking Enhancer
 
-Tracking Computer I
-Sensor Booster I
-5MN Microwarpdrive I
+5MN Quad LiF Restrained Microwarpdrive
+Alumel-Wired Enduring Sensor Booster
+Alumel-Wired Enduring Sensor Booster
 
-125mm Railgun I
-125mm Railgun I
-125mm Railgun I
-125mm Railgun I
-125mm Railgun I
-125mm Railgun I
-125mm Railgun I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+150mm Compressed Coil Gun I
+[Empty High slot]
 
 Small Hybrid Locus Coordinator I
 Small Hybrid Locus Coordinator I
-Small Hybrid Collision Accelerator I
+Small Ancillary Current Router I
+
 
 Caldari Navy Antimatter Charge S x2000
-Optimal Range Script x2
-Tracking Speed Script x2
-Caldari Navy Tungsten Charge S x2560
-Targeting Range Script x2
+Iron Charge S x2000
 Scan Resolution Script x2
+Targeting Range Script x2
 </details>
 
 ## MQP Fleet
