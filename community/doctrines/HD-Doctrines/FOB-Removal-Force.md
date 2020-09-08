@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-08T14:59:01.658Z
+date: 2020-09-08T15:06:32.691Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -85,4 +85,11 @@ Imperial Navy Praetor x5
 
 
 Nanite Repair Paste x100
+</details>
+
+## Skill Plans
+
+<details>
+  <summary>Minimum</summary>
+Part 1 - https://pastebin.pl/view/ca822cbf
 </details>
