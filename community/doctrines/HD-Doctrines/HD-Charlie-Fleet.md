@@ -2,9 +2,10 @@
 title: HD Charlie Fleet
 description: 
 published: true
-date: 2020-08-14T10:16:37.771Z
+date: 2020-09-08T11:37:27.349Z
 tags: 
 editor: markdown
+dateCreated: 2020-08-14T10:11:18.191Z
 ---
 
 To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
@@ -21,13 +22,13 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 Damage Control II
 Ballistic Control System II
 Ballistic Control System II
-Nanofiber Internal Structure II
+Ballistic Control System II
 
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
-Warp Disruptor II
+Multispectrum Shield Hardener II
 
 Rapid Light Missile Launcher II
 Rapid Light Missile Launcher II
@@ -35,9 +36,9 @@ Rapid Light Missile Launcher II
 Rapid Light Missile Launcher II
 Rapid Light Missile Launcher II
 
-Medium EM Shield Reinforcer II
-Medium Hyperspatial Velocity Optimizer I
-Medium Hyperspatial Velocity Optimizer I
+Medium EM Shield Reinforcer I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
 
 
 Warrior II x2
@@ -61,13 +62,13 @@ Nanite Repair Paste x50
 Damage Control I
 Ballistic Control System I
 Ballistic Control System I
-Type-D Restrained Nanofiber Structure
+Mark I Compact Power Diagnostic System
 
-50MN Cold-Gas Enduring Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Large Azeotropic Restrained Shield Extender
 Large Azeotropic Restrained Shield Extender
 Enduring Multispectrum Shield Hardener
-Small F-RX Compact Capacitor Booster
+Enduring Multispectrum Shield Hardener
 
 Limited 'Limos' Rapid Light Missile Launcher
 Limited 'Limos' Rapid Light Missile Launcher
@@ -76,14 +77,13 @@ Limited 'Limos' Rapid Light Missile Launcher
 Limited 'Limos' Rapid Light Missile Launcher
 
 Medium EM Shield Reinforcer I
-Medium Hyperspatial Velocity Optimizer I
-Medium Hyperspatial Velocity Optimizer I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
 
 
 Warrior I x2
 
 
-Cap Booster 200 x15
 Inferno Light Missile x1000
 Mjolnir Light Missile x1000
 Nova Light Missile x1000
@@ -116,9 +116,9 @@ Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
 
+Medium EM Shield Reinforcer I
+Medium Capacitor Control Circuit I
 Medium Ancillary Current Router I
-Medium Hyperspatial Velocity Optimizer I
-Medium Hyperspatial Velocity Optimizer I
 
 
 Medium Armor Maintenance Bot II x4
@@ -134,27 +134,29 @@ Nanite Repair Paste x50
 NOTE: Only fly if you are super new to Eve and cannot fly the basic caracal.
 
 <details>
-  <summary>Merlin - PVP (Charlie Fleet)</summary>
-[Merlin, Merlin - PVP (Charlie Fleet)]
+  <summary>Griffin - PVP (Charlie Fleet)</summary>
+[Griffin, Griffin - PVP (Charlie Fleet)]
 
 Damage Control I
-Type-D Restrained Nanofiber Structure
 Micro Auxiliary Power Core I
 
 5MN Quad LiF Restrained Microwarpdrive
 Medium Shield Extender I
-Faint Epsilon Scoped Warp Scrambler
-X5 Enduring Stasis Webifier
+Compact EM Shield Amplifier
+Compulsive Scoped Multispectral ECM
+Compulsive Scoped Multispectral ECM
 
-Limited Light Electron Blaster I
-Limited Light Electron Blaster I
-Limited Light Electron Blaster I
+Festival Launcher
+Festival Launcher
 
-Small Hyperspatial Velocity Optimizer I
 Small EM Shield Reinforcer I
+Small Thermal Shield Reinforcer I
 Small Core Defense Field Extender I
 
 
-Antimatter Charge S x2000
-Caldari Navy Antimatter Charge S x1000
+Warrior I x1
+
+
+Copper Firework x100
+Sodium Firework x100
 </details>
