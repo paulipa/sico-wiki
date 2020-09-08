@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-08T15:10:29.581Z
+date: 2020-09-08T15:16:33.419Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -88,7 +88,11 @@ Nanite Repair Paste x100
 </details>
 
 ## Skill Plans
+To import a skillplan, go to the pastebin links and copy all of its contents.  Then go in-game and into your character sheet where your skills are. 
 
+To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines.  Click this, then click "Add skills listed in clipboard to end of queue".
+
+You can only do this with 50 skills at a time, hence why the skillplans are split up in blocks of up to 50.
 <details>
   <summary>Minimum</summary>
  
