@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-09-08T16:30:55.626Z
+date: 2020-09-08T16:33:14.995Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T11:01:54.830Z
@@ -759,7 +759,7 @@ Agency 'Overclocker' SB3 Dose I x2
 Navy Cap Booster 400 x20
 </details>
 
-> The blingy repairers on the Scalpel are prone to price-fixing. If the reppers are > 10 mil check for cheaper Pithi A through C - type or Pithi A through C-type alternatives, or go with 2 t2 and one blingy repper.
+> The blingy repairers on the Scalpel are prone to price-fixing. If the reppers are > 10 mil check for cheaper Pithi A through C - type or Gistii A through C-type alternatives, or go with 2 t2 and one blingy repper.
 {.is-info}
 
 <details>
