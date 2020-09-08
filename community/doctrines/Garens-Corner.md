@@ -2,7 +2,7 @@
 title: Garens Corner
 description: 
 published: true
-date: 2020-09-08T16:28:06.648Z
+date: 2020-09-08T16:30:55.626Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T11:01:54.830Z
@@ -758,6 +758,10 @@ Small Hyperspatial Velocity Optimizer II
 Agency 'Overclocker' SB3 Dose I x2
 Navy Cap Booster 400 x20
 </details>
+
+> The blingy repairers on the Scalpel are prone to price-fixing. If the reppers are > 10 mil check for cheaper Pithi A through C - type or Pithi A through C-type alternatives, or go with 2 t2 and one blingy repper.
+{.is-info}
+
 <details>
   <summary>Sabre - Bubbles</summary>
 [Sabre, ADHD]
@@ -1063,162 +1067,3 @@ Agency 'Overclocker' SB3 Dose I x2
 </details>
 
 
-## D-Scan / Scouting Hunting Class
-Basic fits to join the Scouting Hunting class, chose the one that matches your skills and wallet size!
-
-### Newbro/T1 Fits
-> If you can not fly one of the T2-Advanced Fits, but can do T2 modules, then feel free to change them on the doctrine fit as your skills permit!
-{.is-info}
-
-<details>
-  <summary>Newbro Executioner (Amarr)</summary>
-[Executioner, Executioner fit copy copy]
-
-Damage Control II
-Extruded Compact Heat Sink
-Type-D Restrained Capacitor Power Relay
-
-5MN Y-T8 Compact Microwarpdrive
-Faint Epsilon Scoped Warp Scrambler
-Medium Azeotropic Restrained Shield Extender
-
-Gatling Pulse Laser I
-Gatling Pulse Laser I
-Gatling Pulse Laser I
-Small Gremlin Compact Energy Neutralizer
-
-Small EM Shield Reinforcer I
-Small Core Defense Field Extender I
-Small Ancillary Current Router I
-
-Imperial Navy Mutlifrequency x3
-</details>
-
-<details>
-  <summary>Newbro Atron (Gallente)</summary>
-[Atron, Atron fit]
-
-Damage Control II
-Vortex Compact Magnetic Field Stabilizer
-Micro Auxiliary Power Core I
-
-5MN Y-T8 Compact Microwarpdrive
-Medium Azeotropic Restrained Shield Extender
-Initiated Compact Warp Scrambler
-
-Anode Light Electron Particle Cannon I
-Anode Light Electron Particle Cannon I
-Anode Light Electron Particle Cannon I
-Small Gremlin Compact Energy Neutralizer
-
-Small Core Defense Field Extender I
-Small EM Shield Reinforcer I
-Small Capacitor Control Circuit I
-
-
-Caldari Navy Antimatter Charge S x1000
-</details>
-
-<details> 
-  <summary>Newbro - Condor</summary>
-[Condor, Condor fit]
-
-Damage Control II
-Micro Auxiliary Power Core I
-
-5MN Quad LiF Restrained Microwarpdrive
-Faint Scoped Warp Disruptor
-Fleeting Compact Stasis Webifier
-Medium Azeotropic Restrained Shield Extender
-
-TE-2100 Ample Light Missile Launcher
-TE-2100 Ample Light Missile Launcher
-TE-2100 Ample Light Missile Launcher
-[Empty High slot]
-
-Small Ancillary Current Router I
-Small EM Shield Reinforcer I
-Small Core Defense Field Extender I
-
-
-Caldari Navy Inferno Light Missile x750
-</details>
-
-<details>
-  <summary>Newbro - Slasher</summary>
-[Slasher, ADHD]
-
-Micro Auxiliary Power Core I
-Damage Control II
-
-5MN Y-T8 Compact Microwarpdrive
-Medium Azeotropic Restrained Shield Extender
-Initiated Compact Warp Scrambler
-Fleeting Compact Stasis Webifier
-
-200mm Light Gallium Machine Gun
-200mm Light Gallium Machine Gun
-200mm Light Gallium Machine Gun
-Small Gremlin Compact Energy Neutralizer
-
-Small Ancillary Current Router I
-Small EM Shield Reinforcer I
-Small Core Defense Field Extender I
-
-Republic Fleet EMP S x750
-Republic Fleet Fusion S x750
-</details>
-
-### Advanced Fits
-<details>
-  <summary>Brawly Raptor</summary>
-[Raptor, Brawly]
-
-Micro Auxiliary Power Core II
-Vortex Compact Magnetic Field Stabilizer
-Damage Control II
-
-5MN Y-T8 Compact Microwarpdrive
-Republic Fleet Medium Shield Extender
-Faint Epsilon Scoped Warp Scrambler
-Fleeting Compact Stasis Webifier
-
-Light Ion Blaster II, Void S
-Light Ion Blaster II, Void S
-Light Ion Blaster II, Void S
-
-Small EM Shield Reinforcer II
-Small Core Defense Field Extender I
-
-
-Null S x1000
-Void S x1500
-</details>
-
-
-<details>
-  <summary>Logi-Scout Scalpel</summary>
-[Scalpel, *ADHD]
-IFFA Compact Damage Control
-Nanofiber Internal Structure II
-Nanofiber Internal Structure II
-
-5MN Quad LiF Restrained Microwarpdrive
-Republic Fleet Medium Shield Extender
-Multispectrum Shield Hardener II
-Small Capacitor Booster II
-
-Pithi C-Type Small Remote Shield Booster
-Pithi C-Type Small Remote Shield Booster
-Pithi C-Type Small Remote Shield Booster
-
-Small Hyperspatial Velocity Optimizer II
-Small Hyperspatial Velocity Optimizer II
-
-
-
-
-Agency 'Overclocker' SB3 Dose I x2
-Navy Cap Booster 400 x 20
-
-</details>
