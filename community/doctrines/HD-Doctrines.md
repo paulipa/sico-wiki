@@ -2,7 +2,7 @@
 title: HD Doctrines
 description: 
 published: true
-date: 2020-09-08T14:57:30.410Z
+date: 2020-09-08T14:57:42.767Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:21:57.347Z
@@ -16,10 +16,4 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 ## [HD Alpha Fleet](/community/doctrines/HD-Doctrines/HD-Alpha-Fleet)
 ## [HD Bravo Fleet](/community/doctrines/HD-Doctrines/HD-Bravo-Fleet)
 ## [HD Charlie Fleet](/community/doctrines/HD-Doctrines/HD-Charlie-Fleet)
-
-
-
-
-
-
 ## [FOB Removal Force](/community/doctrines/HD-Doctrines/FOB-Removal-Force)
