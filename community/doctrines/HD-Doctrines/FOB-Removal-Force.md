@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-08T15:17:15.690Z
+date: 2020-09-08T15:20:32.263Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -87,7 +87,7 @@ Imperial Navy Praetor x5
 Nanite Repair Paste x100
 </details>
 
-## Skill Plans
+## Skill Plan
 To import a skillplan, go to the pastebin links and copy all of its contents.  Then go in-game and into your character sheet where your skills are. 
 
 To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines.  Click this, then click "Add skills listed in clipboard to end of queue".
