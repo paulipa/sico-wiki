@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-08T15:06:32.691Z
+date: 2020-09-08T15:10:29.581Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -91,5 +91,8 @@ Nanite Repair Paste x100
 
 <details>
   <summary>Minimum</summary>
-Part 1 - https://pastebin.pl/view/ca822cbf
+ 
+  Part 1 - https://pastebin.pl/view/ca822cbf
+  
+  Part 2 - https://pastebin.pl/view/4e3415c9
 </details>
