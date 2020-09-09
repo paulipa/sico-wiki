@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-09T12:12:17.123Z
+date: 2020-09-09T12:26:24.175Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -52,7 +52,7 @@ Nanite Repair Paste x100
 </details>
 
 <details>
-  <summary>Myrmidon - PVE (FOB - Minimum)</summary>
+  <summary>Myrmidon - PVE (FOB - Minimum) <--- Also Alpha Friendly</summary>
 [Myrmidon, Myrmidon - PVE (FOB - Basic)]
 
 Drone Damage Amplifier II
