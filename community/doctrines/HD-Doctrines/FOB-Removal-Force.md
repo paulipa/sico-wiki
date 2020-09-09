@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-09T12:09:42.775Z
+date: 2020-09-09T12:12:17.123Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -136,7 +136,7 @@ You can only do this with 50 skills at a time, hence why the skillplans are spli
 <details>
   <summary>Minimum</summary>
  
-  Part 1 - https://pastebin.pl/view/ca822cbf
+  Part 1 - https://pastebin.pl/view/d1bc3099
   
-  Part 2 - https://pastebin.pl/view/4e3415c9
+  Part 2 - https://pastebin.pl/view/d8c88c85
 </details>
