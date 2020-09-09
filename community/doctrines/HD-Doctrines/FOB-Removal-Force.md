@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-09T11:32:56.483Z
+date: 2020-09-09T12:09:42.775Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -32,9 +32,9 @@ Cap Recharger II
 Cap Recharger II
 Cap Recharger II
 
-Medium Remote Armor Repairer II
-Medium Remote Armor Repairer II
-Medium Remote Armor Repairer II
+Corelum C-Type Medium Remote Armor Repairer
+Corelum C-Type Medium Remote Armor Repairer
+Corelum C-Type Medium Remote Armor Repairer
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
 
@@ -53,7 +53,7 @@ Nanite Repair Paste x100
 
 <details>
   <summary>Myrmidon - PVE (FOB - Minimum)</summary>
-[Myrmidon, Myrmidon - PVE (FOB - Minimum)]
+[Myrmidon, Myrmidon - PVE (FOB - Basic)]
 
 Drone Damage Amplifier II
 Drone Damage Amplifier II
@@ -68,9 +68,9 @@ Cap Recharger II
 Cap Recharger II
 Cap Recharger II
 
-Medium Remote Armor Repairer II
-Medium Remote Armor Repairer II
-Medium Remote Armor Repairer II
+Corelum C-Type Medium Remote Armor Repairer
+Corelum C-Type Medium Remote Armor Repairer
+Corelum C-Type Medium Remote Armor Repairer
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
 
