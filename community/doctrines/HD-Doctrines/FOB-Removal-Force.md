@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-08T15:20:32.263Z
+date: 2020-09-09T11:32:56.483Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -85,6 +85,46 @@ Imperial Navy Praetor x5
 
 
 Nanite Repair Paste x100
+</details>
+
+## Command
+
+<details>
+  <summary>Eos - PVE (FOB)</summary>
+[Eos, Eos - PVE (FOB)]
+
+EM Armor Hardener II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Omnidirectional Tracking Enhancer II
+Omnidirectional Tracking Enhancer II
+Omnidirectional Tracking Enhancer II
+
+10MN Afterburner II
+Large Cap Battery II
+Cap Recharger II
+Cap Recharger II
+
+Armor Command Burst II
+Armor Command Burst II
+Medium Remote Armor Repairer II
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+
+Medium Thermal Armor Reinforcer II
+Medium EM Armor Reinforcer II
+
+
+Acolyte II x5
+Infiltrator II x5
+Ogre II x4
+Praetor II x5
+
+
+Armor Energizing Charge x600
+Rapid Repair Charge x600
+Nanite Repair Paste x250
 </details>
 
 ## Skill Plan
