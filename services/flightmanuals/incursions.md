@@ -2,7 +2,7 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-10T19:41:44.738Z
+date: 2020-09-10T19:46:12.533Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
@@ -78,11 +78,13 @@ This is what your overview will look like when entering a site:
 
 ## Drones
 Another aspect of the damage the fleet does to the targets in a site, is the drones that all the doctrine fits include. The drone strategy is the same for all ships in the fleet regardless of their role.
-Before you go into combat you MUST make sure you set your drones from the drone window hamburger menu on "PASSIVE" and "FOCUS FIRE". NEVER have them set to "AGRESSIVE under any circumstances in Incursions. 
+Before you go into combat you MUST make sure you set your drones from the drone window hamburger menu on "PASSIVE" and "FOCUS FIRE". NEVER have them set to "AGGRESSIVE" under any circumstances in Incursions. 
 The FC will assign a so called "Drone Bunny" at the start of the fleet that will usually be a DPS role ship. The role of the Drone Bunny is to direct the drones to attach certain targets.
-After the fleet is informed of who the "Drone Bunny" is, wehn entering the sites, you will have to assign your drones to the Drone Bunny after the FC calls the fleet to launch drones.
+After the fleet is informed of who the "Drone Bunny" is, when entering the sites, you will have to assign your drones to the Drone Bunny after the FC calls the fleet to launch drones.
 After you assign the drones to the drone Bunny, you do not have to direct your drones, the Drone Bunny will direct them for you.
-At the end of a site, the FC will cal "drones in" that means you will have to recall your drones to the drone bay.
+At the end of a site, the FC will call "drones in" that means you will have to recall your drones to the drone bay.
+You will find that you might have 2 types of drones. combat drones, that do damage and armor maintenance drones. 
+Normally only damage drones are needed but somethimes the FC will cal for an emergency repair on a ship in fleet, in witch case he will ask of you to recall your combat drones and dispatch the armor maintenance ones to repair the armor of the designated ship.
 
 
 In Summary: know the tags assigned to your role, and work through them in order. Listen out for FC calls, that always has priority over tags. Feel free to ask questions during the fleet if you are ever unsure about something, we are happy to help…your success is our success, after all!
