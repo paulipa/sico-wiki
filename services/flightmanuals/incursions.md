@@ -2,9 +2,10 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-07-18T10:53:39.985Z
+date: 2020-09-10T19:39:37.613Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T08:11:47.223Z
 ---
 
 # SICO Incursions
@@ -50,7 +51,11 @@ A:  Yes. The payout mechanic dictates a maximum number of ships we can bring, so
 Incursions are based on sites, which spawn in the systems currently under invasion by sansha forces. Anyone can warp to these sites, and they will respawn shortly after completion for as long as the incursion focus lasts. The basic concept is for combat ships to clear each site of hostiles, while logistics ships “heal” fleet members to counter the massive incoming damage. An individual ISK and LP payout is issued to each pilot upon completion of a site automatically. The combat ship role is separated into two classes; Snipers and DPS. Target priority is communicated to the fleet by using tags, more about their usage below.
 
 # General Notes
-Incoming damage is very high in Vanguard sites, so logistics ships only have a window of a few seconds to get reps on you and save your ship when you are getting shot at. It is vital that you broadcast for shields as soon as you are getting targeted by hostiles, so logi have enough time to react. For the same reason, you must turn on your shield hardeners as soon as you undock, and keep them running for the duration of the fleet. The FC might remind you to do it, but it is your own responsibility. Do not forget to do this, logi can not help you if your hardeners are off and you will lose your ship. Snipers Nightmare and Praxis are the sniper fits in our VG doctrine. They are the main source of damage in a fleet, as they can project their damage to ranges of 60km and beyond. Primary targets for snipers are tagged with the letters A,B,C. The kill order for a sniper ship is therefore:
+Incoming damage is very high in Vanguard sites, so logistics ships only have a window of a few seconds to get reps on you and save your ship when you are getting shot at. 
+It is vital that you ***broadcast for shields as soon as you are getting targeted by hostiles (yellowboxed)***, so logi have enough time to react. 
+For the same reason, you must turn on your shield hardeners as soon as you undock, and keep them running for the duration of the fleet. The FC might remind you to do it, but it is your own responsibility. Do not forget to do this, logi can not help you if your hardeners are off and you will lose your ship. Snipers Nightmare and Praxis are the sniper fits in our VG doctrine. They are the main source of damage in a fleet, as they can project their damage to ranges of 60km and beyond. Primary targets for snipers are tagged with the letters A,B,C. The kill order for a sniper ship is therefore:
+
+
 
 ## Snipers
 Nightmare and Praxis are the sniper fits in our VG doctrine. They are the main source of damage in a fleet, as they can project their damage to ranges of 60km and beyond. Primary targets for snipers are tagged with the letters A,B,C. The kill order for a sniper ship is therefore:
@@ -67,9 +72,18 @@ Vindicator, Hyperion and Rokh are the DPS fits in our VG doctrine. With short ra
 > In Addition to this, targets tagged ‘X’ must NOT be killed.
 {.is-warning}
 
-# Exampeles:
+# Examples:
 This is what your overview will look like when entering a site:
 ![incursion_overview.jpg](/incursion_overview.jpg)
+
+## Drones
+Another aspect of the damage the fleet does to the target, is the drones that all the doctrine fits include. The drone strategy is the same for all ships in the fleet regardless of their role.
+Before you go into combat you MUST make sure you set your drones from the drone window hamburger menu on "PASSIVE" and "FOCUS FIRE". NEVER have them set to "AGRESSIVE under any circumstances in Incursions. 
+The FC will assign a so called "Drone Bunny" at the start of the fleet that will usually be a DPS role ship. The role of the Drone Bunny is to direct the drones to attach certain targets.
+After the fleet is informed of who the "Drone Bunny" is, wehn entering the sites, you will have to assign your drones to the Drone Bunny after the FC calls the fleet to launch drones.
+After you assign the drones to the drone Bunny, you do not have to direct your drones, the Drone Bunny will direct them for you.
+At the end of a site, the FC will cal "drones in" that means you will have to recall your drones to the drone bay.
+
 
 In Summary: know the tags assigned to your role, and work through them in order. Listen out for FC calls, that always has priority over tags. Feel free to ask questions during the fleet if you are ever unsure about something, we are happy to help…your success is our success, after all!
 
