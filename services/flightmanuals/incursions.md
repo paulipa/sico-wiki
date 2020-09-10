@@ -2,7 +2,7 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-10T19:39:37.613Z
+date: 2020-09-10T19:41:44.738Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
@@ -77,7 +77,7 @@ This is what your overview will look like when entering a site:
 ![incursion_overview.jpg](/incursion_overview.jpg)
 
 ## Drones
-Another aspect of the damage the fleet does to the target, is the drones that all the doctrine fits include. The drone strategy is the same for all ships in the fleet regardless of their role.
+Another aspect of the damage the fleet does to the targets in a site, is the drones that all the doctrine fits include. The drone strategy is the same for all ships in the fleet regardless of their role.
 Before you go into combat you MUST make sure you set your drones from the drone window hamburger menu on "PASSIVE" and "FOCUS FIRE". NEVER have them set to "AGRESSIVE under any circumstances in Incursions. 
 The FC will assign a so called "Drone Bunny" at the start of the fleet that will usually be a DPS role ship. The role of the Drone Bunny is to direct the drones to attach certain targets.
 After the fleet is informed of who the "Drone Bunny" is, wehn entering the sites, you will have to assign your drones to the Drone Bunny after the FC calls the fleet to launch drones.
