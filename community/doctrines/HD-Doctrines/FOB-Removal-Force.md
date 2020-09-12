@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-09T12:26:24.175Z
+date: 2020-09-12T07:19:49.252Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -30,7 +30,7 @@ True Sansha Thermal Armor Hardener
 Large Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
-Cap Recharger II
+Parallel Enduring Target Painter
 
 Corelum C-Type Medium Remote Armor Repairer
 Corelum C-Type Medium Remote Armor Repairer
@@ -49,6 +49,9 @@ Praetor II x5
 
 
 Nanite Repair Paste x100
+Mobile Depot x1
+Ogre II x5
+Improved Mindflood Booster x1
 </details>
 
 <details>
@@ -66,7 +69,7 @@ True Sansha Thermal Armor Hardener
 Large Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
-Cap Recharger II
+Parallel Enduring Target Painter
 
 Corelum C-Type Medium Remote Armor Repairer
 Corelum C-Type Medium Remote Armor Repairer
@@ -85,6 +88,9 @@ Imperial Navy Praetor x5
 
 
 Nanite Repair Paste x100
+Mobile Depot x1
+Federation Navy Ogre x5
+Improved Mindflood Booster x1
 </details>
 
 ## Command
