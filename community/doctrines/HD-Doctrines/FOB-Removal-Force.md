@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-12T07:22:33.542Z
+date: 2020-09-12T07:23:09.146Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -96,8 +96,8 @@ Improved Mindflood Booster x1
 ## Command
 
 <details>
-  <summary>Eos - PVE (FOB)</summary>
-[Eos, Eos - PVE (FOB)]
+  <summary>Eos - FC (FOB)</summary>
+[Eos, Eos - FC (FOB)]
 
 EM Armor Hardener II
 Drone Damage Amplifier II
