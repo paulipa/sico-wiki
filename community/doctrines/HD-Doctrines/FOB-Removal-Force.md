@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-12T07:23:09.146Z
+date: 2020-09-12T07:24:23.571Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -122,9 +122,8 @@ Medium Thermal Armor Reinforcer II
 Medium EM Armor Reinforcer II
 
 
-Acolyte II x5
 Infiltrator II x5
-Ogre II x4
+Ogre II x5
 Praetor II x5
 
 
