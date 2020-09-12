@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-12T17:41:59.877Z
+date: 2020-09-12T20:51:31.794Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -30,7 +30,7 @@ True Sansha Thermal Armor Hardener
 Large Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
-Parallel Enduring Target Painter
+Cap Recharger II
 
 Corelum C-Type Medium Remote Armor Repairer
 Corelum C-Type Medium Remote Armor Repairer
@@ -69,7 +69,7 @@ True Sansha Thermal Armor Hardener
 Large Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
-Parallel Enduring Target Painter
+Cap Recharger II
 
 Corelum C-Type Medium Remote Armor Repairer
 Corelum C-Type Medium Remote Armor Repairer
@@ -109,7 +109,7 @@ Omnidirectional Tracking Enhancer II
 
 10MN Afterburner II
 Large Cap Battery II
-Stasis Webifier II
+Target Painter II
 Stasis Webifier II
 
 Armor Command Burst II
