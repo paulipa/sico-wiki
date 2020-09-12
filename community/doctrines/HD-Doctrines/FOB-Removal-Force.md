@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-12T07:19:49.252Z
+date: 2020-09-12T07:22:33.542Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -109,8 +109,8 @@ Omnidirectional Tracking Enhancer II
 
 10MN Afterburner II
 Large Cap Battery II
-Cap Recharger II
-Cap Recharger II
+Stasis Webifier II
+Stasis Webifier II
 
 Armor Command Burst II
 Armor Command Burst II
@@ -128,9 +128,13 @@ Ogre II x4
 Praetor II x5
 
 
+Improved Mindflood Booster
+
+
 Armor Energizing Charge x600
 Rapid Repair Charge x600
 Nanite Repair Paste x250
+Improved Mindflood Booster x1
 </details>
 
 ## Skill Plan
