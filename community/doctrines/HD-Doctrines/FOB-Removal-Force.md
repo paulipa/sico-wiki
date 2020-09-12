@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-12T08:07:36.934Z
+date: 2020-09-12T17:41:59.877Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -125,9 +125,6 @@ Medium EM Armor Reinforcer II
 Infiltrator II x5
 Ogre II x5
 Praetor II x5
-
-
-Improved Mindflood Booster
 
 
 Armor Energizing Charge x600
