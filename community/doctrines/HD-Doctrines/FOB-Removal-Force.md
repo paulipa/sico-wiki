@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-14T19:05:57.352Z
+date: 2020-09-14T19:07:09.360Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -110,12 +110,12 @@ Omnidirectional Tracking Enhancer II
 Omnidirectional Tracking Enhancer II
 
 Large Cap Battery II
-Target Painter II
+Cap Recharger II
 Target Painter II
 Target Painter II
 
-Armor Command Burst II, Rapid Repair Charge
-Armor Command Burst II, Armor Energizing Charge
+Armor Command Burst II
+Armor Command Burst II
 Centum A-Type Medium Remote Armor Repairer
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
