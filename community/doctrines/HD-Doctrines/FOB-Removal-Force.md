@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-12T20:51:31.794Z
+date: 2020-09-14T18:53:40.269Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -19,24 +19,24 @@ Click the spanner to the left then at the bottom left click Import and Export > 
   <summary>Myrmidon - PVE (FOB)</summary>
 [Myrmidon, Myrmidon - PVE (FOB)]
 
-Drone Damage Amplifier II
-Drone Damage Amplifier II
+Damage Control II
 True Sansha EM Armor Hardener
 True Sansha EM Armor Hardener
 True Sansha Thermal Armor Hardener
 True Sansha Thermal Armor Hardener
+Drone Damage Amplifier II
 
-10MN Monopropellant Enduring Afterburner
+Denny Enduring Omnidirectional Tracking Link
 Large Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
 Cap Recharger II
 
-Corelum C-Type Medium Remote Armor Repairer
-Corelum C-Type Medium Remote Armor Repairer
-Corelum C-Type Medium Remote Armor Repairer
+Drone Link Augmentor I
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
+Centum A-Type Medium Remote Armor Repairer
+Centum A-Type Medium Remote Armor Repairer
 
 Medium EM Armor Reinforcer II
 Medium Thermal Armor Reinforcer II
@@ -49,33 +49,34 @@ Praetor II x5
 
 
 Nanite Repair Paste x100
+Tracking Speed Script x1
 Mobile Depot x1
 Ogre II x5
-Improved Mindflood Booster x1
+Improved Mindflood Booster x2
 </details>
 
 <details>
   <summary>Myrmidon - PVE (FOB - Minimum) <--- Also Alpha Friendly</summary>
 [Myrmidon, Myrmidon - PVE (FOB - Basic)]
 
-Drone Damage Amplifier II
-Drone Damage Amplifier II
+Damage Control II
+True Sansha Thermal Armor Hardener
 True Sansha EM Armor Hardener
 True Sansha EM Armor Hardener
 True Sansha Thermal Armor Hardener
-True Sansha Thermal Armor Hardener
+Drone Damage Amplifier II
 
-10MN Monopropellant Enduring Afterburner
+Denny Enduring Omnidirectional Tracking Link
 Large Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
 Cap Recharger II
 
-Corelum C-Type Medium Remote Armor Repairer
-Corelum C-Type Medium Remote Armor Repairer
-Corelum C-Type Medium Remote Armor Repairer
+Drone Link Augmentor I
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
+Centum A-Type Medium Remote Armor Repairer
+Centum A-Type Medium Remote Armor Repairer
 
 Medium EM Armor Reinforcer II
 Medium Thermal Armor Reinforcer II
@@ -88,9 +89,10 @@ Imperial Navy Praetor x5
 
 
 Nanite Repair Paste x100
+Tracking Speed Script x1
 Mobile Depot x1
 Federation Navy Ogre x5
-Improved Mindflood Booster x1
+Improved Mindflood Booster x2
 </details>
 
 ## Command
@@ -100,26 +102,26 @@ Improved Mindflood Booster x1
 [Eos, Eos - FC (FOB)]
 
 EM Armor Hardener II
+Thermal Armor Hardener II
 Drone Damage Amplifier II
 Drone Damage Amplifier II
 Drone Damage Amplifier II
-Omnidirectional Tracking Enhancer II
 Omnidirectional Tracking Enhancer II
 Omnidirectional Tracking Enhancer II
 
-10MN Afterburner II
 Large Cap Battery II
 Target Painter II
-Stasis Webifier II
+Target Painter II
+Target Painter II
 
-Armor Command Burst II
-Armor Command Burst II
-Medium Remote Armor Repairer II
+Armor Command Burst II, Rapid Repair Charge
+Armor Command Burst II, Armor Energizing Charge
+Centum A-Type Medium Remote Armor Repairer
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
 
-Medium Thermal Armor Reinforcer II
 Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
 
 
 Infiltrator II x5
@@ -130,7 +132,7 @@ Praetor II x5
 Armor Energizing Charge x600
 Rapid Repair Charge x600
 Nanite Repair Paste x250
-Improved Mindflood Booster x1
+Improved Mindflood Booster x2
 </details>
 
 ## Skill Plan
