@@ -2,9 +2,10 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-08-14T20:20:18.621Z
+date: 2020-09-16T16:02:29.172Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T15:53:13.263Z
 ---
 
 The most important goal of the coalition is to create an environment where each different type of player are able to enjoy the game and pursuit the goals they have set for them.
@@ -48,6 +49,7 @@ While we do understand that in the heat of a battle you most often want to smack
 - **Communicate in english** when talking or typing in any of our public or coalition restricted text or voice channels.
 - **SC Comms channel for all general chattering**. All of the corporations that belongs to SiCO are using the custom in-game channel called SC Comms for all of their general chattering. The different corporations may be using their own chat channels for sensitive information such as null sec events or language restricted chattering, but all of the general chattering should be kept in SC Comms.
 - **Registering on AUTH is mandatory** for all coalition members. The AUTH programs are used to manage player access to coalition restricted content such as the homepage content and discord rooms.
+- **Corporations must have an corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other coalition entities** whenever possible.
 - **No hostile actions against any strategic structures or systems** regarless of standing settings.
 
@@ -58,7 +60,6 @@ The coalition corporations may have different requirements set on them depending
 
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
-
 
 ## Full Coalition Member Corporation Requirements
 These corporations are not added to the alliance. Instead they will be linked to other corporations with standings. They will use the general communication channels the same way normal alliances use the alliance channell.
