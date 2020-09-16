@@ -2,9 +2,10 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2020-07-30T07:14:12.106Z
+date: 2020-09-16T15:02:57.650Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T17:28:01.656Z
 ---
 
 > The Dark Arts are many, varied, ever-changing, and eternal. Fighting them is like fighting a many-headed monster, which, each time a neck is severed, sprouts a head even fiercer and cleverer than before. You are fighting that which is unfixed, mutating, indestructible.
@@ -29,7 +30,7 @@ The free SP you get is enough for you to inject to the entry version of our prim
 > Please follow the following steps for creating your SLTRN character
 {.is-warning}
 
-1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=d2b6ac02-0cb8-4ae6-b66f-b9e110c12dea
+1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=dbb7443d-c7b0-4133-92ce-58d6165c71bd
 1. Create a new account and activate it.
 1. Next you want to create a caldari character.
 1. Since we want to have a tiny bit or RP in this corporation please pick a Harry Potter series themed name. You can create variations of the names if the name you are looking for is not available but try to keep it somehow related. This way when our horde of wizards enters locals space people will know shit is going down! You can use this list for help https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters
