@@ -2,9 +2,10 @@
 title: Loud Crew [LOUCR]
 description: 
 published: true
-date: 2020-07-30T07:14:36.519Z
+date: 2020-09-16T15:03:17.843Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-21T15:31:35.738Z
 ---
 
 Loud Crew [LOUCR] is a special interest department for the SiCO members. It is designed to protect our high sec sovereignty against entities that are not war eligible. To do this the members of this corporations are committing themselves in criminal activities.
@@ -21,7 +22,7 @@ The process of creating an alt for LOUCR is very similar to the SLTRN war corpor
 The following steps will get you into your very own 500 dps ganking catalyst, made famous by CODE.
 
 
-1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=d2b6ac02-0cb8-4ae6-b66f-b9e110c12dea
+1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=dbb7443d-c7b0-4133-92ce-58d6165c71bd
 1. Create a new account and activate it.
 1. Next you want to create a gallente character.
 1. Make an ingame application to the Loud Crew [LOUCR] corporation
