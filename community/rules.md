@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-09-16T16:02:29.172Z
+date: 2020-09-19T05:05:17.588Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:53:13.263Z
@@ -49,33 +49,49 @@ While we do understand that in the heat of a battle you most often want to smack
 - **Communicate in english** when talking or typing in any of our public or coalition restricted text or voice channels.
 - **SC Comms channel for all general chattering**. All of the corporations that belongs to SiCO are using the custom in-game channel called SC Comms for all of their general chattering. The different corporations may be using their own chat channels for sensitive information such as null sec events or language restricted chattering, but all of the general chattering should be kept in SC Comms.
 - **Registering on AUTH is mandatory** for all coalition members. The AUTH programs are used to manage player access to coalition restricted content such as the homepage content and discord rooms.
+
+# Requirements for coalition entities
+Depending on your corporation status in the coalition you maye have different requirements and restrictions set on you. These following rules apply on all coalition member entities no matter what their status in the coalition is:
 - **Corporations must have an corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other coalition entities** whenever possible.
-- **No hostile actions against any strategic structures or systems** regarless of standing settings.
+- **Seek to provide content and fleets for other coalition members whenever possible** by opening their fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
+- **No hostile actions against any structures or or camping strategic systems** regarless of standing settings. PvP roaming is allowed with the limitations of standings used.
+- **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other coalition entities. For example you are not allowed to underrate coalition corporations that are part of your rival alliances. SiCO only operates on corporation level.
 
-# Requirements for coalition corporations
-The coalition corporations may have different requirements set on them depending on if they belong to the coalition entry level alliance or if they are a full member corporation of the coalition.
-
-**Both full member and entry level alliance member corporations have the same benefits and services** in use for their needs as well as the same access to systems and services. The main difference between these two comes from the side of system management.
+**All entities have the same base benefits and services** in use for their needs as well as the same access to systems and services. The main difference between entities comes from the side of system management and standing setups.
 
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
 
-## Full Coalition Member Corporation Requirements
-These corporations are not added to the alliance. Instead they will be linked to other corporations with standings. They will use the general communication channels the same way normal alliances use the alliance channell.
+## Full Member Entity Requirements
+These corporations are not added to the silent company alliance. They will be using +10 standings with other full member entities and are not allowed to engage with them in any form of pvp. They will use the general communication channels the same way normal alliances use the alliance channell.
 
 - Corporation needs to have at least 30 active individual members in the corporation
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated
+- Corporation will be set to +10 and is required to keep +10 standings on all Full Member Entities
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
 - Corporation must keep an updated corp description page on the homepage for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
-- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a full member corporation will be part of SiCO and the other alliance members the corporation has joined will be treated as neutral entities.
+- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a full member entity will be part of SiCO and the other alliance members the corporation has joined will be treated as neutral entities.
 - All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
 - Corporation leadership must be active and interact with other coalition leadership.
-- Corporation should provide content for other coalition members whenever possible by opening their fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
-- Set aside any standing differences or in game political ambitions that your corporation might be inheriting from your alliance or mega coalition when interacting with other coalition members. For example you are not allowed to underrate coalition corporations that are part of your rival alliances. SiCO only operates on corporation level.
 
-## Silent Company | High Sec non war eligible alliance
+## Affiliated Member Entity Requirements
+These corporations are not added to the silent company alliance. This entity will not be set blue and it allows the entity to fight against other coalition members with the limitations of the general requirements. These entities will set all coalition members with +0 in order to identify them in space and to be able to act based on that information. They will use the general communication channels the same way normal alliances use the alliance channell.
+
+- Corporation needs to have at least 30 active individual members in the corporation
+- Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
+- Corporation will be set to +0 and is required to keep +0 standings on all Full Member Entities
+- Corporation is allowed to shoot at other coalition members in PVP roams as well as to get shot by other coalition members.
+- Corporation is not allowed to take advantage of its coalition memebrship in order to plan hostile pvp actions against other coalition entities regardless of the standings. You are not allowed to plot ganks or intercept fleets hosted from any other coalition entities in any way.
+- Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
+- Corporation must keep an updated corp description page on the homepage for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation.
+- Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
+- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a affiliated member entity will be part of SiCO and the other alliance members the corporation has joined will be treated as neutral entities.
+- All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
+- Corporation leadership must be active and interact with other coalition leadership.
+
+## Alliance Member Entity Requirements | Silent Company
 Corporations who want to fly under the banner of the Silent Company alliance and do not seek to take part in any wars may join the Silent Company alliance. Joining the alliance reduces the amount of work required for setting channel access and standings.
 
 > Corporations in the entry level alliance are not allowed to hold any structures under their corporations. The entry level alliance will never be eligible for war. If this rules is broken and a corporation anchors any structures making the alliance venerable for wars the corporation will be removed without any warning. It is the responsibility of the CEO to make sure that regular members are unable to anchor structures.
@@ -84,30 +100,32 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 > Corporations in the entry alliance will need to keep the setting to reject all structure transfers on at all times.
 {.is-warning}
 
-- Corporation needs to have at least 30 active individual members in the corporation
+- Corporation needs to have at least 50 active individual members in the corporation
 - All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
 - The alliance will manage all standings and service accesses on behalf of the corporation. If the corporation leaves the alliance they are treated as a neutral entity and will lose access to the services.
-- Corporation may request to become a full member corporation if they meet the requirements or are looking to join another alliance that requires by game mechanisms for the corporation to leave the entry level alliance.
+- Corporation may request membership status change if they meet the requirements or are looking to join another alliance that requires by game mechanisms for the corporation to leave the silent company alliance.
 - Corporation should provide content for other coalition members whenever possible by opening their fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
 - Corporation has full autonomy over their own corporation excluding the matters mentioned above.
 
-## Language partner corporations
+## Language Partner Entity Requirements
 Language partner corporations are special case corporations that are loosely connected to the coalition. The purpose of these non English speaking corporations is to provide content for non English speaking players.
 
-These corporations are our recommended language partners that we offer for players who do not wish or can't operate in Enlish. We also advertise these corporations in our general recruitment mails.
+> Language partner entities are our partners that we recommend for players who do not wish or can't operate in Enlish. We also advertise these corporations in our general recruitment mails.
+{.is-info}
 
 While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
 
 In order to qualify as a language partner corporation for SiCO your corporation will need to:
 
-- Corporation needs to have at least 30 active individual members in the corporation
+- Corporation needs to have at least 50 active individual members in the corporation
+- No standing adjustments is required.
 - Corporations main language must be something else than English.
 - Corporation needs to be active and have a clear goal in sight. Coalition only interacts with language option corporations that we believe are providing true content and taking care of the members we send to the corporations.
 - Corporation needs to have a representative or point of contact towards SiCO who will inform the coalition about any major changes that would effect pushing new recruits to their corporation.
 - Corporation needs to provide the coalition a clear and simple advertising phrase in their native language to be used for recruiting purposes on behalf of the coalition.
 - Set aside any standing differences or in game political ambitions that your corporation might have when interacting with SiCO members or in any of the SiCO related channels
 - Corporation must seek to cooperate with SiCO member corporations whenever possible and suitable based on the corporation goals of the language option corporation
-- If most of the corporation members talk English the language option corporation may apply for full coalition corporation status or to join the Silent Company alliance. In these cases the rules applied on the language corporation will change accordingly.
+- If most of the corporation members talk English the language option corporation may apply for full member entity status or to join the Silent Company alliance. In these cases the rules applied on the language corporation will change accordingly.
 
 # Changing coalition corporations
 Members that are part of any of the coalition corporations are allowed to request a transfer to a different wing if they do wish to change their gameplay. The different wings might have some limitations and requirements of their own so it is always good that have a chat with a director, recruiter or a CEO of the corporation that you seek to join.
