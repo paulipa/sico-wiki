@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-09-19T16:07:46.898Z
+date: 2020-09-21T11:39:04.914Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -92,6 +92,44 @@ Nanite Repair Paste x100
 Tracking Speed Script x1
 Mobile Depot x1
 Federation Navy Ogre x5
+Improved Mindflood Booster x2
+</details>
+
+---
+
+<details>
+  <summary>Eos - PVE (FOB)</summary>
+[Eos, Eos - PVE (FOB)]
+
+EM Armor Hardener II
+Thermal Armor Hardener II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Omnidirectional Tracking Enhancer II
+Omnidirectional Tracking Enhancer II
+
+Large Cap Battery II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Centum A-Type Medium Remote Armor Repairer
+Centum A-Type Medium Remote Armor Repairer
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+Drone Link Augmentor II
+
+Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
+
+
+Infiltrator II x5
+Ogre II x5
+Praetor II x5
+
+
+Nanite Repair Paste x100
 Improved Mindflood Booster x2
 </details>
 
