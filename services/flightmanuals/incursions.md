@@ -2,7 +2,7 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-10T20:07:02.052Z
+date: 2020-09-24T22:33:44.928Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
@@ -27,7 +27,7 @@ A: You can see scheduled fleets here: https://auth.silentcoalition.com/optimer/ 
 A: In a normal fleet, you can expect to make over 100 million ISK per hour (per pilot), the current fleet record sits at 111 mil/h. Fleets usually last for 3-4 hours, but you are free to drop out at any time.
 
 ## Q: What are the requirements?
-A: You need to be able to fly an exact doctrine fit, buy and bring your own ship, and be able to join discord voice comms (mic not required, but encouraged). You also must have completed an MQP fleet.
+A: You need to be able to fly an exact doctrine fit, buy and bring your own ship, and be able to join discord voice comms (mic not required, but encouraged). You also must have completed an MQP fleet. You will also be required to read this guide IN FULL and follow the ckecklist before you join your first fleet.
 
 ## Q: Will I even get into fleet with a starter fit?
 A:  Yes. The payout mechanic dictates a maximum number of ships we can bring, so critical roles must be filled by appropriate ships no matter what. After these roles are filled, however, the remaining spots are filled in the order in which pilots X’d up, not by how good their fits are.
