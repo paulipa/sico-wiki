@@ -2,13 +2,15 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-24T22:34:38.183Z
+date: 2020-09-24T22:35:35.059Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
 ---
 
 # SICO Incursions
+
+Please read this guide in full!
 
 # FAQ
 ## Q: What are Vanguard Incursions?
