@@ -2,13 +2,13 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T21:07:29.194Z
+date: 2020-09-25T21:22:44.320Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
 ---
 
-# Shit Needs to be Done
+# Validus Industries
 **Description**
 We mine the ore to refine for minerals
 We use the minerals to build the ships
