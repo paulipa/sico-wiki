@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T21:48:34.393Z
+date: 2020-09-25T22:36:59.713Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -59,4 +59,4 @@ Hold the god damned pod and wait for everyone to get on that kill mail.
 ## Additional Information
 Timezones Supported EU/US/AP
 Our Public Discord https://discord.gg/crQkCyg
-Home: Null, we have multiple options on alliances to join once we meet the numbers to join either of them. The primary leaders of this are Evictus & Warped
+Home: Fluid at this time, will have a better answer with more members.
