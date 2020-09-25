@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T10:21:14.820Z
+date: 2020-09-25T10:23:16.082Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -54,4 +54,4 @@ Hold the god damned pod and wait for everyone to get on that kill mail.
 ## What we offer as a corp
 #1 Freedom to be yourself and not a cog in the machine
 #2 Support in your ambitions as long as they are not harmful to the corp or alliance.
-#3 Experiance and knowledge
+#3 Ability to express change in real time if only on a corporate level.
