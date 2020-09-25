@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2020-09-14T08:33:17.535Z
+date: 2020-09-25T09:47:49.097Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
@@ -54,7 +54,7 @@ There is always something for everyone to enjoy. So let’s go forth and dominat
 ## For more information please contact one of the following:
 **US and non-EU Timezones:**
 - Jafner, co-CEO
-- Xanos Ragnarok, Director
+- Gunnnerstormari, Director
 - Mace Caderu, Recruiter
 - Rolandius Onzo, Recruiter
 
