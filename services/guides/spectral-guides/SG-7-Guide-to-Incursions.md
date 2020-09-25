@@ -2,43 +2,62 @@
 title: SG-7 - Guide to Incursions
 description: 
 published: true
-date: 2020-07-15T00:33:33.508Z
+date: 2020-09-25T16:12:26.791Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-15T00:16:12.464Z
 ---
 
-There is a great misconception about what incursions in Eve actually are.  I often hear players referring to them as "end-game PVE" and "not new player friendly".  This is however false and this guide seeks to show how you are able to join incursions even as a new player.
+Hello, if you are reading this then it is very likely that you have been directed here from the SiCo incursions SIG and are looking to learn how to get started with incursions as a new player.
 
-Firstly; what are incursions?  Incursions are a fleet PVE activity, similar to instances or raids in other MMORPG's.  They spawn randomly across New Eden - the lore is that the Sansha Nation (an NPC faction) are invading systems, and capsuleers have to go and fight off the invasion to save the system.
+There is a common misconception that incursions are "end-game PVE" and only feasible for experienced players with billions of ISK and millions of skillpoints.  All these things are false and this guide seeks to show you how you are able to start with incursions even as a new player.
 
-It is vital to note; it is not possible to solo an incursion, do not attempt to do so as you will simply die.
-
----
-With basic incursions such as the Vanguards run by our alliance incursion group or a popular newbro friendly group such as Warp To Me (WTM), you can make around 100-150 million isk per hour.
-
-Once you have learned the ropes and gotten good skills, you can consider a more advanced group such as The Ditanian Fleet (TDF) which can make between 240-300 million isk per hour, but these are not new player friendly and I don't recommend it to anyone who is brand new to the game or incursions.
 
 ---
-To run with SiCo Incursions, head to https://auth.silentcoalition.com/groups/ and join the "Special Interest: Incursions" group.
+## What are Incursions?
 
-Once you join that, you will now have the Incursions channel on your discord where the fleets are formed for and you can ask further questions in there.
 
-You will need to train for and purchase one of the ships from the incursion doctrine found here https://wiki.silentcoalition.com/en/community/doctrines under "Incursions Vanguards".
+Incursions are a fleet PVE activity, similar to instances or raids in other MMORPG's.  They spawn randomly across New Eden - the lore being that the Sansha Nation (an NPC faction) are invading systems, and capsuleers have to go and fight off the invasion to save the system.
 
-The praxis is the cheapest ship to purchase - it will cost around 250 million which you will earn back in 2.5 hours of incursions.
+See https://wiki.eveuniversity.org/Incursions_101 for more information on the basics of what incursions are.
 
-From there you want to try and get yourself a Nightmare, train t2 guns and you will be able to work out what to do from there.
 
-I also recommend reading the WTM newbro guide to incursions found here https://forums.warptome.net/rookie-guide, you can skip the first few sections and read onwards from "Settings" (this section and downwards https://i.imgur.com/v4cWY6X.png).
-
-On top of that you should setup your overview and GUI properly, a guide to this is found in SG-1.
 
 ---
-SiCo don't run all the time though, when they aren't running, you can join this almost 24/7 public community by joining in-game channel "Warp To Me Incursions",
+## Why Start with Incursions?
 
-You won't be able to use a SiCo incursion ship for this community though, you will need a ship from their doctrine instead found at https://wl.warptome.net/fits/.
+With basic incursions such as the Vanguards run by our coalition incursion group, you can make around 100 million isk every hour consistently.  Incursions are incredibly profitable and also incredibly safe to run due to the fact (at least as far as SiCo is concerned) they are always run in highsec.
 
-You can also ask them questions in their channel (linked above), and/or read their newbro guide also linked above.
+Besides the lucrative nature of incursions, it also greatly enhances your experience and skills as an Eve Online player.  You will be able to solidify many concepts such as broadcasting, drone assists, tags and more.
+
+The final point would be bridge building and sense of community.  It is common to see the same players in your fleets repeatedly and you can begin to meet similar-minded players who share your interest in incursions and the PVE world in general.
+
+
+---
+## How to Get Setup
+
+Step 1 - To run with SiCo incursions, you will need to ensure you are authed properly via https://auth.silentcoalition.com/, if you haven't already done this, contact your corp CEO or join SiCo Discord and ask for assistance in the #it-support channel if you are unsure how to do it.
+
+Step 2 - Head to https://auth.silentcoalition.com/groups/ and join "Special Interest: Incursions".
+
+Step 3 - If you don't see this channel (https://i.imgur.com/Vc7ByQt.png) on the discord, again ask for assistance in the #it-support channel.
+
+You are now setup properly on SiCo discord and can now recieve incursion pings and ask questions in the #incursions channel.
+
+
+---
+## How to Get Started with Incursions
+
+Step 1 - You will need to train for and purchase one of the ships from our SiCo incursion doctrine found at https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#entry-fits.
+
+There are quite alot of fits here - to save you paragraphs of explanation on what role each of them serves within an incursion, it is sufficient to say that as a new player you should focus on training and acquiring the "Praxis, DPS - YeetFleet - Entry".  This is the cheapest ship to purchase at around 250 million isk, and also quite easy to train into.
+
+Step 2 - You are required to join at minimum once MQP Fleet (Member Qualification Program).  If you are unsure how to do this, join in-game mailing list SG-8 for instructions.
+
+Step 3 - Read and fully understand https://wiki.silentcoalition.com/services/flightmanuals/incursions, it is important that you do this, if you don't understand a particular section, then don't just join an incursion fleet anyway - ask for clarity in the incursions channel.
+
+Step 4 - Ensure you have a properly setup overview and GUI, if you haven't already done this, please head to SG-1 mailing list for guidance on how to do this.
+
 
 ---
 I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
