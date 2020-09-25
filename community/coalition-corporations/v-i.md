@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T09:44:51.394Z
+date: 2020-09-25T10:21:14.820Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
