@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T10:45:01.271Z
+date: 2020-09-25T21:07:29.194Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -58,4 +58,4 @@ Hold the god damned pod and wait for everyone to get on that kill mail.
 
 ## Additional Information
 Timezones Supported EU/US/AP
-Our Public Discord
+Our Public Discord https://discord.gg/crQkCyg
