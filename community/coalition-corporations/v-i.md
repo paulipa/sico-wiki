@@ -2,13 +2,13 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T21:36:32.969Z
+date: 2020-09-25T21:48:34.393Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
 ---
 
-# Validus Industries
+# Validus Industries Strength in Freedom
 **Description**
 We mine the ore to refine for minerals
 We use the minerals to build the ships
