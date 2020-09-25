@@ -2,7 +2,7 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-25T00:38:35.692Z
+date: 2020-09-25T00:47:13.251Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
@@ -81,8 +81,8 @@ This is what your overview will look like when entering a site:
 ## Drones
 Another aspect of the damage the fleet does to the targets in a site, is the drones that all the doctrine fits include. The drone strategy is the same for all ships in the fleet regardless of their role.
 Before you go into combat you MUST make sure you set your drones from the drone window hamburger menu on "PASSIVE" and "FOCUS FIRE". NEVER have them set to "AGGRESSIVE" under any circumstances in Incursions. 
-The FC will assign a so called "Drone Bunny" at the start of the fleet that will usually be a DPS role ship. The role of the Drone Bunny is to direct the drones to attack certain targets.
-After the fleet is informed of who the "Drone Bunny" is, when entering the sites, you will have to assign your drones to the Drone Bunny after the FC calls the fleet to launch drones.
+The FC will assign a so called "Drone Bunny" or "DDD" at the start of the fleet, that will usually be a DPS role ship. The role of the Drone Bunny is to direct the drones to attack certain targets.
+After the fleet is informed of who the "Drone Bunny" is, when entering the sites, you will have to assign your drones to the Drone Bunny after the FC calls the fleet to launch drones. (launch your drones then right-click "drones is space" and on the menu that appears hover "Assist" and left click the name of the pilot that was tasked as DDD or Drone Bunnyby the FC).
 After you assign the drones to the drone Bunny, you do not have to direct your drones, the Drone Bunny will direct them for you.
 At the end of a site, the FC will call "drones in" that means you will have to recall your drones to the drone bay.
 You will find that you might have 2 types of drones. combat drones, that do damage and armor maintenance drones. 
