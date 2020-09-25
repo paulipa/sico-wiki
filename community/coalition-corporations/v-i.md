@@ -2,13 +2,13 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T08:03:56.011Z
+date: 2020-09-25T08:15:17.545Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
 ---
 
-# Lets Get Shit Done
+# Shit Needs to be Done
 **Description**
 We mine the ore to refine for minerals
 We use the minerals to build the ships
@@ -16,7 +16,7 @@ The ships we build to sell to you,
 The ships we build to shoot you with,
 The ships we use to pod you.
 
-While we prioritize the Industrial side of EVE. We believe that in order to have something of value, force must be ready and swift to protect it. We require all members to be willing to learn how to do small gang warfare as well as large fleet battles. We ask, but do not require at least two fleets a month. In return we will work on providing you the opportunities to join said fleets. Everything from filament roams to large fights leaving the rest of the time for you to do with as you wish. We also ask that when called to defend you step up doctrine will be as simple as possible. 
+While we prioritize the Industrial side of EVE. We believe that in order to have something of value, force must be ready and swift to protect it. We require all members to be willing to learn how to do small gang warfare as well as large fleet battles. We ask, but do not require at least two fleets a month. In return we will work on providing you the opportunities to join said fleets. Everything from filament roams to large fights leaving the rest of the time for you to do with as you wish. We also ask that when called to defend our space and that of our allies we will step up to keep our doctrine as simple as possible. 
 
 **Requirements** ( For your main character only. Alts are a different matter.)
 **Skill Points:** minimum 5 million points
