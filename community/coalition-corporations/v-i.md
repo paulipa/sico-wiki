@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T08:17:31.724Z
+date: 2020-09-25T09:44:51.394Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -50,3 +50,8 @@ Treat others fairly, in a manner you wish to be treated.
 If you screw up, own it and you will be treated as fair as possible.
 Know when you need to walk away from a fight as well as when to jump in.
 Hold the god damned pod and wait for everyone to get on that kill mail.
+
+## What we offer as a corp
+#1 Freedom to be yourself and not a cog in the machine
+#2 Support in your ambitions as long as they are not harmful to the corp or alliance.
+#3 Experiance and knowledge
