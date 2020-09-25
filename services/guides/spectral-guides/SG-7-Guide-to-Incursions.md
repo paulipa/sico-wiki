@@ -2,7 +2,7 @@
 title: SG-7 - Guide to Incursions
 description: 
 published: true
-date: 2020-09-25T16:12:26.791Z
+date: 2020-09-25T16:15:29.617Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:16:12.464Z
@@ -36,7 +36,7 @@ The final point would be bridge building and sense of community.  It is common t
 ---
 ## How to Get Setup
 
-Step 1 - To run with SiCo incursions, you will need to ensure you are authed properly via https://auth.silentcoalition.com/, if you haven't already done this, contact your corp CEO or join SiCo Discord and ask for assistance in the #it-support channel if you are unsure how to do it.
+Step 1 - To run with SiCo incursions, you will need to ensure you are authed properly via https://auth.silentcoalition.com/, if you haven't already done this, contact your corp CEO or join SiCo Discord (https://discord.gg/P7zw2XX) and ask for assistance in the #it-support channel if you are unsure how to do it.
 
 Step 2 - Head to https://auth.silentcoalition.com/groups/ and join "Special Interest: Incursions".
 
