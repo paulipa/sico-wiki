@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T08:01:29.950Z
+date: 2020-09-25T08:03:56.011Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -24,7 +24,6 @@ While we prioritize the Industrial side of EVE. We believe that in order to have
 Minimum of being able to fly tech one cruisers with meta weapons for both minimatar and caldari. 
 Minimum of Basic shield skills, preference to close to perfect as possible.
 A desire to live in nullsec and participate in it’s events and reap the success and failures from them. 
-
 
 
 **Validus Directives ( Bushido )**
