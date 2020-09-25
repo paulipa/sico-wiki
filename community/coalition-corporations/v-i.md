@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T10:23:16.082Z
+date: 2020-09-25T10:31:31.964Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -25,7 +25,6 @@ While we prioritize the Industrial side of EVE. We believe that in order to have
 Minimum of being able to fly tech one cruisers with meta weapons for both minimatar and caldari. 
 Minimum of Basic shield skills, preference to close to perfect as possible.
 A desire to live in nullsec and participate in it’s events and reap the success and failures from them. 
-
 
 ## **Validus Directives ( Bushido )**
 
@@ -51,7 +50,9 @@ If you screw up, own it and you will be treated as fair as possible.
 Know when you need to walk away from a fight as well as when to jump in.
 Hold the god damned pod and wait for everyone to get on that kill mail.
 
-## What we offer as a corp
-#1 Freedom to be yourself and not a cog in the machine
+## What we offer
+#1 Freedom to be yourself in and out of the machine as a cog
 #2 Support in your ambitions as long as they are not harmful to the corp or alliance.
-#3 Ability to express change in real time if only on a corporate level.
+#3 Guidance with over 20 years of eve experiance in everthing from high to null to Wormhole in everthing from ratting to manufacturing ships & drugs. Logistics in space priest to moving freight for the corp. 
+#4 Capital Dread Support Program to getting you into your first dread to using it.
+
