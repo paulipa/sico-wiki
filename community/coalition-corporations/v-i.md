@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-09-25T10:31:31.964Z
+date: 2020-09-25T10:45:01.271Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -56,3 +56,6 @@ Hold the god damned pod and wait for everyone to get on that kill mail.
 #3 Guidance with over 20 years of eve experiance in everthing from high to null to Wormhole in everthing from ratting to manufacturing ships & drugs. Logistics in space priest to moving freight for the corp. 
 #4 Capital Dread Support Program to getting you into your first dread to using it.
 
+## Additional Information
+Timezones Supported EU/US/AP
+Our Public Discord
