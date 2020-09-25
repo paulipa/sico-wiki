@@ -2,7 +2,7 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-24T22:35:35.059Z
+date: 2020-09-25T00:38:35.692Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
@@ -86,7 +86,7 @@ After the fleet is informed of who the "Drone Bunny" is, when entering the sites
 After you assign the drones to the drone Bunny, you do not have to direct your drones, the Drone Bunny will direct them for you.
 At the end of a site, the FC will call "drones in" that means you will have to recall your drones to the drone bay.
 You will find that you might have 2 types of drones. combat drones, that do damage and armor maintenance drones. 
-Normally only damage drones are needed but somethimes the FC will cal for an emergency repair on a ship in fleet, in witch case he will ask of you to recall your combat drones and dispatch the armor maintenance ones to repair the armor of the designated ship.
+Normally only damage drones are needed but somethimes the FC will call for an emergency repair on a ship in fleet, in witch case he will ask of you to recall your combat drones and dispatch the armor maintenance ones to repair the armor of the designated ship.
 
 
 In Summary: know the tags assigned to your role, and work through them in order. Listen out for FC calls, that always has priority over tags. Feel free to ask questions during the fleet if you are ever unsure about something, we are happy to help…your success is our success, after all!
