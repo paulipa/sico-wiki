@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-09-25T05:57:11.811Z
+date: 2020-09-26T10:23:48.970Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -84,10 +84,6 @@ All of the entry level corporations are fairly similar and have the same service
 - Triglavian Invasions
 - PRO Triglavian
 # Language Partners
-## [Maniac Mining SQUAD [MMSQ]](/community/coalition-corporations/mmsq)
-- Korean
-- High Sec
-- Silent Company member
 
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
 - Russian
