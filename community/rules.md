@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-09-19T05:05:17.588Z
+date: 2020-09-27T08:54:21.693Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:53:13.263Z
@@ -157,7 +157,7 @@ The chain of command from top to down for the current coalition roles are:
 - Fleet Commander Trainee
 - Industrial Commander
 
-# Dealing with round violations and problems
+# Dealing with rule violations and other problems
 > If someone is violating the rules set for the coalition or on your own corporation you are not allowed to take matters into your own hand.
 {.is-warning}
 
