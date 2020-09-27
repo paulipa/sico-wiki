@@ -2,9 +2,10 @@
 title: Community
 description: 
 published: true
-date: 2020-07-17T14:32:41.240Z
+date: 2020-09-27T11:32:31.189Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-09T08:08:40.322Z
 ---
 
 ## [Hall Of fame](https://www.silentcoalition.com/hall-of-fame)
@@ -15,6 +16,9 @@ This page includes all the shareholders that have purchased shares for the silen
 
 ## [Coalition Corporations](/community/coalition-corporations)
 Official Full Member Corporations of SiCO.
+
+## [Operating Locations](/community/operating-locations)
+Our primary areas of operations and systems.
 
 ## [Changing Corporations](/community/changing-corporations)
 All coalition members are free to look for a new corporation when they feel like it. The coalition tries to offer different types of corporations within the community but if you can't find the right place for yourself within the coalition you can also look for corporations that are not part of the coalition.
