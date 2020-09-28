@@ -2,7 +2,7 @@
 title: II Ordinis Silens II [IO-SI]
 description: 
 published: true
-date: 2020-09-28T05:00:07.129Z
+date: 2020-09-28T05:04:53.418Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:55:42.549Z
@@ -29,4 +29,4 @@ Who we are, aside from being one of the newest </span><span style=color:grey><u>
 
 From actively mining the rich fields of Arkonor and Bistot that are plentiful thru out Null sec regions. To forming up and hoping in ships to fight the war against the Imperium, we can  and will do it all! 
 
-Interested? If so, feel free to contact us in game @<span style=color:crimson>Voice intheclouds</span> and @<span style=color:crimson>Xanos Ragnarok</span> or in <span style=color:grey><u>SICO</u></span> discord</div>
+Interested? If so, feel free to contact us in game @<span style=color:crimson>Xanos Ragnarok</span> or in <span style=color:grey><u>SICO</u></span> discord</div>
