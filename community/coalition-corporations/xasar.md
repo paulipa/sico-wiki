@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-09-29T02:26:54.936Z
+date: 2020-09-29T02:32:28.302Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:38.136Z
@@ -13,15 +13,15 @@ dateCreated: 2020-07-17T14:54:38.136Z
 <h1 style="text-align:center">
 	Welcome to Xa'sar
 	</h1>
-  
+
 <h2 style="text-align:center">
-  Silent Coalition's Premiere Nullsec PVP Corporation.
+  Silent Coalition's Premiere Nullsec PVP Corporation
 	</h2>
-  
+
 <p style="text-align:center">
   We are a fun loving nullsec based PVP corp and a proud member of Evictus.
 	</p>
-  
+
 <br>
 
 ## We can offer you
@@ -51,7 +51,7 @@ dateCreated: 2020-07-17T14:54:38.136Z
 
 <br>
 
-<u style=font-size:125%>Points of Contact</u>
+<u style=font-size:120%>Points of Contact</u>
 tehnube, CEO
 Casper DaGhost, XO
 Ezekiel Ezreal, XO
