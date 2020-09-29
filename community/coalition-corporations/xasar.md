@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-09-29T02:23:45.984Z
+date: 2020-09-29T02:24:13.977Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:38.136Z
@@ -55,5 +55,5 @@ dateCreated: 2020-07-17T14:54:38.136Z
   Points of Contact
 </u>
 tehnube CEO
-Casper DaGhost XO
-Ezekiel Ezreal XO
+<br>Casper DaGhost XO
+<br>Ezekiel Ezreal XO
