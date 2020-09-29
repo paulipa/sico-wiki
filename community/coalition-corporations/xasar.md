@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-09-29T02:22:54.283Z
+date: 2020-09-29T02:23:45.984Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:38.136Z
@@ -19,7 +19,7 @@ dateCreated: 2020-07-17T14:54:38.136Z
 	</h2>
   
 <p style="text-align:center">
-  We are a fun loving nullsec based PVP corp and a proud member of the Evictus. alliance.
+  We are a fun loving nullsec based PVP corp and a proud member of the Evictus.
 	</p>
   
 <br>
@@ -54,7 +54,6 @@ dateCreated: 2020-07-17T14:54:38.136Z
 <u style=font-size:125%>
   Points of Contact
 </u>
-
 tehnube CEO
 Casper DaGhost XO
 Ezekiel Ezreal XO
