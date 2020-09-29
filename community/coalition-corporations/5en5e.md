@@ -2,7 +2,7 @@
 title: Sensible People [5EN5E] 
 description: 
 published: true
-date: 2020-09-29T19:48:03.085Z
+date: 2020-09-29T19:49:47.224Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-17T15:22:44.166Z
@@ -19,7 +19,7 @@ What we can offer
     Tons of PVP content. (DREADS)
     100% corp SRP for doctrine ships.
     Many isk making outlets to aquire a lot of isk.
-    A production network and guidance for those           interested.
+    A production network and guidance for those interested.
     A team oriented environment.
     Because we operate as a team we work together well in PVP we will train you and above all we have fun.
     We are not cowards that run from fights we take fights and only if theres not a chance in hell we disengage.
