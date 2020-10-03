@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-09-27T08:54:21.693Z
+date: 2020-10-03T17:49:50.807Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:53:13.263Z
@@ -45,12 +45,12 @@ While we do understand that in the heat of a battle you most often want to smack
 - **No toxic behavior** in any situations
 - **All real life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
 
-## Requirements for all coalition members
+## Partner Requirements
 - **Communicate in english** when talking or typing in any of our public or coalition restricted text or voice channels.
 - **SC Comms channel for all general chattering**. All of the corporations that belongs to SiCO are using the custom in-game channel called SC Comms for all of their general chattering. The different corporations may be using their own chat channels for sensitive information such as null sec events or language restricted chattering, but all of the general chattering should be kept in SC Comms.
 - **Registering on AUTH is mandatory** for all coalition members. The AUTH programs are used to manage player access to coalition restricted content such as the homepage content and discord rooms.
 
-# Requirements for coalition entities
+# Global Requirements
 Depending on your corporation status in the coalition you maye have different requirements and restrictions set on you. These following rules apply on all coalition member entities no matter what their status in the coalition is:
 - **Corporations must have an corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other coalition entities** whenever possible.
@@ -63,7 +63,7 @@ Depending on your corporation status in the coalition you maye have different re
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
 
-## Full Member Entity Requirements
+## Independent Partner
 These corporations are not added to the silent company alliance. They will be using +10 standings with other full member entities and are not allowed to engage with them in any form of pvp. They will use the general communication channels the same way normal alliances use the alliance channell.
 
 - Corporation needs to have at least 30 active individual members in the corporation
@@ -76,7 +76,7 @@ These corporations are not added to the silent company alliance. They will be us
 - All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
 - Corporation leadership must be active and interact with other coalition leadership.
 
-## Affiliated Member Entity Requirements
+## Affiliated partner
 These corporations are not added to the silent company alliance. This entity will not be set blue and it allows the entity to fight against other coalition members with the limitations of the general requirements. These entities will set all coalition members with +0 in order to identify them in space and to be able to act based on that information. They will use the general communication channels the same way normal alliances use the alliance channell.
 
 - Corporation needs to have at least 30 active individual members in the corporation
@@ -91,7 +91,7 @@ These corporations are not added to the silent company alliance. This entity wil
 - All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
 - Corporation leadership must be active and interact with other coalition leadership.
 
-## Alliance Member Entity Requirements | Silent Company
+## Member Partner | Silent Company
 Corporations who want to fly under the banner of the Silent Company alliance and do not seek to take part in any wars may join the Silent Company alliance. Joining the alliance reduces the amount of work required for setting channel access and standings.
 
 > Corporations in the entry level alliance are not allowed to hold any structures under their corporations. The entry level alliance will never be eligible for war. If this rules is broken and a corporation anchors any structures making the alliance venerable for wars the corporation will be removed without any warning. It is the responsibility of the CEO to make sure that regular members are unable to anchor structures.
@@ -107,7 +107,7 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 - Corporation should provide content for other coalition members whenever possible by opening their fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
 - Corporation has full autonomy over their own corporation excluding the matters mentioned above.
 
-## Language Partner Entity Requirements
+## Language Partner
 Language partner corporations are special case corporations that are loosely connected to the coalition. The purpose of these non English speaking corporations is to provide content for non English speaking players.
 
 > Language partner entities are our partners that we recommend for players who do not wish or can't operate in Enlish. We also advertise these corporations in our general recruitment mails.
