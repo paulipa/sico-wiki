@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-10-03T17:51:55.329Z
+date: 2020-10-03T17:52:45.496Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:53:13.263Z
@@ -50,7 +50,7 @@ While we do understand that in the heat of a battle you most often want to smack
 - **SC Comms channel for all general chattering**. All of the corporations that belongs to SiCO are using the custom in-game channel called SC Comms for all of their general chattering. The different corporations may be using their own chat channels for sensitive information such as null sec events or language restricted chattering, but all of the general chattering should be kept in SC Comms.
 - **Registering on AUTH is mandatory** for all coalition members. The AUTH programs are used to manage player access to coalition restricted content such as the homepage content and discord rooms.
 
-# Global Requirements
+# Global Partner Requirements
 Depending on your corporation status in the coalition you maye have different requirements and restrictions set on you. These following rules apply on all coalition member entities no matter what their status in the coalition is:
 - **Corporations must have an corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other coalition entities** whenever possible.
