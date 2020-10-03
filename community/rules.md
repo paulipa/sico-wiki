@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-10-03T17:49:50.807Z
+date: 2020-10-03T17:51:55.329Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:53:13.263Z
@@ -91,7 +91,7 @@ These corporations are not added to the silent company alliance. This entity wil
 - All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
 - Corporation leadership must be active and interact with other coalition leadership.
 
-## Member Partner | Silent Company
+## Alliance Partner | Silent Company
 Corporations who want to fly under the banner of the Silent Company alliance and do not seek to take part in any wars may join the Silent Company alliance. Joining the alliance reduces the amount of work required for setting channel access and standings.
 
 > Corporations in the entry level alliance are not allowed to hold any structures under their corporations. The entry level alliance will never be eligible for war. If this rules is broken and a corporation anchors any structures making the alliance venerable for wars the corporation will be removed without any warning. It is the responsibility of the CEO to make sure that regular members are unable to anchor structures.
