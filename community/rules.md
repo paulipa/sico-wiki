@@ -2,7 +2,7 @@
 title: Coalition Rules
 description: 
 published: true
-date: 2020-10-03T17:52:45.496Z
+date: 2020-10-04T10:15:00.468Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:53:13.263Z
@@ -110,7 +110,7 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 ## Language Partner
 Language partner corporations are special case corporations that are loosely connected to the coalition. The purpose of these non English speaking corporations is to provide content for non English speaking players.
 
-> Language partner entities are our partners that we recommend for players who do not wish or can't operate in Enlish. We also advertise these corporations in our general recruitment mails.
+> Language partner entities are our partners that we recommend for players who do not wish or can't operate in English. We also advertise these corporations in our general recruitment mails.
 {.is-info}
 
 While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
