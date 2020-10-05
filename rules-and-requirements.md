@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T14:42:53.646Z
+date: 2020-10-05T14:52:54.212Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -60,12 +60,28 @@ Depending on your corporation partnership level you may have different requireme
 - **Seek to provide content and fleets for other community members whenever possible** by opening their corporation fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
 - **No hostile actions against any structures or or camping strategic systems** regarless of standing settings. PvP roaming is allowed with the limitations of standings used.
 - **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other community entities. For example you are not allowed to underrate other partner corporations that are part of your rival alliances. We operate only on corporation level.
-
-## Base services
-**All partner corporations gain access to the same base level services and programs** that they can take benefit of if they wish to do so.
-
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
+## Base services
+We offer a set of base services for our partner corporations to use. They may decide themselves if they take advantage of these systems.
+- [Buyback](/tools/buyback) access and buyback setup at their own operating locations
+- [Ship Replacement](/services/programs/ship-replacement-program) for coalition hosted operations
+- [Blueprint copying](/services/ingame-services/public-blueprints) system access
+- [Citadel](/services/ingame-services/citadels) access and services hosted by the community
+- Access to coalition training fleets and ability to run coalition training fleets
+- Ability to take part in joint partner operations hosted by other parter corporations.
+- Ability to call on War support but not demand it.
+- [AUTH](/tools/auth) tool including a variety of AUTH services such as structure tracking
+	- Fleet tracking
+  - Member tracking
+  - Operation schedules
+  - Structure timers
+  - Doctrine board
+- Notification alerts on our discord if needed.
+- Access to privately hosted pathfinder
+- Ability to request additional services and programs for their needs.
+- [Mumble](/tools/communication/mumble)
+- [Discord](/tools/communication/discord)
 
 ## Independent Partner
 These corporations are not added to the silent company alliance. They will be using +10 standings with other full member entities and are not allowed to engage with them in any form of pvp. They will use the general communication channels the same way normal alliances use the alliance channell.
