@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T16:36:34.550Z
+date: 2020-10-05T16:38:44.040Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -44,6 +44,16 @@ While we do understand that in the heat of a battle you most often want to smack
 - **Ganking of partner corporation members or providing possible gank locations** for third party gankers. Ganking is allowed against players that are not part of any of the partner corporations.
 - **Unfriendly or immature attitudes against all community members** is not allowed. While this rule is not applied on players that are not part of our community you should always aim to keep the level of your attitude with within good manners. 
 - **Begging for money or items** intentionally and repeatedly.
+
+# Changing coalition corporations
+Members that are part of any of the partner corporations are allowed to request a transfer to a different wing if they do wish to change their gameplay. The different wings might have some limitations and requirements of their own so it is always good that have a chat with a director, recruiter or a CEO of the corporation that you seek to join.
+
+Each of the partner corporations have most often one or two primary focuses. If these focuses align better with your personal interests then it might be a good idea to consider changing your corporation.
+
+You are able to find a list of all of our corporations in here https://www.silentcoalition.com/about-us
+
+> Corporations are not allowed to poach members from other corporations. Make your corporations attractive so that people want to join you to get their hands on the content you are creating for them!
+{.is-warning}
 
 # Partner Requirements
 Depending on your corporation partnership level you may have different requirements and restrictions set on you.
@@ -185,23 +195,13 @@ While these corporations may not be interacting with the rest of the coalition d
 - Corporation must seek to cooperate with community partner corporations whenever possible and suitable based on the corporation goals of the language option corporation
 - If most of the corporation members talk English the language option corporation may apply for other partner levels. In these cases the rules applied on the language corporation will change accordingly.
 
-# Changing coalition corporations
-Members that are part of any of the coalition corporations are allowed to request a transfer to a different wing if they do wish to change their gameplay. The different wings might have some limitations and requirements of their own so it is always good that have a chat with a director, recruiter or a CEO of the corporation that you seek to join.
-
-Each of the coalition corporations have most often one or two primary focuses. If these focuses align better with your personal interests then it might be a good idea to consider changing your corporation.
-
-You are able to find a list of all of our corporations in here https://www.silentcoalition.com/about-us
-
-> Corporations are not allowed to poach members from other corporations. Make your corporations attractive so that people want to join you to get their hands on the content you are creating for them!
-{.is-warning}
-
 # Leadership
-**The coalition leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our coalition of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and guidelines on the general level of the coalition are decided together and stated on this wiki. 
+**The community leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our community of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and guidelines on the general level of the coalition are decided together and stated on this wiki. 
 
 ## Expectations and capabilities
 Players holding these roles are expected to behave with dignity and follow the coalition rules and guidelines in all situations, even if it would fight against their personal beliefs. A level of professionalism is expected from these players when acting outside their own corporation channels.
 
-**Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve coalition rule or guideline violations.
+**Players with leadership positions do not have any power over players outside of their own corporation** with matters that do not involve community rule or guideline violations.
 
 **These players are expected to use the tools at their hands by keeping the previous sections in mind**. This includes matters of removing content, messages and pages made by other players unless they are direct violations of the coalition rules.
 
