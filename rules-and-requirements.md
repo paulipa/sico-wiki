@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T14:52:54.212Z
+date: 2020-10-05T14:54:13.330Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -82,6 +82,9 @@ We offer a set of base services for our partner corporations to use. They may de
 - Ability to request additional services and programs for their needs.
 - [Mumble](/tools/communication/mumble)
 - [Discord](/tools/communication/discord)
+
+# Partner levels
+We offer different levels of partnership to provide a flexible and working system that would support different types of corporations. This section includes the description and requirements for each different partner level.
 
 ## Independent Partner
 These corporations are not added to the silent company alliance. They will be using +10 standings with other full member entities and are not allowed to engage with them in any form of pvp. They will use the general communication channels the same way normal alliances use the alliance channell.
