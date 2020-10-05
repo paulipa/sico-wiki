@@ -2,7 +2,7 @@
 title: Wormhole Daytrips
 description: 
 published: false
-date: 2020-10-05T18:15:27.457Z
+date: 2020-10-05T18:27:59.134Z
 tags: wormholes, pve
 editor: markdown
 dateCreated: 2020-10-05T18:11:19.241Z
@@ -40,7 +40,8 @@ The fleet is mainly composed of armor cruiser DPS/Logi and battlecruiser boosts.
 SRP is not available. If you don't have a ship beforehand, handouts can be provided when initially forming.
 <br>
 ## How do I sign up? Where do I go?
-You will find any coalition scheduled daytrips here: https://auth.silentcoalition.com/optimer/ . Formup and departure system is usually the coalition staging system, which as of this time is Ronne.
+You will find any coalition scheduled daytrips here: https://auth.silentcoalition.com/optimer/ . Formup system is usually the coalition staging system, which as of this time is Ronne. 
+Alternatively, the fleet can form in one of our wormhole bases, in which case the FC will provide the entry system and you will need to go there (use a shuttle or a fast frigate). 
 <br>
 ## I am here, why hasn't the daytrip started already?
 Finding a good wormhole system for these events can be quite time consuming sometimes. Unless the operation has been canceled, rest assured that it is being worked upon. Just please, have a little patience!
