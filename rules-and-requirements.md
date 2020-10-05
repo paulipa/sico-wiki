@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T16:48:34.759Z
+date: 2020-10-05T16:52:18.979Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -135,8 +135,9 @@ A flexible partnership level that uses blue standing to limit pvp engagements an
 - Full autonomy
 
 ### Requirements
-- General Partner Member Requirements are applied
-- General Partner Corporation Requirements are applied
+- [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
+- [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
+- [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
 - Mimimum of 30 actitive real players
 - **Corporation will be set to +10** and is required to keep +10 standings on all independent partners and the silent company alliance.
 - Corporation needs to update each community standing change on corporation level and keep the standings updated
@@ -153,8 +154,9 @@ A flexible partnership level that does not use standing to limit pvp engagements
 - Full autonomy
 
 ### Requirements
-- General Partner Member Requirements are applied
-- General Partner Corporation Requirements are applied
+- [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
+- [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
+- [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
 - Mimimum of 30 actitive real players
 - **Corporation will be set to +0** and is required to keep +0 standings on other community partner corporations
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
@@ -182,8 +184,9 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 - Not eligible for wars
 
 ### Requirements
-- General Partner Member Requirements are applied
-- General Partner Corporation Requirements are applied
+- [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
+- [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
+- [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
 - Corporation needs to have at least 50 active individual members in the corporation
 - The alliance will manage all standings and service accesses on behalf of the corporation. If the corporation leaves the alliance they are treated as a neutral entity and will lose access to the services.
 - Corporations in the entry level alliance are not allowed to hold any structures under their corporations.
