@@ -2,7 +2,7 @@
 title: Wormhole Daytrips
 description: 
 published: true
-date: 2020-10-05T18:32:40.236Z
+date: 2020-10-05T19:10:57.226Z
 tags: wormholes, pve
 editor: markdown
 dateCreated: 2020-10-05T18:11:19.241Z
@@ -92,8 +92,14 @@ Repeated violation of the following rules or intentionally putting the fleet in 
 > {.is-warning}
 
 # Post-fleet
-After the daytrip is completed, the fleet will return to its initial formup system. Players that received a ship handout will be kindly asked to return them. Participation in the fleet will be registered through the use of a FAT link.
-Payouts will be distributed in a timely fashion and the calculation will be displayed in the wormhole channel, so please be patient. 
+After the daytrip is completed, the fleet will return to its initial formup system. Players that received a ship handout will be kindly asked to return them. Participation in the fleet will be registered through the use of the SICO FAT system.
+
+Payouts will be distributed in a timely fashion so please, be patient :). 
+
+> Players will receive ISK payouts depending on the total loot value and the number of sites they actively participated into (HVEN FC is excluded from payout). For complete transparency, the calculation will be displayed in the wormhole channel. 
+{.is-success}
+
+
 > If you bookmarked the wormhole connections and wish to go back and salvage/hack, you are free to do so.
 {.is-info}
 
