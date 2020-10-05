@@ -2,9 +2,10 @@
 title: Pathfinder
 description: 
 published: true
-date: 2020-08-07T10:14:11.682Z
+date: 2020-10-05T17:09:56.655Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-06T16:52:36.693Z
 ---
 
 # Pathfinder
@@ -23,7 +24,7 @@ You should always use the correct map that corresponds to your current location.
 
 For non-default locations, you can either use the SICO global map that is shared with all coalition members, or create a new one for your own corporation (not detailed here).
 
-# Using Pathtinder
+# Using Pathfinder
 The core functions in Pathfinder are very easy to use. If you want to have a look at the manual for all of the functions/icons/etc., you may open the integrated manual by pressing the map button on the top right corner.
 
 ## Adding signatures
