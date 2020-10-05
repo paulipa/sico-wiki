@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T14:54:13.330Z
+date: 2020-10-05T15:02:20.584Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -52,6 +52,7 @@ Depending on your corporation partnership level you may have different requireme
 - **Communicate in english** when talking or typing in any of our community restricted or public text or voice channels.
 - **Use our global ingame chat channel for connecting with other community members**. Talking with other community members is the beast way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
 - **AUTH registration is required from all community members** as it is used to connect each player with our services. You should pursuit to get all of your members registered on AUTH.
+- **All members needs to have activated the discord service.** You may use your own services in addition to coalition provided ones.
 
 ## General Partner Corporation Requirements
 - **Have our global ingame chat channel linked** in your primary corporation chat channel
@@ -60,6 +61,10 @@ Depending on your corporation partnership level you may have different requireme
 - **Seek to provide content and fleets for other community members whenever possible** by opening their corporation fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
 - **No hostile actions against any structures or or camping strategic systems** regarless of standing settings. PvP roaming is allowed with the limitations of standings used.
 - **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other community entities. For example you are not allowed to underrate other partner corporations that are part of your rival alliances. We operate only on corporation level.
+- **Corporation must keep an updated corp description page on the wiki** for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation. This page must include information about:
+	- Requiremebts for joining your corporation
+  - Your corporation description and goals
+  - Point of contact or recruitment process description
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
 ## Base services
@@ -87,16 +92,18 @@ We offer a set of base services for our partner corporations to use. They may de
 We offer different levels of partnership to provide a flexible and working system that would support different types of corporations. This section includes the description and requirements for each different partner level.
 
 ## Independent Partner
-These corporations are not added to the silent company alliance. They will be using +10 standings with other full member entities and are not allowed to engage with them in any form of pvp. They will use the general communication channels the same way normal alliances use the alliance channell.
+Independent partners are corporations that are seeking blue standings with other independent partners and the alliance member partners. They will be set to +10 on behalf of each corporation that belongs to these partner levels and are not allowed to engage on them as per the action rules.
 
+### Requirements
+- General Partner Member Requirements are applied
+- General Partner Corporation Requirements are applied
 - Corporation needs to have at least 30 active individual members in the corporation
-- Corporation needs to update each coalition standing change on corporation level and keep the standings updated
-- Corporation will be set to +10 and is required to keep +10 standings on all Full Member Entities
+- Corporation needs to update each community standing change on corporation level and keep the standings updated
+- Corporation will be set to +10 and is required to keep +10 standings on all independent partners and the silent company alliance.
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
-- Corporation must keep an updated corp description page on the homepage for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
-- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a full member entity will be part of SiCO and the other alliance members the corporation has joined will be treated as neutral entities.
-- All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
+- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the partner corporation entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
+
 - Corporation leadership must be active and interact with other coalition leadership.
 
 ## Affiliated partner
