@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T16:33:38.081Z
+date: 2020-10-05T16:36:34.550Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -170,17 +170,20 @@ Language partner corporations are special case corporations that are loosely con
 
 While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
 
-In order to qualify as a language partner corporation for SiCO your corporation will need to:
+### Perks
+- Corporation advertisement in our recruitment process
+- Losely affiliated with the community
+- No standings
 
+### Requirements
 - Corporation needs to have at least 50 active individual members in the corporation
-- No standing adjustments is required.
 - Corporations main language must be something else than English.
-- Corporation needs to be active and have a clear goal in sight. Coalition only interacts with language option corporations that we believe are providing true content and taking care of the members we send to the corporations.
-- Corporation needs to have a representative or point of contact towards SiCO who will inform the coalition about any major changes that would effect pushing new recruits to their corporation.
-- Corporation needs to provide the coalition a clear and simple advertising phrase in their native language to be used for recruiting purposes on behalf of the coalition.
-- Set aside any standing differences or in game political ambitions that your corporation might have when interacting with SiCO members or in any of the SiCO related channels
-- Corporation must seek to cooperate with SiCO member corporations whenever possible and suitable based on the corporation goals of the language option corporation
-- If most of the corporation members talk English the language option corporation may apply for full member entity status or to join the Silent Company alliance. In these cases the rules applied on the language corporation will change accordingly.
+- Corporation needs to be active and have a clear goal in sight. Community only interacts with language option corporations that we believe are providing true content and taking care of the members we send to the corporations.
+- Corporation needs to have a representative or point of contact towards the community who will inform the community about any major changes that would effect pushing new recruits to their corporation.
+- Corporation needs to provide the community a clear and simple advertising phrase in their native language to be used for recruiting purposes on behalf of the coalition.
+- Set aside any standing differences or in game political ambitions that your corporation might have when interacting with other community members or in any of the community related channels
+- Corporation must seek to cooperate with community partner corporations whenever possible and suitable based on the corporation goals of the language option corporation
+- If most of the corporation members talk English the language option corporation may apply for other partner levels. In these cases the rules applied on the language corporation will change accordingly.
 
 # Changing coalition corporations
 Members that are part of any of the coalition corporations are allowed to request a transfer to a different wing if they do wish to change their gameplay. The different wings might have some limitations and requirements of their own so it is always good that have a chat with a director, recruiter or a CEO of the corporation that you seek to join.
