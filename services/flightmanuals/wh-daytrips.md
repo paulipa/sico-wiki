@@ -2,7 +2,7 @@
 title: Wormhole Daytrips
 description: 
 published: false
-date: 2020-10-05T18:13:59.504Z
+date: 2020-10-05T18:15:27.457Z
 tags: wormholes, pve
 editor: markdown
 dateCreated: 2020-10-05T18:11:19.241Z
@@ -34,7 +34,7 @@ Wormhole space is a collection of lawless systems only accessible through wormho
 Depending on the number of finished sites and pilots in fleet, the general payouts are between 25-40mil ISK/player, sometimes even more.
 <br>
 ## What ship should I bring?
-The fleet is mainly composed of armor cruiser DPS/Logi and battlecruiser boosts. Our "Wormhole Daytrip" doctrines can be found [here](/community/doctrines/coalition-doctrines#wh-daytrip) .
+The fleet is mainly composed of armor cruiser DPS/Logi and battlecruiser boosts. Our "Wormhole Daytrip" fits can be found [here](/community/doctrines/coalition-doctrines#wh-daytrip) .
 <br>
 ## Is there SRP in the event of ship loss?
 SRP is not available. If you don't have a ship beforehand, handouts can be provided when initially forming.
