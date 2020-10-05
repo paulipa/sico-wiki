@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T15:05:59.854Z
+date: 2020-10-05T16:16:08.070Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -46,9 +46,8 @@ While we do understand that in the heat of a battle you most often want to smack
 - **Begging for money or items** intentionally and repeatedly.
 
 # Partner Requirements
-
+Depending on your corporation partnership level you may have different requirements and restrictions set on you.
 ## General Partner Member Requirements
-Depending on your corporation partnership level you may have different requirements and restrictions set on you. The following rules apply on all partner member entities no matter what their level in the coalition is:
 - **Communicate in english** when talking or typing in any of our community restricted or public text or voice channels.
 - **Use our global ingame chat channel for connecting with other community members**. Talking with other community members is the beast way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
 - **AUTH registration is required from all community members** as it is used to connect each player with our services. You should pursuit to get all of your members registered on AUTH.
@@ -90,7 +89,11 @@ We offer a set of base services for our partner corporations to use. They may de
 - [Discord](/tools/communication/discord)
 
 # Partner levels
-We offer different levels of partnership to provide a flexible and working system that would support different types of corporations. This section includes the description and requirements for each different partner level.
+We offer different levels of partnership to provide a flexible and working system that would support different types of corporations. This section includes the description and requirements for each different partner level. Our partner levels are:
+- Independent partner
+- Affiliated partner
+- Alliance partner
+- Language partner
 
 ## Independent Partner
 These corporations are not added to the silent company alliance. Independent partners are corporations that are seeking blue standings with other independent partners and the alliance member partners. They will be set to +10 on behalf of each corporation that belongs to these partner levels and are not allowed to engage on them as per the action rules.
