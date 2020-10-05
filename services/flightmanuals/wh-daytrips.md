@@ -2,7 +2,7 @@
 title: Wormhole Daytrips
 description: 
 published: false
-date: 2020-10-05T18:11:19.241Z
+date: 2020-10-05T18:13:59.504Z
 tags: wormholes, pve
 editor: markdown
 dateCreated: 2020-10-05T18:11:19.241Z
@@ -10,11 +10,11 @@ dateCreated: 2020-10-05T18:11:19.241Z
 
 # HVEN Wormhole daytrips
 A "wormhole daytrip" is a cozy term for an organized entry-level group content that revolves around taking a fleet of cruisers for ratting into a class 3 j-system. The objectives of these fleets are as follows:
-1. Teach players the basics of fleet discipline 
-1. Teach players about some basic procedures and etiquette about wormhole space
-1. Provide players with the chance to experience wormhole space and fleet PVE
-1. Give players the most basic knowledge to run this kind of content with others, potentially organizing future fleets among themself.
-1. Lastly, but the most important, HAVE FUN!
+> 1. Teach players the basics of fleet discipline 
+> 1. Teach players about some basic procedures and etiquette about wormhole space
+> 1. Provide players with the chance to experience wormhole space and fleet PVE
+> 1. Give players the most basic knowledge to run this kind of content with others, potentially organizing future fleets among themself.
+> 1. Lastly, but the most important, HAVE FUN!
 
 # FAQ
 ## Do I need to join an MQP fleet before showing up for a wormhole daytrip?
