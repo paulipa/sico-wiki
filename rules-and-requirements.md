@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T15:04:30.922Z
+date: 2020-10-05T15:05:59.854Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -106,7 +106,9 @@ These corporations are not added to the silent company alliance. Independent par
 - **Corporation has full autonomy over themselves** including the ability to join an alliance in EVE. Only the partner corporation entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
 
 ## Affiliated partner
-These corporations are not added to the silent company alliance. This entity will not be set blue and it allows the entity to fight against other coalition members with the limitations of the general requirements. These entities will set all coalition members with +0 in order to identify them in space and to be able to act based on that information. They will use the general communication channels the same way normal alliances use the alliance channell.
+These corporations are not added to the silent company alliance. This entity will not be set blue and it **allows the entity to fight against other community members** with the limitations of the General Partner Corporation Requirements. 
+
+These entities will set all partner corporations with +0 standings in order to identify them in space and to be able to act based on that information. They will use the general communication channels the same way normal alliances use the alliance channell.
 - General Partner Member Requirements are applied
 - General Partner Corporation Requirements are applied
 - Corporation needs to have at least 30 active individual members in the corporation
