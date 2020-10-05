@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T14:18:44.611Z
+date: 2020-10-05T14:42:53.646Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -29,37 +29,40 @@ In order to keep our community of thousands of players as a friendly and a nice 
 - All personal attacks, finger pointing or public shaming.
 - Pushing/advertising of all personal agendas, ideologies or non community related activites across the community channels to other members without proper approval.
 
-## Prohibited ingame actions against other coalition members
-- **Scamming or stealing from coalition members** is not allowed. This includes all types of scams and ninja looting. Scamming players outside our coalition is legit taken that the rules of your current corporation do not prevent doing it.
-- **Spamming any communication channels with repeating content** such as advertising your contracts on sale every hour. This also applies on pushing your own agendas or advertising non SiCO related communities.
-- **Linking HyperNet Relay offers in any of the global channels** or sending them via corporation/alliance mail is not allowed.
-- **Shooting or killing any coalition members with blue standings** outside coalition raised PvP events is not allowed. If a coalition member intentionally opens fire against you then you are allowed to defend yourself.
-- **Ganking coalition members or providing possible locations** for third party gankers. You are allowed to gank players outside the coalition taken that your current corporation rules do not prohibit you from doing this.
-- **Unfriendly or immature attitudes against all coalition members** are not allowed. These actions are allowed against non coalition members on a healthy level in terms of salt mining in local and poking people for a fight.
-- **Begging for money or items** intentionally and repeatedly.
-
-## Prohibited actions against players outside the coalition
+## Prohibited actions against all players
 While we do understand that in the heat of a battle you most often want to smack talk a bit. That is completely fine as long as you keep it mature and don’t overshoot. Since EVE is a social game we want to make sure that also the players around us are enjoying the game. For this reason the following rules applies on your general attitude of being nice
-
 - **You are bint by EVE Online EULA** no matter what you do. EULA includes some pretty basic stuff such as: You may not submit any content to any chat room or other public forum within the Game that is harassing, abusive, threatening, harmful, obscene, libelous or defamatory, encourages conduct that could constitute a criminal offense or give rise to civil liabilities, or is unlawful in any other way, including without limitation the submission of content that infringes on a third-party’s intellectual property rights.
-- **You are prohibited to do personal attacks** on players outside the coalition in terms of communications. You may gank them but always be polite about it!
+- **You are prohibited to do personal attacks** against any players in EVE. Smach talk is allowed.
 - **No toxic behavior** in any situations
 - **All real life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
+- **No Real Money Trade (RMT)** of any type.
 
-## Partner Requirements
-- **Communicate in english** when talking or typing in any of our public or coalition restricted text or voice channels.
-- **SC Comms channel for all general chattering**. All of the corporations that belongs to SiCO are using the custom in-game channel called SC Comms for all of their general chattering. The different corporations may be using their own chat channels for sensitive information such as null sec events or language restricted chattering, but all of the general chattering should be kept in SC Comms.
-- **Registering on AUTH is mandatory** for all coalition members. The AUTH programs are used to manage player access to coalition restricted content such as the homepage content and discord rooms.
+## Prohibited actions against community members
+- **Scamming or stealing from any partner corporation members** is not allowed. This includes all types of scams and ninja looting. Scamming players outside our partnered corporations is allowed.
+- **Spamming any communication channels with repeating content** such as advertising your contracts. This includes HyperNet Relay offers.
+- **Shooting or killing any partner corporation members with blue standings** outside coalition raised PvP events is not allowed. This is limited to blue standings and does not apply on partners with neutral standings.
+- **Ganking of partner corporation members or providing possible gank locations** for third party gankers. Ganking is allowed against players that are not part of any of the partner corporations.
+- **Unfriendly or immature attitudes against all community members** is not allowed. While this rule is not applied on players that are not part of our community you should always aim to keep the level of your attitude with within good manners. 
+- **Begging for money or items** intentionally and repeatedly.
 
-# Global Partner Requirements
-Depending on your corporation status in the coalition you maye have different requirements and restrictions set on you. These following rules apply on all coalition member entities no matter what their status in the coalition is:
+# Partner Requirements
+
+## General Partner Member Requirements
+Depending on your corporation partnership level you may have different requirements and restrictions set on you. The following rules apply on all partner member entities no matter what their level in the coalition is:
+- **Communicate in english** when talking or typing in any of our community restricted or public text or voice channels.
+- **Use our global ingame chat channel for connecting with other community members**. Talking with other community members is the beast way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
+- **AUTH registration is required from all community members** as it is used to connect each player with our services. You should pursuit to get all of your members registered on AUTH.
+
+## General Partner Corporation Requirements
+- **Have our global ingame chat channel linked** in your primary corporation chat channel
 - **Corporations must have an corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
-- **Seek to help out other coalition entities** whenever possible.
-- **Seek to provide content and fleets for other coalition members whenever possible** by opening their fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
+- **Seek to help out other community entities** whenever possible.
+- **Seek to provide content and fleets for other community members whenever possible** by opening their corporation fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
 - **No hostile actions against any structures or or camping strategic systems** regarless of standing settings. PvP roaming is allowed with the limitations of standings used.
-- **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other coalition entities. For example you are not allowed to underrate coalition corporations that are part of your rival alliances. SiCO only operates on corporation level.
+- **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other community entities. For example you are not allowed to underrate other partner corporations that are part of your rival alliances. We operate only on corporation level.
 
-**All entities have the same base benefits and services** in use for their needs as well as the same access to systems and services. The main difference between entities comes from the side of system management and standing setups.
+## Base services
+**All partner corporations gain access to the same base level services and programs** that they can take benefit of if they wish to do so.
 
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
