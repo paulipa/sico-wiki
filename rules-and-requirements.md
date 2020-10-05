@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T16:16:08.070Z
+date: 2020-10-05T16:33:38.081Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -65,10 +65,12 @@ Depending on your corporation partnership level you may have different requireme
   - Your corporation description and goals
   - Point of contact or recruitment process description
 - Corporation leadership must be active and interact with other coalition leadership.
+- **Poaching members from other partner corporations is not allowed**. You are allowed to advertise yourself and invite people over after their initiative but are not allowed to actively trying to poach members from other corporations.
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
 ## Base services
 We offer a set of base services for our partner corporations to use. They may decide themselves if they take advantage of these systems.
+- Member sourcing from entry corporations
 - [Buyback](/tools/buyback) access and buyback setup at their own operating locations
 - [Ship Replacement](/services/programs/ship-replacement-program) for coalition hosted operations
 - [Blueprint copying](/services/ingame-services/public-blueprints) system access
@@ -90,41 +92,50 @@ We offer a set of base services for our partner corporations to use. They may de
 
 # Partner levels
 We offer different levels of partnership to provide a flexible and working system that would support different types of corporations. This section includes the description and requirements for each different partner level. Our partner levels are:
-- Independent partner
-- Affiliated partner
+- Blue partner
+- Neutral partner
 - Alliance partner
 - Language partner
 
-## Independent Partner
-These corporations are not added to the silent company alliance. Independent partners are corporations that are seeking blue standings with other independent partners and the alliance member partners. They will be set to +10 on behalf of each corporation that belongs to these partner levels and are not allowed to engage on them as per the action rules.
+## Blue Partner
+A flexible partnership level that uses blue standing to limit pvp engagements and to identify other community members.
+
+### Perks
+- Eligible for base services
+- Blue standings with other blue partners and alliance partners
+- Full autonomy
 
 ### Requirements
 - General Partner Member Requirements are applied
 - General Partner Corporation Requirements are applied
-- Corporation needs to have at least 30 active individual members in the corporation
+- Mimimum of 30 actitive real players
+- **Corporation will be set to +10** and is required to keep +10 standings on all independent partners and the silent company alliance.
 - Corporation needs to update each community standing change on corporation level and keep the standings updated
-- Corporation will be set to +10 and is required to keep +10 standings on all independent partners and the silent company alliance.
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
 - **Corporation has full autonomy over themselves** including the ability to join an alliance in EVE. Only the partner corporation entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
 
-## Affiliated partner
-These corporations are not added to the silent company alliance. This entity will not be set blue and it **allows the entity to fight against other community members** with the limitations of the General Partner Corporation Requirements. 
+## Neutral partner
+A flexible partnership level that does not use standing to limit pvp engagements. Requires more management work from leadership to prevent any stategic operations against other community partner corporations.
 
-These entities will set all partner corporations with +0 standings in order to identify them in space and to be able to act based on that information. They will use the general communication channels the same way normal alliances use the alliance channell.
+### Perks
+- Eligible for base services
+- Neutral standings allow engageing on other comunity members during roams
+- Full autonomy
+
+### Requirements
 - General Partner Member Requirements are applied
 - General Partner Corporation Requirements are applied
-- Corporation needs to have at least 30 active individual members in the corporation
+- Mimimum of 30 actitive real players
+- **Corporation will be set to +0** and is required to keep +0 standings on other community partner corporations
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
-- Corporation will be set to +0 and is required to keep +0 standings on all Full Member Entities
 - Corporation is allowed to shoot at other coalition members in PVP roams as well as to get shot by other coalition members.
 - Corporation is not allowed to take advantage of its coalition memebrship in order to plan hostile pvp actions against other coalition entities regardless of the standings. You are not allowed to plot ganks or intercept fleets hosted from any other coalition entities in any way.
+- Corporation is not allowed to siege any structures that a partner corporation (regardless of standing) has classified as a strategic structure.
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
-- Corporation must keep an updated corp description page on the homepage for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
-- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a affiliated member entity will be part of SiCO and the other alliance members the corporation has joined will be treated as neutral entities.
-- All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
-- Corporation leadership must be active and interact with other coalition leadership.
+- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a affiliated member entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
+
 
 ## Alliance Partner | Silent Company
 Corporations who want to fly under the banner of the Silent Company alliance and do not seek to take part in any wars may join the Silent Company alliance. Joining the alliance reduces the amount of work required for setting channel access and standings.
@@ -134,12 +145,21 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 
 > Corporations in the entry alliance will need to keep the setting to reject all structure transfers on at all times.
 {.is-warning}
+### Perks
+- Eligible for base services
+- All standings are managed on behalf of the alliance
+- Alliance banner
+- Limited autonomy
+- Not eligible for wars
 
+### Requirements
+- General Partner Member Requirements are applied
+- General Partner Corporation Requirements are applied
 - Corporation needs to have at least 50 active individual members in the corporation
-- All members needs to be registered on AUTH and have activated the discord service. You may use your own services in addition to coalition AUTH. Coalition AUTH only requires public scope from line members.
 - The alliance will manage all standings and service accesses on behalf of the corporation. If the corporation leaves the alliance they are treated as a neutral entity and will lose access to the services.
-- Corporation may request membership status change if they meet the requirements or are looking to join another alliance that requires by game mechanisms for the corporation to leave the silent company alliance.
-- Corporation should provide content for other coalition members whenever possible by opening their fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
+- Corporations in the entry level alliance are not allowed to hold any structures under their corporations.
+- Corporations in the entry alliance will need to keep the setting to reject all structure transfers on at all times.
+- Corporation may request partnership status change if they meet the requirements or are looking to join another alliance that requires by game mechanisms for the corporation to leave the silent company alliance.
 - Corporation has full autonomy over their own corporation excluding the matters mentioned above.
 
 ## Language Partner
