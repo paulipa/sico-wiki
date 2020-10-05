@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T15:02:20.584Z
+date: 2020-10-05T15:03:05.054Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -65,6 +65,7 @@ Depending on your corporation partnership level you may have different requireme
 	- Requiremebts for joining your corporation
   - Your corporation description and goals
   - Point of contact or recruitment process description
+- Corporation leadership must be active and interact with other coalition leadership.
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
 ## Base services
@@ -104,7 +105,7 @@ Independent partners are corporations that are seeking blue standings with other
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
 - Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the partner corporation entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
 
-- Corporation leadership must be active and interact with other coalition leadership.
+
 
 ## Affiliated partner
 These corporations are not added to the silent company alliance. This entity will not be set blue and it allows the entity to fight against other coalition members with the limitations of the general requirements. These entities will set all coalition members with +0 in order to identify them in space and to be able to act based on that information. They will use the general communication channels the same way normal alliances use the alliance channell.
