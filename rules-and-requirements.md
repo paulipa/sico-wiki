@@ -2,12 +2,13 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T14:15:18.403Z
+date: 2020-10-05T14:18:44.611Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
 ---
 
+# Goals
 The primary goal of the LinkNet program is to create an community where each different type of player are able to enjoy the game and pursuit the goals they have set for them. 
 
 Our other goals are:
@@ -16,17 +17,17 @@ Our other goals are:
 - To help individual members to find active corporations that suit their personal game play needs in EVE Online
 - To help corporations provide content across of the whole coalition and help them pursuit their own goals
 
-# Player and chat rules
+# Behaviour and communication rules
 As EVE is an addicting and compelling game sometimes the real life ideologies or beliefs easily find their way into the game which may cause clashes between different types of players.
 
 In order to keep our community of thousands of players as a friendly and a nice place to play we have set some ground rules that apply on each member within the partner corporations. With these rules we are trying to keep our focus on EVE and on enjoying the game with players from all over the world with all types of ideologies.
 
 ## Banned Topics
-**The following topics are banned in all coalition channels** including but not limited to in-game channels, corporation channel, forums, homepage, discord and any other voice communication programs.
+**The following topics are banned in all community channels** including but not limited to in-game channels, corporation channel, forums, homepage, discord and any other voice communication programs.
 - All racists, sexists, homophobic and topics alike.
 - All real life politics, religious topics and sexual orientations.
 - All personal attacks, finger pointing or public shaming.
-- Pushing/advertising of all personal agendas, ideologies or non sico related communities across coalition channels to other members such as CSM campaigns without coalition approval
+- Pushing/advertising of all personal agendas, ideologies or non community related activites across the community channels to other members without proper approval.
 
 ## Prohibited ingame actions against other coalition members
 - **Scamming or stealing from coalition members** is not allowed. This includes all types of scams and ninja looting. Scamming players outside our coalition is legit taken that the rules of your current corporation do not prevent doing it.
