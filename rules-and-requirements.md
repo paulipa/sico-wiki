@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T16:38:44.040Z
+date: 2020-10-05T16:48:34.759Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -78,6 +78,25 @@ Depending on your corporation partnership level you may have different requireme
 - **Poaching members from other partner corporations is not allowed**. You are allowed to advertise yourself and invite people over after their initiative but are not allowed to actively trying to poach members from other corporations.
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
+
+## Proof of activity
+Each partner corporation must prove and keep on proving over time that they are active and will provide a solid and functioning corporation for any members that are migrating over.
+
+Each quarter the membership level of each member corporation will be valuated. Partners that do not fulfill the requirements or have been determined to be inactive or not interacting with the rest of the community in any way will be removed from the partner program.
+
+To prove your activity the corporation must take part in one or more of the activities bellow:
+- Host fleets that are open towards the rest of the community
+- Host classes that are open towards the rest of the community
+- Host events that are open towards the rest of the community
+- Actively be visible on comms and help out other community members
+
+### Recruitment week
+In the end of each quartar a recruitmen week is hosted inside the community. During this week each corporation win enchant their interactions towards the community and boost their advertising towards the entry corporations. 
+
+During this week each corporation is required to publish a blog post about the past activities within their corporation to share with other community members to give them an idea about the recent activities. Only general information is required that the corporation sees to be fit for publice eyes.
+
+The week ends in a recruitment weekend where each corporation will have their representives on voice comms to answere questions for new players that are seeking to join them.
+
 ## Base services
 We offer a set of base services for our partner corporations to use. They may decide themselves if they take advantage of these systems.
 - Member sourcing from entry corporations
