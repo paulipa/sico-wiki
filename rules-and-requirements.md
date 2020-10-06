@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-06T07:42:04.249Z
+date: 2020-10-06T13:48:50.758Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -17,7 +17,7 @@ Our other goals are:
 - To help individual members to find active corporations that suit their personal game play needs in EVE Online
 - To help corporations provide content across of the whole coalition and help them pursuit their own goals
 
-# Behaviour and communication rules
+# Behaviour and communication rules (BCR)
 As EVE is an addicting and compelling game sometimes the real-life ideologies or beliefs easily find their way into the game which may cause clashes between different types of players.
 
 In order to keep our community of thousands of players as a friendly and a nice place to play we have set some ground rules that apply on each member within the partner corporations. With these rules we are trying to keep our focus on EVE and on enjoying the game with players from all over the world with all types of ideologies.
@@ -29,7 +29,7 @@ In order to keep our community of thousands of players as a friendly and a nice 
 - All personal attacks, finger pointing or public shaming.
 - Pushing/advertising of all personal agendas, ideologies or non-community related activities across the community channels to other members without proper approval.
 
-## Prohibited actions against all players
+## Prohibited actions against all players (PAAP)
 While we do understand that in the heat of a battle you most often want to smack talk a bit. That is completely fine as long as you keep it mature and don’t overshoot. Since EVE is a social game, we want to make sure that also the players around us are enjoying the game. For this reason, the following rules applies on your general attitude of being nice
 - **You are bound by EVE Online EULA** no matter what you do. EULA includes some pretty basic stuff such as: You may not submit any content to any chat room or other public forum within the Game that is harassing, abusive, threatening, harmful, obscene, libellous or defamatory, encourages conduct that could constitute a criminal offense or give rise to civil liabilities, or is unlawful in any other way, including without limitation the submission of content that infringes on a third-party’s intellectual property rights.
 - **You are prohibited to do personal attacks** against any players in EVE. Smack talk is allowed.
@@ -37,7 +37,7 @@ While we do understand that in the heat of a battle you most often want to smack
 - **All real-life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
 - **No Real Money Trade (RMT)** of any type.
 
-## Prohibited actions against community members
+## Prohibited actions against community players (PACP)
 - **Scamming or stealing from any partner corporation members** is not allowed. This includes all types of scams and ninja looting. Scamming players outside our partnered corporations is allowed.
 - **Spamming any communication channels with repeating content** such as advertising your contracts. This includes HyperNet Relay offers.
 - **Shooting or killing any partner corporation members with blue standings** outside coalition raised PvP events is not allowed. This is limited to blue standings and does not apply on partners with neutral standings.
@@ -57,13 +57,13 @@ You are able to find a list of all of our corporations in here https://www.silen
 
 # Partner Requirements
 Depending on your corporation partnership level you may have different requirements and restrictions set on you.
-## General Partner Member Requirements
+## General Partner Member Requirements (GPMR)
 - **Communicate in English** when talking or typing in any of our community restricted or public text or voice channels.
 - **Use our global in game chat channel for connecting with other community members**. Talking with other community members is the best way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
 - **AUTH registration is required from all community members** as it is used to connect each player with our services. You should pursuit to get all of your members registered on AUTH.
 - **All members needs to have activated the discord service.** You may use your own services in addition to coalition provided ones.
 
-## General Partner Corporation Requirements
+## General Partner Corporation Requirements (GPCR)
 - **Have our global in game chat channel linked** in your primary corporation chat channel
 - **Corporations must have a corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other community entities** whenever possible.
@@ -79,7 +79,7 @@ Depending on your corporation partnership level you may have different requireme
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
 
-## Proof of activity
+## Proof of activity (PoA)
 Each partner corporation must prove and keep on proving over time that they are active and will provide a solid and functioning corporation for any members that are migrating over.
 
 Each quarter the membership level of each member corporation will be evaluated. Partners that do not fulfil the requirements or have been determined to be inactive or not interacting with the rest of the community in any way will be removed from the partner program.
@@ -90,7 +90,7 @@ To prove your activity the corporation must take part in one or more of the acti
 - Host events that are open towards the rest of the community
 - Actively be visible on comms and help out other community members
 
-### Recruitment week
+### Recruitment week (RW)
 In the end of each quarter a recruitment week is hosted inside the community. During this week each corporation win enchant their interactions towards the community and boost their advertising towards the entry corporations. 
 
 During this week each corporation is required to publish a blog post about the past activities within their corporation to share with other community members to give them an idea about the recent activities. Only general information is required that the corporation sees to be fit for publice eyes.
