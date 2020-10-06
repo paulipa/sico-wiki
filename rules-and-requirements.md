@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-06T14:16:27.441Z
+date: 2020-10-06T15:46:45.974Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -49,7 +49,7 @@ While we do understand that in the heat of a battle you most often want to smack
 Members that are part of any of the partner corporations are allowed to request a transfer to a different wing if they do wish to change their gameplay. The different wings might have some limitations and requirements of their own so it is always good that have a chat with a director, recruiter or a CEO of the corporation that you seek to join.
 
 Each of the partner corporations have most often one or two primary focuses. If these focuses align better with your personal interests then it might be a good idea to consider changing your corporation.
-
+![player_flow.png](/player_flow.png)
 You are able to find a list of all of our corporations in here https://www.silentcoalition.com/about-us
 
 > Corporations are not allowed to poach members from other corporations. Make your corporations attractive so that people want to join you to get their hands on the content you are creating for them!
@@ -125,6 +125,8 @@ We offer different levels of partnership to provide a flexible and working syste
 - Neutral partner
 - Alliance partner
 - Language partner
+
+![standings_(7)_(1).png](/standings_(7)_(1).png)
 
 ## Blue Partner
 A flexible partnership level that uses blue standing to limit PvP engagements and to identify other community members.
