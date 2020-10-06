@@ -2,39 +2,39 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-05T16:52:18.979Z
+date: 2020-10-06T07:42:04.249Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
 ---
 
 # Goals
-The primary goal of the LinkNet program is to create an community where each different type of player are able to enjoy the game and pursuit the goals they have set for them. 
+The primary goal of the LinkNet program is to create a community where each different type of player are able to enjoy the game and pursuit the goals they have set for them. 
 
 Our other goals are:
-- To create a community of players that would have fun and interact with each other’s while playing the game despite their real life divergences.
+- To create a community of players that would have fun and interact with each other’s while playing the game despite their real-life divergences.
 - To provide a friendly and mature community that respects all types of players despite their in-game orientations.
 - To help individual members to find active corporations that suit their personal game play needs in EVE Online
 - To help corporations provide content across of the whole coalition and help them pursuit their own goals
 
 # Behaviour and communication rules
-As EVE is an addicting and compelling game sometimes the real life ideologies or beliefs easily find their way into the game which may cause clashes between different types of players.
+As EVE is an addicting and compelling game sometimes the real-life ideologies or beliefs easily find their way into the game which may cause clashes between different types of players.
 
 In order to keep our community of thousands of players as a friendly and a nice place to play we have set some ground rules that apply on each member within the partner corporations. With these rules we are trying to keep our focus on EVE and on enjoying the game with players from all over the world with all types of ideologies.
 
 ## Banned Topics
 **The following topics are banned in all community channels** including but not limited to in-game channels, corporation channel, forums, homepage, discord and any other voice communication programs.
 - All racists, sexists, homophobic and topics alike.
-- All real life politics, religious topics and sexual orientations.
+- All real-life politics, religious topics and sexual orientations.
 - All personal attacks, finger pointing or public shaming.
-- Pushing/advertising of all personal agendas, ideologies or non community related activites across the community channels to other members without proper approval.
+- Pushing/advertising of all personal agendas, ideologies or non-community related activities across the community channels to other members without proper approval.
 
 ## Prohibited actions against all players
-While we do understand that in the heat of a battle you most often want to smack talk a bit. That is completely fine as long as you keep it mature and don’t overshoot. Since EVE is a social game we want to make sure that also the players around us are enjoying the game. For this reason the following rules applies on your general attitude of being nice
-- **You are bint by EVE Online EULA** no matter what you do. EULA includes some pretty basic stuff such as: You may not submit any content to any chat room or other public forum within the Game that is harassing, abusive, threatening, harmful, obscene, libelous or defamatory, encourages conduct that could constitute a criminal offense or give rise to civil liabilities, or is unlawful in any other way, including without limitation the submission of content that infringes on a third-party’s intellectual property rights.
-- **You are prohibited to do personal attacks** against any players in EVE. Smach talk is allowed.
-- **No toxic behavior** in any situations
-- **All real life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
+While we do understand that in the heat of a battle you most often want to smack talk a bit. That is completely fine as long as you keep it mature and don’t overshoot. Since EVE is a social game, we want to make sure that also the players around us are enjoying the game. For this reason, the following rules applies on your general attitude of being nice
+- **You are bound by EVE Online EULA** no matter what you do. EULA includes some pretty basic stuff such as: You may not submit any content to any chat room or other public forum within the Game that is harassing, abusive, threatening, harmful, obscene, libellous or defamatory, encourages conduct that could constitute a criminal offense or give rise to civil liabilities, or is unlawful in any other way, including without limitation the submission of content that infringes on a third-party’s intellectual property rights.
+- **You are prohibited to do personal attacks** against any players in EVE. Smack talk is allowed.
+- **No toxic behaviour** in any situations
+- **All real-life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
 - **No Real Money Trade (RMT)** of any type.
 
 ## Prohibited actions against community members
@@ -58,20 +58,20 @@ You are able to find a list of all of our corporations in here https://www.silen
 # Partner Requirements
 Depending on your corporation partnership level you may have different requirements and restrictions set on you.
 ## General Partner Member Requirements
-- **Communicate in english** when talking or typing in any of our community restricted or public text or voice channels.
-- **Use our global ingame chat channel for connecting with other community members**. Talking with other community members is the beast way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
+- **Communicate in English** when talking or typing in any of our community restricted or public text or voice channels.
+- **Use our global in game chat channel for connecting with other community members**. Talking with other community members is the best way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
 - **AUTH registration is required from all community members** as it is used to connect each player with our services. You should pursuit to get all of your members registered on AUTH.
 - **All members needs to have activated the discord service.** You may use your own services in addition to coalition provided ones.
 
 ## General Partner Corporation Requirements
-- **Have our global ingame chat channel linked** in your primary corporation chat channel
-- **Corporations must have an corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
+- **Have our global in game chat channel linked** in your primary corporation chat channel
+- **Corporations must have a corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other community entities** whenever possible.
 - **Seek to provide content and fleets for other community members whenever possible** by opening their corporation fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
-- **No hostile actions against any structures or or camping strategic systems** regarless of standing settings. PvP roaming is allowed with the limitations of standings used.
-- **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other community entities. For example you are not allowed to underrate other partner corporations that are part of your rival alliances. We operate only on corporation level.
+- **No hostile actions against any structures or camping strategic systems** regardless of standing settings. PvP roaming is allowed with the limitations of standings used.
+- **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other community entities. For example, you are not allowed to underrate other partner corporations that are part of your rival alliances. We operate only on corporation level.
 - **Corporation must keep an updated corp description page on the wiki** for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation. This page must include information about:
-	- Requiremebts for joining your corporation
+	- Requirements for joining your corporation
   - Your corporation description and goals
   - Point of contact or recruitment process description
 - Corporation leadership must be active and interact with other coalition leadership.
@@ -82,7 +82,7 @@ Depending on your corporation partnership level you may have different requireme
 ## Proof of activity
 Each partner corporation must prove and keep on proving over time that they are active and will provide a solid and functioning corporation for any members that are migrating over.
 
-Each quarter the membership level of each member corporation will be valuated. Partners that do not fulfill the requirements or have been determined to be inactive or not interacting with the rest of the community in any way will be removed from the partner program.
+Each quarter the membership level of each member corporation will be evaluated. Partners that do not fulfil the requirements or have been determined to be inactive or not interacting with the rest of the community in any way will be removed from the partner program.
 
 To prove your activity the corporation must take part in one or more of the activities bellow:
 - Host fleets that are open towards the rest of the community
@@ -91,11 +91,11 @@ To prove your activity the corporation must take part in one or more of the acti
 - Actively be visible on comms and help out other community members
 
 ### Recruitment week
-In the end of each quartar a recruitmen week is hosted inside the community. During this week each corporation win enchant their interactions towards the community and boost their advertising towards the entry corporations. 
+In the end of each quarter a recruitment week is hosted inside the community. During this week each corporation win enchant their interactions towards the community and boost their advertising towards the entry corporations. 
 
 During this week each corporation is required to publish a blog post about the past activities within their corporation to share with other community members to give them an idea about the recent activities. Only general information is required that the corporation sees to be fit for publice eyes.
 
-The week ends in a recruitment weekend where each corporation will have their representives on voice comms to answere questions for new players that are seeking to join them.
+The weekends in a recruitment weekend where each corporation will have their representatives on voice comms to answer questions for new players that are seeking to join them.
 
 ## Base services
 We offer a set of base services for our partner corporations to use. They may decide themselves if they take advantage of these systems.
@@ -105,7 +105,7 @@ We offer a set of base services for our partner corporations to use. They may de
 - [Blueprint copying](/services/ingame-services/public-blueprints) system access
 - [Citadel](/services/ingame-services/citadels) access and services hosted by the community
 - Access to coalition training fleets and ability to run coalition training fleets
-- Ability to take part in joint partner operations hosted by other parter corporations.
+- Ability to take part in joint partner operations hosted by other partner corporations.
 - Ability to call on War support but not demand it.
 - [AUTH](/tools/auth) tool including a variety of AUTH services such as structure tracking
 	- Fleet tracking
@@ -127,7 +127,7 @@ We offer different levels of partnership to provide a flexible and working syste
 - Language partner
 
 ## Blue Partner
-A flexible partnership level that uses blue standing to limit pvp engagements and to identify other community members.
+A flexible partnership level that uses blue standing to limit PvP engagements and to identify other community members.
 
 ### Perks
 - Eligible for base services
@@ -138,7 +138,7 @@ A flexible partnership level that uses blue standing to limit pvp engagements an
 - [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
 - [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
 - [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
-- Mimimum of 30 actitive real players
+- Minimum of 30 active real players
 - **Corporation will be set to +10** and is required to keep +10 standings on all independent partners and the silent company alliance.
 - Corporation needs to update each community standing change on corporation level and keep the standings updated
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
@@ -146,32 +146,32 @@ A flexible partnership level that uses blue standing to limit pvp engagements an
 - **Corporation has full autonomy over themselves** including the ability to join an alliance in EVE. Only the partner corporation entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
 
 ## Neutral partner
-A flexible partnership level that does not use standing to limit pvp engagements. Requires more management work from leadership to prevent any stategic operations against other community partner corporations.
+A flexible partnership level that does not use standing to limit PvP engagements. Requires more management work from leadership to prevent any strategic operations against other community partner corporations.
 
 ### Perks
 - Eligible for base services
-- Neutral standings allow engageing on other comunity members during roams
+- Neutral standings allow engaging on other community members during roams
 - Full autonomy
 
 ### Requirements
 - [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
 - [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
 - [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
-- Mimimum of 30 actitive real players
+- Minimum of 30 active real players
 - **Corporation will be set to +0** and is required to keep +0 standings on other community partner corporations
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
 - Corporation is allowed to shoot at other coalition members in PVP roams as well as to get shot by other coalition members.
-- Corporation is not allowed to take advantage of its coalition memebrship in order to plan hostile pvp actions against other coalition entities regardless of the standings. You are not allowed to plot ganks or intercept fleets hosted from any other coalition entities in any way.
+- Corporation is not allowed to take advantage of its coalition membership in order to plan hostile PvP actions against other coalition entities regardless of the standings. You are not allowed to plot ganks or intercept fleets hosted from any other coalition entities in any way.
 - Corporation is not allowed to siege any structures that a partner corporation (regardless of standing) has classified as a strategic structure.
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
-- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is a affiliated member entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
+- Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is an affiliated member entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
 
 
 ## Alliance Partner | Silent Company
 Corporations who want to fly under the banner of the Silent Company alliance and do not seek to take part in any wars may join the Silent Company alliance. Joining the alliance reduces the amount of work required for setting channel access and standings.
 
-> Corporations in the entry level alliance are not allowed to hold any structures under their corporations. The entry level alliance will never be eligible for war. If this rules is broken and a corporation anchors any structures making the alliance venerable for wars the corporation will be removed without any warning. It is the responsibility of the CEO to make sure that regular members are unable to anchor structures.
+> Corporations in the entry level alliance are not allowed to hold any structures under their corporations. The entry level alliance will never be eligible for war. If this rule is broken and a corporation anchors any structures making the alliance venerable for wars the corporation will be removed without any warning. It is the responsibility of the CEO to make sure that regular members are unable to anchor structures.
 {.is-danger}
 
 > Corporations in the entry alliance will need to keep the setting to reject all structure transfers on at all times.
@@ -195,30 +195,30 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 - Corporation has full autonomy over their own corporation excluding the matters mentioned above.
 
 ## Language Partner
-Language partner corporations are special case corporations that are loosely connected to the coalition. The purpose of these non English speaking corporations is to provide content for non English speaking players.
+Language partner corporations are special case corporations that are loosely connected to the coalition. The purpose of these non-English speaking corporations is to provide content for non-English speaking players.
 
 > Language partner entities are our partners that we recommend for players who do not wish or can't operate in English. We also advertise these corporations in our general recruitment mails.
 {.is-info}
 
-While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking we have verified that they will take good care of you once you join them!
+While these corporations may not be interacting with the rest of the coalition due to language barriers and possible geo-blocking, we have verified that they will take good care of you once you join them!
 
 ### Perks
 - Corporation advertisement in our recruitment process
-- Losely affiliated with the community
+- Loosely affiliated with the community
 - No standings
 
 ### Requirements
 - Corporation needs to have at least 50 active individual members in the corporation
 - Corporations main language must be something else than English.
 - Corporation needs to be active and have a clear goal in sight. Community only interacts with language option corporations that we believe are providing true content and taking care of the members we send to the corporations.
-- Corporation needs to have a representative or point of contact towards the community who will inform the community about any major changes that would effect pushing new recruits to their corporation.
+- Corporation needs to have a representative or point of contact towards the community who will inform the community about any major changes that would affect pushing new recruits to their corporation.
 - Corporation needs to provide the community a clear and simple advertising phrase in their native language to be used for recruiting purposes on behalf of the coalition.
 - Set aside any standing differences or in game political ambitions that your corporation might have when interacting with other community members or in any of the community related channels
 - Corporation must seek to cooperate with community partner corporations whenever possible and suitable based on the corporation goals of the language option corporation
-- If most of the corporation members talk English the language option corporation may apply for other partner levels. In these cases the rules applied on the language corporation will change accordingly.
+- If most of the corporation members talk English the language option corporation may apply for other partner levels. In these cases, the rules applied on the language corporation will change accordingly.
 
 # Leadership
-**The community leadership is formed by each corporation CEO and directors**. Together these players will find the the most optimal solutions for leading our community of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and guidelines on the general level of the coalition are decided together and stated on this wiki. 
+**The community leadership is formed by each corporation CEO and directors**. Together these players will find the most optimal solutions for leading our community of different types of players and cultures on a general level. All of these players are on the same level and none of them can dictate alone the directions the coalition should take. Official rules and guidelines on the general level of the coalition are decided together and stated on this wiki. 
 
 ## Expectations and capabilities
 Players holding these roles are expected to behave with dignity and follow the coalition rules and guidelines in all situations, even if it would fight against their personal beliefs. A level of professionalism is expected from these players when acting outside their own corporation channels.
@@ -246,7 +246,7 @@ The chain of command from top to down for the current coalition roles are:
 **Report all problems and rule breaking to any corporation CEO or the coalition executor**. Keep in mind that you will need to provide proof for your report, in most often in a form of chat logs. The leadership will deal with any and all of the problems raised and it is not the job of a line member to govern the coalition.
 
 # Identifying and contacting leadership
-To contact leadership you can ping `@ceo` or `@wing director` on any of the discord channels. You will be able to see all players holding coalition positions on the right side of the discord channel, ordered in the same chain of command order as is mentioned in the rules.
+To contact leadership, you can ping `@ceo` or `@wing director` on any of the discord channels. You will be able to see all players holding coalition positions on the right side of the discord channel, ordered in the same chain of command order as is mentioned in the rules.
 
 You can also send personal messages via discord or by in-game mail to any of these players.
 
