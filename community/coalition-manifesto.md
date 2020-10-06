@@ -2,9 +2,10 @@
 title: Silent Coalition Manifesto 2019
 description: 
 published: true
-date: 2020-08-18T09:58:21.601Z
+date: 2020-10-06T15:53:55.578Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-09T07:52:32.782Z
 ---
 
 # Introduction to SiCO
@@ -32,7 +33,9 @@ The following section will you an idea how the coalition is structured, operated
 
 EVE is a massive game and there is a lot to do in it. For this same reason a single corporation or alliance simply can’t provide its members with all the possible content. To fix this we have created the Silent Coalition that has members from different corporations operating in different locations.
 
-## Membership types
+![player_flow.png](/player_flow.png)
+
+## Membership levels
 There are several different membership types for coalition member corporations. You can find the explanations and requirements for each type in here: [Requirements for coalition corporations](/community/rules#requirements-for-coalition-corporations)
 
 ## Joint operations
@@ -43,19 +46,17 @@ By allowing players to get a sneak peak at your operations you are able to get t
 By offering fleets and content for other coalition members you also educate them about the different types of things they can do in EVE.
 
 ## Standings
-Each corporation or alliance that is part of SiCO may be also part of other coalitions or alliances. The most typical case is for a null sec corporation to be part of SiCO, their own null sec alliance and their null sec mega coalition. However only the corporation that is officially part of SiCO is treated as a coalition member while the alliance and mega coalition are simply neutral states toward SiCO.
+Each corporation or alliance that is part of SiCO may be also part of other coalitions or alliances. 
 
+The most typical case is for a null sec corporation to be part of SiCO, their own null sec alliance and their null sec mega coalition. However only the corporation that is officially part of SiCO is treated as a coalition member while the alliance and mega coalition are simply neutral states toward SiCO.
+
+![standings_(7)_(1).png](/standings_(7)_(1).png)
+
+Each linked standing our partner corporations may inherit from their own entitie parters such as alliances or coalitions will be ignored on community level. While the alliance and coalition may be blue to the community partner corporation they hold no standings with the rest of the community partners.
 > Coalition only operates on corporation level regarding memberships
 {.is-info}
 
-## Standing examples
-Here is an illustration of the SiCO structure and the standing relations:
-![coalition_standing_example.jpg](/coalition_standing_example.jpg =600x)
-**Only the entities inside the blue Silent Coalition box are part of SiCO.** All other entities are neutral to SiCO and the other corporations in SiCO. Each SiCO entity might have their own blues besides the blues they have from SiCo. 
-
-For example SEADC has +10 to Null Corp, HS Corp, FW Corp, Wormhole Corp and Low sec Corp. However the Null Corp has blue to all of the same that SEADC has + their own alliance (their own alliance blues) and their mega coalition blues.
-
-This makes two different things possible at the same time: the players who want to play in null sec space are able to do so without disrupting the lives of high sec players (wars and politics). It also allows high sec players to transfer to null sec without forcing the whole corporation to move over.
+![standings_(7)_(2).png](/standings_(7)_(2).png)
 
 ### Entry Level corporation SEADC point of view for standings
 ![standings_seadc_pov.jpg](/standings_seadc_pov.jpg =500x)
