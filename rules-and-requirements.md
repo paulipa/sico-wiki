@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-06T13:48:50.758Z
+date: 2020-10-06T14:16:27.441Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -74,7 +74,7 @@ Depending on your corporation partnership level you may have different requireme
 	- Requirements for joining your corporation
   - Your corporation description and goals
   - Point of contact or recruitment process description
-- Corporation leadership must be active and interact with other coalition leadership.
+- Corporation leadership including CEO, Directors and other key players must be active and interact with other LinkNet partner leadership personell over the community discord.
 - **Poaching members from other partner corporations is not allowed**. You are allowed to advertise yourself and invite people over after their initiative but are not allowed to actively trying to poach members from other corporations.
 > There are no mandatory operation requirements, operation location requirements or any fees for any of our membership levels!
 {.is-success}
