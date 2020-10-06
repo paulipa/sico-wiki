@@ -2,7 +2,7 @@
 title: Silent Coalition Manifesto 2019
 description: 
 published: true
-date: 2020-10-06T15:53:55.578Z
+date: 2020-10-06T15:55:47.900Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T07:52:32.782Z
@@ -57,13 +57,6 @@ Each linked standing our partner corporations may inherit from their own entitie
 {.is-info}
 
 ![standings_(7)_(2).png](/standings_(7)_(2).png)
-
-### Entry Level corporation SEADC point of view for standings
-![standings_seadc_pov.jpg](/standings_seadc_pov.jpg =500x)
-### Null corporation point of view for standings
-![standings_null_pov.jpg](/standings_null_pov.jpg =500x)
-### A super coalition / null sec block point of view for standings
-![standings_null_supercoalaition_pov.jpg](/standings_null_supercoalaition_pov.jpg =500x)
 
 ## Conclusion
 By doing this we are able to provide different type of gameplay for different types of players while still playing the game together. Many of our coalition operations and activities are open for any of the coalition entities to join if they choose to do so. For example pvp fleets, special events and mining fleets.
