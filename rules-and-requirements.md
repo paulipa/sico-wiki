@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-07T07:44:21.785Z
+date: 2020-10-07T07:49:32.656Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -60,7 +60,7 @@ Depending on your corporation partnership level you may have different requireme
 ## General Partner Member Requirements (GPMR)
 - **Communicate in English** when talking or typing in any of our community restricted or public text or voice channels.
 - **Use our global in game chat channel for connecting with other community members**. Talking with other community members is the best way to connect. When not talking about corporation restricted or OPSEC content you should pursuit to use the general channels.
-- **AUTH registration is required from all community members** as it is used to connect each player with our services. You should pursuit to get all of your members registered on AUTH.
+- **AUTH registration is required from all community members** as it is used to connect each player with our services. Each corporation should do their best to push members to register on the services.
 - **All members needs to have activated the discord service.** You may use your own services in addition to coalition provided ones.
 
 ## General Partner Corporation Requirements (GPCR)
