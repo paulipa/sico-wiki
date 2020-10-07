@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2020-10-06T14:23:33.173Z
+date: 2020-10-07T17:03:47.050Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T08:08:40.322Z
@@ -22,6 +22,9 @@ Our primary areas of operations and systems.
 
 ## [Changing Corporations](/community/changing-corporations)
 All coalition members are free to look for a new corporation when they feel like it. The coalition tries to offer different types of corporations within the community but if you can't find the right place for yourself within the coalition you can also look for corporations that are not part of the coalition.
+
+## [Groups](/community/groups)
+The community offers different groups and positions depending on your interests and talents.
 
 ## [Coalition Manifesto](/community/coalition-manifesto)
 Detailed explanation of coalition structure and goals.
