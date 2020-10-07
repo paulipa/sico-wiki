@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-06T15:46:45.974Z
+date: 2020-10-07T07:44:21.785Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -80,22 +80,28 @@ Depending on your corporation partnership level you may have different requireme
 {.is-success}
 
 ## Proof of activity (PoA)
-Each partner corporation must prove and keep on proving over time that they are active and will provide a solid and functioning corporation for any members that are migrating over.
+We want to make sure that all the corporations we have in our program are active and will provide meaningful content for any players who seek to join them. For this reason proof of activity (PoA) is required from the partner corporations.
 
-Each quarter the membership level of each member corporation will be evaluated. Partners that do not fulfil the requirements or have been determined to be inactive or not interacting with the rest of the community in any way will be removed from the partner program.
+Each partner corporation must prove and keep on proving over time that they are active and will provide a solid and functioning corporation for any members that are migrating over. This is easily done by interacting with the rest of the partner corporations via the LinkNet program.
 
-To prove your activity the corporation must take part in one or more of the activities bellow:
+To prove your activity the corporation must take part in one or more of the activities such as:
 - Host fleets that are open towards the rest of the community
 - Host classes that are open towards the rest of the community
 - Host events that are open towards the rest of the community
 - Actively be visible on comms and help out other community members
+- Run active programs towards the community such as manufacturing, reactions or station upkeep
+- Take part in the recruitment week
+
+Each quarter the membership level of each member corporation will be evaluated. Partners that do not fulfill the requirements or have been determined to be inactive or not interacting with the rest of the community in any way will be removed from the partner program.
 
 ### Recruitment week (RW)
-In the end of each quarter a recruitment week is hosted inside the community. During this week each corporation win enchant their interactions towards the community and boost their advertising towards the entry corporations. 
+Participating in the recruitment week is optional and may be used as an option if other PoA points are not reached, but the partner is still active and wants to show it.
 
-During this week each corporation is required to publish a blog post about the past activities within their corporation to share with other community members to give them an idea about the recent activities. Only general information is required that the corporation sees to be fit for publice eyes.
+In the end of each quarter a recruitment week is hosted inside the community. During this week each corporation can enforce their interactions towards the community and boost their advertising towards the entry corporations and recruiting from them. 
 
-The weekends in a recruitment weekend where each corporation will have their representatives on voice comms to answer questions for new players that are seeking to join them.
+During this week the corporations may open up their past activities and current corporation statuses by posting a blog post on the LinkNet blog about things they feel like sharing with the rest of the community. Corporations are always able to make their post on the blog even outside of the recruitment week, but the posts are highlighted during the week.
+
+On the last weekend of the recruitment week a recruitment weekend may be hosted where each partner corporation is encouraged to have a representive on voice comms under the recruitment channel to help new players connect up with the corporation.
 
 ## Base services
 We offer a set of base services for our partner corporations to use. They may decide themselves if they take advantage of these systems.
