@@ -2,7 +2,7 @@
 title: Silent Coalition Manifesto 2019
 description: 
 published: true
-date: 2020-10-06T15:55:47.900Z
+date: 2020-10-07T18:27:10.170Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T07:52:32.782Z
