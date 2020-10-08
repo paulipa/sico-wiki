@@ -2,14 +2,11 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-08T08:41:17.496Z
+date: 2020-10-08T14:41:37.033Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
 ---
-
-> This page is WIP. Content may change during rebrainding process.
-{.is-danger}
 
 # Goals
 The primary goal of the LinkNet program is to create a community where each different type of player are able to enjoy the game and pursuit the goals they have set for them. 
