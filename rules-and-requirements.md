@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-07T08:02:33.996Z
+date: 2020-10-08T08:41:17.496Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -173,7 +173,7 @@ A flexible partnership level that does not use standing to limit PvP engagements
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
 - Corporation is allowed to shoot at other coalition members in PVP roams as well as to get shot by other coalition members.
 - Corporation is not allowed to take advantage of its coalition membership in order to plan hostile PvP actions against other coalition entities regardless of the standings. You are not allowed to plot ganks or intercept fleets hosted from any other coalition entities in any way.
-- Corporation is not allowed to siege any structures that a partner corporation (regardless of standing) has classified as a strategic structure.
+- Corporation is not allowed to plan or initiate sieges on behalf of the partner corporations decission against other partner corporation structures. If the alliance or coalition of the partner corporation initiates an attack against a LinkNet partner corporation strucure then the partner under the command of this alliance or coalition is allowed to take part in their operation against this structure. However if possible it is recommended that the corporation will not support such actions if possible.
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
 - Corporation has full autonomy over themselves including the ability to join an alliance in EVE. Only the corporation that is an affiliated member entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
