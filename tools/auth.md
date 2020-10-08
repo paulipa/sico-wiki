@@ -2,13 +2,14 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-08-08T16:41:29.110Z
+date: 2020-10-08T18:03:43.150Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-05T17:33:02.063Z
 ---
 
 # What is AUTH
-SiCO AUTH is a central management system that links your EVE online character by taking advantage of the EVE SSO system to all of our third party services. This way we can identify your ingame character in our systems and restrict any non members out from the system.
+EVE LinkNet AUTH is a central management system that links your EVE online character by taking advantage of the EVE SSO system to all of our third party services. This way we can identify your ingame character in our systems and restrict any non members out from the system.
 
 You can read more about EVE SSO in here https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO
 
@@ -21,7 +22,7 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 {.is-info}
 
 # Registering On AUTH
-1. Navigate to https://auth.silentcoalition.com
+1. Navigate to https://auth.eve-linknet.com
 1. Click on the log in with EVE Online. This is the SSO Login form to a official EVE Online site. 
 ![auth1.jpg](/auth1.jpg =300x)
 1.  Log in with the EVE Online account, that holds your main character. The name of this character will be used on all of our services and be the name you will be identified with. 
@@ -39,18 +40,19 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 ## Adding alts
 > Do not create new accounts for alt characters. All alts are added under your main account.
 {.is-warning}
-1. To add alts under your main so that their activity are counted as activity for your main press the [add character](https://auth.silentcoalition.com/account/characters/add/) button on AUTH dashboard. This will link your alts to your main character.
+1. To add alts under your main so that their activity are counted as activity for your main press the [add character](https://auth.eve-linknet.com/account/characters/add/) button on AUTH dashboard. This will link your alts to your main character.
 
 ## Joining Groups
-The coalition has a lot of different types of players with different goals in EVE. Since we do not want to spam you with any content you are not interested in we have created special interest groups, SIGs
+The community has a lot of different types of players with different goals in EVE. Since we do not want to spam you with any content you are not interested in we have created special interest groups, SIGs
 ![auth6-1400x429.jpg](/auth6-1400x429.jpg =300x)
+You can find descriptions of different groups from here: [groups](/community/groups)
 
 ### Special Interest Groups
 By joining the special interest groups you will gain access to the respective discord rooms. In these rooms you will receive notifications about the content related to your interests.
 
 There are a great number of things you might want to focus on in EVE. Amongst other things we have groups created for PvP, Capital ships, incursions, triglavian invasions, mining, pve, wormhole space, hauling, planetary interactions, faction warfare and many other things.
 
-To add yourself to the special interest group simply go to https://auth.silentcoalition.com/groups/ and add yourself to the groups that start with Special Interest by pressing the request button. You will automatically be approved to the group and gain access to the discord channels related to these groups. 
+To add yourself to the special interest group simply go to https://auth.eve-linknet.com/groups/ and add yourself to the groups that start with Special Interest by pressing the request button. You will automatically be approved to the group and gain access to the discord channels related to these groups. 
 
 You can also leave any SIGs from the groups page by pressing the leave button. This way you will no longer receive notifications for this type of content.
 
@@ -74,10 +76,10 @@ Please activate any services you feel like using.
 There is no longer activation mails sent. Simply log in after creating your first account.
 
 ## I can't see groups
-Certain groups are only visible for coalition members. It may take up to a few hours for your corporation change status to take effect on the API
+Certain groups are only visible for community members. It may take up to a few hours for your corporation change status to take effect on the API
 
 ## I can't see services
-Certain services are only visible for coalition members. It may take up to a few hours for your corporation change status to take effect on the API
+Certain services are only visible for community members. It may take up to a few hours for your corporation change status to take effect on the API
 
 # AUTH tools for FCs and Leadership
 AUTH has several functions for leadership and Fleet Commanders usage. These includes things such as FAT link generation and corporation member tracking. 
@@ -88,7 +90,7 @@ AUTH has several functions for leadership and Fleet Commanders usage. These incl
 ## Group management
 If you belong to a group that is a manager group for a lower class group you will be able to accept and decline applications from other members to that group.
 
-- Navigate to https://auth.silentcoalition.com/group/management/
+- Navigate to https://auth.eve-linknet.com/group/management/
 - See if there are any applications to any groups.
 - If you know the applicant you may accept the application as per your own group rules.
 - If you do not know if you should accept the player to the group, then you most likely should not.
@@ -97,7 +99,7 @@ If you belong to a group that is a manager group for a lower class group you wil
 > This tool is only for CEOs and Directors
 {.is-warning}
 
-You can track your corporation member AUTH status and their alts at https://auth.silentcoalition.com/corpstat/
+You can track your corporation member AUTH status and their alts at https://auth.eve-linknet.com/corpstat/
 
 In order to gain access to the tracking you will need to add a director level token to the tool by pressing on the add token.
 
@@ -105,33 +107,6 @@ On corporation status page you can:
 - See who is registered on AUTH
 - See main char and alt relations
 - See service statuses of your members
-
-## Managing fittings and doctrines
-All coalition doctrines are located on AUTH in the doctrines section https://auth.silentcoalition.com/fittings/
-
-> CEOs, directors and doctrine managers are able to modify doctrines
-{.is-success}
-
-### To add a new doctrine
-Click on the add doctrine button. This will create a completely new doctrine.
-
-### To add new fittings
-Click on the add fitting button. Copy paste the fitting from ingame in EFT format.
-
-Name the doctrine as `<role> - <usage> - <class>` such as `DPS - Fleet PVP - Omega`
-
-### To modify doctrines
-Open a doctrine and click on the yellow edit button. In here you can:
-
-- Add fittings to the doctrine
-- Remove fittings from the doctrine
-- Edit the doctrine description
-
-### To modify fittings
-In order to modfy a fitting inside a doctrine you will need to delete the old fitting and make a new fitting.
-
-> Currently it is not possible to update old fittings. This will be added in the next release of the module.
-{.is-warning}
 
 ## Generating FATs
 If you are a coalition Fleet Commander, Fleet Commander Trainee, CEO or a Director you are able to create FAT links for your fleets. Fat links are used to track member participation in your fleet.
@@ -154,35 +129,21 @@ With FAT 2.0 you have a few ways to create links:
 
 ### Fats over ESI
 1. Have a toon as a fleet boss in your fleet
-2. Go to the FAT page: https://auth.silentcoalition.com/bfat/
-3. Click on Add FATLink https://auth.silentcoalition.com/bfat/links/add/
-4. Click on Add FatLink from ESI
-5. Log in with the fleet boss toon and press the green arrow to register the scope
-6. Set a name for your fleet! Otherwise it will have a randomly generated name. All members will be pulled over ESI after a short while.
+2. Go to the FAT page: https://auth.eve-linknet.com/imicusfat/
+3. Click on Add FAT Link https://auth.eve-linknet.com/imicusfat/links/add/
+4. Add a name for your fleet. Remember to use proper tags like MQP for tracking.
+5. Click on Add ESI link
+6. Log in with the fleet boss toon and press the green arrow to register the scope
+7. All members will be pulled over ESI after a short while. If you get a success message the members will be pulled over ESI once the current task que is processed. This may take a long time.
 
 > If you do not get any errors it means the FAT over ESI worked. It may take some time for the players to show up. **Do not create a new fat if there was no errors.**
 {.is-warning}
 
-### Fat links (not recommended)
-1. Go to the FAT page: https://auth.silentcoalition.com/bfat/
-2. Click on Add FATLink https://auth.silentcoalition.com/bfat/links/add/
-3. Set a name for the fleet and duration time and press Add clickable FATlink
-4. Provide the FAT link in fleet
-
-### ESI fat during ESI failures
-1. Try create ESI fat, you will get an error!
-2. Set a name for the fleet as normally.
-3. Open the tab called flat list
-4. Go to fleet window ingame and press one of the portraits on the right side of the fleet
-5. Press ctrl + a followed by ctrl + c to copy all players in fleet
-6. Paste the clipboard to the flat list form and submit it
-7. Players in fleet will pop up shortly on the fat!
-
 ## Scheduling fleets
-You are able to pre schedule fleets and add them to our fleet board. The fleet board is found on AUTH at https://auth.silentcoalition.com/optimer/. Please create a fleet in here whenever you plan to do a planned fleet in the future. You can always cancel the fleet in case you are unable to do it or if no one shows up.
+You are able to pre schedule fleets and add them to our fleet board. The fleet board is found on AUTH at https://auth.eve-linknet.com/optimer/. Please create a fleet in here whenever you plan to do a planned fleet in the future. You can always cancel the fleet in case you are unable to do it or if no one shows up.
 
 ### To create a fleet operation:
-1. Go to https://auth.silentcoalition.com/optimer/
+1. Go to https://auth.eve-linknet.com/optimer/
 1. Check that there are no fleets scheduled to the time you are going to schedule
 1. Click on the create fleet button
 1. Fill in all needed information
@@ -190,7 +151,7 @@ You are able to pre schedule fleets and add them to our fleet board. The fleet b
 Notifications will automatically go out on discord `#operations-tracker` channel for new, deleted and edited operations.
 
 ## Discord Fleet Pings
-In order to send out a fleet ping on discord please use the ping formatter found on Auth https://auth.silentcoalition.com/discordpingformatter/
+In order to send out a fleet ping on discord please use the ping formatter found on Auth https://auth.eve-linknet.com/discordpingformatter/
 
 Coalition aims to keep pings to a minimum so that in case we have an actually important operation people will pay attention to the pings.
 
@@ -198,7 +159,7 @@ Coalition aims to keep pings to a minimum so that in case we have an actually im
 {.is-warning}
 
 ### Ping rules
-1. Schedule fleets via https://auth.silentcoalition.com/optimer/. All fleets scheduled in here will automatically be posted in the `#operations` channel on discord. 
+1. Schedule fleets via https://auth.eve-linknet.com/optimer/. All fleets scheduled in here will automatically be posted in the `#operations` channel on discord. 
 1. When your fleet goes up ping it at the `#fleet-pings` channel with the formatter.
 	1. For stratop and CTA fleets use `@here` or `@everyone` pings. We want to keep these to minimum
   	2. For every other fleet **please pick the correct SIG group** from the drop down window on the formatter.
@@ -216,13 +177,12 @@ You can create pre notifications about your fleet if you want to hype it up. To 
 1. Select ping target to `PRE pings (#operations)`
 1. Fill in rest of the information
 
-
 If you need to hype or rage ping a non CTA fleet more or extend the ping to multiple SIGS you can ping `@here` inside the SIG channels.
 
 
 
 
-
+f
 
 
 
