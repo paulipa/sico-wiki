@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-08T14:42:42.658Z
+date: 2020-10-08T14:43:00.219Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -50,7 +50,7 @@ Members that are part of any of the partner corporations are allowed to request 
 
 Each of the partner corporations have most often one or two primary focuses. If these focuses align better with your personal interests then it might be a good idea to consider changing your corporation.
 ![player_flow.png](/player_flow.png)
-You are able to find a list of all of our corporations in here: [community members](/community/coalition-members)
+You are able to find a list of all of our corporations in here: [community partners](/community/coalition-members)
 
 > Corporations are not allowed to poach members from other corporations. Make your corporations attractive so that people want to join you to get their hands on the content you are creating for them!
 {.is-warning}
