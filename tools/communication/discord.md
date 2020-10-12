@@ -2,9 +2,10 @@
 title: Discord
 description: 
 published: true
-date: 2020-08-07T10:04:52.107Z
+date: 2020-10-12T08:07:29.805Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-06T16:13:01.899Z
 ---
 
 # What is Discord?
@@ -21,13 +22,13 @@ Discord can be used both as a public group chat as well as to have private conve
 Joining and authenticating on our discord is super easy. Like with all of our services you will get started from the [AUTH](/tools/auth) system page. Once you have registered and selected a main character you will be able to activate services from the services section.
 
 ### Step 1
-First you will need to register on AUTH at https://auth.silentcoalition.com/. Guide for this can be found in [here](/tools/auth).
+First you will need to register on AUTH at https://auth.eve-linknet.com/. Guide for this can be found in [here](/tools/auth).
 
 > Before you can register on AUTH you must join one of our coalition corporations ingame. How to [join us](/joining-us/)
 {.is-warning}
 
 ### Step 2
-After you have registered on AUTH you will need to go to the services section on AUTH https://auth.silentcoalition.com/services/ and activate the discod service by pressing the yellow button next to it.
+After you have registered on AUTH you will need to go to the services section on AUTH https://auth.eve-linknet.com/services/ and activate the discod service by pressing the yellow button next to it.
 
 ### Step 3
 After you click on the activation button the program will direct you to the discord login page. `Log in with the discord user you normally use as your main discord account.` **If you are using the discord desktop client make sure that you are using the same account!**
@@ -49,18 +50,7 @@ If you have just joined the corporation the ESI might not have updated yet. If y
 # Discord Ping rules
 Since we do not want to spam people with too many pings on discord which may cause them simply to mute all pings there are some rules and restrictions for pings
 
-### What they do
-- `@everyone` - Pings every character (online and offline) on the pinged channel
-- `@here` - pings all online characters of the pinged channel
-
-> These ping types are disabled for normal members in all global channels.
-{.is-info}
-
-### When can you use them
-Since normal members are unable to use the default pings these rules apply for groups who are able to access them such as CEOs, Directors and fleet commanders.
-
-- `@everyone` - Do not use this ping on global channels such as SC Comms or notifications unless the matter is extremely important. Most often only things that qualify as extremely important are stuff like citadel defence fleet pings for final layers or top priority fleet operations going out. You may use this ping freely on the special interest and staff groups if you rly need to get the message to all of the players
-- `@here` - Same as above, do not use this on any global channels. This is the ping to use mainly for fleets going up when you want all online players to know what something is happening.
+Our ping rules are located in here: https://wiki.eve-linknet.com/en/tools/auth#discord-fleet-pings
 
 # Troubleshooting
 Most common fix for discord not linking your roles
