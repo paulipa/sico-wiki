@@ -1,10 +1,11 @@
 ---
-title: HD Bravo Fleet
+title: SPRAL Bravo Fleet
 description: 
 published: true
-date: 2020-08-18T11:54:32.972Z
+date: 2020-10-12T15:29:18.016Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-20T16:25:58.549Z
 ---
 
 To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
