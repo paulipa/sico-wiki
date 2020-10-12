@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-12T15:46:57.751Z
+date: 2020-10-12T15:52:20.744Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
