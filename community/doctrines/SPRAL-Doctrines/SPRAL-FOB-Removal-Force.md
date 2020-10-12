@@ -2,7 +2,7 @@
 title: SPRAL FOB Removal Force
 description: 
 published: true
-date: 2020-10-12T15:54:08.554Z
+date: 2020-10-12T16:56:13.447Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -178,11 +178,7 @@ To import a skillplan, go to the pastebin links and copy all of its contents.  T
 
 To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines.  Click this, then click "Add skills listed in clipboard to end of queue".
 
-You can only do this with 50 skills at a time, hence why the skillplans are split up in blocks of up to 50.
 <details>
   <summary>Minimum</summary>
- 
-  Part 1 - https://pastebin.com/EkxgEhah
-  
-  Part 2 - https://pastebin.com/PdvBzbbw
+ https://pastebin.com/4BWrV4qj
 </details>
