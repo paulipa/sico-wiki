@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-10-12T15:27:37.136Z
+date: 2020-10-12T15:31:35.358Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T06:00:31.610Z
@@ -21,7 +21,7 @@ Official coalition doctrines that are used with all of our programs and imporant
 
 ---
 
-## [HD Doctrines](/community/doctrines/HD-Doctrines)
+## [SPRAL Doctrines](/community/doctrines/HD-Doctrines)
 
 These are the doctrines used by Spectral Incorporated.
 
