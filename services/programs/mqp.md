@@ -2,15 +2,14 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2020-08-07T10:54:09.909Z
+date: 2020-10-12T08:03:02.259Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T06:45:50.076Z
 ---
 
 # Member Qualification Program
 The Member Qualification Program (MQP) is a program that will push you thorough all of our core services and teach you the basics of flying together with your fellow pilots. It is designed to be easy to follow and complete even with minimal or no understanding of the various fleet mechanisms in the game.
-
-**After completing the course you will be rewarded a member title if you are in SEADC** and you will gain access to the in-game assets restricted behind this role.
 
 **The MQP is a three step program** that includes a systems checklist for setting up all of your systems (once before your first ever fleet), pre-fleet section (before every fleet you join) that will make sure you are set and ready for the training fleet and the actual training fleet, in which you will be taken either into PvE or PvP action in a fleet enviromment and get to use the skills that you have read about in the pre-fleet section.
 
@@ -24,17 +23,17 @@ It is highly recommended that you have everything set up for fleet operations be
 
 You only need to do the systems checklist once before you join your first ever fleet. The systems will be all set after that for any future operations unless you change your PC and lose settings such as overview settings.
 
-## 1. Join SC Comms ingame channel
-All of our fleets will be linked in the coalition general channel. While you should had done this rightaway when you joined the coalition, you can still fix the mistake now if you haven't done so yet. You can read more about the communication channels in here [Ingame Channels](/tools/communication/ingame-channels)
+## 1. Join LinkNet General ingame channel
+All of our fleets will be linked in the community general channel. While you should had done this rightaway when you joined the community, you can still fix the mistake now if you haven't done so yet. You can read more about the communication channels in here [Ingame Channels](/tools/communication/ingame-channels)
 
 ## 2. Register on AUTH
 If for some reason you have not yet registered on AUTH now is the time to do it. Please follow the guide in here for AUTH registration as you will need it in the next steps: [AUTH guide](/tools/auth)
 
 ## 3. Apply for groups
-The coalition has different groups that represent people with roles. You can apply to any of the groups in here https://auth.silentcoalition.com/groups/. 
+The coalition has different groups that represent people with roles. You can apply to any of the groups in here https://auth.eve-linknet.com/groups/. 
 
-### Normal group
-Normal groups are groups for people that want to take up special roles in the coalition. These roles most often requires some skills or higher understanding about the game and each applicant will be approached individually via discord before their application is accepted.
+### Role group
+Role groups are groups for people that want to take up special roles in the community. These roles most often requires some skills or higher understanding about the game and each applicant will be approached individually via discord before their application is accepted.
 
 ### Special Interest Groups
 Special Interest Groups are open groups that anyone can join or leave at any time. These groups are there to help you out to find the players that are interested in the same things that you are interested in. These activities vary from mining to pvp.
@@ -49,8 +48,8 @@ Special Interest Group: MQP is yet again a special interest group designed for p
 ## 4. Activate Discord and Mumble
 Voice comms are a must for all fleet operations. It is important that you are able to join the communication channels used for each fleet. Most often we will be using Discord voice channels for fleet ops but in some cases Mumble might be preferred.
 
-[Guide for setting up Discord](/tools/communication/discord)
-[Guide for setting up Mumble](/tools/communication/mumble)
+[Guide for setting up Discord](/tools/communication/discord) <- Primary
+[Guide for setting up Mumble](/tools/communication/mumble) <- Backup
 
 > It is important that you can access the fleet channels on mumble and on discord before the fleet starts! There might be no time to fix your access when the fleet goes up.
 {.is-danger}
@@ -63,17 +62,17 @@ When we are talking about doctrinse in EVE online we are talking about ships, fi
 
 **It is very important that all players inside the corporation would be able to or would be training to fly our core doctrine ships.** Reason for doctrines is that depending on the enemy, situation and purpose of the engagement the ships used may differ by a lot. If people are flying wrong type of ships compared to the majority of the fleet they are ineffective or may even harm the fleet.
 
-The corporation and coalition has created a few basic doctrine ships that you should aim for. These ships have been designed based on our fleet numbers and pilot capabilities. All of our doctrines are visible in here https://wiki.silentcoalition.com/en/community/doctrines
+The community has created a few basic doctrine ships that you should aim for. These ships have been designed based on our fleet numbers and pilot capabilities. All of our doctrines are visible in here https://wiki.eve-linknet.com/en/community/doctrines
 
 ### MQP Doctrine
 MQP fleets have a standard doctrine that will help you getting started with the training for the larger doctrine hulls. There are two different types of MQP doctrines: Newbro MQP fits and 2 Advanced MQP fits.
 
 Newbro MQP fits are meant for brand new players who have low skill points. These basic ships are super fast to train for and will allow you to join any MQP fleet. They include both low value DPS ships and logistic ships for you to choose from.
 
-> MQP doctrines are located at https://wiki.silentcoalition.com/community/doctrines/coalition-doctrines#mqp-fleet
+> MQP doctrines are located at https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#mqp-fleet
 {.is-info}
 
-### Coalition Primary Combat Doctrines
+### Community Primary Combat Doctrines
 Our most important doctrine group is called Ferox Fleet. These ships will be used for all serious operations where it is important to have a correct and functioning combination of ships.
 
 This doctrine contains different types of ships with the following importance order from the most important ships to the least important. You should aim to train up towards the most important ships with your best capabilities:
@@ -93,10 +92,10 @@ Tackle ships are also in key role in fleet engagements. Most often the amount of
 Support ships are designed for players with low skill points. While they do not provide much DPS or logistics or tackling power to the field they support and boost the effects of the main doctrine ships. They are most often fitted with electronic warfare modules such as target painters that will increase enemy signature radius making the whole rest of the fleet hit them harder.
 
 ## 7. Buying & Fitting doctrine ships
-Once you know what doctrine ships are used in the coalition fleets the next task is to buy and fit the ships. There are several methods for buying your ships, some more efficient than others.
+Once you know what doctrine ships are used in the community fleets the next task is to buy and fit the ships. There are several methods for buying your ships, some more efficient than others.
 
 ### Doctrine Contracts
-Players in the coalition will be trying to keep the most important doctrines up on corporation contracts. However since the contracts are limited to corporation you are unable to access contracts made by other corporations and for this reason the doctrine you are looking for might not be available for you.
+Players in the community will be trying to keep the most important doctrines up on corporation contracts. However since the contracts are limited to corporation you are unable to access contracts made by other corporations and for this reason the doctrine you are looking for might not be available for you.
 
 > For logistical reasons the doctrine contracts may have the rigs inside the cargo hold instead of fitted on the ship. Make sure you fit the rigs before you depart!
 {.is-warning}
@@ -105,11 +104,11 @@ To check out if a specific doctrine can be found from your corporation contracts
 ![doctrine-contract-1085x800.jpg](/doctrine-contract-1085x800.jpg =300x)
 
 ### Buying from market
-If there are no doctrine contracts up for you then the next thing you can do is to go to a trade hub and buy the doctrine fitting in there. Keep in mind that the further the hub is from Jita (the main hub) the more likely the prices are to be inflated.
+If there are no doctrine contracts up for you then the next thing you can do is to go to a trade hub and buy the doctrine fitting in there.
 
 You may not even find all of the items from the market you are looking at! If you are far out from markets then it is important that you have bought your fit and ship before the fleet starts!
 
-In the case of the MQP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the SiCo Trade Center. Due to the logistical effort the prices here will be higher than in Jita.
+In the case of the MQP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the LinkNet Trade Center. Due to the logistical effort the prices here will be higher than in Jita. The closest large hub to us is Amarr.
 
 ### Fitting doctrine ships
 You are allowed to change the meta version of the module (T1, T2 or meta 1-4) of any doctrine if you are unable to fly the fit with the T2 modules. 
@@ -128,7 +127,7 @@ If you have completed all of the steps in the systems checkup you should be read
 Pre-fleet checklist steps are general steps that you should do before each fleet you join.
 
 ## 1. When, where and how
-Each scheduled fleet will be posted on our fleet operations section on AUTH. The easiest way to know about upcoming fleets is to do a discord command. You can also check up on all upcoming and past coalition fleets in the auth section located in here https://auth.silentcoalition.com/optimer/
+Each scheduled fleet will be posted on our fleet operations section on AUTH. The easiest way to know about upcoming fleets is to do a discord command. You can also check up on all upcoming and past community fleets in the auth section located in here https://auth.silentcoalition.com/optimer/
 ![mqpfleet-600x397.jpg](/mqpfleet-600x397.jpg =300x)
 
 `!ops` command done in any of the authenticated discord channels (so not in the public one) will provide you the same list of upcoming operations that you can see  via AUTH. However it is much more convenient to use the command on discord than go to the page each time. To find out when the next MQP fleet is happening simply check for any scheduled MQP Fleets.
@@ -164,15 +163,10 @@ Now that you are in a fleet all of the commands and information will be given ov
 From this point on you are in the hands of your fleet commander. During the MQP fleets the commander will take you through the following things mentioned in the FC’s Checklist for MQP Fleets in here: [FC Checlist for MQP fleets](/services/flightmanuals/fc-mqp-checklist)
 
 # After the fleet, finishing your training
-After the MQP fleet is over you are qualified for your member title. The member title will be given for all players who have attended the MQP fleets and who have registered their participation in the fleet by using the FAT system.
-
 > The FAT system is automatic and will be handled by your FC. Make sure to stay in the fleet even if you die early on to be applicable for the FAT and SRP.
 {.is-info}
 
 If you attended a PvP fleet and had losses in the fleet then you also may want to apply for SRP. You can read more about SRP in here: [Ship replacement program](/services/programs/ship-replacement-program)
-
-> If you want the member title given on your alt please mail your alt names to your corporation CEO as we won’t check your alts when we give out the member title for the character that has taken part in the MQP fleet.
-{.is-success}
 
 
 
