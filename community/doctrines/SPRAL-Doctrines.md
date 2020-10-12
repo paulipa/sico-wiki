@@ -2,7 +2,7 @@
 title: SPRAL Doctrines
 description: 
 published: true
-date: 2020-10-12T15:32:36.560Z
+date: 2020-10-12T15:33:34.361Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:21:57.347Z
@@ -13,7 +13,4 @@ Important note: Throughout these pages you will find the fittings under spoilers
 Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
 
 ---
-## [SPRAL Alpha Fleet](/community/doctrines/SPRAL-Doctrines/SPRAL-Alpha-Fleet)
-## [SPRAL Bravo Fleet](/community/doctrines/SPRAL-Doctrines/SPRAL-Bravo-Fleet)
-## [SPRAL Charlie Fleet](/community/doctrines/SPRAL-Doctrines/SPRAL-Charlie-Fleet)
-## [SPRAL FOB Removal Force](/community/doctrines/HD-Doctrines/FOB-Removal-Force)
+[SPRAL-Alpha-Fleet](/community/doctrines/HD-Doctrines/SPRAL-Alpha-Fleet)
