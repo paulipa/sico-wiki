@@ -1,8 +1,8 @@
 ---
-title: HD Doctrines
+title: SPRAL Doctrines
 description: 
 published: true
-date: 2020-09-08T14:57:42.767Z
+date: 2020-10-12T15:28:01.840Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:21:57.347Z
