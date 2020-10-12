@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-12T15:38:30.725Z
+date: 2020-10-12T15:46:57.751Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -75,6 +75,7 @@ Nanite Repair Paste x50
 </details>
 
 ## LOGI
+
 <details>
   <summary>Kirin - PVP (Delta Fleet)</summary>
 [Kirin, Kirin - PVP (Delta Fleet)]
@@ -104,6 +105,7 @@ Nanite Repair Paste x50
 </details>
 
 ## TACKLE
+
 <details>
   <summary>Stiletto - PVP (Delta Fleet)</summary>
 [Stiletto, Stiletto - PVP (Delta Fleet)]
@@ -127,4 +129,39 @@ Small Hyperspatial Velocity Optimizer II
 
 Nanite Repair Paste x50
 Sisters Core Scanner Probe x8
+</details>
+
+## BUBBLES
+
+<details>
+  <summary>Sabre - PVP (Delta Fleet)</summary>
+[Sabre, Sabre - PVP (Delta Fleet)]
+
+IFFA Compact Damage Control
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender II
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+
+Interdiction Sphere Launcher I
+Prototype Cloaking Device I
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+
+Small Hyperspatial Velocity Optimizer I
+Small Hyperspatial Velocity Optimizer I
+
+
+Barrage S x2000
+Hail S x2000
+Warp Disrupt Probe x60
+Nanite Repair Paste x50
+EMP S x4000
+Republic Fleet EMP S x2000
 </details>
