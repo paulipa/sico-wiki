@@ -2,7 +2,7 @@
 title: SPRAL FOB Removal Force
 description: 
 published: true
-date: 2020-10-12T16:56:13.447Z
+date: 2020-10-12T16:56:49.428Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -181,4 +181,5 @@ To the left of the section where it says "Training Queue", there is an icon of 4
 <details>
   <summary>Minimum</summary>
  https://pastebin.com/4BWrV4qj
+  
 </details>
