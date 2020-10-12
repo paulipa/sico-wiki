@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-10-06T20:36:02.791Z
+date: 2020-10-12T15:27:37.136Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T06:00:31.610Z
@@ -23,9 +23,9 @@ Official coalition doctrines that are used with all of our programs and imporant
 
 ## [HD Doctrines](/community/doctrines/HD-Doctrines)
 
-These are the doctrines used by Haunting Deity.  
+These are the doctrines used by Spectral Incorporated.
 
-You may also view the fits in-game by joining in-game channel "HD Doctrines" then heading to the appropriate doctrine from there.
+You may also view the fits in-game by joining in-game channel "SPRAL Doctrines" then heading to the appropriate doctrine from there.
 
 ---
 
