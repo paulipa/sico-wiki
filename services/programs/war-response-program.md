@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2020-09-16T15:02:57.650Z
+date: 2020-10-12T08:09:33.916Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -12,12 +12,12 @@ dateCreated: 2020-07-07T17:28:01.656Z
 —Description of the Dark Arts
 
 # HS War Response Program
-Welcome to Defence Of The Dark Arts. **This corporation is the primary fast response military corporation for the silent coalition.** While its members are mainly alpha alt (alternative) characters with low skill points and very narrow skills to only fly the current doctrines, it may also be joined with older or omega accounts.
+Welcome to Defence Of The Dark Arts. **This corporation is the primary fast response military corporation for the LinkNet community.** While its members are mainly alpha alt (alternative) characters with low skill points and very narrow skills to only fly the current doctrines, it may also be joined with older or omega accounts.
 
 > The primary purpose for this corporation is to serve as a response fleet for the initial aggressions against our structures or allies.
 {.is-info}
 
-**The characters in the corporation are alt characters in alpha state.** The idea behind this is that anyone in the coalition is able to make a new alpha character and help us in our war efforts to protect the assets we have without the need to dangering their main character or the need to move around in space.
+**The characters in the corporation are alt characters in alpha state.** The idea behind this is that anyone in the community is able to make a new alpha character and help us in our war efforts to protect the assets we have without the need to dangering their main character or the need to move around in space.
 
 > We are encouraging all of our members to make a new alpha account to this corporation even if they do not plan to keep the skill plan active as in an event of hostile aggressions against us we will need to have a fast response fleet ready.
 {.is-success}
@@ -35,8 +35,8 @@ The free SP you get is enough for you to inject to the entry version of our prim
 1. Next you want to create a caldari character.
 1. Since we want to have a tiny bit or RP in this corporation please pick a Harry Potter series themed name. You can create variations of the names if the name you are looking for is not available but try to keep it somehow related. This way when our horde of wizards enters locals space people will know shit is going down! You can use this list for help https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters
 1. Make an ingame application to the Defence Against the Dark Arts [SLTRN] corporation
-1. Apply to the `Defence Against the Dark Arts Wizzard` on [AUTH groups](https://auth.silentcoalition.com/groups/). You will need to do this to gain access to the SLTRN channel on discord.
-7. Link your SLTRN alt with your main character by pressing on the [add character button](https://auth.silentcoalition.com/account/characters/add/) on AUTH dashboard
+1. Apply to the `Defence Against the Dark Arts Wizzard` on [AUTH groups](https://auth.eve-linknet.com/groups/). You will need to do this to gain access to the SLTRN channel on discord.
+7. Link your SLTRN alt with your main character by pressing on the [add character button](https://auth.eve-linknet.com/account/characters/add/) on AUTH dashboard
 
 You have now created your new SLTRN character! Next we will be injecting the needed skills with the free SP we got from the buddy invite
 
