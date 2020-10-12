@@ -2,7 +2,7 @@
 title: SPRAL Doctrines
 description: 
 published: true
-date: 2020-10-12T15:28:44.789Z
+date: 2020-10-12T15:30:22.715Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:21:57.347Z
