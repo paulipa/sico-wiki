@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2020-10-12T08:10:55.722Z
+date: 2020-10-12T08:11:34.335Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T08:08:40.322Z
@@ -15,7 +15,7 @@ This is the place where you want to have your name added to! For heroic actions 
 This page includes all the shareholders that have purchased shares for the silent coalition holdings.
 
 ## [Community Partner Corporations](/community/coalition-corporations)
-Official Full Member Corporations of SiCO.
+Official Full Member Corporations of LINE.
 
 ## [Operating Locations](/community/operating-locations)
 Our primary areas of operations and systems.
