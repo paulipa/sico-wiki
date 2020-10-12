@@ -2,13 +2,14 @@
 title: Buyback Program
 description: How to sell your items to the coalition
 published: true
-date: 2020-08-07T09:59:26.143Z
+date: 2020-10-12T07:58:08.274Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-06T10:10:46.659Z
 ---
 
 # Buyback Program
-When you join a corporation that is part of the Silent Coalition you will get the permission to use our buyback system. This means that you will always be paid according to the current market prices for the items that you are selling to us. 
+When you join a corporation that is part of the LinkNet community you will get the permission to use our buyback system. This means that you will always be paid according to the current market prices for the items that you are selling to us. 
 
 > You can sell all types of items not just ore at almost all valid buyback locations.
 {.is-success}
@@ -16,7 +17,7 @@ When you join a corporation that is part of the Silent Coalition you will get th
 While random items have a higher tax rate it is most often more time efficient to sell them to buyback compared to spending the time to haul them to the market yourself.
 
 ## Why to use the buyback and why is there a tax?
-There are several benefits that you will receive by using the coalition buyback system. Not only will it make sure that you are paid enough for your items, it also saves you a huge amount of valuable time as you do not need to move your assets to any hubs to be sold. All the prices we use are coming right from the largest trade hub in EVE: Jita 4-4, which means when you sell items via the system it is like selling your items in Jita. The system is designed to:
+There are several benefits that you will receive by using the LINE buyback system. Not only will it make sure that you are paid enough for your items, it also saves you a huge amount of valuable time as you do not need to move your assets to any hubs to be sold. All the prices we use are coming right from the largest trade hub in EVE: Jita 4-4, which means when you sell items via the system it is like selling your items in Jita. The system is designed to:
 
 - Allow us to buy ore and ice from you based on compressed ore prices instead of raw ore prices. This way you do not have to compress your ore and you still get paid as it would be compressed!
 - Save you from training for refining skills or setting up compression arrays as we do this on your behalf!
@@ -24,7 +25,7 @@ There are several benefits that you will receive by using the coalition buyback 
 - To get rid of that low value loot that you get from asteroid rats and from missions that is just making your hangars messy while getting paid for them.
 - Save you from paying market taxes yourself.
 
-The tax in the buyback is what covers most of the coalition activities. As we have very little taxation on our community we heavily rely on the tax from buyback to support our activities and to expand our services.
+The tax in the buyback is what covers most of the community activities. As we have very little taxation on our community we heavily rely on the tax from buyback to support our activities and to expand our services.
 
 ## How does it work
 The buyback system is coded on Symfony and it pulls it price data currently from Jita buy orders. 
@@ -38,11 +39,11 @@ The system works by using Contracts. To create a contract you can either select 
 
 The other way to create contracts is to press the E on your `Neocom -> Business -> Contracts -> Create a contract`. Once you have opened a contract it is time to fill in the right settings.
 
-> The buyback program can be found at: buyback.silentcoalition.com
+> The buyback program can be found at: buyback.eve-linknet-com
 {.is-info}
 
 ## Valid buyback locations and prices
-1. We are only buying items at certain core locations to make it easier to haul them. To find out what stations or structures are valid for buyback open the Prices, Taxes & Locations page on the buyback system at https://buyback.silentcoalition.com/prices. You can see all of the valid structures in the Accepted Buyback Locations table. These same locations are also found on the buyback generator location dropdown selection.
+1. We are only buying items at certain core locations to make it easier to haul them. To find out what stations or structures are valid for buyback open the Prices, Taxes & Locations page on the buyback system at https://buyback.eve-linknet.com/prices. You can see all of the valid structures in the Accepted Buyback Locations table. These same locations are also found on the buyback generator location dropdown selection.
 
 > Contracts are only accepted at the exact stations listed as valid buyback locations.
 {.is-warning}
