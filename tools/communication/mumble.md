@@ -2,9 +2,10 @@
 title: Mumble
 description: 
 published: true
-date: 2020-08-20T22:03:59.211Z
+date: 2020-10-12T08:06:04.161Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-06T16:20:54.307Z
 ---
 
 # What is Mumble?
@@ -14,7 +15,7 @@ The crucial functions that are missing from Discord voice chat and can be achiev
 - Ability for commanders to chat on back channel during multi fleet operations.
 - More stable on larger user counts than Discord
 
-> For the reasons mentioned above Mumble is used for all important large scale operations within SiCO. This is why you should have it set up sooner than the beginning of the event or fleets.
+> For the reasons mentioned above Mumble is used for all important large scale operations within LINE. This is why you should have it set up sooner than the beginning of the event or fleets.
 {.is-info}
 
 > For a quick video description about setting up/using Mumble, check this: https://www.youtube.com/watch?v=y1uBNaaaL2o
@@ -61,13 +62,13 @@ After you have set up your Mumble client you can link your AUTH account to your 
 {.is-info}
 
 
-1. Go to AUTH service section in here https://auth.silentcoalition.com/services/
+1. Go to AUTH service section in here https://auth.eve-linknet.com/services/
 
 2. Click on the actication button for Mumble
 ![activate_mumnle.jpg](/activate_mumnle.jpg =300x)
 3. Open your Mumble client -> Click on connect -> click on add new. Fill in the following information:
 	
-  Address: silentcoalition.com
+  Address: eve-linknet.com
 	Port: 64738
 	Username: **COPY THIS FROM AUTH!**
 
@@ -75,8 +76,8 @@ After you have set up your Mumble client you can link your AUTH account to your 
 
 5. You will be asked a password. Copy this from AUTH. See following gif: [mumble credentials](/mumble_auth_activation-722x400.gif)
 
-## Line member keybinds
-As a line member your key binding setup is very simple. Go to the shortcut options. Click on add -> Select type Push to Talk -> Assign a key for it.
+## Member keybinds
+As a member your key binding setup is very simple. Go to the shortcut options. Click on add -> Select type Push to Talk -> Assign a key for it.
 
 See the following gif: [line members keybinds](/mumble_keybind-577x400.gif)
 
