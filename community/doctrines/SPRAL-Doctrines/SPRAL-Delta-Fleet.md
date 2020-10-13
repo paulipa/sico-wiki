@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-13T18:09:56.819Z
+date: 2020-10-13T18:16:14.633Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -104,33 +104,6 @@ Navy Cap Booster 400 x22
 Nanite Repair Paste x50
 </details>
 
-## TACKLE
-
-<details>
-  <summary>Stiletto - PVP</summary>
-[Stiletto, Stiletto - PVP]
-
-Damage Control II
-Nanofiber Internal Structure II
-Nanofiber Internal Structure II
-
-5MN Quad LiF Restrained Microwarpdrive
-Warp Disruptor II
-Warp Scrambler II
-Republic Fleet Medium Shield Extender
-
-Core Probe Launcher II
-[Empty High slot]
-[Empty High slot]
-
-Small Ionic Field Projector II
-Small Hyperspatial Velocity Optimizer II
-
-
-Nanite Repair Paste x50
-Sisters Core Scanner Probe x8
-</details>
-
 ## BUBBLES
 
 <details>
@@ -164,4 +137,31 @@ Warp Disrupt Probe x60
 Nanite Repair Paste x50
 EMP S x4000
 Republic Fleet EMP S x2000
+</details>
+
+## TACKLE
+
+<details>
+  <summary>Stiletto - PVP</summary>
+[Stiletto, Stiletto - PVP]
+
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+Warp Scrambler II
+Republic Fleet Medium Shield Extender
+
+Core Probe Launcher II
+[Empty High slot]
+[Empty High slot]
+
+Small Ionic Field Projector II
+Small Hyperspatial Velocity Optimizer II
+
+
+Nanite Repair Paste x50
+Sisters Core Scanner Probe x8
 </details>
