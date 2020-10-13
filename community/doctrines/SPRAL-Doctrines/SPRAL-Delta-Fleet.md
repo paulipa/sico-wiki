@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-12T15:52:20.744Z
+date: 2020-10-13T16:49:37.409Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -107,8 +107,8 @@ Nanite Repair Paste x50
 ## TACKLE
 
 <details>
-  <summary>Stiletto - PVP (Delta Fleet)</summary>
-[Stiletto, Stiletto - PVP (Delta Fleet)]
+  <summary>Stiletto - PVP</summary>
+[Stiletto, Stiletto - PVP]
 
 Damage Control II
 Nanofiber Internal Structure II
@@ -134,8 +134,8 @@ Sisters Core Scanner Probe x8
 ## BUBBLES
 
 <details>
-  <summary>Sabre - PVP (Delta Fleet)</summary>
-[Sabre, Sabre - PVP (Delta Fleet)]
+  <summary>Sabre - PVP</summary>
+[Sabre, Sabre - PVP]
 
 IFFA Compact Damage Control
 Nanofiber Internal Structure II
