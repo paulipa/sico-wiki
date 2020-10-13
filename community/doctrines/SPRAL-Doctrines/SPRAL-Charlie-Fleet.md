@@ -2,7 +2,7 @@
 title: SPRAL Charlie Fleet
 description: 
 published: true
-date: 2020-10-13T17:06:34.478Z
+date: 2020-10-13T18:16:47.182Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T10:11:18.191Z
@@ -88,4 +88,66 @@ Warrior II x3
 
 
 Nanite Repair Paste x50
+</details>
+
+## BUBBLES
+
+<details>
+  <summary>Sabre - PVP</summary>
+[Sabre, Sabre - PVP]
+
+IFFA Compact Damage Control
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender II
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+
+Interdiction Sphere Launcher I
+Prototype Cloaking Device I
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+
+Small Hyperspatial Velocity Optimizer I
+Small Hyperspatial Velocity Optimizer I
+
+
+Barrage S x2000
+Hail S x2000
+Warp Disrupt Probe x60
+Nanite Repair Paste x50
+EMP S x4000
+Republic Fleet EMP S x2000
+</details>
+
+## TACKLE
+
+<details>
+  <summary>Stiletto - PVP</summary>
+[Stiletto, Stiletto - PVP]
+
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+Warp Scrambler II
+Republic Fleet Medium Shield Extender
+
+Core Probe Launcher II
+[Empty High slot]
+[Empty High slot]
+
+Small Ionic Field Projector II
+Small Hyperspatial Velocity Optimizer II
+
+
+Nanite Repair Paste x50
+Sisters Core Scanner Probe x8
 </details>
