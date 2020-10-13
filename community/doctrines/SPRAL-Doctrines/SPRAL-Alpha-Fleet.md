@@ -2,7 +2,7 @@
 title: SPRAL Alpha Fleet
 description: 
 published: true
-date: 2020-10-13T13:58:34.230Z
+date: 2020-10-13T13:59:47.435Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:25.152Z
@@ -42,6 +42,11 @@ Caldari Navy Antimatter Charge S x1000
 Caldari Navy Iron Charge S x1000
 </details>
 
+<details>
+  <summary>SPRAL Alpha Fleet Merlin Skillplan</summary>
+https://pastebin.com/xqm5W2m0
+</details>
+
 
 ## Logi
 
@@ -70,4 +75,9 @@ Warrior I x1
 
 
 Navy Cap Booster 400 x22
+</details>
+
+<details>
+  <summary>SPRAL Alpha Fleet Bantam Skillplan</summary>
+https://pastebin.com/qiR9vUXc
 </details>
