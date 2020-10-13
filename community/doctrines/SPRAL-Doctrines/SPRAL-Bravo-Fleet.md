@@ -2,7 +2,7 @@
 title: SPRAL Bravo Fleet
 description: 
 published: true
-date: 2020-10-12T15:52:05.659Z
+date: 2020-10-13T16:50:51.821Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:58.549Z
@@ -15,195 +15,99 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 ---
 ## DPS
 
-Gallente
-<details>
-  <summary>Catalyst - PVP (Bravo Fleet)</summary>
-[Catalyst, Catalyst - PVP (Bravo Fleet)]
-
-Damage Control I
-200mm Crystalline Carbonide Restrained Plates
-Magnetic Field Stabilizer I
-
-5MN Quad LiF Restrained Microwarpdrive
-Faint Epsilon Scoped Warp Scrambler
-
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-
-Small Explosive Armor Reinforcer I
-Small Hyperspatial Velocity Optimizer I
-Small Hyperspatial Velocity Optimizer I
-
-
-Antimatter Charge S x2000
-Caldari Navy Antimatter Charge S x1000
-Iron Charge S x1000
-Nanite Repair Paste x20
-</details>
-
-Caldari
 <details>
   <summary>Cormorant - PVP (Bravo Fleet)</summary>
 [Cormorant, Cormorant - PVP (Bravo Fleet)]
 
-Damage Control I
-200mm Crystalline Carbonide Restrained Plates
-
-5MN Quad LiF Restrained Microwarpdrive
-Faint Epsilon Scoped Warp Scrambler
-X5 Enduring Stasis Webifier
-
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-Anode Light Ion Particle Cannon I
-OE-5200 Rocket Launcher
-
-Small Explosive Armor Reinforcer I
-Small Hyperspatial Velocity Optimizer I
-Small Hyperspatial Velocity Optimizer I
-
-
-Antimatter Charge S x2000
-Caldari Navy Antimatter Charge S x1000
-Iron Charge S x1000
-Nanite Repair Paste x20
-Scourge Rocket x200
-</details>
-
-Amarr
-<details>
-  <summary>Coercer - PVP (Bravo Fleet)</summary>
-[Coercer, Coercer - PVP (Bravo Fleet)]
-
-Damage Control I
-200mm Rolled Tungsten Compact Plates
-Extruded Compact Heat Sink
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
 
 5MN Y-T8 Compact Microwarpdrive
-Faint Epsilon Scoped Warp Scrambler
-
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-Small Focused Modal Pulse Laser I
-
-Small Explosive Armor Reinforcer I
-Small Hyperspatial Velocity Optimizer I
-Small Hyperspatial Velocity Optimizer I
-
-
-Multifrequency S x8
-Radio S x8
-Nanite Repair Paste x20
-</details>
-
-Minmatar
-<details>
-  <summary>Thrasher - PVP (Bravo Fleet)</summary>
-[Thrasher, Thrasher - PVP (Bravo Fleet)]
-
-Damage Control I
-400mm Crystalline Carbonide Restrained Plates
-
-5MN Quad LiF Restrained Microwarpdrive
-Faint Epsilon Scoped Warp Scrambler
-X5 Enduring Stasis Webifier
-
-200mm Light Carbine Repeating Cannon I
-200mm Light Carbine Repeating Cannon I
-200mm Light Carbine Repeating Cannon I
-200mm Light Carbine Repeating Cannon I
-200mm Light Carbine Repeating Cannon I
-200mm Light Carbine Repeating Cannon I
-200mm Light Carbine Repeating Cannon I
-OE-5200 Rocket Launcher
-
-Small Explosive Armor Reinforcer I
-Small Hyperspatial Velocity Optimizer I
-Small Hyperspatial Velocity Optimizer I
-
-
-Nanite Repair Paste x20
-Arch Angel Phased Plasma S x1000
-Carbonized Lead S x1000
-Phased Plasma S x2000
-Scourge Rocket x200
-</details>
-
-
-## Logi
-
-Gallente - Preferred
-<details>
-  <summary>Navitas - PVP (Bravo Fleet)</summary>
-[Navitas, Navitas - PVP (Bravo Fleet)]
-
-Damage Control I
-400mm Crystalline Carbonide Restrained Plates
-Micro Auxiliary Power Core I
-
-5MN Quad LiF Restrained Microwarpdrive
-Small F-RX Compact Capacitor Booster
+Alumel-Wired Enduring Sensor Booster
 Alumel-Wired Enduring Sensor Booster
 
-Small Solace Scoped Remote Armor Repairer
-Small Solace Scoped Remote Armor Repairer
-Small Solace Scoped Remote Armor Repairer
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+150mm Railgun II
+[Empty High slot]
 
-Small Explosive Armor Reinforcer I
-Small Trimark Armor Pump I
-Small Hyperspatial Velocity Optimizer I
+Small Hybrid Locus Coordinator I
+Small Hybrid Locus Coordinator I
+Small Ancillary Current Router I
 
 
-Warrior I x1
-
-
-Navy Cap Booster 400 x15
-Nanite Repair Paste x20
-ECCM Script x1
-Scan Resolution Script x1
-Targeting Range Script x1
+Javelin S x2000
+Spike S x2000
+Caldari Navy Antimatter Charge S x1000
+Caldari Navy Thorium Charge S x1000
+Nanite Repair Paste x50
+Scan Resolution Script x2
+Targeting Range Script x2
 </details>
 
-Amarr - Also Accepted
-<details>
-  <summary>Inquisitor - PVP (Bravo Fleet)</summary>
-[Inquisitor, Inquisitor - PVP (Bravo Fleet)]
 
-Damage Control I
-400mm Crystalline Carbonide Restrained Plates
-Compact Multispectrum Energized Membrane
-Micro Auxiliary Power Core I
+## TACKLE
+
+<details>
+  <summary>Stiletto - PVP</summary>
+[Stiletto, Stiletto - PVP]
+
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
 
 5MN Quad LiF Restrained Microwarpdrive
-Small F-RX Compact Capacitor Booster
+Warp Disruptor II
+Warp Scrambler II
+Republic Fleet Medium Shield Extender
 
-Small Solace Scoped Remote Armor Repairer
-Small Solace Scoped Remote Armor Repairer
-Small Solace Scoped Remote Armor Repairer
+Core Probe Launcher II
+[Empty High slot]
+[Empty High slot]
 
-Small Explosive Armor Reinforcer I
-Small Trimark Armor Pump I
+Small Ionic Field Projector II
+Small Hyperspatial Velocity Optimizer II
+
+
+Nanite Repair Paste x50
+Sisters Core Scanner Probe x8
+</details>
+
+## BUBBLES
+
+<details>
+  <summary>Sabre - PVP</summary>
+[Sabre, Sabre - PVP]
+
+IFFA Compact Damage Control
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender II
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+
+Interdiction Sphere Launcher I
+Prototype Cloaking Device I
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II, Republic Fleet EMP S
+
+Small Hyperspatial Velocity Optimizer I
 Small Hyperspatial Velocity Optimizer I
 
 
-Warrior I x1
-
-
-Navy Cap Booster 400 x15
-Nanite Repair Paste x20
+Barrage S x2000
+Hail S x2000
+Warp Disrupt Probe x60
+Nanite Repair Paste x50
+EMP S x4000
+Republic Fleet EMP S x2000
 </details>
