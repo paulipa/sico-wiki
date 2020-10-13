@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-13T16:59:49.835Z
+date: 2020-10-13T18:06:05.986Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -80,14 +80,14 @@ Nanite Repair Paste x50
   <summary>Kirin - PVP (Delta Fleet)</summary>
 [Kirin, Kirin - PVP (Delta Fleet)]
 
-Power Diagnostic System II
+Damage Control II
 Power Diagnostic System II
 
 5MN Quad LiF Restrained Microwarpdrive
 Medium Shield Extender II
 Multispectrum Shield Hardener II
-Compact EM Shield Hardener
-Small Capacitor Booster II, Navy Cap Booster 400
+Compact EM Shield Amplifier
+Small F-RX Compact Capacitor Booster
 
 Small S95a Scoped Remote Shield Booster
 Small S95a Scoped Remote Shield Booster
