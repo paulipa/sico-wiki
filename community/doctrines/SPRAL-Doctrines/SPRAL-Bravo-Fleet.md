@@ -2,7 +2,7 @@
 title: SPRAL Bravo Fleet
 description: 
 published: true
-date: 2020-10-13T16:50:51.821Z
+date: 2020-10-13T16:58:24.258Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:58.549Z
@@ -47,6 +47,12 @@ Caldari Navy Thorium Charge S x1000
 Nanite Repair Paste x50
 Scan Resolution Script x2
 Targeting Range Script x2
+</details>
+
+<details>
+  <summary>SPRAL Bravo Fleet Cormorant Skillplan</summary>
+
+  https://pastebin.com/T9sQyQCh
 </details>
 
 
