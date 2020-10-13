@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-13T16:49:37.409Z
+date: 2020-10-13T16:59:49.835Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -147,12 +147,12 @@ Initiated Compact Warp Scrambler
 
 Interdiction Sphere Launcher I
 Prototype Cloaking Device I
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
 
 Small Hyperspatial Velocity Optimizer I
 Small Hyperspatial Velocity Optimizer I
