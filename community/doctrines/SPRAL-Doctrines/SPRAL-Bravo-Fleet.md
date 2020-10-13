@@ -2,7 +2,7 @@
 title: SPRAL Bravo Fleet
 description: 
 published: true
-date: 2020-10-13T16:58:58.343Z
+date: 2020-10-13T16:59:27.913Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:58.549Z
@@ -104,12 +104,12 @@ Initiated Compact Warp Scrambler
 
 Interdiction Sphere Launcher I
 Prototype Cloaking Device I
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
-125mm Gatling AutoCannon II, Republic Fleet EMP S
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
 
 Small Hyperspatial Velocity Optimizer I
 Small Hyperspatial Velocity Optimizer I
