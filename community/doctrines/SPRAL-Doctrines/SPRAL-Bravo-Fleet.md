@@ -2,7 +2,7 @@
 title: SPRAL Bravo Fleet
 description: 
 published: true
-date: 2020-10-13T16:59:27.913Z
+date: 2020-10-13T18:17:11.914Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:58.549Z
@@ -61,33 +61,6 @@ Targeting Range Script x2
 </details>
 
 
-## TACKLE
-
-<details>
-  <summary>Stiletto - PVP</summary>
-[Stiletto, Stiletto - PVP]
-
-Damage Control II
-Nanofiber Internal Structure II
-Nanofiber Internal Structure II
-
-5MN Quad LiF Restrained Microwarpdrive
-Warp Disruptor II
-Warp Scrambler II
-Republic Fleet Medium Shield Extender
-
-Core Probe Launcher II
-[Empty High slot]
-[Empty High slot]
-
-Small Ionic Field Projector II
-Small Hyperspatial Velocity Optimizer II
-
-
-Nanite Repair Paste x50
-Sisters Core Scanner Probe x8
-</details>
-
 ## BUBBLES
 
 <details>
@@ -121,4 +94,31 @@ Warp Disrupt Probe x60
 Nanite Repair Paste x50
 EMP S x4000
 Republic Fleet EMP S x2000
+</details>
+
+## TACKLE
+
+<details>
+  <summary>Stiletto - PVP</summary>
+[Stiletto, Stiletto - PVP]
+
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+Warp Scrambler II
+Republic Fleet Medium Shield Extender
+
+Core Probe Launcher II
+[Empty High slot]
+[Empty High slot]
+
+Small Ionic Field Projector II
+Small Hyperspatial Velocity Optimizer II
+
+
+Nanite Repair Paste x50
+Sisters Core Scanner Probe x8
 </details>
