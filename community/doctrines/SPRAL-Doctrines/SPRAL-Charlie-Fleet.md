@@ -2,7 +2,7 @@
 title: SPRAL Charlie Fleet
 description: 
 published: true
-date: 2020-10-13T17:03:31.567Z
+date: 2020-10-13T17:06:34.478Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T10:11:18.191Z
@@ -58,69 +58,34 @@ Nanite Repair Paste x50
 
 ## Logi
 
-NOTE: If you can't use the t2 drones, just use t1.
-
 <details>
-  <summary>Scythe - PVP (Charlie Fleet)</summary>
-[Scythe, Scythe - PVP (Charlie Fleet)]
+  <summary>Osprey - PVP (Charlie Fleet))</summary>
+[Osprey, Osprey - PVP (Charlie Fleet)]
 
 Damage Control II
-Capacitor Power Relay II
-Capacitor Power Relay II
-Capacitor Power Relay II
-Capacitor Power Relay II
+Mark I Compact Reactor Control Unit
+Power Diagnostic System II
 
 50MN Quad LiF Restrained Microwarpdrive
-Large F-S9 Regolith Compact Shield Extender
+Large Shield Extender II
+Large Shield Extender II
 Multispectrum Shield Hardener II
-Compact Multispectrum Shield Hardener
-Medium Compact Pb-Acid Cap Battery
+EM Shield Hardener II
 
 Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
 Medium Murky Compact Remote Shield Booster
+Medium Inductive Compact Remote Capacitor Transmitter
+Medium Inductive Compact Remote Capacitor Transmitter
 
-Medium EM Shield Reinforcer I
-Medium Capacitor Control Circuit I
-Medium Ancillary Current Router I
+Medium Thermal Armor Reinforcer I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
 
 
-Medium Armor Maintenance Bot II x4
-Warrior II x1
+Light Armor Maintenance Bot I x1
+Warrior II x3
 
 
 Nanite Repair Paste x50
-</details>
-
-
-## Newbros
-
-NOTE: Only fly if you are super new to Eve and cannot fly the basic caracal.
-
-<details>
-  <summary>Griffin - PVP (Charlie Fleet)</summary>
-[Griffin, Griffin - PVP (Charlie Fleet)]
-
-Damage Control I
-Micro Auxiliary Power Core I
-
-5MN Quad LiF Restrained Microwarpdrive
-Medium Shield Extender I
-Compact EM Shield Amplifier
-Compulsive Scoped Multispectral ECM
-Compulsive Scoped Multispectral ECM
-
-Festival Launcher
-Festival Launcher
-
-Small EM Shield Reinforcer I
-Small Thermal Shield Reinforcer I
-Small Core Defense Field Extender I
-
-
-Warrior I x1
-
-
-Copper Firework x100
-Sodium Firework x100
 </details>
