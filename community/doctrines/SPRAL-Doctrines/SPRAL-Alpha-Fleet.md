@@ -2,7 +2,7 @@
 title: SPRAL Alpha Fleet
 description: 
 published: true
-date: 2020-10-13T14:00:41.131Z
+date: 2020-10-13T14:05:09.697Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:25.152Z
@@ -84,5 +84,6 @@ Navy Cap Booster 400 x22
 
 <details>
   <summary>SPRAL Alpha Fleet Bantam Skillplan</summary>
-https://pastebin.com/qiR9vUXc
+
+  https://pastebin.com/qiR9vUXc
 </details>
