@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-13T18:06:05.986Z
+date: 2020-10-13T18:09:56.819Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -46,7 +46,7 @@ Nanite Repair Paste x50
 </details>
 
 <details>
-  <summary>Merlin - PVP (Delta Fleet)</summary>
+  <summary>Merlin - PVP (Delta Fleet) <--- For Newer Players</summary>
 [Merlin, Merlin - PVP (Delta Fleet)]
 
 Damage Control II
