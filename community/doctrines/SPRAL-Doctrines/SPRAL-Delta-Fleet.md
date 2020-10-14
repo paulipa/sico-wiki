@@ -2,7 +2,7 @@
 title: SPRAL Delta Fleet
 description: 
 published: true
-date: 2020-10-14T06:53:21.410Z
+date: 2020-10-14T07:02:00.852Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-12T15:38:30.725Z
@@ -115,6 +115,12 @@ Warrior II x1
 
 Navy Cap Booster 400 x22
 Nanite Repair Paste x50
+</details>
+
+<details>
+  <summary>SPRAL Delta Fleet Kirin Skillplan</summary>
+
+  https://pastebin.com/S9NcswLZ
 </details>
 
 ## BUBBLES
