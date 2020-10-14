@@ -2,7 +2,7 @@
 title: SPRAL Alpha Fleet
 description: 
 published: true
-date: 2020-10-13T14:05:17.035Z
+date: 2020-10-14T05:59:01.131Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:25.152Z
@@ -87,4 +87,67 @@ Navy Cap Booster 400 x22
   <summary>SPRAL Alpha Fleet Bantam Skillplan</summary>
 
   https://pastebin.com/qiR9vUXc
+</details>
+
+
+## BUBBLES
+
+<details>
+  <summary>Sabre - PVP</summary>
+[Sabre, Sabre - PVP]
+
+IFFA Compact Damage Control
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Medium Shield Extender II
+Medium Shield Extender II
+Initiated Compact Warp Scrambler
+
+Interdiction Sphere Launcher I
+Prototype Cloaking Device I
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+125mm Gatling AutoCannon II
+
+Small Hyperspatial Velocity Optimizer I
+Small Hyperspatial Velocity Optimizer I
+
+
+Barrage S x2000
+Hail S x2000
+Warp Disrupt Probe x60
+Nanite Repair Paste x50
+EMP S x4000
+Republic Fleet EMP S x2000
+</details>
+
+## TACKLE
+
+<details>
+  <summary>Stiletto - PVP</summary>
+[Stiletto, Stiletto - PVP]
+
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+Warp Scrambler II
+Republic Fleet Medium Shield Extender
+
+Core Probe Launcher II
+[Empty High slot]
+[Empty High slot]
+
+Small Ionic Field Projector II
+Small Hyperspatial Velocity Optimizer II
+
+
+Nanite Repair Paste x50
+Sisters Core Scanner Probe x8
 </details>
