@@ -2,7 +2,7 @@
 title: SPRAL Charlie Fleet
 description: 
 published: true
-date: 2020-10-14T06:31:38.065Z
+date: 2020-10-14T07:53:49.063Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T10:11:18.191Z
@@ -142,6 +142,12 @@ EMP S x4000
 Republic Fleet EMP S x2000
 </details>
 
+<details>
+  <summary>Sabre Skillplan</summary>
+
+  https://pastebin.com/GquM5HmE
+</details>
+
 ## TACKLE
 
 <details>
@@ -167,4 +173,10 @@ Small Hyperspatial Velocity Optimizer II
 
 Nanite Repair Paste x50
 Sisters Core Scanner Probe x8
+</details>
+
+<details>
+  <summary>Stiletto Skillplan</summary>
+
+  https://pastebin.com/FuJMWWid
 </details>
