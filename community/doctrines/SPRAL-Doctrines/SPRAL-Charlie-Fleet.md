@@ -2,7 +2,7 @@
 title: SPRAL Charlie Fleet
 description: 
 published: true
-date: 2020-10-14T06:31:03.179Z
+date: 2020-10-14T06:31:38.065Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T10:11:18.191Z
@@ -11,6 +11,11 @@ dateCreated: 2020-08-14T10:11:18.191Z
 To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
 
 Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
+
+---
+To import a skillplan, go to the pastebin links and copy all of its contents. Then go in-game and into your character sheet where your skills are.
+
+To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines. Click this, then click "Add skills listed in clipboard to end of queue".
 
 ---
 ## DPS
