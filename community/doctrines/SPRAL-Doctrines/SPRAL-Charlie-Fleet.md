@@ -2,7 +2,7 @@
 title: SPRAL Charlie Fleet
 description: 
 published: true
-date: 2020-10-13T18:16:47.182Z
+date: 2020-10-14T06:31:03.179Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-14T10:11:18.191Z
@@ -55,6 +55,12 @@ Caldari Navy Scourge Light Missile x1000
 Nanite Repair Paste x50
 </details>
 
+<details>
+  <summary>SPRAL Charlie Fleet Caracal Skillplan</summary>
+
+  https://pastebin.com/dgnHYbDH
+</details>
+
 
 ## Logi
 
@@ -88,6 +94,12 @@ Warrior II x3
 
 
 Nanite Repair Paste x50
+</details>
+
+<details>
+  <summary>SPRAL Charlie Fleet Osprey Skillplan</summary>
+
+  https://pastebin.com/2pj0yjCS
 </details>
 
 ## BUBBLES
