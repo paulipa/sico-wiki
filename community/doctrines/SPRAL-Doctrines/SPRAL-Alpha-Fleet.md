@@ -2,7 +2,7 @@
 title: SPRAL Alpha Fleet
 description: 
 published: true
-date: 2020-10-14T05:59:01.131Z
+date: 2020-10-14T07:52:24.857Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:25:25.152Z
@@ -125,6 +125,12 @@ EMP S x4000
 Republic Fleet EMP S x2000
 </details>
 
+<details>
+  <summary>Sabre Skillplan</summary>
+
+  https://pastebin.com/GquM5HmE
+</details>
+
 ## TACKLE
 
 <details>
@@ -150,4 +156,10 @@ Small Hyperspatial Velocity Optimizer II
 
 Nanite Repair Paste x50
 Sisters Core Scanner Probe x8
+</details>
+
+<details>
+  <summary>Stiletto Skillplan</summary>
+
+  https://pastebin.com/FuJMWWid
 </details>
