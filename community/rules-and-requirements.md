@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-15T06:53:14.509Z
+date: 2020-10-15T06:53:56.958Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -147,7 +147,8 @@ A flexible partnership level that uses blue standing to limit PvP engagements an
 - [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
 - [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
 - Minimum of 30 active real players
-- **Corporation will be set to +10** and is required to keep +10 standings on all blue partners and the silent company alliance partner.
+- **Corporation will be set to +10** and is required to keep +10 standings towards all blue partners and the silent company alliance partner.
+- Corporation will set all neutral partners with +0 standings to identify them in space.
 - Corporation needs to update each community standing change on corporation level and keep the standings updated
 - Corporation must have a clear goal and preferably a unique goal for their corporation compared to other coalition corporations.
 - Corporation can decide on their own if they want to hold structures under their own corporation (to be war eligible or not).
@@ -166,7 +167,7 @@ A flexible partnership level that does not use standing to limit PvP engagements
 - [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
 - [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
 - Minimum of 30 active real players
-- **Corporation will be set to +0** and is required to keep +0 standings on other community partner corporations
+- **Corporation will be set to +0** and is required to keep +0 standings towards other community partner corporations
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
 - Corporation is allowed to shoot at other coalition members in PVP roams as well as to get shot by other coalition members.
 - Corporation is not allowed to take advantage of its coalition membership in order to plan hostile PvP actions against other coalition entities regardless of the standings. You are not allowed to plot ganks or intercept fleets hosted from any other coalition entities in any way.
