@@ -2,7 +2,7 @@
 title: SPRAL Doctrines
 description: 
 published: true
-date: 2020-10-12T15:54:39.901Z
+date: 2020-10-15T13:34:01.748Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-20T16:21:57.347Z
@@ -17,4 +17,4 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 ## [SPRAL Bravo Fleet](/community/doctrines/SPRAL-Doctrines/SPRAL-Bravo-Fleet)
 ## [SPRAL Charlie Fleet](/community/doctrines/SPRAL-Doctrines/SPRAL-Charlie-Fleet)
 ## [SPRAL Delta Fleet](/community/doctrines/SPRAL-Doctrines/SPRAL-Delta-Fleet)
-## [SPRAL FOB Removal Force](/community/doctrines/SPRAL-Doctrines/SPRAL-FOB-Removal-Force)
+## [FOB Removal Force](/community/doctrines/SPRAL-Doctrines/FOB-Removal-Force)
