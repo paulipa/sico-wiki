@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-10-07T17:54:33.891Z
+date: 2020-10-15T07:03:26.461Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -48,9 +48,10 @@ All of the entry level corporations are fairly similar and have the same service
 - Tight knit
 - Education
 ## [Absolute Order [ABSOD]](/community/coalition-corporations/absod)
-
 ## [Bravery Optional [NOBRV]](/community/coalition-corporations/nobrv)
-
+## [Snuggle Society [SNUGG]]((/community/coalition-corporations/snugg))
+- Criminal corporation
+- Ganking and piracy
 # Low sec
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
 - PvP
