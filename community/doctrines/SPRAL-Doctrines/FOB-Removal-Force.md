@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-10-16T07:47:10.943Z
+date: 2020-10-16T08:49:55.083Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -16,7 +16,7 @@ Click the spanner to the left then at the bottom left click Import and Export > 
 ## DPS
 
 <details>
-  <summary>Myrmidon - PVE (FOB)</summary>
+  <summary>Myrmidon - PVE (FOB) <--- Standard Fit</summary>
 [Myrmidon, Myrmidon - PVE (FOB)]
 
 Damage Control II
@@ -56,7 +56,7 @@ Improved Mindflood Booster x2
 </details>
 
 <details>
-  <summary>Myrmidon - PVE (FOB - Minimum) <--- Also Alpha Friendly</summary>
+  <summary>Myrmidon - PVE (FOB - Minimum) <--- Newbro Friendly</summary>
 [Myrmidon, Myrmidon - PVE (FOB - Basic)]
 
 Damage Control II
@@ -98,7 +98,7 @@ Improved Mindflood Booster x2
 ---
 
 <details>
-  <summary>Eos - PVE (FOB)</summary>
+  <summary>Eos - PVE (FOB) <--- Advanced Pilots</summary>
 [Eos, Eos - PVE (FOB)]
 
 EM Armor Hardener II
