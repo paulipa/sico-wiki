@@ -2,7 +2,7 @@
 title: Validus Industries [.V-I.]
 description: 
 published: true
-date: 2020-10-16T02:07:54.780Z
+date: 2020-10-16T02:17:59.173Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-25T05:57:26.483Z
@@ -21,12 +21,14 @@ While we prioritize the Industrial side of EVE. We believe that in order to have
 ## **Requirements**
 Currently All requirements are out the window for Sico/EVE Linknet members.
 If your a member of EVE Linknet and have been in your corp over 30 days and in good standing.
+Poke me on Discord "Krowez Mao"
 ( For your main character only. Alts are a different matter.)
 **Skill Points:** minimum 5 million points
 
 Minimum of being able to fly tech one cruisers with meta weapons for both minimatar and caldari. 
 Minimum of Basic shield skills, preference to close to perfect as possible.
 A desire to live in nullsec and participate in it’s events and reap the success and failures from them. 
+All members will be required to do an ESI check for membership.
 
 ## **Validus Directives ( Bushido )**
 
@@ -61,4 +63,5 @@ Hold the god damned pod and wait for everyone to get on that kill mail.
 ## Additional Information
 Timezones Supported EU/US/AP
 Our Public Discord https://discord.gg/crQkCyg
-Home: Fluid at this time, will have a better answer with more members.
+Home: Catch 
+Alliance: Warped Intentions
