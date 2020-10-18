@@ -2,7 +2,7 @@
 title: SG-0 - Hauling and Moving to HQ Safely
 description: 
 published: true
-date: 2020-10-18T10:01:07.837Z
+date: 2020-10-18T10:01:51.272Z
 tags: fittings
 editor: markdown
 dateCreated: 2020-07-09T05:06:48.995Z
@@ -66,9 +66,9 @@ Try whenever possible to stay in as high security status as possible and restric
 
 
 ---
-Understanding Triglavian Invasions
+## Understanding Triglavian Invasions
 
-Another game mechanic you should be aware of, not just for hauling, but in general are triglavian invasions.  If we look now at this route, I have highlighted two systems which have a triangle symbol to mark their system.
+Another game mechanic you should be aware of, not just for hauling, but in general are triglavian invasions.  If we look now at this route https://i.imgur.com/8KCpaRB.png, I have highlighted two systems which have a triangle symbol to mark their system.
 
 This symbol means these systems are under triglavian invasion.  The one in red is Niarja, a system to be absolutely avoided in anything other than a shuttle or extremely fast travel ship.  This system is effectively nullsec and players can shoot you in it without any intervention from CONCORD.  It also happens to be an important chokepoint for travel between Amarr/Minmatar and Caldari/Gallente space.
 
@@ -83,7 +83,7 @@ The route is however laced with trig invaded systems (although not as affected t
 
 
 ---
-Preventing Triglavian Invasion Deaths
+## Preventing Triglavian Invasion Deaths
 
 I recommend reading this guide for information on how to deal with triglavian invasion systems.
 https://wiki.silentcoalition.com/services/guides/dealing-with-triglavian-invasion-systems.
