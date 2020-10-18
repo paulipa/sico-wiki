@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:31:35.475Z
+date: 2020-10-18T09:32:40.083Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -304,7 +304,7 @@ Scan Resolution Script x1
 Targeting Range Script x1
 </details>
 
-Amarr - EM/Thermal Damage Locked until Level 4 
+Amarr
 <details>
   <summary>Level 1) Coercer - PVE (Basic)</summary>
 [Coercer, Coercer - PVE (Basic)]
@@ -344,7 +344,7 @@ Experimental Enduring Thermal Armor Hardener I
 Type-D Restrained Capacitor Power Relay
 Extruded Compact Heat Sink
 
-50MN Cold-Gas Enduring Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Medium Compact Pb-Acid Cap Battery
 F-12 Enduring Tracking Computer
 
@@ -377,7 +377,7 @@ Experimental Enduring Kinetic Armor Hardener I
 Extruded Compact Heat Sink
 Extruded Compact Heat Sink
 
-50MN Cold-Gas Enduring Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Medium Compact Pb-Acid Cap Battery
 Medium Compact Pb-Acid Cap Battery
 F-12 Enduring Tracking Computer
@@ -406,7 +406,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
 <details>
-  <summary>Level 4) Armageddon - PVE (Basic) <--- Tied.</summary>
+  <summary>Level 4) Armageddon - PVE (Basic)</summary>
 [Armageddon, Armageddon - PVE (Basic)]
 
 Large I-a Enduring Armor Repairer
@@ -417,9 +417,9 @@ AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
 
-100MN Monopropellant Enduring Afterburner
+500MN Quad LiF Restrained Microwarpdrive
 Large Compact Pb-Acid Cap Battery
-Alumel-Wired Enduring Sensor Booster
+F-90 Compact Sensor Booster
 Denny Enduring Omnidirectional Tracking Link
 
 Drone Link Augmentor I
