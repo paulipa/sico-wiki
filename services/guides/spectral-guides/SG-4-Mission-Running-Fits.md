@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:36:44.508Z
+date: 2020-10-18T09:44:28.957Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -170,6 +170,52 @@ Tracking Speed Script x1
 </details>
 
 ---
+<details>
+  <summary>Level 4) Dominix - PVE</summary>
+[Dominix, Dominix - PVE]
+
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Large Armor Repairer II
+Large Armor Repairer II
+Kinetic Armor Hardener II
+Thermal Armor Hardener II
+
+500MN Y-T8 Compact Microwarpdrive
+Large Compact Pb-Acid Cap Battery
+Large Compact Pb-Acid Cap Battery
+Sensor Booster II
+Omnidirectional Tracking Link II
+
+Drone Link Augmentor I
+Drone Link Augmentor I
+Drone Link Augmentor I
+350mm Railgun II
+350mm Railgun II
+350mm Railgun II
+
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+
+
+Garde II x5
+Hornet II x9
+Vespa II x8
+Warden II x5
+
+
+Javelin L x5000
+Spike L x5000
+Lead Charge L x5000
+Scan Resolution Script x1
+Targeting Range Script x1
+Optimal Range Script x1
+Tracking Speed Script x1
+</details>
+
+---
 ## Caldari
 <details>
   <summary>Level 1) Cormorant - PVE (Basic)</summary>
@@ -301,6 +347,48 @@ Warden I x2
 
 
 Scourge Cruise Missile x1000
+Scan Resolution Script x1
+Targeting Range Script x1
+</details>
+
+---
+<details>
+  <summary>Level 4) Raven - PVE</summary>
+[Raven, Raven - PVE]
+
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Missile Guidance Enhancer II
+Missile Guidance Enhancer II
+
+X-Large Shield Booster II
+Kinetic Shield Hardener II
+Thermal Shield Hardener II
+Shield Boost Amplifier II
+F-90 Compact Sensor Booster
+Large Micro Jump Drive
+100MN Y-S8 Compact Afterburner
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Drone Link Augmentor I
+
+Large Processor Overclocking Unit I
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+
+
+Hornet II x5
+Warden II x2
+
+
+Scourge Fury Cruise Missile x2500
+Scourge Precision Cruise Missile x2500
 Scan Resolution Script x1
 Targeting Range Script x1
 </details>
@@ -451,6 +539,51 @@ Tracking Speed Script x1
 </details>
 
 ---
+<details>
+  <summary>Level 4) Armageddon - PVE</summary>
+[Armageddon, Armageddon - PVE]
+
+Large Armor Repairer II
+Large Armor Repairer II
+True Sansha Thermal Armor Hardener
+True Sansha Kinetic Armor Hardener
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+500MN Y-T8 Compact Microwarpdrive
+Large Compact Pb-Acid Cap Battery
+Alumel-Wired Enduring Sensor Booster
+Omnidirectional Tracking Link II
+
+Drone Link Augmentor II
+Drone Link Augmentor II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+
+Large Processor Overclocking Unit I
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+
+
+Garde II x6
+Hornet II x5
+Vespa II x5
+Warden II x6
+
+
+Scourge Fury Cruise Missile x2500
+Scourge Precision Cruise Missile x2500
+Scan Resolution Script x1
+Targeting Range Script x1
+Optimal Range Script x1
+Tracking Speed Script x1
+</details>
+
+---
 ## Minmatar
 <details>
   <summary>Level 1) Thrasher - PVE (Basic)</summary>
@@ -582,6 +715,49 @@ Warden I x4
 
 
 Scourge Cruise Missile x2500
+Missile Precision Script x1
+Missile Range Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+</details>
+
+<details>
+  <summary>Level 4) Typhoon - PVE</summary>
+[Typhoon, Typhoon - PVE]
+
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Large Armor Repairer II
+Large Armor Repairer II
+Thermal Armor Hardener II
+Kinetic Armor Hardener II
+
+500MN Quad LiF Restrained Microwarpdrive
+Sensor Booster II
+Large Compact Pb-Acid Cap Battery
+Large Cap Battery II
+Missile Guidance Computer II
+
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Drone Link Augmentor II
+
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+Large Processor Overclocking Unit I
+
+
+Hornet II x5
+Warden II x4
+
+
+Scourge Fury Cruise Missile x2500
+Scourge Precision Cruise Missile x2500
 Missile Precision Script x1
 Missile Range Script x1
 Scan Resolution Script x1
