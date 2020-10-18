@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-09-29T02:32:28.302Z
+date: 2020-10-18T00:08:47.599Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:38.136Z
@@ -15,11 +15,11 @@ dateCreated: 2020-07-17T14:54:38.136Z
 	</h1>
 
 <h2 style="text-align:center">
-  Silent Coalition's Premiere Nullsec PVP Corporation
+  EVE LinkNet's Premiere Nullsec PVP Corporation
 	</h2>
 
 <p style="text-align:center">
-  We are a fun loving nullsec based PVP corp and a proud member of Evictus.
+  We are a fun loving nullsec based PVP corporation and a proud member of Evictus.
 	</p>
 
 <br>
@@ -27,7 +27,7 @@ dateCreated: 2020-07-17T14:54:38.136Z
 ## We can offer you
 - Tons of PVP content. (including capitals)
 - SRP for doctrine ships.
-- Great space to make ISK safely.
+- Great space to make ISK safely. (including ratting and mining!)
 - A great production network to help you build whatever you want.
 - A tight knit community.
 - A fun but serious PVP environment.
@@ -42,7 +42,7 @@ dateCreated: 2020-07-17T14:54:38.136Z
 - Willing to train doctrine ships.
 - Join CTA and home defence fleets when pinged.
 - Microphone, Discord, and Mumble.
-- Willing to do an API check before joining.
+- Must be willing to do an API check.
 - Knowing that real life comes before a video game.
 
 <br>
