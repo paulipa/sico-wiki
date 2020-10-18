@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:35:30.097Z
+date: 2020-10-18T09:36:44.508Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -13,7 +13,7 @@ This guide is predominantly aimed at newer players with its basic T1 fitted ship
 I have a recorded class on PVE Fitting Theory which all the below fits are based on. If you would like to learn the theory behind these fits as well as learning how to improve your own, head to https://www.youtube.com/watch?v=8Ick5f4RCOk.
 
 ---
-Important Information
+## Important Information
 
 Although I have kept all of the modules on the basic fits to T1, the reality is you will not be able to solo level 3 and 4 missions with just full T1 fitted ships and little in the way of skill training.
 
