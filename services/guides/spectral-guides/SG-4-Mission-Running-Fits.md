@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:33:38.700Z
+date: 2020-10-18T09:35:30.097Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -22,7 +22,7 @@ It is important to make sure that you train good skills alongside your ship and 
 One important thing to note about the mastery tabs is they can occasionally have skills you wouldn't use or train, so use common sense when following them.  E.g: the Drake under medium missiles has both Heavy Missiles and Heavy Assault Missiles in it... but if you are only going to use Heavy Missiles then obviously don't train Heavy Assault Missiles.
 
 ---
-Gallente
+## Gallente
 <details>
   <summary>Level 1) Algos - PVE (Basic)</summary>
 [Algos, Algos - PVE (Basic)]
@@ -168,8 +168,9 @@ Targeting Range Script x1
 Optimal Range Script x1
 Tracking Speed Script x1
 </details>
-  
-Caldari
+
+---
+## Caldari
 <details>
   <summary>Level 1) Cormorant - PVE (Basic)</summary>
 [Cormorant, Cormorant - PVE (Basic)]
@@ -304,7 +305,8 @@ Scan Resolution Script x1
 Targeting Range Script x1
 </details>
 
-Amarr
+---
+## Amarr
 <details>
   <summary>Level 1) Coercer - PVE (Basic)</summary>
 [Coercer, Coercer - PVE (Basic)]
@@ -447,8 +449,9 @@ Targeting Range Script x1
 Optimal Range Script x1
 Tracking Speed Script x1
 </details>
-  
-Minmatar
+
+---
+## Minmatar
 <details>
   <summary>Level 1) Thrasher - PVE (Basic)</summary>
 [Thrasher, Thrasher - PVE (Basic)]
