@@ -2,22 +2,27 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-08-30T17:30:59.336Z
+date: 2020-10-18T09:31:35.475Z
 tags: fittings, guide
 editor: markdown
+dateCreated: 2020-07-09T05:48:49.400Z
 ---
 
-These are basic t1 ship fittings I recommend you use in your missions.  It's not to say these are the only way to fit these ships, but they are certainly one good way of doing so.
+This guide is predominantly aimed at newer players with its basic T1 fitted ships, however I have also included advanced level 4 fits for more skilled players.
 
-I have a recorded class on PVE Fitting Theory which all the below fits are based on.  If you would like to learn the theory behind these fits as well as learning how to improve your own, head to https://www.youtube.com/watch?v=8Ick5f4RCOk.
+I have a recorded class on PVE Fitting Theory which all the below fits are based on. If you would like to learn the theory behind these fits as well as learning how to improve your own, head to https://www.youtube.com/watch?v=8Ick5f4RCOk.
 
 ---
-It is important to make sure that you train good skills alongside your ship and modules - upgrading to t2 modules when you can.  For a good tailored skillplan to follow for your ships, you can show info on any of the ships., I will take the Drake as an example.  Head to the 'Mastery' tab and you can follow the levels.
+Important Information
+
+Although I have kept all of the modules on the basic fits to T1, the reality is you will not be able to solo level 3 and 4 missions with just full T1 fitted ships and little in the way of skill training.
+
+It is important to make sure that you train good skills alongside your ship and modules - upgrading to t2 modules when you can.  For a good tailored skillplan to follow for your ships, you can click on any of the ships. I will take the Drake as an example.  Head to the 'Mastery' tab and you can follow the levels.
 
 One important thing to note about the mastery tabs is they can occasionally have skills you wouldn't use or train, so use common sense when following them.  E.g: the Drake under medium missiles has both Heavy Missiles and Heavy Assault Missiles in it... but if you are only going to use Heavy Missiles then obviously don't train Heavy Assault Missiles.
 
 ---
-Gallente - Most Recommended
+Gallente
 <details>
   <summary>Level 1) Algos - PVE (Basic)</summary>
 [Algos, Algos - PVE (Basic)]
@@ -93,7 +98,7 @@ Experimental Enduring Kinetic Armor Hardener I
 AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
 
-50MN Cold-Gas Enduring Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Large Compact Pb-Acid Cap Battery
 Large Compact Pb-Acid Cap Battery
 Denny Enduring Omnidirectional Tracking Link
@@ -121,7 +126,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
 <details>
-  <summary>Level 4) Dominix - PVE (Basic) <--- Most recommended.</summary>
+  <summary>Level 4) Dominix - PVE (Basic)</summary>
 [Dominix, Dominix - PVE (Basic)]
 
 Large I-a Enduring Armor Repairer
@@ -132,7 +137,7 @@ AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
 
-500MN Cold-Gas Enduring Microwarpdrive
+500MN Quad LiF Restrained Microwarpdrive
 Large Compact Pb-Acid Cap Battery
 Large Compact Pb-Acid Cap Battery
 Alumel-Wired Enduring Sensor Booster
@@ -164,33 +169,34 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
   
-Caldari - Great Until the Raven
+Caldari
 <details>
-  <summary>Level 1) Corax - PVE (Basic)</summary>
-[Corax, Corax - PVE (Basic)]
+  <summary>Level 1) Cormorant - PVE (Basic)</summary>
+[Cormorant, Cormorant - PVE (Basic)]
 
-Ballistic Control System I
-Pro-Nav Compact Missile Guidance Enhancer
+Magnetic Field Stabilizer I
+Magnetic Field Stabilizer I
 
 5MN Quad LiF Restrained Microwarpdrive
 Small Clarity Ward Enduring Shield Booster
 Eutectic Compact Cap Recharger
-Eutectic Compact Cap Recharger
 
-Light Missile Launcher I
-Light Missile Launcher I
-Light Missile Launcher I
-Light Missile Launcher I
-Light Missile Launcher I
-Light Missile Launcher I
-Light Missile Launcher I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+125mm Compressed Coil Gun I
+[Empty High slot]
 
 [Empty Rig slot]
 [Empty Rig slot]
 [Empty Rig slot]
 
 
-Scourge Light Missile x5000
+Antimatter Charge S x5000
+Iron Charge S x5000
 </details>
 <details>
   <summary>Level 2) Caracal - PVE (Basic)</summary>
@@ -259,7 +265,7 @@ Scourge Heavy Missile x2500
 Missile Precision Script x1
 </details>
 <details>
-  <summary>Level 4) Raven - PVE (Basic) <--- Raven is an unfortunately poor ship.</summary>
+  <summary>Level 4) Raven - PVE (Basic)</summary>
 [Raven, Raven - PVE (Basic)]
 
 Ballistic Control System I
@@ -271,7 +277,7 @@ Pro-Nav Compact Missile Guidance Enhancer
 X-Large Clarity Ward Enduring Shield Booster
 Enduring Kinetic Shield Hardener
 Enduring Thermal Shield Hardener
-5a Prototype Shield Support I
+Stalwart Restrained Shield Boost Amplifier
 Alumel-Wired Enduring Sensor Booster
 Large Micro Jump Drive
 100MN Monopropellant Enduring Afterburner
