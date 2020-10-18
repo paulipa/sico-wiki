@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:32:54.464Z
+date: 2020-10-18T09:33:38.700Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -486,7 +486,7 @@ Ballistic Control System I
 Pro-Nav Compact Missile Guidance Enhancer
 Mark I Compact Power Diagnostic System
 
-50MN Cold-Gas Enduring Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Large F-S9 Regolith Compact Shield Extender
 Large F-S9 Regolith Compact Shield Extender
 Enduring Kinetic Shield Hardener
@@ -518,7 +518,7 @@ Pro-Nav Compact Missile Guidance Enhancer
 Type-D Restrained Shield Power Relay
 Type-D Restrained Shield Power Relay
 
-50MN Cold-Gas Enduring Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Large Azeotropic Restrained Shield Extender
 Large Azeotropic Restrained Shield Extender
 Enduring Kinetic Shield Hardener
@@ -544,7 +544,7 @@ Scourge Heavy Missile x2500
 Shield Extension Charge x600
 </details>
 <details>
-  <summary>Level 4) Typhoon - PVE (Basic) <--- Tied.</summary>
+  <summary>Level 4) Typhoon - PVE (Basic)</summary>
 [Typhoon, Typhoon - PVE (Basic)]
 
 Ballistic Control System I
@@ -555,7 +555,7 @@ Large I-a Enduring Armor Repairer
 Experimental Enduring Thermal Armor Hardener I
 Experimental Enduring Kinetic Armor Hardener I
 
-500MN Cold-Gas Enduring Microwarpdrive
+500MN Quad LiF Restrained Microwarpdrive
 Alumel-Wired Enduring Sensor Booster
 Large Compact Pb-Acid Cap Battery
 Large Compact Pb-Acid Cap Battery
