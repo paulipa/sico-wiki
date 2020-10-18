@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:32:40.083Z
+date: 2020-10-18T09:32:54.464Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -448,7 +448,7 @@ Optimal Range Script x1
 Tracking Speed Script x1
 </details>
   
-Minmatar - Lower Tank than Caldari, However Typhoon > Raven 
+Minmatar
 <details>
   <summary>Level 1) Thrasher - PVE (Basic)</summary>
 [Thrasher, Thrasher - PVE (Basic)]
