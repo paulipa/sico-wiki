@@ -2,7 +2,7 @@
 title: SG-0 - Hauling and Moving to HQ Safely
 description: 
 published: true
-date: 2020-10-18T10:01:51.272Z
+date: 2020-10-18T10:06:40.045Z
 tags: fittings
 editor: markdown
 dateCreated: 2020-07-09T05:06:48.995Z
@@ -43,10 +43,98 @@ It is therefore important to exercise vigilance and caution in the space you are
 If you completed the Business career agent missions (https://wiki.eveuniversity.org/Business_Career_Agent), at the end you would have been given a t1 hauling ship.  These ships are the tankier, higher-hp versions of the hauling ships and I highly recommend you use them in your hauling journey as a new player.
 
 Recommended Hauling Fits
-Nereus - Hauling (Basic)   Gallente 
-Badger - Hauling (Basic)   Caldari
-Sigil - Hauling (Basic)     Amarr 
-Wreathe - Hauling (Basic) Minmatar 
+<details>
+  <summary>Nereus - Hauling (Basic)</summary>
+[Nereus, Nereus - Hauling (Basic)]
+
+Damage Control I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+
+Large Shield Extender I
+Medium Shield Extender I
+Medium Shield Extender I
+Multispectrum Shield Hardener I
+Multispectrum Shield Hardener I
+
+[Empty High slot]
+[Empty High slot]
+
+Medium EM Shield Reinforcer I
+Medium EM Shield Reinforcer I
+Medium Thermal Shield Reinforcer I
+</details>
+<details>
+  <summary>Badger - Hauling (Basic)</summary>
+[Badger, Badger - Hauling (Basic)]
+
+Damage Control I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+
+Large Shield Extender I
+Medium Shield Extender I
+Medium Shield Extender I
+Multispectrum Shield Hardener I
+Multispectrum Shield Hardener I
+EM Shield Hardener I
+
+[Empty High slot]
+[Empty High slot]
+
+Medium Kinetic Shield Reinforcer I
+Medium Thermal Shield Reinforcer I
+Medium EM Shield Reinforcer I
+</details>
+<details>
+  <summary>Sigil - Hauling (Basic)</summary>
+[Sigil, Sigil - Hauling (Basic)]
+
+Damage Control I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+
+Large Shield Extender I
+Large Shield Extender I
+Multispectrum Shield Hardener I
+Multispectrum Shield Hardener I
+
+[Empty High slot]
+[Empty High slot]
+
+Medium EM Shield Reinforcer I
+Medium EM Shield Reinforcer I
+Medium Thermal Shield Reinforcer I
+</details>
+<details>
+  <summary>Wreathe - Hauling (Basic)</summary>
+[Wreathe, Wreathe - Hauling (Basic)]
+
+Damage Control I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+Expanded Cargohold I
+
+Large Shield Extender I
+Medium Shield Extender I
+Medium Shield Extender I
+Multispectrum Shield Hardener I
+Multispectrum Shield Hardener I
+
+[Empty High slot]
+[Empty High slot]
+
+Medium EM Shield Reinforcer I
+Medium EM Shield Reinforcer I
+Medium Thermal Shield Reinforcer I
+</details>
 
 These fits are designed to be as tanky as possible given the contraints of low skillpoints and cost.
 
