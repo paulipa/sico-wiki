@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T09:44:28.957Z
+date: 2020-10-18T09:46:47.217Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -171,7 +171,7 @@ Tracking Speed Script x1
 
 ---
 <details>
-  <summary>Level 4) Dominix - PVE</summary>
+  <summary>Level 4 Advanced) Dominix - PVE</summary>
 [Dominix, Dominix - PVE]
 
 Drone Damage Amplifier II
@@ -353,7 +353,7 @@ Targeting Range Script x1
 
 ---
 <details>
-  <summary>Level 4) Raven - PVE</summary>
+  <summary>Level 4 Advanced) Raven - PVE</summary>
 [Raven, Raven - PVE]
 
 Ballistic Control System II
@@ -540,7 +540,7 @@ Tracking Speed Script x1
 
 ---
 <details>
-  <summary>Level 4) Armageddon - PVE</summary>
+  <summary>Level 4 Advanced) Armageddon - PVE</summary>
 [Armageddon, Armageddon - PVE]
 
 Large Armor Repairer II
@@ -722,7 +722,7 @@ Targeting Range Script x1
 </details>
 
 <details>
-  <summary>Level 4) Typhoon - PVE</summary>
+  <summary>Level 4 Advanced) Typhoon - PVE</summary>
 [Typhoon, Typhoon - PVE]
 
 Ballistic Control System II
