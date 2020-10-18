@@ -2,7 +2,7 @@
 title: Groups
 description: 
 published: true
-date: 2020-10-07T17:21:17.001Z
+date: 2020-10-18T14:41:18.691Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T17:04:03.961Z
@@ -19,6 +19,12 @@ You can also leave any SIGs from the groups page by pressing the leave button. T
 
 # Role Groups
 The role groups are not open to join and have some requirements on them. Please refer to this page before you apply to the groups.
+
+## Instructor
+If you have knowledge of different areas of EVE and want to share it with other players you may apply to this group. You will be holding classes mainly over voice comms and intruducing new players into different types of things 
+
+### Requirements
+- Deeper understanding and knowledge of the mechanisms and content you want to lecture about
 
 ## Coalition Manufacturer
 Helps the coalition to manufacture and fulfill industry order. You will be working with a team and filling up sheets as you take orders to build
