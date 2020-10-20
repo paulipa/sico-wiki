@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-10-18T17:32:49.871Z
+date: 2020-10-20T09:30:32.886Z
 tags: fittings, guide
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
