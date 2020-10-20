@@ -2,7 +2,7 @@
 title: Dealing With Triglavian Invasion Systems
 description: 
 published: true
-date: 2020-10-14T17:00:14.089Z
+date: 2020-10-20T12:13:26.082Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-10T14:20:35.289Z
@@ -40,8 +40,12 @@ If you have even a tiny bit of standing towards Triglavians such as +0.0001 mean
 - Triglavian forces will not engage on you
 
 ## Identifying and avoiding invaded systems
-> There are no warnings when you are about to jump into an invaded system. For this reason it is important that you know where they are and how to avoid them.
-{.is-danger}
+Triglavian warning icons wil appear on a gate that is leading into a system invaded by triglavians (Triglavian minor victory). No warnings are displayed for EDENCOM.
+
+When you are trying to take a gate leading to a Triglavian minor victory system you will receive a popup warning about this.
+
+> There are no warnings when you are about to jump into an EDENCOM victory system. For this reason it is important that you know what your standings are and how to identify these systems.
+> {.is-warning}
 
 To find out where the invaded systems are located open your ingame map (F10) and click on the filters tab and select the entities you want to avoid.
 ![trig_map_settings.jpg](/trig_map_settings.jpg =700x)
