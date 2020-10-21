@@ -2,7 +2,7 @@
 title: Fatalix Industries [FXIN]
 description: 
 published: true
-date: 2020-10-07T18:18:47.286Z
+date: 2020-10-21T02:32:34.912Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:51.171Z
@@ -31,6 +31,7 @@ Additionally:
 - Register on all Corp, Alliance, and Coalition IT Systems (Auth, SeAT, Discord, etc...)
 - Be willing to join major/important PVP fleets (Full re-imbursement is provided)
 - Have at least one Omega account
+- 5.5m skillpoints
 
 # How To Join
 The best way to contact Fatalix is to join our in-game channel "FXIN Public" and say hello!
