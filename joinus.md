@@ -2,9 +2,10 @@
 title: Joining us
 description: 
 published: true
-date: 2020-08-12T15:28:37.242Z
+date: 2020-10-31T12:51:35.485Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T15:27:30.474Z
 ---
 
 # Joining us as a player
@@ -15,7 +16,7 @@ These corporations serves as the entry level corporation for the coalition and a
 
 If you want you can participate in cross corporation operations in different areas of space taking part in PVE, PVP, mining and industry in all security areas. This way you are able to get a sneak peak of what different activities looks like without the need of dedicating yourself right away by joining a new corporation.
 
-If you wish not to take part in any fleet or group activities then that is your right as well. If you choose so you can simply use the emtry corporations and SiCO as a social corporation and keep on with your solo activities.
+If you wish not to take part in any fleet or group activities then that is your right as well. If you choose so you can simply use the emtry corporations and LinkNet as a social corporation and keep on with your solo activities.
 
 > There are no mandatory tasks required from you while you are in the entry corporations
 {.is-success}
@@ -27,7 +28,7 @@ Our ultimate goal is to find you a corporation that matches your personal goals 
 Any player in EVE can join us if they agree on our simple rules located in here: [Coalition rules](/community/rules). If you are an friendly and mature player you will be good to go! A list of our entry level corporations that accept any players in are located in the "sico public" ingame channel and listed on our homepage.
 
 ### Step 1
-Join ingame channel called `sico public` by pressing on the `+` sign on top of any chat window and by typing in `sico public` in the search field
+Join ingame channel called `LinkNet public` by pressing on the `+` sign on top of any chat window and by typing in `LinkNet public` in the search field
 
 ### Step 2
 Read the MOTD message (the pinned message on the channel)
@@ -58,12 +59,12 @@ While these corporations may not be interacting with the rest of the coalition d
 
 The default entry corporations are english speaking only. If you are looking for corporations within the coalition that do not communicate in english have a look at the following channels:
 
-- For russian corporations join channel `Sico Public RU`
-- For chinese corporations join channel `Sico Public ZH`
-- For korean corporations join channel `Sico Public KO`
+- For russian corporations join channel `LinkNet Public RU`
+- For chinese corporations join channel `LinkNet Public ZH`
+- For korean corporations join channel `LinkNet Public KO`
 
 Follow the information in the pinned message in each channel to proceed to join the corporation of your choice.
 
-# Joining coalition as a corporation
-If you are seeking to join the coalition as a corporation please refer to the coalition rules and the requirements for different types of coalition corporations in here: [Requirements for coalition corporations](/community/rules#requirements-for-all-coalition-members)
+# Joining community as a corporation
+If you are seeking to join the community as a corporation please refer to the community rules and the requirements for different types of community corporations in here: [Requirements for community corporations](/community/rules#requirements-for-all-coalition-members)
 
