@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-10-08T18:03:43.150Z
+date: 2020-10-31T12:50:16.651Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -143,9 +143,9 @@ With FAT 2.0 you have a few ways to create links:
 You are able to pre schedule fleets and add them to our fleet board. The fleet board is found on AUTH at https://auth.eve-linknet.com/optimer/. Please create a fleet in here whenever you plan to do a planned fleet in the future. You can always cancel the fleet in case you are unable to do it or if no one shows up.
 
 ### To create a fleet operation:
-1. Go to https://auth.eve-linknet.com/optimer/
+1. Go to https://auth.eve-linknet.com/opcalendar/
 1. Check that there are no fleets scheduled to the time you are going to schedule
-1. Click on the create fleet button
+1. Click on the + New Event button
 1. Fill in all needed information
 
 Notifications will automatically go out on discord `#operations-tracker` channel for new, deleted and edited operations.
