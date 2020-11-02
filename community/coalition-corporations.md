@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-10-15T07:05:56.366Z
+date: 2020-11-02T11:53:23.315Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -76,7 +76,6 @@ All of the entry level corporations are fairly similar and have the same service
 # Wormholes
 ## [Heaven’s Angels [HVEN]](/community/coalition-corporations/hven)
 - Wormholes
-- Hardcore
 ## [Useless Idea [US3]](/community/coalition-corporations/us3)
 - Polish corporation
 - Wormholes
