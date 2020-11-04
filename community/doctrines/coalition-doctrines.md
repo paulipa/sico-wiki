@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-09-08T11:34:20.667Z
+date: 2020-11-04T06:33:44.778Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -152,8 +152,8 @@ Power Diagnostic System II
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
-EM Shield Hardener II
-Small Capacitor Booster II, Cap Booster 200
+Multispectrum Shield Hardener II
+Small Capacitor Booster II, Navy Cap Booster 400
 
 Shield Command Burst II
 Shield Command Burst II
