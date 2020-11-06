@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-11-06T12:01:17.235Z
+date: 2020-11-06T12:25:57.138Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -908,6 +908,193 @@ Mining Laser Field Enhancement Charge x3001
 Mining Laser Optimization Charge x3001
 Shield Extension Charge x3001
 Shield Harmonizing Charge x3000
+</details>
+
+
+## FOB Removal Force
+<details>
+  <summary>FOB Removal Force</summary>
+
+
+To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
+
+Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
+
+---
+## DPS
+
+<details>
+  <summary>Myrmidon - PVE (FOB) <--- Standard Fit</summary>
+[Myrmidon, Myrmidon - PVE (FOB)]
+
+Damage Control II
+True Sansha EM Armor Hardener
+True Sansha EM Armor Hardener
+True Sansha Thermal Armor Hardener
+True Sansha Thermal Armor Hardener
+Drone Damage Amplifier II
+
+Denny Enduring Omnidirectional Tracking Link
+Large Compact Pb-Acid Cap Battery
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Drone Link Augmentor I
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+Centum A-Type Medium Remote Armor Repairer
+Centum A-Type Medium Remote Armor Repairer
+
+Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
+Medium Remote Repair Augmentor II
+
+
+Acolyte II x5
+Infiltrator II x5
+Praetor II x5
+
+
+Nanite Repair Paste x100
+Tracking Speed Script x1
+Mobile Depot x1
+Ogre II x5
+Improved Mindflood Booster x2
+</details>
+
+<details>
+  <summary>Myrmidon - PVE (FOB - Minimum) <--- Newbro Friendly</summary>
+[Myrmidon, Myrmidon - PVE (FOB - Basic)]
+
+Damage Control II
+True Sansha Thermal Armor Hardener
+True Sansha EM Armor Hardener
+True Sansha EM Armor Hardener
+True Sansha Thermal Armor Hardener
+Drone Damage Amplifier II
+
+Denny Enduring Omnidirectional Tracking Link
+Large Compact Pb-Acid Cap Battery
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Drone Link Augmentor I
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+Centum A-Type Medium Remote Armor Repairer
+Centum A-Type Medium Remote Armor Repairer
+
+Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
+Medium Remote Repair Augmentor II
+
+
+Imperial Navy Acolyte x5
+Imperial Navy Infiltrator x5
+Imperial Navy Praetor x5
+
+
+Nanite Repair Paste x100
+Tracking Speed Script x1
+Mobile Depot x1
+Federation Navy Ogre x5
+Improved Mindflood Booster x2
+</details>
+
+---
+
+<details>
+  <summary>Eos - PVE (FOB) <--- Advanced Pilots</summary>
+[Eos, Eos - PVE (FOB)]
+
+EM Armor Hardener II
+Thermal Armor Hardener II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Omnidirectional Tracking Enhancer II
+Omnidirectional Tracking Enhancer II
+
+Large Cap Battery II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Centum A-Type Medium Remote Armor Repairer
+Centum A-Type Medium Remote Armor Repairer
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+Drone Link Augmentor II
+
+Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
+
+
+Infiltrator II x5
+Ogre II x5
+Praetor II x5
+
+
+Nanite Repair Paste x100
+Improved Mindflood Booster x2
+</details>
+
+## Command
+
+<details>
+  <summary>Eos - FC (FOB)</summary>
+[Eos, Eos - FC (FOB)]
+
+EM Armor Hardener II
+Thermal Armor Hardener II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Omnidirectional Tracking Enhancer II
+Omnidirectional Tracking Enhancer II
+
+Large Cap Battery II
+Cap Recharger II
+Target Painter II
+Target Painter II
+
+Armor Command Burst II
+Armor Command Burst II
+Centum A-Type Medium Remote Armor Repairer
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+
+Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
+
+
+Infiltrator II x5
+Ogre II x5
+Praetor II x5
+
+
+Armor Energizing Charge x600
+Rapid Repair Charge x600
+Nanite Repair Paste x250
+Improved Mindflood Booster x2
+</details>
+
+## Skill Plan
+To import a skillplan, go to the pastebin links and copy all of its contents.  Then go in-game and into your character sheet where your skills are. 
+
+To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines.  Click this, then click "Add skills listed in clipboard to end of queue".
+
+<details>
+  <summary>Minimum</summary>
+ 
+  https://pastebin.com/RfAB0xyK
+
+This skillplan should fit within the 1,000,000 SP alpha alt and the skillbooks will cost approximately 7.5m in skills.
+  
+</details>
+
 </details>
 
 ## Loud Crew | Ganking SIG [LOUCR]
