@@ -2,7 +2,7 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-11-04T05:24:54.131Z
+date: 2020-11-06T12:22:31.283Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
@@ -183,6 +183,6 @@ To the left of the section where it says "Training Queue", there is an icon of 4
  
   https://pastebin.com/RfAB0xyK
 
-This skillplan should fit within the 1,000,000 SP alpha alt and the skillbooks will cost approximately 7.5m.
+This skillplan should fit within the 1,000,000 SP alpha alt and the skillbooks will cost approximately 7.5m in skills.
   
 </details>
