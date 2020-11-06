@@ -2,15 +2,13 @@
 title: Spectral Incorporated [SPRAL]
 description: 
 published: true
-date: 2020-11-06T11:55:58.156Z
+date: 2020-11-06T11:56:09.847Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:19.158Z
 ---
 
 Are you travelling New Eden by yourself or looking for somewhere new?  Are you looking for guidance on how to play the game?  Spectral Incorporated are taking new and old players into our folds to help you in every way we can.
-
-You may notice in the attributes tab of our corporation that we have 0% tax.  Tired of seeing your hard earned isk being whittled away to the ether?  In the NPC corporation you are in right now, you have to pay 11% tax on everything you earn, here at SPRAL we want to see you grow, not see our corp wallet grow!
 
 ---
 What is SPRAL?  Spectral Incorporated (SPRAL) is an EU, new-player friendly community centred around providing players with a setting where they can get to know the people they fly with as they integrate within our smaller, tight-knit community which you wouldn’t see in some of the massive corporations with thousands of players.
