@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-11-04T06:33:44.778Z
+date: 2020-11-06T12:01:17.235Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -139,47 +139,6 @@ Warrior I x4
 
 ### Booster
 
-<details>
-  <summary>Vulture - FC (SLTRN)</summary>
-[Vulture, Vulture - FC (SLTRN)]
-
-Damage Control II
-Power Diagnostic System II
-Power Diagnostic System II
-Power Diagnostic System II
-
-50MN Quad LiF Restrained Microwarpdrive
-Large Shield Extender II
-Large Shield Extender II
-Multispectrum Shield Hardener II
-Multispectrum Shield Hardener II
-Small Capacitor Booster II, Navy Cap Booster 400
-
-Shield Command Burst II
-Shield Command Burst II
-Shield Command Burst II
-250mm Railgun II
-250mm Railgun II
-250mm Railgun II
-250mm Railgun II
-
-Medium EM Shield Reinforcer II
-Medium Command Processor I
-
-
-Warrior II x5
-
-
-Javelin M x2000
-Spike M x2000
-Navy Cap Booster 400 x24
-Caldari Navy Antimatter Charge M x2000
-Caldari Navy Uranium Charge M x2000
-Nanite Repair Paste x100
-Active Shielding Charge x300
-Shield Extension Charge x300
-Shield Harmonizing Charge x300
-</details>
 
 <details>
   <summary>Sleipnir - SLTRN</summary>
