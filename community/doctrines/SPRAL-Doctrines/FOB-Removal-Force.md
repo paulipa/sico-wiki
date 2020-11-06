@@ -2,11 +2,15 @@
 title: FOB Removal Force
 description: 
 published: true
-date: 2020-11-06T12:22:31.283Z
+date: 2020-11-06T12:23:38.595Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-08T14:56:39.577Z
 ---
+
+<details>
+  <summary>FOB Removal Force</summary>
+
 
 To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
 
@@ -185,4 +189,6 @@ To the left of the section where it says "Training Queue", there is an icon of 4
 
 This skillplan should fit within the 1,000,000 SP alpha alt and the skillbooks will cost approximately 7.5m in skills.
   
+</details>
+
 </details>
