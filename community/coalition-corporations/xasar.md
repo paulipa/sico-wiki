@@ -2,7 +2,7 @@
 title: Xa’sar [XASAR]
 description: 
 published: true
-date: 2020-10-18T00:08:47.599Z
+date: 2020-11-07T15:49:28.511Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:38.136Z
@@ -19,7 +19,7 @@ dateCreated: 2020-07-17T14:54:38.136Z
 	</h2>
 
 <p style="text-align:center">
-  We are a fun loving nullsec based PVP corporation and a proud member of Evictus.
+  We are a fun loving, nullsec based PVP corporation and a proud member of Silence Inc.
 	</p>
 
 <br>
