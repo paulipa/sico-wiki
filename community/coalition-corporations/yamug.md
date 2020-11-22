@@ -1,9 +1,9 @@
 ---
 title: Serenity Consortium [YAMUG]
-description: 
+description: AU/NZ timezone HS Newbro Corp - PVP/PVE - with a Null Sec Parent Corp
 published: true
-date: 2020-11-22T11:42:53.591Z
-tags: 
+date: 2020-11-22T11:45:14.777Z
+tags: pvp, pve, hs, ns, mining, missions,
 editor: markdown
 dateCreated: 2020-11-22T08:59:32.258Z
 ---
@@ -28,7 +28,7 @@ What is on offer:
 ♠ Access to an ingame group chat that contains players to answer your questions.
 ♠ Access to a joint discord that contains our own area plus a help channel that is seen by experienced players that can offer game advice.
 
-Serentiy Consortium currently has 6 Mentors in corp, all with various backgrounds of knowledge and all are members of our parent Null Sec corp. We do however mainly focus on PVP, but with elements of PVE to aid in funding your PVP. There is pretty much no question that one of the 6 mewntors can't answer for you. 
+Serenity Consortium currently has 6 Mentors in corp, all with various backgrounds of knowledge and all are members of our parent Null Sec corp. We do however mainly focus on PVP, but with elements of PVE to aid in funding your PVP. There is pretty much no question that one of the 6 mewntors can't answer for you. 
 
 Serenity Consortium is purely run from volunteers from our Null Sec parent Corp, who want to see EvE continue to evolve, as we all believe that by helping new guys and girls is the best way to see EvE continue to flourish.
 
