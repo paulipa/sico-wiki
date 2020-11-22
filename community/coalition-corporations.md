@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-11-06T11:59:41.761Z
+date: 2020-11-22T08:59:13.580Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -42,6 +42,7 @@ All of the entry level corporations are fairly similar and have the same service
 - Exploration
 ## [Silent Industry [XSINY]](/community/coalition-corporations/xsiny)
 - Industry
+## [Serenity Consortium [YAMUG]](/community/coalition-corporations/yamug)
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
 - Industry
 ## [Spectral Incorporated [SPRAL]](/community/coalition-corporations/spral)
