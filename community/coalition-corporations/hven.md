@@ -2,7 +2,7 @@
 title: Heaven’s Angels [HVEN]
 description: 
 published: true
-date: 2020-11-02T11:54:05.978Z
+date: 2020-11-22T16:15:20.088Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:23.542Z
@@ -68,3 +68,8 @@ Wormhole Space is some of the most dynamic and fun areas of space in Eve. With r
 
 # Interested in joining HVEN?
 Please visit out website for more information about how you can apply to HVEN: https://heavensangels.net/new-recruit/
+> Recruitment is currently on hold until the 1st of December, 2020. 
+{.is-warning}
+
+
+
