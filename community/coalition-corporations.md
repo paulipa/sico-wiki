@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-11-22T09:18:08.372Z
+date: 2020-11-30T13:30:20.558Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -34,8 +34,6 @@ All of the entry level corporations are fairly similar and have the same service
 - PvP
 
 # High Sec
-## [Hermes Fast Freight [HEFFR]](/community/coalition-corporations/heffr)
-- Hauling
 ## [Explorers’ Sanctum [EX-SA]](/community/coalition-corporations/ex-sa)
 - Abyssal Deadspace
 - Small gang PvP & NPSI roams
