@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-11-30T13:30:20.558Z
+date: 2020-12-06T12:46:54.244Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -44,7 +44,6 @@ All of the entry level corporations are fairly similar and have the same service
 - AU timezone
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
 - Industry
-## [Spectral Incorporated [SPRAL]](/community/coalition-corporations/spral)
 ## [Absolute Order [ABSOD]](/community/coalition-corporations/absod)
 ## [Bravery Optional [NOBRV]](/community/coalition-corporations/nobrv)
 ## [Snuggle Society [SNUGG]](/community/coalition-corporations/snugg)
@@ -66,6 +65,8 @@ All of the entry level corporations are fairly similar and have the same service
 ## [RASAX [RASAX]](/community/coalition-corporations/rasax)
 
 ## [Super Saiyan Invasion [SSJ1]](/community/coalition-corporations/ssj1)
+
+## [Spectral Incorporated [SPRAL]](/community/coalition-corporations/spral)
 
 ## [II Ordinis Silens II [IO-SI]](/community/coalition-corporations/io-si)
 
