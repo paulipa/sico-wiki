@@ -2,7 +2,7 @@
 title: Serenity Consortium [YAMUG]
 description: AU/NZ timezone HS Newbro Corp - PVP/PVE 
 published: true
-date: 2020-12-14T11:57:11.777Z
+date: 2020-12-14T11:59:16.720Z
 tags: pvp, pve, hs, ns, mining, missions,
 editor: markdown
 dateCreated: 2020-11-22T08:59:32.258Z
@@ -42,9 +42,7 @@ Coming soon:
 ♠ Planetary Infrastructure for you PI enthusiasts
 
 
-Serenity Consortium currently has 6 volunteer Mentors, all with various backgrounds of knowledge and all are members of our partner Null Sec corp. We do however mainly focus on PVP, but with elements of PVE to aid in funding your PVP. There is pretty much no question that one of the 6 mentors can't answer for you. 
-
-Serenity Consortium is purely run from those who want to see EvE continue to evolve, as we all believe that by helping new guys and girls is the best way to see EvE continue to flourish.
+Serenity Consortium currently has 6 volunteer mentors, all with various backgrounds of knowledge and all are members of our partner Null Sec corp. Whilst We do mainly focus on PVP in Null Sec, we do have elements of PVE as well. There is pretty much no question that one of the 6 mentors can't answer for you. 
 
 If you are interested in joining us, please hop in to the in game channel **Hava Go YaMug** OR jump in to our discord http://discord.gg/pKkqzTNQUV and talk to our recruiters.
 
