@@ -2,7 +2,7 @@
 title: Serenity Consortium [YAMUG]
 description: AU/NZ timezone HS Newbro Corp - PVP/PVE 
 published: true
-date: 2020-12-14T11:59:16.720Z
+date: 2020-12-14T12:07:57.815Z
 tags: pvp, pve, hs, ns, mining, missions,
 editor: markdown
 dateCreated: 2020-11-22T08:59:32.258Z
@@ -26,6 +26,7 @@ Consortium is located in Hageken in the Lonetrek region. We have chosen this sys
 ♠ Skill Plans & Books
 ♠ SRP
 ♠ Corp Wiki
+♠ Blueprint library for newbros to run copies from
 ♠ Access to an ingame group chat that contains players to answer your questions.
 ♠ Access to a joint discord that contains our own area plus a help channel that is seen by experienced players that can offer game advice.
 
