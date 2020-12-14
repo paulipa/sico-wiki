@@ -1,8 +1,8 @@
 ---
 title: Serenity Consortium [YAMUG]
-description: AU/NZ timezone HS Newbro Corp - PVP/PVE - with a Null Sec Parent Corp
+description: AU/NZ timezone HS Newbro Corp - PVP/PVE 
 published: true
-date: 2020-12-14T11:55:56.573Z
+date: 2020-12-14T11:57:11.777Z
 tags: pvp, pve, hs, ns, mining, missions,
 editor: markdown
 dateCreated: 2020-11-22T08:59:32.258Z
@@ -39,7 +39,7 @@ Consortium is located in Hageken in the Lonetrek region. We have chosen this sys
 ♠ Cloning facility
 
 Coming soon:
-♠ Planetary Infrastructure for you PI enthusists
+♠ Planetary Infrastructure for you PI enthusiasts
 
 
 Serenity Consortium currently has 6 volunteer Mentors, all with various backgrounds of knowledge and all are members of our partner Null Sec corp. We do however mainly focus on PVP, but with elements of PVE to aid in funding your PVP. There is pretty much no question that one of the 6 mentors can't answer for you. 
