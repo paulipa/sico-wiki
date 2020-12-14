@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-10-15T06:53:56.958Z
+date: 2020-12-14T08:20:13.451Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -116,6 +116,7 @@ We offer a set of base services for our partner corporations to use. They may de
 - [AUTH](/tools/auth) tool including a variety of AUTH services such as structure tracking
 	- Fleet tracking
   - Member tracking
+  - Member Auditing
   - Operation schedules
   - Structure timers
   - Doctrine board
