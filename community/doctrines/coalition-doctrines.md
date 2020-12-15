@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-11-06T12:25:57.138Z
+date: 2020-12-15T23:59:53.212Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -383,6 +383,48 @@ Small Hyperspatial Velocity Optimizer I
 
 Warp Disrupt Probe x66
 Republic Fleet EMP S x1188
+</details>
+
+<details>
+<summary>Gnosis, Booster - Fleet - Omega</summary>
+[Gnosis, Booster - Fleet - Omega]
+
+Damage Control II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Nanofiber Internal Structure II
+Co-Processor II
+
+50MN Quad LiF Restrained Microwarpdrive
+Medium Micro Jump Drive
+Large F-S9 Regolith Compact Shield Extender
+Large F-S9 Regolith Compact Shield Extender
+Enduring Multispectrum Shield Hardener
+Enduring Multispectrum Shield Hardener
+
+Shield Command Burst I
+Shield Command Burst I
+Shield Command Burst I
+Rapid Light Missile Launcher II
+Rapid Light Missile Launcher II
+Rapid Light Missile Launcher II
+
+Medium Hyperspatial Velocity Optimizer I
+Medium Command Processor I
+Medium Command Processor I
+
+
+Acolyte II x5
+Valkyrie II x5
+
+
+Mjolnir Fury Light Missile x1000
+Nova Fury Light Missile x1000
+Nanite Repair Paste x100
+Active Shielding Charge x300
+Shield Extension Charge x300
+Shield Harmonizing Charge x300
 </details>
 
 <details>
