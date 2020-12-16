@@ -2,7 +2,7 @@
 title: Tkam Doctrines
 description: 
 published: true
-date: 2020-12-16T18:04:51.964Z
+date: 2020-12-16T18:07:49.013Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T18:03:49.642Z
@@ -14,11 +14,14 @@ dateCreated: 2020-12-16T18:03:49.642Z
 
 ## Brawly Shield Cruisers
 
-> Basic MWD brawly (short range) cruiser doctrine with Osprey Logi Support
-{.is-info}
+Basic MWD brawly (short range) cruiser doctrine with Osprey Logi Support
+
 
 
 ### DPS fits
+> Priority: T2 Moa > T2 Thorax > Meta Moa > Meta Thorax
+{.is-info}
+
 #### T2:
 <details>
   <summary>Thorax - Shield T2</summary>
