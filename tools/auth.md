@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-12-16T07:07:06.939Z
+date: 2020-12-16T07:10:12.952Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -207,7 +207,19 @@ You can create pre notifications about your fleet if you want to hype it up. To 
 If you need to hype or rage ping a non CTA fleet more or extend the ping to multiple SIGS you can ping `@here` inside the SIG channels.
 
 ## Member Audit
-You are able to audit the details of each character in your corporation with the member audit tool. This requires that your members have [added an tracking token](https://wiki.eve-linknet.com/e/en/tools/auth#) for their characters.
+You are able to audit the details of each character in your corporation with the member audit tool. This requires that your members have [added an tracking token](https://wiki.eve-linknet.com/en/tools/auth#my-characters-member-audit) for their characters.
+
+> You can only see details for characters that are in your own corporation or from characters who have enabled the sharing.
+{.is-info}
+
+### Auditing
+
+To display details:
+- Go to the character finder tab https://auth.eve-linknet.com/member-audit/character_finder
+- Click on the character you want to view
+
+### Reports
+Reports will display if a character matches predetermined filters with skills. This can be used to determine if a character can fly certain doctrines or meet the requirements for joining your corporation.
 
 
 
