@@ -2,7 +2,7 @@
 title: Tkam Doctrines
 description: 
 published: true
-date: 2020-12-16T18:03:49.642Z
+date: 2020-12-16T18:04:51.964Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T18:03:49.642Z
@@ -156,7 +156,7 @@ Caldari Navy Iron Charge M x1000
 Nanite Repair Paste x100
  </details>
 
-#### Logistics
+### Logistics Fits
 
 <details>
   <summary> Osprey - T2</summary>
