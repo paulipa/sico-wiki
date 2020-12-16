@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-12-16T17:54:00.338Z
+date: 2020-12-16T18:06:36.856Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T06:00:31.610Z
@@ -38,3 +38,4 @@ For more help and info, join the in-game channel: "EX-SA Abyssals"
 
 ___
 ## [TKAM Doctrines](/community/doctrines/TKAM-Doctrines)
+Dctrines used by the TKAM (The king asked me to guard the Mountain) Corporation
