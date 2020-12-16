@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-12-16T07:05:31.678Z
+date: 2020-12-16T07:07:06.939Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -75,7 +75,6 @@ Our AUTH base registration only asks for a public token which doesn't allow us t
 
 > On default your character details are only visible for you, your own corporation CEO and directors.
 {.is-info}
-
 
 To add a detailed tracking token:
 - Go to https://auth.eve-linknet.com/member-audit/launcher
@@ -207,10 +206,8 @@ You can create pre notifications about your fleet if you want to hype it up. To 
 
 If you need to hype or rage ping a non CTA fleet more or extend the ping to multiple SIGS you can ping `@here` inside the SIG channels.
 
-
-
-
-f
+## Member Audit
+You are able to audit the details of each character in your corporation with the member audit tool. This requires that your members have [added an tracking token](https://wiki.eve-linknet.com/e/en/tools/auth#) for their characters.
 
 
 
