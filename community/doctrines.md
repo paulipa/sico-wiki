@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2020-11-06T00:07:49.598Z
+date: 2020-12-16T17:54:00.338Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T06:00:31.610Z
@@ -35,3 +35,6 @@ Guides & starting abyssal fits for both cruiser and frigate hulls.
 Cruiser fits will get you started on your solo runs while frigate doctrines are used in Skipp's Abyssal training fleets.
 
 For more help and info, join the in-game channel: "EX-SA Abyssals"
+
+___
+## [TKAM Doctrines](/community/doctrines/TKAM-Doctrines)
