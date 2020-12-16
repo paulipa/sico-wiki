@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-12-16T06:33:45.165Z
+date: 2020-12-16T07:05:31.678Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -69,6 +69,34 @@ Services are third party programs that are linked to your EVE character by AUTH.
 {.is-warning}
 
 Please activate any services you feel like using.
+
+## My Characters (Member Audit)
+Our AUTH base registration only asks for a public token which doesn't allow us to see any details of your characters. With the Member Audit tool you are able to track your character details outside of the game client and share them with your CEO or corporation recruiters.
+
+> On default your character details are only visible for you, your own corporation CEO and directors.
+{.is-info}
+
+
+To add a detailed tracking token:
+- Go to https://auth.eve-linknet.com/member-audit/launcher
+- Here you will see a list of all of the characters that you have added when [adding alts](https://wiki.eve-linknet.com/e/en/tools/auth##adding-alts)
+- Click on the register button to track a new character
+- Log in with SSO and select the correct character
+- Click on the green select button to add the token on your account
+- After a while AUTH will fetch your character information and you can display it via AUTH by pressing on the green view character button.
+
+### Sharing your details
+
+You are able to share your character details for other CEOs, directors and recruiters who have the roles to see shared member details. This is helpful when you are seeking to join a new corporation that requires an API check for your characters.
+
+> When you share your character details it will be visible for all community CEOs and directors and corporation recruiters with the required role.
+{.is-warning}
+
+To start and stop sharing your details:
+- Go to the My Characters page https://auth.eve-linknet.com/member-audit/launcher
+- Click on the yellow `Enable access to recruiters` button.
+- To stop sharing your details click the button again.
+
 
 # Troubleshooting
 
