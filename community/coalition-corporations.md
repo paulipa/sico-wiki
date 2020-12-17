@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-12-16T06:27:40.661Z
+date: 2020-12-17T07:32:12.024Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -45,7 +45,6 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
 - Industry
 ## [Absolute Order [ABSOD]](/community/coalition-corporations/absod)
-## [Bravery Optional [NOBRV]](/community/coalition-corporations/nobrv)
 ## [Snuggle Society [SNUGG]](/community/coalition-corporations/snugg)
 - Criminal corporation
 - Ganking and piracy
