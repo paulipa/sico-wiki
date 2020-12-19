@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-12-17T07:32:12.024Z
+date: 2020-12-19T13:14:20.303Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -78,6 +78,9 @@ All of the entry level corporations are fairly similar and have the same service
 - Polish corporation
 - Wormholes
 - PvP focused
+## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
+- Fulltime wormhole living
+- Teamwork & friendly community
 ## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
 - PvP
 
