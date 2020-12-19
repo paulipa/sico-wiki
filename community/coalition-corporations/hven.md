@@ -2,12 +2,14 @@
 title: Heaven’s Angels [HVEN]
 description: 
 published: true
-date: 2020-11-22T16:15:20.088Z
+date: 2020-12-19T13:05:02.156Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:23.542Z
 ---
 
+> At the moment, HVEN is not actively recruiting.
+{.is-warning}
 # Heaven’s Angels – Wormhole Corporation
 
 Wormhole Space in Eve is the harshest and most challenging environment in New Eden. Most pilots never get an opportunity to truly thrive and take advantage of such an awesome part of space.
@@ -66,10 +68,7 @@ Killing Sleepers in wormhole space is the equivalent of PvE in K-Space. Some of 
 ## Small Gang PvP
 Wormhole Space is some of the most dynamic and fun areas of space in Eve. With random connections at any given moment, opportunities for content are abundant! Wormhole Bushido is customary to give good fights when they are presented to you. We play in Wormhole space to make a lot of ISK and allow us to blow a lot of ships up (including our own). We are constantly improving our PvP skills and expect all pilots to participate in PvP when content is presented to us.
 
-# Interested in joining HVEN?
-Please visit out website for more information about how you can apply to HVEN: https://heavensangels.net/new-recruit/
-> Recruitment is currently on hold until the 1st of December, 2020. 
-{.is-warning}
+
 
 
 
