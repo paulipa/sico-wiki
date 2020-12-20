@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2020-12-19T13:14:20.303Z
+date: 2020-12-20T07:54:05.392Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -56,8 +56,8 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Xa’sar [XASAR]](/community/coalition-corporations/xasar)
 - PvP
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
-- Industry & Mining
-- Ratting/PVE
+- Krabbing (Industry/Mining/Ratting)
+- Fleet & Small Gang PVP
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 - Industry
 - PvE
