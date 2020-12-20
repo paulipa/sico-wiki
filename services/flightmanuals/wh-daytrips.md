@@ -2,13 +2,13 @@
 title: Wormhole Daytrips
 description: 
 published: true
-date: 2020-11-27T14:05:47.976Z
+date: 2020-12-20T02:46:41.377Z
 tags: wormholes, pve
 editor: markdown
 dateCreated: 2020-10-05T18:11:19.241Z
 ---
 
-# HVEN Wormhole daytrips
+# RVEN Wormhole daytrips
 A "wormhole daytrip" is a cozy term for an organized entry-level group content that revolves around taking a fleet of cruisers for ratting into a class 3 j-system. The objectives of these fleets are as follows:
 > 1. Teach players the basics of fleet discipline 
 > 1. Teach players about some basic procedures and etiquette about wormhole space
@@ -72,7 +72,7 @@ The NPC ships/rats will spawn in waves of various sizes and compositions. The FC
 The wormhole rats don't have bounties attached to them and the sites don't award ISK for completion. Instead, the sleeper wrecks will contain special drops (known as "blue loot") that need to be collected and sold in highsec in order to acquire the ISK reward. To facilitate loot gathering, an MTU (Mobile Tractor Unit) will be deployed at the site. 
 After a few sites, the fleet will be warped around in order to pick up previously deployed MTUs and secure the loot.
 
-Although the fleet is primarily PVE oriented, if the opportunity favors us, we will try to engage in a PVP fight. Still, in the event of a PVP encounter that forces/requires a tactical retreat, the fleet will probably need to stand down.
+Although the fleet is primarily PVE oriented, if the opportunity favors us, we will try to engage in a PVP fight. Still, in the event of a PVP encounter that forces a tactical retreat or a complete wipe, the fleet will probably need to stand down.
 
 If too many players leave or after reaching the maximum allocated time for the event, the fleet will also stand down.
 
@@ -92,11 +92,11 @@ Repeated violation of the following rules or intentionally putting the fleet in 
 > {.is-warning}
 
 # Post-fleet
-After the daytrip is completed, the fleet will return to its initial formup system. Players that received a ship handout will be kindly asked to return them. Participation in the fleet will be registered through the use of the SICO FAT system.
+After the daytrip is completed, the fleet will return to its initial formup system. Players that received a ship handout will be kindly asked to return them. Participation in the fleet will be registered through the use of the LinkNet FAT system.
 
 Payouts will be distributed in a timely fashion so please, be patient :). 
 
-> Players will receive ISK payouts depending on the total loot value and the number of sites they actively participated into (HVEN FC is excluded from payout). For complete transparency, the calculation will be displayed in the wormhole channel. 
+> Players will receive ISK payouts depending on the total loot value and the number of sites they actively participated into (RVEN FC is excluded from payout). For complete transparency, the calculation will be posted in the wormhole channel. 
 {.is-success}
 
 
@@ -104,7 +104,7 @@ Payouts will be distributed in a timely fashion so please, be patient :).
 {.is-info}
 
 
-Thank you for joining the "Wormhole Daytrip" and for flying with "Heaven's Angels".
+Thank you for joining the "Wormhole Daytrip" and we wish a good day!
 
 o7
 
