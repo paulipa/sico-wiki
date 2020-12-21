@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2020-12-14T08:20:13.451Z
+date: 2020-12-21T13:13:38.707Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -35,6 +35,7 @@ While we do understand that in the heat of a battle you most often want to smack
 - **You are prohibited to do personal attacks** against any players in EVE. Smack talk is allowed.
 - **No toxic behaviour** in any situations
 - **All real-life threats** are taken extremely serious by CCP and will get you permanently banned rather easy. Keep your head cool as you don’t want to lose your characters for yelling someone to choke on a bag of dicks.
+- **Unfriendly or immature attitudes** is not allowed. Remember that while smack talk is allowd you should keep it mature and civilized. Dont be a dick.
 - **No Real Money Trade (RMT)** of any type.
 
 ## Prohibited actions against community players (PACP)
@@ -42,7 +43,7 @@ While we do understand that in the heat of a battle you most often want to smack
 - **Spamming any communication channels with repeating content** such as advertising your contracts. This includes HyperNet Relay offers.
 - **Shooting or killing any partner corporation members with blue standings** outside coalition raised PvP events is not allowed. This is limited to blue standings and does not apply on partners with neutral standings.
 - **Ganking of partner corporation members or providing possible gank locations** for third party gankers. Ganking is allowed against players that are not part of any of the partner corporations.
-- **Unfriendly or immature attitudes against all community members** is not allowed. While this rule is not applied on players that are not part of our community you should always aim to keep the level of your attitude with within good manners. 
+
 - **Begging for money or items** intentionally and repeatedly.
 
 # Changing coalition corporations
