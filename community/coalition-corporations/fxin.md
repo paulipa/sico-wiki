@@ -2,14 +2,14 @@
 title: Fatalix Industries [FXIN]
 description: 
 published: true
-date: 2020-12-20T07:55:47.807Z
+date: 2020-12-30T00:15:48.700Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:51.171Z
 ---
 
 # About Us
-Fatalix Industries is a null sec corporation and member of Warped Inentions and Legacy Coalition.
+Fatalix Industries is a null sec corporation and member of Brave Collective and Legacy Coalition.
 
 Originally founded in 2006, Fatalix has a long history of activity throughout New Eden. While our identity has changed over the years, we've always remained a group who focused on making sure the game was fun, and maintaining a positive atmosphere. We take the game seriously while not letting it get in the way of real life.
 
