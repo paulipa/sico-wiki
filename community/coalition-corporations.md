@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-01-06T06:53:09.231Z
+date: 2021-01-07T09:00:47.090Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -73,6 +73,9 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
 
 # Wormholes
+## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
+- Rookie oriented WH training corp
+- For those who seek to learn to live in WH space
 ## [Useless Idea [US3]](/community/coalition-corporations/us3)
 - Polish corporation
 - Wormholes
