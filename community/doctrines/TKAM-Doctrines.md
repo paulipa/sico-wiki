@@ -2,7 +2,7 @@
 title: Tkam Doctrines
 description: 
 published: true
-date: 2021-01-10T18:51:45.831Z
+date: 2021-01-10T18:54:27.291Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T18:03:49.642Z
@@ -82,6 +82,10 @@ Rapid Light Missile Launcher II
 Medium EM Shield Reinforcer I
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
+
+
+Hornet EC-300 x2
+Vespa EC-600 x3
 
 
 Inferno Fury Light Missile x2500
@@ -207,6 +211,34 @@ Nanite Repair Paste x100
 
 ### Tackle
 <details> 
+  <summary> Stork - Triple Link Tackle </summary>
+[Stork, Stork fit]
+
+Damage Control II
+Overdrive Injector System II
+
+5MN Quad LiF Restrained Microwarpdrive
+Warp Scrambler II
+Medium F-S9 Regolith Compact Shield Extender
+Medium F-S9 Regolith Compact Shield Extender
+Compact EM Shield Amplifier
+Fleeting Compact Stasis Webifier
+
+Shield Command Burst II
+Shield Command Burst II
+Shield Command Burst II
+[Empty High slot]
+[Empty High slot]
+[Empty High slot]
+
+Small Command Processor I
+Small Command Processor I
+
+
+Shield Command Mindlink
+  </details>
+
+<details> 
   <summary> Jaguar - T2 Tackle </summary>
   [Jaguar, Jaguar]
 
@@ -233,7 +265,7 @@ Acolyte II x2
 Warrior II x2
 
 
-Nanite Repair Paste x100
+Nanite Repair Paste x50
   </details>
 
 <details> 
