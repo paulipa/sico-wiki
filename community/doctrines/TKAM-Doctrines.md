@@ -2,7 +2,7 @@
 title: Tkam Doctrines
 description: 
 published: true
-date: 2021-01-10T18:54:27.291Z
+date: 2021-01-10T19:00:29.654Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T18:03:49.642Z
@@ -218,11 +218,11 @@ Damage Control II
 Overdrive Injector System II
 
 5MN Quad LiF Restrained Microwarpdrive
-Warp Scrambler II
+Initiated Compact Warp Scrambler
 Medium F-S9 Regolith Compact Shield Extender
 Medium F-S9 Regolith Compact Shield Extender
 Compact EM Shield Amplifier
-Fleeting Compact Stasis Webifier
+Micro Jump Field Generator
 
 Shield Command Burst II
 Shield Command Burst II
@@ -236,6 +236,9 @@ Small Command Processor I
 
 
 Shield Command Mindlink
+
+
+Nanite Repair Paste x50
   </details>
 
 <details> 
