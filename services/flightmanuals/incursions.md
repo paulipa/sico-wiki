@@ -2,7 +2,7 @@
 title: SiCO Incursions
 description: 
 published: true
-date: 2020-09-25T00:47:13.251Z
+date: 2021-01-16T13:33:46.171Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T08:11:47.223Z
@@ -23,7 +23,7 @@ A: Our VG doctrine fits can be found here: https://wiki.silentcoalition.com/comm
 A: In short, no. A lot of careful consideration and optimisation has gone into developing our doctrine, and seemingly small changes can lead to a ship that is not fit to fulfil its role and may struggle to survive encounters (or even endanger the fleet!). The obvious exception are direct upgrades, like using T2 guns or faction damage mods.
 
 ## Q: Where do I need to go?
-A: You can see scheduled fleets here: https://auth.silentcoalition.com/optimer/ . Make sure you are in the Incursion special interest group, and you will find a ping at the scheduled time in the incursion channel on discord. X up when the fleet is starting to form, and you will be invited to fleet! The current incursion dockup will always be pinned in that channel, so make sure you are in the correct location before X’ing up. 
+A: You can see scheduled fleets here: https://auth.eve-linknet.com/opcalendar/ . Make sure you are in the Incursion special interest group, and you will find a ping at the scheduled time in the incursion channel on discord. X up when the fleet is starting to form, and you will be invited to fleet! The current incursion dockup will always be pinned in that channel, so make sure you are in the correct location before X’ing up. 
 
 ## Q: How much money does the fleet make?
 A: In a normal fleet, you can expect to make over 100 million ISK per hour (per pilot), the current fleet record sits at 111 mil/h. Fleets usually last for 3-4 hours, but you are free to drop out at any time.
