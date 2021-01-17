@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-01-07T09:00:47.090Z
+date: 2021-01-17T13:29:44.113Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -83,8 +83,6 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
 - Fulltime wormhole living
 - Teamwork & friendly community
-## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
-- PvP
 
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
@@ -92,6 +90,9 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
 - Triglavian Invasions
 - PRO Triglavian
+## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
+- PvP
+
 # Language Partners
 
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
