@@ -2,7 +2,7 @@
 title: Tkam Doctrines
 description: 
 published: true
-date: 2021-01-10T19:00:29.654Z
+date: 2021-01-17T21:21:59.621Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T18:03:49.642Z
@@ -296,6 +296,8 @@ Small EM Shield Reinforcer I
 Caldari Navy Antimatter Charge S x2500
 Nanite Repair Paste x50
   </details>
+  
+  
 ## Brawly Shield Cruisers
 
 Basic MWD brawly (short range) cruiser doctrine with Osprey Logi Support
