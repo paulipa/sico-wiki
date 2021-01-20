@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-01-20T11:06:53.609Z
+date: 2021-01-20T11:15:38.399Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -133,7 +133,7 @@ You can also use the discord bot with the command `!ops` to get a list of the up
 
 ![mqpfleet-600x397.jpg](/mqpfleet-600x397.jpg =300x)
 
-When a fleet is about to go live you will be pinged on our discord. Note that we only ping the relevant groups on normal operations instead of `@everyone`. For this reason it is important that you opt in to the [SIG groups]( https://auth.eve-linknet.com/groups/) for content that interests you. This way you will be mentioned in the fleet pings once the fleets go up.
+When a fleet is about to go live you will be pinged on our discord. Note that we only ping the relevant groups on normal operations instead of `@everyone`. For this reason it is important that you opt in to the [SIG groups](https://auth.eve-linknet.com/groups/) for content that interests you. This way you will be mentioned in the fleet pings once the fleets go up.
 
 ![ping_groups.png](/ping_groups.png =300x)
 
@@ -175,9 +175,17 @@ If there were losses during the fleet the FC will guide you to apply for [Ship r
 
 After the fleet your participation will be tracked by the fleet commander by using a FAT system. You can check your own FAT points from auth fleet [activity section](https://auth.eve-linknet.com/imicusfat/).
 # After the fleet, whats next
+After completing the MQP you should have a basic understanding of how to find different fleets within the community. The next step is to figure out which types of fleets  you enjoy the most. Our community offers plenty of activities hosted by the community partner corporations.
 
+## Try out different things
+Best way to figure out what you would like to do in EVE is to try out different things. Take part in the different operations that are scheduled on the [calendar](https://auth.eve-linknet.com/opcalendar/) the same way you joined for the MQP fleet. Talk with other players that are interested in similar content with you on our discord by opting in to the [Special Interest groups](https://auth.eve-linknet.com/groups/).
 
+## Join a more focused corporation
+After you have found out the things you like to do in EVE we encourage you to move to a more focused corporation. A lot of the community corporations are focusing on different things and playing the game in different regions. You can find a list of [community corporations](https://wiki.eve-linknet.com/community/coalition-corporations) on this wiki.
 
+Each corporation has a chat channel on our discord under the `#recruitment` folder where you can ask more questions about joining a spesific corporation.
+
+If you can't find what you are looking for from within our community then feel free to explore other corporation options in EVE. You can find other corporations from the official [EVE recruitment forums](https://forums.eveonline.com/c/corporations-alliances/recruitment-center/63) or on the [evejobs](https://www.reddit.com/r/evejobs/) subreddit.
 
 
 
