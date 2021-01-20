@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-01-20T11:04:09.658Z
+date: 2021-01-20T11:06:37.206Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -169,11 +169,13 @@ Now that you are in a fleet all of the commands and information will be given ov
 # During the Fleet
 From this point on you are in the hands of your fleet commander. During the MQP fleets the commander will take you through the following things mentioned in the FC’s Checklist for MQP Fleets in here: [FC Checlist for MQP fleets](/services/flightmanuals/fc-mqp-checklist)
 
-# After the fleet, finishing your training
-> The FAT system is automatic and will be handled by your FC. Make sure to stay in the fleet even if you die early on to be applicable for the FAT and SRP.
-{.is-info}
+If there were losses during the fleet the FC will guide you to apply for [Ship replacement program](/services/programs/ship-replacement-program)
 
-If you attended a PvP fleet and had losses in the fleet then you also may want to apply for SRP. You can read more about SRP in here: [Ship replacement program](/services/programs/ship-replacement-program)
+After the fleet your participation will be tracked by the fleet commander by using a FAT system. You can check your own FAT points from auth fleet [activity section](https://auth.eve-linknet.com/imicusfat/).
+# After the fleet, whats next
+
+
+
 
 
 
