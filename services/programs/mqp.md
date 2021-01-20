@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2020-10-12T08:03:02.259Z
+date: 2021-01-20T11:04:09.658Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -42,14 +42,14 @@ Special Interest Groups are open groups that anyone can join or leave at any tim
 {.is-warning}
 
 ### Special Interest Group: MQP
-Special Interest Group: MQP is yet again a special interest group designed for people who like to know when the MQP fleets go live. This channel will be globally pinged whenever a MQP fleet goes live so it is important that you apply for it. You are able to leave it later on if you have no further interest in MQP fleets after your first run.
+Special Interest Group: MQP is yet again a special interest group designed for people who like to know when the MQP fleets go live. This group will be globally pinged whenever a MQP fleet goes live so it is important that you apply for it. You are able to leave it later on if you have no further interest in MQP fleets after your first run.
 ![mqp10-1400x60.jpg](/mqp10-1400x60.jpg)
 
 ## 4. Activate Discord and Mumble
 Voice comms are a must for all fleet operations. It is important that you are able to join the communication channels used for each fleet. Most often we will be using Discord voice channels for fleet ops but in some cases Mumble might be preferred.
 
 [Guide for setting up Discord](/tools/communication/discord) <- Primary
-[Guide for setting up Mumble](/tools/communication/mumble) <- Backup
+[Guide for setting up Mumble](/tools/communication/mumble) <- Backup (optional)
 
 > It is important that you can access the fleet channels on mumble and on discord before the fleet starts! There might be no time to fix your access when the fleet goes up.
 {.is-danger}
@@ -65,7 +65,7 @@ When we are talking about doctrinse in EVE online we are talking about ships, fi
 The community has created a few basic doctrine ships that you should aim for. These ships have been designed based on our fleet numbers and pilot capabilities. All of our doctrines are visible in here https://wiki.eve-linknet.com/en/community/doctrines
 
 ### MQP Doctrine
-MQP fleets have a standard doctrine that will help you getting started with the training for the larger doctrine hulls. There are two different types of MQP doctrines: Newbro MQP fits and 2 Advanced MQP fits.
+MQP fleets use a standard doctrine that will help you getting started with the training for the larger doctrine hulls.
 
 Newbro MQP fits are meant for brand new players who have low skill points. These basic ships are super fast to train for and will allow you to join any MQP fleet. They include both low value DPS ships and logistic ships for you to choose from.
 
@@ -94,24 +94,20 @@ Support ships are designed for players with low skill points. While they do not 
 ## 7. Buying & Fitting doctrine ships
 Once you know what doctrine ships are used in the community fleets the next task is to buy and fit the ships. There are several methods for buying your ships, some more efficient than others.
 
-### Doctrine Contracts
-Players in the community will be trying to keep the most important doctrines up on corporation contracts. However since the contracts are limited to corporation you are unable to access contracts made by other corporations and for this reason the doctrine you are looking for might not be available for you.
-
-> For logistical reasons the doctrine contracts may have the rigs inside the cargo hold instead of fitted on the ship. Make sure you fit the rigs before you depart!
-{.is-warning}
-
-To check out if a specific doctrine can be found from your corporation contracts simply open the contract window and fill in the proper filters.
-![doctrine-contract-1085x800.jpg](/doctrine-contract-1085x800.jpg =300x)
-
 ### Buying from market
-If there are no doctrine contracts up for you then the next thing you can do is to go to a trade hub and buy the doctrine fitting in there.
+The most obvious way of getting your ship and the fitting for it is to buy them from the market. Check out the doctrine page and compare the items to the market orders. The closer of formup system you can buy your doctrine ships the less moving you need to do. However prices at random formup systems might cost more than they would at the trade hubs.
 
-You may not even find all of the items from the market you are looking at! If you are far out from markets then it is important that you have bought your fit and ship before the fleet starts!
+You can check if your local station can supply you with all of the needed modules by copying the whole doctrine fit and pastingit into the multibuy window on the market browser.
 
-In the case of the MQP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the LinkNet Trade Center. Due to the logistical effort the prices here will be higher than in Jita. The closest large hub to us is Amarr.
+In the case of the MQP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the LinkNet Trade Center. Due to the logistical effort the prices here might be higher than in Jita. The closest large hub to us is Amarr.
+
+### Handout ships
+Sometimes ships are handed out in fleets. You can find this information from the event details on our [operation calendar](https://auth.eve-linknet.com/opcalendar/). However MQP ships are not handed out as the goal is to teach you how to buy and fit your own ships.
 
 ### Fitting doctrine ships
-You are allowed to change the meta version of the module (T1, T2 or meta 1-4) of any doctrine if you are unable to fly the fit with the T2 modules. 
+You are allowed to change the meta version of the module (T1, T2 or meta 1-4) of any doctrine if you are unable to fly the fit with the T2 modules. Open the show info window of each module and go to the variations tab to see the different meta variations.
+
+Chefk gif: [Item Variations](/item_variations.mp4)
 
 > You are not allowed to change the module type of the doctrines!
 {.is-danger}
@@ -127,19 +123,30 @@ If you have completed all of the steps in the systems checkup you should be read
 Pre-fleet checklist steps are general steps that you should do before each fleet you join.
 
 ## 1. When, where and how
-Each scheduled fleet will be posted on our fleet operations section on AUTH. The easiest way to know about upcoming fleets is to do a discord command. You can also check up on all upcoming and past community fleets in the auth section located in here https://auth.silentcoalition.com/optimer/
+Each scheduled fleet will be posted on our [operation calendar](https://auth.eve-linknet.com/opcalendar/) on AUTH. In this case you are interested in the MQP fleets. You can find all of our events from the calendar.
+
+When you click on the event you will see more details about it such as: what doctrine to use, where the formup is, what comms the event is using and who the fleet commander is for the fleet. If you have questions about the fleet most often the best way to ask is the fleet commander who hosts the operation.
+
+![mqp_fleet_calendar.png](/mqp_fleet_calendar.png =600x)
+
+You can also use the discord bot with the command `!ops` to get a list of the upcoming operations.
+
 ![mqpfleet-600x397.jpg](/mqpfleet-600x397.jpg =300x)
 
-`!ops` command done in any of the authenticated discord channels (so not in the public one) will provide you the same list of upcoming operations that you can see  via AUTH. However it is much more convenient to use the command on discord than go to the page each time. To find out when the next MQP fleet is happening simply check for any scheduled MQP Fleets.
+When a fleet is about to go live you will be pinged on our discord. Note that we only ping the relevant groups on normal operations instead of `@everyone`. For this reason it is important that you opt in to the [SIG groups]( https://auth.eve-linknet.com/groups/) for content that interests you. This way you will be mentioned in the fleet pings once the fleets go up.
+
+![ping_groups.png](/ping_groups.png =300x)
 
 ## 2. Have the right doctrine
-Each fleet has a doctrine that it will be using. Make sure you have the right doctrine for the right fleet. In this case you should be using the `MQP doctrine`.
+Each fleet has a [doctrine](https://wiki.eve-linknet.com/en/community/doctrines) that it will be using. Make sure you have the right doctrine for the right fleet. In this case you should be using the [MQP doctrine](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#mqp-fleet).
 
 ## 3. Move in time
 If you do not have your MQP ship located in the starting location for the fleet make sure that you move in there before the fleet starts. When the fleet starts it won’t be waiting for people to start moving over to the location.
 
 ## 4. Expect to die, do not have expensive implants
-Like in most activities in EVE death is always lurking behind the corner. Be prepared to lose everything you bring with you, including your POD. To save your implants you should switch to an empty clone. It is also a good idea to have your death clone set at the staging system so that you can easily reship if you die. You can read more about jump and medical clones in here: [Guides: Clones](/services/guides/clones)
+Like in most activities in EVE death is always lurking behind the corner. Be prepared to lose everything you bring with you, including your POD. To save your implants you should switch to an empty clone. 
+
+It is also a good idea to have your death clone set at the staging system so that you can easily reship if you die. You can read more about jump and medical clones in here: [Guides: Clones](/services/guides/clones)
 
 # MQP Fleet
 It is finally time to actually get to play the game itself! When a MQP fleet is up this is how it is all going to go down. The actual fleet may and most likely will differ from the fleet structure described in this section and it is more used as a guide for the fleet commanders so that they do not miss anything.
