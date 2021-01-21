@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2020-12-15T23:59:53.212Z
+date: 2021-01-21T07:17:00.846Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -287,6 +287,255 @@ Scan Resolution Script x2
 Targeting Range Script x2
 Optimal Range Script x3
 Tracking Speed Script x3
+</details>
+
+## Drake fleet
+Used to fight against capitals and heavy opponents.
+
+### DPS
+<details>
+<summary>Drake, Drake Fleet 100mn</summary>
+[Drake, Drake Fleet 100mn]
+
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+
+100MN Y-S8 Compact Afterburner
+Missile Guidance Computer II
+Large F-S9 Regolith Compact Shield Extender
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+Compact EM Shield Amplifier
+
+Heavy Missile Launcher II, Scourge Fury Heavy Missile
+Heavy Missile Launcher II, Scourge Fury Heavy Missile
+Heavy Missile Launcher II, Scourge Fury Heavy Missile
+Heavy Missile Launcher II, Scourge Fury Heavy Missile
+Heavy Missile Launcher II, Scourge Fury Heavy Missile
+Heavy Missile Launcher II, Scourge Fury Heavy Missile
+[Empty High slot]
+
+Medium Ancillary Current Router I
+Medium Ancillary Current Router I
+Medium Thermal Shield Reinforcer II
+
+
+Hornet EC-300 x5
+
+
+Synth Mindflood Booster
+Synth Crash Booster
+Agency 'Pyrolancea' DB3 Dose I
+
+
+Scourge Fury Heavy Missile x4000
+Caldari Navy Scourge Heavy Missile x4000
+Missile Precision Script x1
+Missile Range Script x1
+Nanite Repair Paste x200
+</details>
+
+### Logistics
+<details>
+<summary>Basilisk, Drake Fleet 100mn</summary>
+[Basilisk, Drake Fleet 100mn]
+
+Damage Control II
+Power Diagnostic System II
+
+EM Shield Hardener II
+Republic Fleet Large Shield Extender
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+100MN Afterburner II
+
+Large Inductive Compact Remote Capacitor Transmitter
+Medium Inductive Compact Remote Capacitor Transmitter
+Large S95a Scoped Remote Shield Booster
+Large S95a Scoped Remote Shield Booster
+Large S95a Scoped Remote Shield Booster
+Large S95a Scoped Remote Shield Booster
+
+Medium Ancillary Current Router II
+Medium Ancillary Current Router II
+
+
+Hornet EC-300 x5
+
+
+Synth X-Instinct Booster
+
+
+Nanite Repair Paste x200
+</details>
+
+### Support
+
+<details>
+<summary>Huginn, Drake Fleet 100mn</summary>
+[Huginn, Drake Fleet 100mn]
+
+Damage Control II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+
+100MN Afterburner II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+Large Shield Extender II
+Shadow Serpentis Stasis Webifier
+
+Civilian Gatling Autocannon
+Drone Link Augmentor I
+Drone Link Augmentor II
+Drone Link Augmentor II
+Civilian Gatling Autocannon
+
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+
+
+Acolyte II x3
+Hornet EC-300 x5
+
+
+Synth X-Instinct Booster
+
+
+Nanite Repair Paste x160  
+</details>
+
+<details>
+<summary>Drake Fleet 100mn</summary>
+[Lachesis, Drake Fleet 100mn]
+
+Damage Control II
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+
+100MN Afterburner II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+True Sansha Warp Disruptor
+Large Shield Extender II
+True Sansha Warp Disruptor
+
+Medium EMP Smartbomb II
+Drone Link Augmentor II
+Drone Link Augmentor II
+Civilian Gatling Autocannon
+
+Medium Core Defense Field Extender II
+Medium EM Shield Reinforcer II
+
+
+Acolyte II x5
+Hornet EC-300 x5
+
+
+Synth X-Instinct Booster
+
+
+Nanite Repair Paste x164
+</details>
+
+<details>
+<summary>Bifrost, drake fleet - skirm</summary>
+[Bifrost, drake fleet - skirm]
+
+Micro Auxiliary Power Core II
+Inertial Stabilizers II
+Inertial Stabilizers II
+
+10MN Y-S8 Compact Afterburner
+Medium 'Canyon' Shield Extender
+Compact Multispectrum Shield Hardener
+Micro Jump Field Generator
+Domination Thermal Shield Amplifier
+
+[Empty High slot]
+Skirmish Command Burst II, Evasive Maneuvers Charge
+Skirmish Command Burst II, Interdiction Maneuvers Charge
+Skirmish Command Burst II, Rapid Deployment Charge
+[Empty High slot]
+[Empty High slot]
+
+Small Command Processor I
+Small Command Processor I
+
+
+Skirmish Command Mindlink
+
+
+Nanite Repair Paste x50
+</details>
+
+<details>
+<summary>Stork, drake fleet - shield</summary>
+[Stork, drake fleet - shield]
+
+Damage Control II
+Vigor Compact Micro Auxiliary Power Core
+
+10MN Y-S8 Compact Afterburner
+Republic Fleet Medium Shield Extender
+Compact Multispectrum Shield Hardener
+Domination EM Shield Amplifier
+Domination Kinetic Shield Amplifier
+Micro Jump Field Generator
+
+Shield Command Burst II, Shield Extension Charge
+Shield Command Burst II, Active Shielding Charge
+Shield Command Burst II, Shield Harmonizing Charge
+[Empty High slot]
+[Empty High slot]
+[Empty High slot]
+
+Small Command Processor I
+Small Command Processor I
+
+
+Shield Command Mindlink
+
+
+Nanite Repair Paste x50
+</details>
+
+<details>
+<summary>Stork, drake fleet - info</summary>
+[Stork, drake fleet - info]
+
+Damage Control II
+Vigor Compact Micro Auxiliary Power Core
+
+10MN Y-S8 Compact Afterburner
+Republic Fleet Medium Shield Extender
+Compact Multispectrum Shield Hardener
+Domination EM Shield Amplifier
+Domination Kinetic Shield Amplifier
+Micro Jump Field Generator
+
+[Empty High slot]
+Information Command Burst II, Electronic Superiority Charge
+Information Command Burst II, Sensor Optimization Charge
+Information Command Burst II, Electronic Hardening Charge
+[Empty High slot]
+[Empty High slot]
+
+Small Command Processor I
+Small Command Processor I
+
+
+Information Command Mindlink
+
+
+Nanite Repair Paste x50
 </details>
 
 ## Moa Fleet
