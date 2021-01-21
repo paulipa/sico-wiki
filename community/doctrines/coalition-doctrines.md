@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-01-21T07:23:00.746Z
+date: 2021-01-21T07:23:36.312Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -291,7 +291,7 @@ Tracking Speed Script x3
 ## Drake fleet
 Used to fight against capitals and heavy opponents.
 
-Logistics > DPS > Support > Booster > Tackle Frigates
+Logistics > DPS > Support > Booster > [Tackle Frigates](#mqp-fleet)
 
 ### DPS
 <details>
