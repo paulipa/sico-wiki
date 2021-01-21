@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-01-21T07:17:00.846Z
+date: 2021-01-21T07:22:23.330Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -138,7 +138,6 @@ Warrior I x4
 </details>
 
 ### Booster
-
 
 <details>
   <summary>Sleipnir - SLTRN</summary>
@@ -292,6 +291,8 @@ Tracking Speed Script x3
 ## Drake fleet
 Used to fight against capitals and heavy opponents.
 
+Logistics > DPS > Support > Booster > Tackle Frigates
+
 ### DPS
 <details>
 <summary>Drake, Drake Fleet 100mn</summary>
@@ -410,7 +411,7 @@ Nanite Repair Paste x160
 </details>
 
 <details>
-<summary>Drake Fleet 100mn</summary>
+<summary>Lachesis, Drake Fleet 100mn</summary>
 [Lachesis, Drake Fleet 100mn]
 
 Damage Control II
@@ -445,6 +446,8 @@ Synth X-Instinct Booster
 Nanite Repair Paste x164
 </details>
 
+### Boosters
+
 <details>
 <summary>Bifrost, drake fleet - skirm</summary>
 [Bifrost, drake fleet - skirm]
@@ -476,7 +479,7 @@ Skirmish Command Mindlink
 Nanite Repair Paste x50
 </details>
 
-<details>
+<details> 
 <summary>Stork, drake fleet - shield</summary>
 [Stork, drake fleet - shield]
 
