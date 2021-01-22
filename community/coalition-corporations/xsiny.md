@@ -2,27 +2,18 @@
 title: Silent Industry [XSINY]
 description: 
 published: true
-date: 2020-07-18T07:36:16.983Z
+date: 2021-01-22T20:47:34.930Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-17T14:53:40.003Z
 ---
 
-Silent Industry is the High Security Industry Wing for the Silent Coalition
+**Silent Industry** is the Highsec industry wing for **Linknet Community**, part of the Highsec alliance **Silent Company**, based at Ronne in the Highsec HQ to benefit from the Coalition infrastructure.
 
-Just like a NPC corporation with benefits! Why stick in a NPC corporation with random players when you can be in a player corporation with friends?
+We're a industry focused corporation, aiming to provide support for alliance PVP and PVE operations thru manufacturing, research and resource harvesting. We partecipate in the fleet mining operations around HQ area and fulfill manufacturing requests from the Coalition. 
 
-How you want to benefit from us is completely up to you, just like in NPC corporations. The great difference with us and NPC corporations is that we have a lot more to offer with the same level of risks that they offer!
+We have a relaxed enviroment where you can advance in your own pace, and contribute to the operations if you wish so. If you're interested in Industry and is looking for your next step, be sure to check us out!
 
-As a member of SiCO you will be enjoying the full range of our services, including our corporation management framework! This alliance is not war eligible and you’ll be in an industry focused corporation helping support the other wings of SICO.
+**Point of Contact**:
+LocusAzzurro Orisis (LocusAzzurro#7414)
 
-Silent Industry is for people who are particularly interested in Industry and Mining operations. We still benefit from all of the Coalition infrastructure, with the aim of providing industry support and building ships for alliance PVP and PVE operations.
-
-Recruitment status: Open
-
-Point of contacts:
-Cismet
-Ikarus Cesaille
-Discord
-
-More information about us can be found at:
-www.silentcoalition.com
