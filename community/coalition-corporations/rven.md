@@ -2,7 +2,7 @@
 title: Nevermore. [.RVEN]
 description: 
 published: true
-date: 2021-02-02T18:07:22.539Z
+date: 2021-02-02T19:53:44.370Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:10:43.731Z
@@ -20,13 +20,13 @@ Yup, living in a wormhole can be thrilling – danger lurks around every corner 
 In fact, wormholes are probably the harshest and most challenging environment in all of New Eden (except maybe High Security space, right? Dude, that place is scary :D). Living in a wormhole takes hard work, dedication and in most cases – a strong, tight-knit community.
 So yeah, it can be exciting, it can be lucrative, it can be dangerous… but it’s fun and it’s never boring.
 
-## About us
+# About us
 Nevermore. (with a dot) is an English-speaking wormhole corporation operating in **EU/US timezone**. 
 Our primary focus is living inside a wormhole system and building a community that enjoys everything that comes with it. 
 But this wouldn't be possible without a lot of team-work in mapping our surroundings and in coming together for any industrial/hauling job, PVE activity or PVP encounter.
 
 
-### Short history
+## Short history
 Our corporation is the result of a merger between the active playerbases of two well known corporations that have been part of the coalition’s community partners since its early days – RASAX and Heaven’s Angels [HVEN] – hence our ticker: [.RVEN].
 
 While our name and brand are relatively new to the coalition landscape and especially to the EVE wormhole community, we haven't forgotten our core values: **playing with friends and teaching people how to play, so we have more friends to play with**.
@@ -34,10 +34,10 @@ While our name and brand are relatively new to the coalition landscape and espec
 With a new leadership and a refreshed playerbase, we strive to make a name for ourselves and to constantly improve as a wormhole group. Our current community is as diverse as the coalition, and so is our experience. Our RASAX branch boasts a yeet-first mentality and jack-of-all-trades background that includes living in Null Sec, Low Sec, J-space and even Trig-space. Conversely, our former-HVEN wormholers bring us the knowledge, skill and experience that come from years of living in J-space .
 
 
-## What we can offer:
+# What we can offer:
 - An easygoing, relaxed community, focused on having fun playing together.
 - Organized PvP and PvE activities.
-- Discord server, Auth services and website guides.
+- Discord server, Auth services, private Pathfinder map and website guides.
 - Infrastructure for PI, industry and refining needs.
 - Experienced players willing to teach you about J-space and who will have your back in a scrape.
 - A place to dock your ship and hang your hat – a home among the wormhole stars.
