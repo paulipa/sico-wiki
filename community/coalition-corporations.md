@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-01-26T11:47:44.492Z
+date: 2021-02-02T10:03:13.339Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -60,12 +60,6 @@ All of the entry level corporations are fairly similar and have the same service
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 - Industry
 - PvE
-
-## [Super Saiyan Invasion [SSJ1]](/community/coalition-corporations/ssj1)
--PVP
--Industry
--Super-Cap Umbrella
--Krabbing & PVE (SRP for Rorqual and Super Capital Ratting(Green Light Only))
 
 ## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
 
