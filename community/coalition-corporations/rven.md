@@ -2,7 +2,7 @@
 title: Nevermore. [.RVEN]
 description: 
 published: true
-date: 2021-02-02T17:43:01.282Z
+date: 2021-02-02T17:45:51.372Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:10:43.731Z
@@ -59,7 +59,7 @@ With a new leadership and a refreshed playerbase, we strive to make a name for o
 > Ability (and willingness) to train into corp doctrines (specific ships and fittings).
 {.is-warning}
 
-Living in J-space means having to do PvP (whether you like it or not). We want to know that you can handle yourself and that you are familiar with the basic principles of PvP and fleet mechanics/discipline .
+Living in J-space means having to do PvP (whether you like it or not). We want to know that you can handle yourself and that you are familiar with the basic principles of PvP and fleet mechanics/discipline. That also includes accepting that your ship is meant to blow up and not ragequitting over ship losses.
 Unfortunately, not being able to fly certain ships and use certain modules can preclude you from participating in fleet activities. And there’s not much point in being in a corporation if you can’t take part in any of its activities, right?
 
 While it is possible to survive as an Alpha for a limited time as you work your way back to Omega, in the long run, it’s hard to be a fully integrated member in our wormhole environment without access to the **Omega-exclusive skills**.
