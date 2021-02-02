@@ -2,9 +2,10 @@
 title: Wormholes
 description: 
 published: true
-date: 2020-08-20T22:04:27.684Z
+date: 2021-02-02T17:19:41.096Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T07:59:53.957Z
 ---
 
 # Wormholes Manual
@@ -166,7 +167,7 @@ Bookmarking is a crucial part of wormhole life. As pretty much everything needs 
 ## Naming bookmarks
 Bookmarking is a crucial part of living in wormhole space. Since it takes a lot of bookmarks to mark every single exit and anomalies we have a set of rules that apply to bookmarking. Bookmarking rules are built to work with Pathfinder so it is important that you understand how to use the program before you can start making bookmarks. All corporation members are able to add and delete bookmarks.
 
-Bookmark names should always start with the three letters that are present in the signature ID. This way we can connect the bookmark to the  correct ID and remove them from bookmarks as the signature vanishes. For a example guide for creating bookmarks to wormhole chains can be found from the Pathfinder guide in here: https://www.silentcoalition.com/help-center/pathfinder
+Bookmark names should always start with the three letters that are present in the signature ID. This way we can connect the bookmark to the  correct ID and remove them from bookmarks as the signature vanishes. For a example guide for creating bookmarks to wormhole chains can be found from the Pathfinder guide in here:  https://wiki.eve-linknet.com/en/tools/pathfinder.
 
 Bookmarks always start with the signature id letters followed by:
 
