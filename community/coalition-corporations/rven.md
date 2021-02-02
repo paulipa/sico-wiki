@@ -2,7 +2,7 @@
 title: Nevermore. [.RVEN]
 description: 
 published: true
-date: 2021-02-02T17:45:51.372Z
+date: 2021-02-02T18:07:22.539Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:10:43.731Z
@@ -71,11 +71,12 @@ Thirty days is the minimum requirement; we may require longer. Exceptions can be
 > - Willingness to learn our mapping/bookmarking rules and tools.
 > - Be respectful, be friendly.
 > - Team-player mentality. Support your fellow members and your corporation as a whole.
-> - Say hello once in a while.
+> - Join fleet activities whenever possible.
 
 For a quick preview of how our bookmarking convention works, you can check this page: https://wiki.eve-linknet.com/en/services/flightmanuals/wormholes#naming-bookmarks
 
-Other that this, nothing is mandatory. Play as much as you want – when you want. Obviously, there are times where having as many people as possible would be especially appreciated. However, this is a game and real life comes first – for all of us.
+Other that this, nothing is mandatory. Play as much as you want – when you want. Obviously, there are times where having as many people as possible would be especially appreciated. For this reason, we expect people to respond to pings/join fleets if they can.
+However, this is a game and real life comes first – for all of us.
 
 # How to apply
 If you fulfill the above requirements and you are interested in joining please contact **Cephast** on Discord: `Cephas28#6481`
@@ -83,3 +84,8 @@ If you fulfill the above requirements and you are interested in joining please c
 > In order to keep our corporation/community safe, we review our incoming members for any pertinent information that concerns us. 
 {.is-warning}
 
+Diplomacy
+---
+
+**Catyana Oskold, CEO**
+`Space Dad#6278`
