@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:49:57.907Z
+date: 2021-02-04T13:50:46.485Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -129,51 +129,6 @@ Scan Resolution Script x2
 ECCM Script x2
 </details>
 
-
-## Upship Gnosis
-This fit is used when hostiles try to contest the camp. It should only be used if FC calls for it.
-<details>
-  <summary>Gnosis, Upship Gnosis</summary>
-
-[Gnosis, Upship Gnosis]
-Damage Control II
-Reinforced Bulkheads II
-Reinforced Bulkheads II
-Reinforced Bulkheads II
-Reinforced Bulkheads II
-Mark I Compact Reinforced Bulkheads
-
-50MN Y-T8 Compact Microwarpdrive
-Initiated Compact Warp Disruptor
-Fleeting Compact Stasis Webifier
-Initiated Compact Warp Scrambler
-Medium Compact Pb-Acid Cap Battery
-Medium Micro Jump Drive
-
-Heavy Ion Blaster II
-Heavy Ion Blaster II
-Heavy Ion Blaster II
-Heavy Ion Blaster II
-Heavy Ion Blaster II
-Medium Gremlin Compact Energy Neutralizer
-
-Medium Transverse Bulkhead I
-Medium Transverse Bulkhead I
-Medium Transverse Bulkhead I
-
-
-
-Warrior II x5
-Valkyrie II x5
-
-Null M x2000
-Void M x2000
-Antimatter Charge M x2000
-Caldari Navy Antimatter Charge M x1000
-
-
-</details>
-
 ## Instalock Maulus Navy Issue
 Only one needed per fleet. This Maulus has 18km scram range heated and can stop targets from burning back to gate. Should get constant repairs and sensor boosts by an Exequror. 
 
@@ -246,4 +201,49 @@ Scorch M x6
 Imperial Navy Gamma M x3
 Imperial Navy Standard M x3
 Nanite Repair Paste x70
+</details>
+  
+## Upship Gnosis
+This fit is used when hostiles try to contest the camp. It should only be used if FC calls for it.
 <details>
+  <summary>Gnosis, Upship Gnosis</summary>
+
+[Gnosis, Upship Gnosis]
+Damage Control II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Mark I Compact Reinforced Bulkheads
+
+50MN Y-T8 Compact Microwarpdrive
+Initiated Compact Warp Disruptor
+Fleeting Compact Stasis Webifier
+Initiated Compact Warp Scrambler
+Medium Compact Pb-Acid Cap Battery
+Medium Micro Jump Drive
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Medium Gremlin Compact Energy Neutralizer
+
+Medium Transverse Bulkhead I
+Medium Transverse Bulkhead I
+Medium Transverse Bulkhead I
+
+
+
+Warrior II x5
+Valkyrie II x5
+
+Null M x2000
+Void M x2000
+Antimatter Charge M x2000
+Caldari Navy Antimatter Charge M x1000
+
+
+</details>
+  
