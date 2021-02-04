@@ -1,8 +1,8 @@
 ---
 title: Tama Gate Camp Fits
-description: Ship Fitting that are used for Tama camps and you should have ready to  go in either Nourvukaiken or Tama
+description: Ship fittings that are used for Tama gate camps and you should have ready to go in either Nourvukaiken or Tama
 published: true
-date: 2021-02-04T14:29:03.676Z
+date: 2021-02-04T16:16:05.929Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
