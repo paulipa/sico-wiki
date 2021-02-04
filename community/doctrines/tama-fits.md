@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:41:14.168Z
+date: 2021-02-04T13:43:12.185Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -172,7 +172,7 @@ Caldari Navy Antimatter Charge M x1000
 </details>
 
 ## Instalock Maulus Navy Issue
-Only one needed per fleet. This Maulus has 18km scram range and heated can stop targets from burning back to gate. Should get constant repairs and sensor boosts by an Exeq logi. 
+Only one needed per fleet. This Maulus has 18km scram range heated and can stop targets from burning back to gate. Should get constant repairs and sensor boosts by an Exequror. 
 
 
 <details>
