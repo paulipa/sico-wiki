@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T07:59:31.991Z
+date: 2021-02-04T08:08:06.952Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -40,5 +40,52 @@ Small Targeting System Subcontroller I
 EMP S x1000
 Republic Fleet EMP S x200
 Scan Resolution Script x2
+</details>
+
+## Support Gnosis
+
+The Gnosis has good locking speed, some armour tank and a **Remote Sensor Booster II** to increase your camping buddies locking speed. The **Skirmish Command Burst I** can be used to increase point and scram range of the fleet. If you cannot use a command burst, fit the **Drone Link Augmentor I** from crago bay instead. 
+<details>
+  <summary>Gnosis, Support Gnosis</summary>
+
+[Gnosis, Gnosis Camp New]
+Damage Control II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+1600mm Crystalline Carbonide Restrained Plates
+
+50MN Y-T8 Compact Microwarpdrive
+Warp Disruptor II
+Fleeting Compact Stasis Webifier
+Remote Sensor Booster II
+Sensor Booster II
+Sensor Booster II
+
+200mm Prototype Gauss Gun
+200mm Prototype Gauss Gun
+200mm Prototype Gauss Gun
+200mm Prototype Gauss Gun
+200mm Prototype Gauss Gun
+Skirmish Command Burst I
+
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+
+
+
+Valkyrie II x5
+Light Armor Maintenance Bot I x5
+
+Targeting Range Script x3
+Caldari Navy Antimatter Charge M x1200
+Scan Resolution Script x3
+Evasive Maneuvers Charge x200
+Interdiction Maneuvers Charge x300
+Rapid Deployment Charge x200
+Caldari Navy Iron Charge M x800
+Drone Link Augmentor I x1
 </details>
 
