@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:35:19.771Z
+date: 2021-02-04T13:39:01.136Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -202,4 +202,49 @@ Scan Resolution Script x2
 Nanite Repair Paste x30
   
   <details>
+    
+## Ashimmu
+The Ashimmu can web targets on the gate to further prevent them to escape the camp and help the Thrasher to better apply damage. Only one needed per fleet. Should also get remote sensor boosts and repair from an Exequror. 
 
+<details>
+  <summary>Ashimmu, Camp Fast Lock</summary>
+ 
+  [Ashimmu, Camp Fast Lock]
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+Reactive Armor Hardener
+IFFA Compact Damage Control
+Heat Sink II
+1600mm Rolled Tungsten Compact Plates
+
+Sensor Booster II
+50MN Y-T8 Compact Microwarpdrive
+Stasis Webifier II
+Stasis Webifier II
+
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Heavy Pulse Laser II
+Medium Energy Nosferatu II
+Medium Energy Nosferatu II
+
+Medium Explosive Armor Reinforcer I
+Medium Processor Overclocking Unit I
+Medium Kinetic Armor Reinforcer I
+
+
+
+Vespa II x4
+
+Scan Resolution Script x1
+Conflagration M x3
+Imperial Navy Multifrequency M x6
+Scorch M x6
+Imperial Navy Gamma M x3
+Imperial Navy Standard M x3
+Nanite Repair Paste x70
+
+
+  
+  
+   <details>
