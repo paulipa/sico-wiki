@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T08:22:35.696Z
+date: 2021-02-04T13:28:22.382Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -10,8 +10,9 @@ dateCreated: 2021-02-04T07:49:43.982Z
 
 # Tama Gate Camp Fits
 ## Instalocking Thrasher
-This is the backbone of our gate camp fits. Locks very fast, cheap and has some tank to survive gate guns. You should always align out to a ping before you shoot hostile ships on a gate. Warp off immediately if  you get shot by gate guns. 
-You should be 0 km off the gate at all times
+This is the backbone of our gate camp fits. Locks very fast, is quite cheap (<4mill) and has some decent tank to survive gate guns for a bit. 
+You should always align out to a ping before you shoot hostile ships on a gate. Warp off immediately if  you get shot by gate guns. 
+Thrashers should be 0 km off the gate at all times.
 <details>
   <summary>Thrasher, T1 Gate Camp Thrasher</summary>
 
@@ -45,7 +46,7 @@ Scan Resolution Script x2
 
 ## Support Gnosis
 
-The Gnosis has good locking speed, some armour tank and a **Remote Sensor Booster II** to increase your camping buddies locking speed. The **Skirmish Command Burst I** can be used to increase point and scram range of the fleet. If you cannot use a command burst, fit the **Drone Link Augmentor I** from crago bay instead. 
+The Gnosis has good locking speed, a good armour tank and a **Remote Sensor Booster II** to increase your camping buddies locking speed. The **Skirmish Command Burst I** can be used to increase point and scram range of the fleet. If you cannot use a command burst, fit the **Drone Link Augmentor I** in crago instead. 
 <details>
   <summary>Gnosis, Support Gnosis</summary>
 
@@ -91,7 +92,7 @@ Drone Link Augmentor I x1
 </details>
 
 ## Support Logi
-Armour logi with **Remote Sensor Booster II**s to increase lock speed of your fleet mates.
+Armour logi with **Remote Sensor Booster II**s to increase lock speed of your fleet mates. Usually repairs Gnosises and fast locking ships.
 <details>
   <summary>Exequror, Camp Exec</summary>
   
@@ -127,7 +128,7 @@ ECCM Script x2
 
 
 ## Upship Gnosis
-This fit is used when hostiles try to bust the camp. It should only be used if FC calls for it.
+This fit is used when hostiles try to contest the camp. It should only be used if FC calls for it.
 <details>
   <summary>Gnosis, Upship Gnosis</summary>
 
