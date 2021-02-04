@@ -2,15 +2,21 @@
 title: STRATEGIC EXPLORATION AND DEVELOPMENT CORP [SEADC]
 description: 
 published: true
-date: 2021-01-06T07:06:38.109Z
+date: 2021-02-04T11:41:27.611Z
 tags: entry corporation, joining sico
 editor: markdown
 dateCreated: 2020-07-08T16:30:18.889Z
 ---
 
-Welcome to SEADC, formally known as Strategic Exploration and Development Corp. SEADC is the oldest corporation in SiCO as well as the founder corporation for the coalition.
+SEADC is the active High Sec routing department of LinkNet community for players who seek to actively interact with the rest of our community!
 
-We are just like a NPC corporation, but with benefits! Why stick in a NPC corporation with random players when you can be in a player corporation with friends and enjoy the benefits from the coalition?
+> If you are not interested in interacting with the community but would still like to be part of us, please apply and move to Deep Stellar Coalition Enterprises [DLSC]. This allows us to keep spots open for active players in the active department.
+{.is-warning}
+
+
+As this corporation is dedicated for active players we will require you to register on our [authentication system](https://wiki.eve-linknet.com/en/tools/auth) and [discord](https://wiki.eve-linknet.com/tools/communication/discord) server. Players who do not register on these services are expected to not seek to interact with the rest of the community and will be removed.
+
+Besides of the registrations there are no mandatory tasks for you. You can come and go as you wish and join any activities that may interest you.
 
 Our ultimate goal in SEADC is to find you a corporation that matches your personal goals and gameplay needs in EVE. While we do have several corporations within the coalition doing different things there might be situations when we simply can’t provide the perfect corporation for your personal needs within the coalition. In situations like this we try to guide you towards corporations and entities that are not part of the coalition that we think would work out for you. We hold no political stances against any entities so we are completely neutral in our guidance.
 
