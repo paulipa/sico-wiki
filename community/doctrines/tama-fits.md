@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:43:12.185Z
+date: 2021-02-04T13:47:04.376Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -12,6 +12,9 @@ dateCreated: 2021-02-04T07:49:43.982Z
 ## Instalocking Thrasher
 This is the backbone of the gate camp fits. Locks very fast, is quite cheap (<4mill) and has some decent tank to survive gate guns for a bit. 
 You should always align out to a ping before you shoot hostile ships on a gate. Warp off immediately if  you get shot by the gate guns. 
+> As soon as you are are more than 150km away from the gate, gate guns will stop shooting and even won't engage again if you warp back and shoot the same target.
+{.is-info}
+
 Thrashers should be within jump range of the gate at all times.
 <details>
   <summary>Thrasher, T1 Gate Camp Thrasher</summary>
