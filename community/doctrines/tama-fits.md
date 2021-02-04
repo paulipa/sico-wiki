@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:48:13.707Z
+date: 2021-02-04T13:49:57.907Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -49,7 +49,7 @@ Scan Resolution Script x2
 
 ## Support Gnosis
 
-The Gnosis has good locking speed, a good armour tank and a **Remote Sensor Booster II** to increase your camping buddies locking speed. The **Skirmish Command Burst I** can be used to increase point and scram range of the fleet. If you cannot use a command burst, fit the **Drone Link Augmentor I** in crago instead. 
+The Gnosis has good locking speed, a decent armour tank and a **Remote Sensor Booster II** to increase your fleet mates locking speed. The **Skirmish Command Burst I** can be used to increase point and scram range of the fleet. If you cannot use a command burst, fit the **Drone Link Augmentor I** from crago instead. 
 <details>
   <summary>Gnosis, Support Gnosis</summary>
 
@@ -95,7 +95,7 @@ Drone Link Augmentor I x1
 </details>
 
 ## Support Logi
-Armour logi with **Remote Sensor Booster II**s to increase lock speed of your fleet mates. Usually repairs Gnosises and fast locking ships.
+Armour logi with **Remote Sensor Booster II**s to increase lock speed of your fleet mates. Usually repairs Gnosises, the Ashimmu or the Maulus Navy Issue below.
 <details>
   <summary>Exequror, Camp Exec</summary>
   
