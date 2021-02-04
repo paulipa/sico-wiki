@@ -1,8 +1,8 @@
 ---
 title: Tama Gate Camp Fits
-description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
+description: Ship Fitting that are used for Tama camps and you should have ready to  go in either Nourvukaiken or Tama
 published: true
-date: 2021-02-04T13:50:46.485Z
+date: 2021-02-04T14:29:03.676Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -19,8 +19,8 @@ Thrashers should be within jump range of the gate at all times.
 <details>
   <summary>Thrasher, T1 Gate Camp Thrasher</summary>
 
-[Thrasher, T1 Gate Camp Thrasher]
-Gyrostabilizer I  
+[Thrasher, *T1 Gate Camp Thrasher]
+Gyrostabilizer I
 Damage Control I
 
 F-90 Compact Sensor Booster
@@ -40,11 +40,10 @@ Small Transverse Bulkhead I
 Small Targeting System Subcontroller I
 
 
-
-
 EMP S x1000
 Republic Fleet EMP S x200
 Scan Resolution Script x2
+5MN Y-T8 Compact Microwarpdrive x1
 </details>
 
 ## Support Gnosis
