@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-03T07:04:29.359Z
+date: 2021-02-04T11:29:48.139Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -11,76 +11,113 @@ dateCreated: 2020-07-08T16:24:40.484Z
 # Entry Corporations
 The following corporations are full members of the coalition and offer an easy entry for all English players. From these entry level corporations you can then advance into more focused and advanced corporations within the coalition.
 
+# Entry level
+
 The entry corporations are open corporations that you can join by simply clicking on the apply to join button. No interview or APIs required!
 
 All of the entry level corporations are fairly similar and have the same services. You can simply pick a corporation that name you like the most!
 ## [Deep Stellar Coalition Enterprises [DLSC]](/community/coalition-corporations/dlsc)
-- High Security Space
-- Entry level
-- No requirements
-- Sister corporation of SEADC
+- Location: High Sec
+- Timezone: Global
+- Open recruitment
+- Gateway to LinkNet community
 ## [People of the Saiya [APEE]](/community/coalition-corporations/apee)
-- High Security Space
-- Entry level
-- No requirements
+- Location: High Sec
+- Timezone: Global
+- Open recruitment
+- Gateway to LinkNet community
 
 # High Sec
 ## [Strategic Exploration and Development Corp [SEADC]](/community/coalition-corporations/seadc)
-- High Security Space
-- No requirements
-- Limited Recruitment
+- Location: High Sec
+- Timezone: Global
+- For Active High Sec players without a content focus
+- Access to all community content
 ## [Explorers’ Sanctum [EX-SA]](/community/coalition-corporations/ex-sa)
-- Abyssal Deadspace
-- Small gang PvP & NPSI roams
-- Exploration
+Explorers' Sanctum is a small, EU based, alpha friendly, hi-sec corp that operates mostly between Gallente & Caldari space. Our main focus is getting people into Abyssal sites and running as many PVP roaming fleets as we can - be it with our coalition or the rest of our NPSI friends!
+- Location: High Sec
+- Timezone: EU
+- PVP - Smallgang & NPSI
+- Abyssal deadspace
 ## [Silent Industry [XSINY]](/community/coalition-corporations/xsiny)
+Silent Industry is the Highsec Industry Wing for the LinkNet Community, part of the Silent Company alliance. Our primary focuses are industry operations aiming to provide support for alliance operations, aswell as resource harvesting such as mining operations.
+- Location: High Sec
+- Timezone: EU
 - Industry
+- Resource Harvesting
 ## [Serenity Consortium [YAMUG]](/community/coalition-corporations/yamug)
-- AU timezone
+We are AU/NZ Timezone based in ***Hageken in Lonetrek*** just 5 jumps from Jita. Public services available in Hageken: Clone Facility, Ore and Ice Refinery, Blueprint Copying, Invention, small/medium ship and structure building services. If you're interested, join Hava Go YaMug channel in game or join  our discord to  chat with one of our recruiters.
+- Location: High Sec
+- Timezone: AUS
+- High Sec Mining, Faction Warefare
+- PvP NS Roams 
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
-- Industry
+Hello Pilots of Eve, If your looking for a specialized group to grow with then check us out. We are Mining and Industry Focused, but we have a range of activities such as, PI, Missions, Moon mining, Exploration, Abyss runs, Ice mining, We have a huge array of BPO,BPC to help you get starting in your manufacturing career. We run regular Corp fleets to provide Boosts for mining …We are a close group of pilots all with the same interests which makes playing a lot more fun.. Come check us out if your interested we look forwards to flying with you o7
+- Location: High Sec
+- Timezone: EU
+- Mining
+- Industry 
 ## [Absolute Order [ABSOD]](/community/coalition-corporations/absod)
+Eu TZ, very selective recruitement. Need 5M+ SP to be eligible, need minimum 2 participations in CTA per month.
+Offer solo pvp srp, and eagle/cerb/scimitar pilots have 100m/month salary. Nullsec offer kill reward, 100% of their hull value. (for example killed a gila then you get 210m cash)
+- Location: High Sec + Null Sec
+- Timezone: Global
+- PvE ratting
+- PvP 
 ## [Snuggle Society [SNUGG]](/community/coalition-corporations/snugg)
-- Criminal corporation
-- Ganking and piracy
+
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
-- Low Security Space
-- Faction Warfare
-- PvP
+Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
+
+Plenty of Plex Ships ( Frigs / Destroyers)
+- Location: Low sec
+- Timezone: EU
+- Faction Warfare, Low Sec Piracy
+- PVP 
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
-- PvP
 
 # Null Sec
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
-- Krabbing (Industry/Mining/Ratting)
-- Fleet & Small Gang PVP
+Fatalix Industries is a null based corporation, and member of Brave Collective. We live in Catch and active with mining, ratting, and industry. We have small and large PVP fleets running almost 24/7, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
+- Location: Null Sec
+- Timezone: US
+- Group PVP
+- Null PVE
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
+A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FI.RE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
+- Location: Null Sec
+- Timezone: Global
 - Industry
-- PvE
-
+- PvP
 ## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
 
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
-- Rookie oriented WH training corp
-- For those who seek to learn to live in WH space
-## [Useless Idea [US3]](/community/coalition-corporations/us3)
-- Polish corporation
-- Wormholes
-- PvP focused
-## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
-- Fulltime wormhole living
-- Teamwork & friendly community
 
+## [Useless Idea [US3]](/community/coalition-corporations/us3)
+Useless idea is currently one of the biggest polish coorporation in EVE. We are heavily PvP focused - the only good reason to farm is to have ISK for ships/skill injectors to be able to pew pew pew more. We hapilly invite both experienced and new players, we are prepared to make a murderer out of 1 day account :) Polish only.
+- Location: Wormholes
+- Timezone: EU
+- Language: Polish
+- Wormhole PvP
+- Wormhole PvE
+## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
+Nevermore. is an english-speaking wormhole corporation. If you are interested in fulltime living in wormhole space alongside a friendly tight-knit community of players, then check out our wiki page for more details. Fly safe and remember you dscanner!
+- Location: Wormholes
+- Timezone: EU
+- Wormhole PVE & PVP
+- Industry/PI
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
-- WHAT DO YOU GUYS  EVEN DO?!?!?
-## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
-- Triglavian Invasions
-- PRO Triglavian
-## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
+Invite only PvP corporation that hosts PvP operations. Easiest way to get to know the corporation and join them is to join the open pvp fleets.
+- Location: Roaming
+- Timezone: EU
 - PvP
+- Nomadic PvP
+## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
+
+## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
 
 # Language Partners
 
