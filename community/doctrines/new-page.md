@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T08:08:06.952Z
+date: 2021-02-04T08:13:50.104Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -87,5 +87,49 @@ Interdiction Maneuvers Charge x300
 Rapid Deployment Charge x200
 Caldari Navy Iron Charge M x800
 Drone Link Augmentor I x1
+</details>
+
+## Upship Gnosis
+This fit is used when hostiles try to bust the camp. It should only be used if FC calls for it.
+<details>
+  <summary>Gnosis, Upship Gnosis</summary>
+
+[Gnosis, Upship Gnosis]
+Damage Control II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Mark I Compact Reinforced Bulkheads
+
+50MN Y-T8 Compact Microwarpdrive
+Initiated Compact Warp Disruptor
+Fleeting Compact Stasis Webifier
+Initiated Compact Warp Scrambler
+Medium Compact Pb-Acid Cap Battery
+Medium Micro Jump Drive
+
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Heavy Ion Blaster II
+Medium Gremlin Compact Energy Neutralizer
+
+Medium Transverse Bulkhead I
+Medium Transverse Bulkhead I
+Medium Transverse Bulkhead I
+
+
+
+Warrior II x5
+Valkyrie II x5
+
+Null M x2000
+Void M x2000
+Antimatter Charge M x2000
+Caldari Navy Antimatter Charge M x1000
+
+
 </details>
 
