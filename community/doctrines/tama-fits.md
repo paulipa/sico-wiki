@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:30:45.720Z
+date: 2021-02-04T13:35:19.771Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -10,7 +10,7 @@ dateCreated: 2021-02-04T07:49:43.982Z
 
 # Tama Gate Camp Fits
 ## Instalocking Thrasher
-This is the backbone of our gate camp fits. Locks very fast, is quite cheap (<4mill) and has some decent tank to survive gate guns for a bit. 
+This is the backbone of the gate camp fits. Locks very fast, is quite cheap (<4mill) and has some decent tank to survive gate guns for a bit. 
 You should always align out to a ping before you shoot hostile ships on a gate. Warp off immediately if  you get shot by the gate guns. 
 Thrashers should be within jump range of the gate at all times.
 <details>
@@ -170,4 +170,36 @@ Caldari Navy Antimatter Charge M x1000
 
 
 </details>
+
+## Instalock Maulus Navy Issue
+Only one needed per fleet. This Maulus has 18km scram range and heated can stop targets from burning back to gate. Should get constant repairs and sensor boosts by an Exeq logi. 
+
+
+<details>
+  <summary>Maulus Navy Issue, Instalock</summary>
+  
+  [Maulus Navy Issue, Instalock]
+Damage Control II
+400mm Steel Plates II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+
+Caldari Navy Warp Scrambler
+Sensor Booster II
+Sensor Booster II
+
+
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+
+
+
+Hobgoblin II x5
+Acolyte II x5
+
+Scan Resolution Script x2
+Nanite Repair Paste x30
+  
+  <details>
 
