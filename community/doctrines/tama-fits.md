@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T08:14:48.856Z
+date: 2021-02-04T08:22:35.696Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -89,6 +89,42 @@ Rapid Deployment Charge x200
 Caldari Navy Iron Charge M x800
 Drone Link Augmentor I x1
 </details>
+
+## Support Logi
+Armour logi with **Remote Sensor Booster II**s to increase lock speed of your fleet mates.
+<details>
+  <summary>Exequror, Camp Exec</summary>
+  
+[Exequror, Camp Exec]
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+Capacitor Power Relay II
+Dark Blood Explosive Energized Membrane
+Corpum C-Type Thermal Energized Membrane
+800mm Steel Plates II
+
+Remote Sensor Booster II
+Remote Sensor Booster II
+Cap Recharger II
+10MN Monopropellant Enduring Afterburner
+
+Medium Remote Armor Repairer II
+Medium Remote Armor Repairer II
+Medium Remote Armor Repairer II
+
+Medium Trimark Armor Pump I
+Medium Remote Repair Augmentor I
+Medium Remote Repair Augmentor I
+
+
+
+Warrior II x5
+Light Armor Maintenance Bot I x5
+
+Scan Resolution Script x2
+ECCM Script x2
+</details>
+
 
 ## Upship Gnosis
 This fit is used when hostiles try to bust the camp. It should only be used if FC calls for it.
