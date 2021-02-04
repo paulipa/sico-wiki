@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2020-12-16T07:10:12.952Z
+date: 2021-02-04T11:03:16.044Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -162,6 +162,9 @@ With FAT 2.0 you have a few ways to create links:
 5. Click on Add ESI link
 6. Log in with the fleet boss toon and press the green arrow to register the scope
 7. All members will be pulled over ESI after a short while. If you get a success message the members will be pulled over ESI once the current task que is processed. This may take a long time.
+
+> ESI links will keep on tracking people who join your fleet when the ESI link has been tracked. This means that if you FAT your fleet in the start of your fleet then each player who joins and leaves the fleet during the fleet will be registered.
+{.is-info}
 
 > If you do not get any errors it means the FAT over ESI worked. It may take some time for the players to show up. **Do not create a new fat if there was no errors.**
 {.is-warning}
