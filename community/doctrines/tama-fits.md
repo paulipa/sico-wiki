@@ -2,7 +2,7 @@
 title: Tama Gate Camp Fits
 description: Ship Fitting that are used for Tama camp and you should have ready to  go in Nourvukaiken/Tama
 published: true
-date: 2021-02-04T13:40:11.251Z
+date: 2021-02-04T13:40:18.841Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-04T07:49:43.982Z
@@ -204,7 +204,7 @@ Nanite Repair Paste x30
 <details>
 
 ## Ashimmu
-The Ashimmu can web targets on the gate to further prevent them to escape the camp and help the Thrasher to better apply damage. Only one needed per fleet. Should also get remote sensor boosts and repair from an Exequror. 
+The Ashimmu can web targets on the gate to further prevent them to escape the camp and help the Thrasher to better apply damage. Only one needed per fleet. Should also get remote sensor boosts and repairs from an Exequror. 
 
 <details>
   <summary>Ashimmu, Camp Fast Lock</summary>
