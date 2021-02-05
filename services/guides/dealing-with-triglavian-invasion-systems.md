@@ -2,7 +2,7 @@
 title: Dealing With Triglavian Invasion Systems
 description: 
 published: true
-date: 2021-02-05T09:28:08.474Z
+date: 2021-02-05T09:28:42.257Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-10T14:20:35.289Z
@@ -57,13 +57,13 @@ When you are traveling in high sec space without autopilot you need to know wher
 > You can set your autopilot to avoid these systems by opening your autopilot settings and selecting to avoid these systems.
 {.is-success}
 
-## How to fix Triglavian standings
+# How to fix Triglavian standings
 > Guide source located in [here](https://explorers-sanctum.com/how-to-fix-triglavian-standings)
 {.is-info}
 
 Even though the Triglavian invasion is officially over, there are still some leftover systems with minor Triglavian victories that have hostile gate-guns, and with the introduction to Pochven - there are even more roaming Triglavian fleets running about! This often results in people losing ships of all kinds to hostile NPCs even though it can easily be avoided with a little bit of your time.
 
-### Ain't nobody got time to read all of this!
+## Ain't nobody got time to read all of this!
 - Grab a ship you can afford to lose
 - Make sure your ship has solid range (60+km recommended)
 - Grab a Pochven entry & exit filament
@@ -73,7 +73,7 @@ Even though the Triglavian invasion is officially over, there are still some lef
 - Kill drone (yes, a single one will do)
 - Moonwalk out & enjoy friendly Trigbois
 
-### Preparation
+## Preparation
 So, to start things off - you will need a ship (duuh!). Anything will do since we're not here to farm sites or kill tons of rats - we just need to "fix" our relations with Triglavians by getting a single positive standing hit. Taking something fast with a very solid range is recommended - Longbow Cormorants are a very popular choice since they are extremely cheap and will be able to hit targets way above 60-70km. You can find an example T1 fit belo
 
 ```
@@ -135,7 +135,7 @@ To get yourself out once you're done either scan the wormhole exit or use one of
 
 ![pochven-exit-filament.4c708ec.jpg](/pochven-exit-filament.4c708ec.jpg)
 
-### Yeet time!
+## Yeet time!
 Grab your filaments and ammo, warp to a safespot and yeet yourself into Pochven! Once inside, find a random moon and warp to it at a distance bookmarking a random spot mid-warp. Once you land, warp back to that safe-spot and start D-scanning.
 
 Shooting Drifters, Sleepers or Drone forces inside Pochven gives you double reputation standings with both EDENCOM and Triglavians. If you're in a planned fleet - you might want to consider taking on beefier targets like sleepers and Drifters for more reputation, but for the sake of this guide we'll assume you're solo so simply avoid anything big and find some Drones.
@@ -151,7 +151,7 @@ Once you know their location - warp at 100km, align back to your safespot with y
 
 Once you've killed a drone (or multiple), simply warp off and wait out your filament timer (you can always track it in the top-left corner of the screen). Just like ratting ticks, standing changes are scheduled every 20min after which you will get a notification about your increase. You should expect to get a negative standing hit with Drones and a positive one with Triglavians and EDENCOM making you friendly to both across New Eden!
 
-### Need more standings?
+## Need more standings?
 You probably noticed this guide mentioning a single Drone kill needed to achieve neutral/friendly status with Triglavians… And this is true - as long as you don’t have a negative standing with Triglavians from the start as everyone starts with 0.0 standings (which is hostile for Triglavians but neutral for EDENCOM). You might’ve done a lot of conduit sites after the final invasion chapter landed getting positive EDENCOM status and building a negative standing with the Triglavians…
 
 If that’s the case - you will obviously need a lot more than a single Drone. Depending if you’re solo or in a fleet this may take more or less time. However, one thing to note is the way standings work. Killing a whole site full of drones in a few minutes is equal to shooting a single one inside a given server tick.
