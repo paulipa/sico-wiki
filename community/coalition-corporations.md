@@ -2,26 +2,31 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-05T09:06:20.613Z
+date: 2021-02-05T09:13:45.132Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
 ---
 
+This section includes information about all of our partner corporations. This page is aimed at making it easier for you to find the right corporation for your personal needs in EVE.
+
 # Entry Corporations
 The following corporations are full members of the coalition and offer an easy entry for all English players. From these entry level corporations you can then advance into more focused and advanced corporations within the coalition.
 
-# Entry level
-
 The entry corporations are open corporations that you can join by simply clicking on the apply to join button. No interview or APIs required!
+
+> Almost all of our partner corporations will recruit their members from within the entry level corporations. By joining the entry corporations you will gain access to all of the community content including content from other partners.
+{.is-success}
 
 All of the entry level corporations are fairly similar and have the same services. You can simply pick a corporation that name you like the most!
 ## [Deep Stellar Coalition Enterprises [DLSC]](/community/coalition-corporations/dlsc)
+We are just like a NPC corporation, but with benefits! Why stick in a NPC corporation with random players when you can be in a player corporation with friends and enjoy the benefits from the coalition? With us there are no mandatory tasks for you. You can come and go as you wish and join any activities that may interest you. Our goal is to find you a proper focused corporation within our community that fulfils your needs.
 - Location: High Sec
 - Timezone: Global
 - Open recruitment
 - Gateway to LinkNet community
 ## [People of the Saiya [APEE]](/community/coalition-corporations/apee)
+People of the Saiya is an Entry level Corporation in Eve Online. We take all types of players in under our wings and they become part of our wonderful community. Once you join you will have access to our Special Interest Sigs of many different variants, of which you can join and choose to learn and talk amongst like minded individuals with the same interests as yourself.
 - Location: High Sec
 - Timezone: Global
 - Open recruitment
@@ -29,6 +34,7 @@ All of the entry level corporations are fairly similar and have the same service
 
 # High Sec
 ## [Strategic Exploration and Development Corp [SEADC]](/community/coalition-corporations/seadc)
+SEADC is the active High Sec routing department of LinkNet community for players who seek to actively interact with the rest of our community! Our ultimate goal in SEADC is to find you a corporation that matches your personal goals and gameplay needs in EVE. While we do have several corporations within the coalition doing different things there might be situations when we simply can’t provide the perfect corporation for your personal needs within the coalition
 - Location: High Sec
 - Timezone: Global
 - For Active High Sec players without a content focus
