@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-04T11:29:48.139Z
+date: 2021-02-05T09:06:20.613Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -65,7 +65,11 @@ Offer solo pvp srp, and eagle/cerb/scimitar pilots have 100m/month salary. Nulls
 - PvE ratting
 - PvP 
 ## [Snuggle Society [SNUGG]](/community/coalition-corporations/snugg)
-
+We at Snuggles spend our time hunting. We hunt highsec for that fat loot to plunder. We hunt low/null blopsing around and commiting random.acts of murder as we can find them.
+- Location: High Sec
+- Timezone: AUS
+- Hauler/Freightor and Incursion/Mission runner ganking
+- Low/Null hunting and Blops 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
 Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
@@ -90,11 +94,21 @@ A primarily industrial corporation who enjoys the benefits of mining and ratting
 - Timezone: Global
 - Industry
 - PvP
+## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
+Newayz our mission if you must know is to defend the country side against all arrays of enemies and make them face full life consequences! So if u see signs in our local space channel that says "u shudnt come here" then u should turn around or go a different way. We will defend ourselves against you and continue making guard until the sun is almost down from the top of the sky (dinner time).
+- Location: Null Sec
+- Timezone: EU
+- Little Guy Fighting the Big Guy
+- Protecting The Mountian
 ## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
-
 # Wormholes
-## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
 
+## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
+Our goal is to give anyone who wants it an opportunity to experience life in a wormhole, while providing a safe, friendly environment for new players to learn the basics of different aspects of the game. We combine the knowledge & experience of veteran players with the infrastructure and teaching mentality of the LinkNet community in order to make sure you’ll get the best start to your EVE career. This is the WAEY.
+- Location: Wormholes
+- Timezone: Global
+- Wormhole activities: PvE, PvP, industry, exploration and more.
+- Teaching the basics, newbro friendly
 ## [Useless Idea [US3]](/community/coalition-corporations/us3)
 Useless idea is currently one of the biggest polish coorporation in EVE. We are heavily PvP focused - the only good reason to farm is to have ISK for ships/skill injectors to be able to pew pew pew more. We hapilly invite both experienced and new players, we are prepared to make a murderer out of 1 day account :) Polish only.
 - Location: Wormholes
@@ -116,9 +130,6 @@ Invite only PvP corporation that hosts PvP operations. Easiest way to get to kno
 - PvP
 - Nomadic PvP
 ## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
-
-## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
-
 # Language Partners
 
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
