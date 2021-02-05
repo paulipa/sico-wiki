@@ -2,7 +2,7 @@
 title: Dealing With Triglavian Invasion Systems
 description: 
 published: true
-date: 2021-02-05T09:28:42.257Z
+date: 2021-02-05T09:29:13.462Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-10T14:20:35.289Z
@@ -58,7 +58,7 @@ When you are traveling in high sec space without autopilot you need to know wher
 {.is-success}
 
 # How to fix Triglavian standings
-> Guide source located in [here](https://explorers-sanctum.com/how-to-fix-triglavian-standings)
+> Original guide by Explorers Sanctum: https://explorers-sanctum.com/how-to-fix-triglavian-standings
 {.is-info}
 
 Even though the Triglavian invasion is officially over, there are still some leftover systems with minor Triglavian victories that have hostile gate-guns, and with the introduction to Pochven - there are even more roaming Triglavian fleets running about! This often results in people losing ships of all kinds to hostile NPCs even though it can easily be avoided with a little bit of your time.
