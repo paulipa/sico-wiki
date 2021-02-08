@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-08T07:11:13.104Z
+date: 2021-02-08T07:19:33.974Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -75,12 +75,16 @@ We at Snuggles spend our time hunting. We hunt highsec for that fat loot to plun
 Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
 
 Plenty of Plex Ships ( Frigs / Destroyers)
-- Location: Low sec
+- Location: Low Sec
 - Timezone: EU
 - Faction Warfare, Low Sec Piracy
 - PVP 
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
-
+You ever wondered what it's like to fly in an actual team orientated environment? Sensible People invests heavily into it's members by it's members. We put team over self. Although there is individual profit driven outlets we assist one another in the most effective paths to achieve those goals. Leadership is available and not AFK and the corporation has goals and aspirations that are practical and achievable.
+- Location: Low Sec
+- Timezone: Global
+- PvP
+- Efficient isk outlets
 # Null Sec
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
 Fatalix Industries is a null based corporation, and member of Brave Collective. We live in Catch and active with mining, ratting, and industry. We have small and large PVP fleets running almost 24/7, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
@@ -131,7 +135,6 @@ Invite only PvP corporation that hosts PvP operations. Easiest way to get to kno
 - Nomadic PvP
 ## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
 # Language Partners
-
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
 - Russian
 ## [000 Russian Academy 000 [RUSAC]](/community/coalition-corporations/rusac)
