@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2021-02-04T11:03:16.044Z
+date: 2021-02-08T09:25:02.429Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -21,7 +21,12 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 > Our AUTH only requires a public scope that provides us the same information as viewing your profile ingame does. We can't see any of your personal information.
 {.is-info}
 
-# Registering On AUTH
+# Quick setup
+1. Register on https://auth.eve-linknet.com
+1. Join groups on https://wiki.eve-linknet.com/community/groups
+1. Authenticate on discord https://auth.eve-linknet.com/discord/activate/
+
+# Step by step registration
 1. Navigate to https://auth.eve-linknet.com
 1. Click on the log in with EVE Online. This is the SSO Login form to a official EVE Online site. 
 ![auth1.jpg](/auth1.jpg =300x)
