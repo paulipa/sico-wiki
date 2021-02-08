@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-05T09:13:45.132Z
+date: 2021-02-08T07:11:13.104Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -51,12 +51,6 @@ Silent Industry is the Highsec Industry Wing for the LinkNet Community, part of 
 - Timezone: EU
 - Industry
 - Resource Harvesting
-## [Serenity Consortium [YAMUG]](/community/coalition-corporations/yamug)
-We are AU/NZ Timezone based in ***Hageken in Lonetrek*** just 5 jumps from Jita. Public services available in Hageken: Clone Facility, Ore and Ice Refinery, Blueprint Copying, Invention, small/medium ship and structure building services. If you're interested, join Hava Go YaMug channel in game or join  our discord to  chat with one of our recruiters.
-- Location: High Sec
-- Timezone: AUS
-- High Sec Mining, Faction Warefare
-- PvP NS Roams 
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
 Hello Pilots of Eve, If your looking for a specialized group to grow with then check us out. We are Mining and Industry Focused, but we have a range of activities such as, PI, Missions, Moon mining, Exploration, Abyss runs, Ice mining, We have a huge array of BPO,BPC to help you get starting in your manufacturing career. We run regular Corp fleets to provide Boosts for mining …We are a close group of pilots all with the same interests which makes playing a lot more fun.. Come check us out if your interested we look forwards to flying with you o7
 - Location: High Sec
