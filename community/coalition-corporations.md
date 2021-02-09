@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-08T07:19:33.974Z
+date: 2021-02-09T13:46:13.382Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -123,7 +123,7 @@ Useless idea is currently one of the biggest polish coorporation in EVE. We are 
 ## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
 Nevermore. is an english-speaking wormhole corporation. If you are interested in fulltime living in wormhole space alongside a friendly tight-knit community of players, then check out our wiki page for more details. Fly safe and remember you dscanner!
 - Location: Wormholes
-- Timezone: EU
+- Timezone: EU / US
 - Wormhole PVE & PVP
 - Industry/PI
 # Snowflakes
