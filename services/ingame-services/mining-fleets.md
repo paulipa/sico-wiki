@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-02-09T12:57:59.455Z
+date: 2021-02-09T12:59:35.531Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -127,6 +127,7 @@ To raise an official LN Mining fleet you need to hold a mining booster role (or 
 2. Register a new fleet
 ![register_fleet_command.jpg](/register_fleet_command.jpg =600x)
 3. Set the following settings:
+- **Type**: Resource Harvesting
 - **Title**: LinkNet Public Mining Fleet
 - **Description**: (Copy paste) 
 ```html 
