@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-02-09T12:39:38.724Z
+date: 2021-02-09T12:57:59.455Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -110,27 +110,35 @@ When you find an empty belt or if you mine the belt clean simply find the correc
 
 All statuses will reset to green on downtime as the belts regenerates.
 
-# Standard LINE Mining Standing Flee | Guide for Mining Boosters
-The LINE Mining fleets are designed as a standard procedure when mining in high sec space with other players. Most often these fleets are constructed from a mining booster, miners and possibly a hauler. 
+# Standard LinkNet Public Mining Fleet | Guide for Mining Boosters
+The goal of our public mining fleets is to open up our communities mining services for both our community members and to the rest of EVE. Anyone will be able to join the mining fleet but only LinkNet members will benefit from all of the services.
 
 Each day after downtime we will try to set up a mining fleet that would last until the next downtime. The first mining booster to set up to fleet doesn’t have to stay in the fleet for the whole day as the idea is to pass down the boss role when you have to log off.
 - Setup a mining fleet based on the settings described on the following sections
 - As the boss you can mine, boost, or AFK in station as long as you keep up the fleet advert.
 - When you need to go (aka. the fleet advert will drop) you ask another booster to take over the fleet and give them the boss status.
 
-## Who can raise LINE Mining fleets
-To raise an official LINE Mining fleet you need to hold a mining booster role (or another fleet commander role). You can apply for the mining booster role at the auth groups section in here https://auth.eve-linknet.com.com/groups/
+## Who can raise LN Mining fleets
+To raise an official LN Mining fleet you need to hold a mining booster role (or another fleet commander role). You can apply for the mining booster role at the auth groups section in here https://auth.eve-linknet.com.com/groups/
 
 ## Setting up a mining fleet
-When you are setting up a LINE Mining fleet you need to make sure that you open it for all of our community partner corporations. Since the corporation leadership in each corporation are setting other coalition corporations as +10 excellent standings all you need to do is setup your fleet to be open based on standings.
-- Create a fleet
-- Name the fleet LINE Standing Mining Fleet
-- Open fleet to: My corporation, My Alliance (with no standing settings) as well as based on standings for everyone else.
-- If you want you can either hide or show details in advert.
-- Submit the fleet advert 
-![mining_fleet_advert_settings-488x800.png](/mining_fleet_advert_settings-488x800.png =200x)
-
-After you have created  your advert you will need to setup the fleet MOTD. The MOTD contains all the information that the miners might need including telling them what voice channel they should be on.
+1. Open the agency window and navigate to the fleet up tab
+![fleet_up.jpg](/fleet_up.jpg =600x)
+2. Register a new fleet
+![register_fleet_command.jpg](/register_fleet_command.jpg =600x)
+3. Set the following settings:
+- **Title**: LinkNet Public Mining Fleet
+- **Description**: (Copy paste) 
+```html 
+The EVE LinkNet is a non-profit community program that connects the right players with the right corporations. Come mine with us and connect up with the rest of EVE.<br><br>■ Boosting<br>■ Buyback<br>■ Community<br>■ Ship Replacement*
+```
+![fleet_name.jpg](/fleet_name.jpg =600x)
+4. Open the advanced settings
+![set_advanced_settings.jpg](/set_advanced_settings.jpg =600x)
+5. Set fleet to public access
+![advanced_settings_public.jpg](/advanced_settings_public.jpg =600x)
+6. Register the fleet
+7. Change MOTD to (copy paste):
 
 > Copy and paste the following code as your fleet MOTD and fill in the missing information:
 {.is-warning}
