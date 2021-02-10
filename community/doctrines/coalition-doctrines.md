@@ -2,14 +2,12 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-01-21T07:23:36.312Z
+date: 2021-02-10T08:50:52.951Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
 ---
 
-
-# SICO Doctrines
 
 ## Ferox Fleet
 
