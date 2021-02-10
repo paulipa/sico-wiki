@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-02-10T06:43:00.564Z
+date: 2021-02-10T06:44:52.220Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -134,7 +134,7 @@ To raise an official LN Mining fleet you need to hold a mining booster role (or 
 ## Community Standing Mining Fleet
 Community mining fleet is aimed at helping community miners to get organized and to receive mining boosts.
 
-> Community Mining Fleet is the reccommended fleet type for the standing mining fleet
+> Community Mining Fleet is the recommended fleet type for the standing mining fleet
 {.is-success}
 
 1. Open the agency window and navigate to the fleet up tab
