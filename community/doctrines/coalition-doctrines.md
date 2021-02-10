@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-02-10T08:53:03.253Z
+date: 2021-02-10T08:55:56.791Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1217,7 +1217,7 @@ To import a fitting from the wiki to in-game, copy the fitting then go to your f
 Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
 
 ---
-## DPS
+### DPS
 
 <details>
   <summary>Myrmidon - PVE (FOB) <--- Standard Fit</summary>
@@ -1337,7 +1337,7 @@ Nanite Repair Paste x100
 Improved Mindflood Booster x2
 </details>
 
-## Command
+### Command
 
 <details>
   <summary>Eos - FC (FOB)</summary>
@@ -1377,7 +1377,7 @@ Nanite Repair Paste x250
 Improved Mindflood Booster x2
 </details>
 
-## Skill Plan
+### Skill Plan
 To import a skillplan, go to the pastebin links and copy all of its contents.  Then go in-game and into your character sheet where your skills are. 
 
 To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines.  Click this, then click "Add skills listed in clipboard to end of queue".
