@@ -2,12 +2,14 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-02-10T08:50:52.951Z
+date: 2021-02-10T08:53:03.253Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
 ---
 
+# Primary Doctrines
+The most commonly used ships in the community fleets
 
 ## Ferox Fleet
 
@@ -970,6 +972,8 @@ Small Hyperspatial Velocity Optimizer I
 Warp Disrupt Probe x66
 Republic Fleet EMP S x1188
 </details>
+
+# Secondary doctrines
 
 ## Mining Fleet
 Mining doctrines for solo and fleet mining.
