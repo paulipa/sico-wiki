@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-02-10T08:55:56.791Z
+date: 2021-02-10T08:57:12.320Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1027,47 +1027,6 @@ Hobgoblin II x5
 Hornet EC-300 x5
 </details>
 
-<details>
-<summary>Retriever, Mining - Barge - Omega</summary>
-[Retriever, Mining - Barge - Omega]
-
-Mining Laser Upgrade I
-Mining Laser Upgrade I
-Mining Laser Upgrade I
-
-Multispectrum Shield Hardener II
-
-Modulated Strip Miner II
-Modulated Strip Miner II
-
-Medium EM Shield Reinforcer I
-Medium Thermal Shield Reinforcer I
-Medium Core Defense Field Extender I
-
-Mining Drone II x5
-</details>
-
-<details>
-<summary>Covetor, Mining - Barge - Omega</summary>
-[Covetor, Mining - Barge - Omega]
-
-Mining Laser Upgrade II
-Mining Laser Upgrade II
-Mining Laser Upgrade II
-
-Compact Multispectrum Shield Hardener
-
-Modulated Strip Miner II
-Modulated Strip Miner II
-
-Medium Processor Overclocking Unit II
-Medium EM Shield Reinforcer I
-Medium Core Defense Field Extender I
-
-Warrior II x5
-Mining Drone II x5
-</details>
-
 ### Exhumers
 <details>
 <summary>Skiff, Mining - Exhumer - HS Solo</summary>
@@ -1093,52 +1052,6 @@ Hobgoblin II x5
 Salvage Drone I x5
 Mining Drone II x5
 Hornet EC-300 x5
-</details>
-
-<details>
-<summary>Hulk, Mining - Exhumer - Omega</summary>
-[Hulk, Mining - Exhumer - Omega]
-
-Mining Laser Upgrade II
-Mining Laser Upgrade II
-Mining Laser Upgrade II
-
-Multispectrum Shield Hardener II
-Domination Thermal Shield Amplifier
-Domination Kinetic Shield Amplifier
-Survey Scanner II
-
-Modulated Strip Miner II
-Modulated Strip Miner II
-
-Medium Processor Overclocking Unit II
-Medium Core Defense Field Extender II
-
-Warrior II x5
-Mining Drone II x5
-</details>
-
-<details>
-<summary>Mackinaw, Mining - Exhumer - Omega</summary>
-[Mackinaw, Mining - Exhumer - Omega]
-
-Damage Control II
-Mining Laser Upgrade II
-Mining Laser Upgrade II
-
-Survey Scanner II
-Compact Multispectrum Shield Hardener
-EM Shield Amplifier II
-Thermal Shield Amplifier II
-
-Modulated Strip Miner II
-Modulated Strip Miner II
-
-Medium Processor Overclocking Unit I
-Medium Core Defense Field Extender II
-
-Warrior II x5
-Mining Drone II x5
 </details>
 
 ### Boosters
