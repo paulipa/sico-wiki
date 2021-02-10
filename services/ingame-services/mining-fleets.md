@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-02-09T12:59:35.531Z
+date: 2021-02-10T06:43:00.564Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -30,7 +30,7 @@ A fleet has three different layers in it but not all of them have to be used. On
 
 When creating a new fleet the fleet only contains the minimum setup to host one squad of members which is: One fleet commander, one wing commander and one squad commander the member squad. The player holding the fleet boss status is able to create more wings and squads if needed.
 
-# LINE Mining Fleets
+# LinkNet Mining Fleets
 LinkNet mining fleets have a standard setup so that it is easy for you to get into them and understand where and how they are operating.
 
 ## What Boost am I getting?
@@ -41,8 +41,18 @@ While in a LINE Mining fleet you will be receiving the following boost:
 - `Mining Laser Optimization` – Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters – Maximum Bonus -57.13%
 - `Mining Equipment Preservation` – Reduces volatility of mining crystals (the speed they break down) – Maximum Bonus -57.13%
 
-## How to join the LINE Mining fleet
-There are three different ways for you to join a fleet. In order for you to be able to see and join a fleet without someone inviting you to it you will need to match the criteria set by the fleet boss. Since all the Industry Commanders in Silent Coalition have all of the community partner corporations (and the members in these corporations) set to be able to access and see the fleets by default there should be no problems for you to see any of the mining fleets, if there are any online.
+## How to join the LN Mining fleet
+There are three different ways for you to join a fleet. In order for you to be able to see and join a fleet without someone inviting you to it you will need to match the criteria set by the fleet boss. Since all the Mining Boosters in LinkNet have all of the community partner corporations (and the members in these corporations) set to be able to access and see the fleets by default there should be no problems for you to see any of the mining fleets, if there are any online.
+
+### Using Fleet Up tool
+1. Open the agency window (alt-M) and click on the fleet up tab
+![fleet_up.jpg](/fleet_up.jpg =600x)
+2. Find `LinkNet Mining Fleet` or `LinkNet Public Mining Fleet` depending on the fleet type we have up. 
+![ln_mining_fleet_advert.jpg](/ln_mining_fleet_advert.jpg =600x)
+> Note that all official LinkNet fleet bosses should have a blue standing icon next to them. This way you can identify that the fleet has been raised by an actual LinkNet member and not by a fraud.
+{.is-info}
+3. Click on the request to join button to join the fleet
+![request_to_join.jpg](/request_to_join.jpg =600x)
 
 ### Using Fleet Finder
 The easiest way for you to see any fleets available for you is to use the fleet finder window. You can only see the fleets that you are able to join by yourself in this window. If the fleet boss has incorrect settings or you are not on their “access list” for some reason there might be a fleet up and you would not see it in here.
@@ -51,7 +61,7 @@ The easiest way for you to see any fleets available for you is to use the fleet 
 2. Hover over Social
 3. Click Fleet
 4. Navigate to the fleet finder tab (you are here as default)
-5. Check for fleets that are named LINE Standing Mining (official coalition mining fleets)
+5. Check for fleets that are named LinkNet Mining Fleet (official community mining fleets)
 ![fleet-search.jpg](/fleet-search.jpg =300x)
 
 ### Using Fleet Links
@@ -63,13 +73,13 @@ The only way for you to join a fleet that you can’t see in the fleet finder is
 ## How to receive the boost and find your fleet
 Once you have joined a fleet a new chat window and a fleet window will open. You will be using these windows to move yourself to the locations where the fleet is at and to receive the mining boost.
 
-In most LINE Mining fleets the booster is sitting in the highest possible position and is holding the boss start for the fleet. Since the booster has to be located where the mining is happening the easiest way to find your fleet members is to right click on the fleet commander in the fleet window and pressing warp to member.
+In most LN Mining fleets the booster is sitting in the highest possible position and is holding the boss start for the fleet. Since the booster has to be located where the mining is happening the easiest way to find your fleet members is to right click on the fleet commander in the fleet window and pressing warp to member.
 
-If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster! Most of the LINE fleets operates in Ronne or Jarkkolen as long as there is ores to be mined.
+If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster! Most of the LN fleets operates in Ronne or Jarkkolen as long as there is ores to be mined.
 
 After landing on the fleet you can start mining while remaining inside the range of the command burst ship. The best way to do this is to keep orbiting the command ship at range. Each minute the ship will send out an area of effect burst that will boost your mining attributes. Once your ore hold is full you simply empty it and repeat the steps.
 
-> All miners who are on the mining fleets should be on voice comms! This is to alert them for incoming gankers or criminals in space.
+> All miners who are on the mining fleets should be on voice comms! This is to alert them for incoming gankers or criminals in space. As an open community we do have neutral alts from spies and gankers in our corporations who will also be able to join these fleets and provide information for their own groups. For this reason always pay attention when you are playing EVE as you should do in any situation.
 {.is-warning}
 
 Using our [buyback system](/tools/buyback) is the fastest and almost always the most profitable way of selling your ores
@@ -110,8 +120,8 @@ When you find an empty belt or if you mine the belt clean simply find the correc
 
 All statuses will reset to green on downtime as the belts regenerates.
 
-# Standard LinkNet Public Mining Fleet | Guide for Mining Boosters
-The goal of our public mining fleets is to open up our communities mining services for both our community members and to the rest of EVE. Anyone will be able to join the mining fleet but only LinkNet members will benefit from all of the services.
+# Standard LinkNet Mining Fleets | Guide for Mining Boosters
+The goal of our mining fleets is to open up our communities mining services for both our community members and possibly also to the rest of EVE depending on the access level we set on the fleet.
 
 Each day after downtime we will try to set up a mining fleet that would last until the next downtime. The first mining booster to set up to fleet doesn’t have to stay in the fleet for the whole day as the idea is to pass down the boss role when you have to log off.
 - Setup a mining fleet based on the settings described on the following sections
@@ -119,9 +129,50 @@ Each day after downtime we will try to set up a mining fleet that would last unt
 - When you need to go (aka. the fleet advert will drop) you ask another booster to take over the fleet and give them the boss status.
 
 ## Who can raise LN Mining fleets
-To raise an official LN Mining fleet you need to hold a mining booster role (or another fleet commander role). You can apply for the mining booster role at the auth groups section in here https://auth.eve-linknet.com.com/groups/
+To raise an official LN Mining fleet you need to hold a mining booster role (or another fleet commander role). You can apply for the mining booster role at the auth groups section in here: https://auth.eve-linknet.com.com/groups/
 
-## Setting up a mining fleet
+## Community Standing Mining Fleet
+Community mining fleet is aimed at helping community miners to get organized and to receive mining boosts.
+
+> Community Mining Fleet is the reccommended fleet type for the standing mining fleet
+{.is-success}
+
+1. Open the agency window and navigate to the fleet up tab
+![fleet_up.jpg](/fleet_up.jpg =600x)
+2. Register a new fleet
+![register_fleet_command.jpg](/register_fleet_command.jpg =600x)
+3. Set the following settings:
+- **Type**: Resource Harvesting
+- **Title**: LinkNet Standing Mining Fleet
+- **Description**: (Copy paste) 
+```html 
+The EVE LinkNet is a non-profit community program that connects the right players with the right corporations. Come mine with us and connect up with the fellow pilots.<br><br>■ Boosting<br>■ Buyback<br>■ Community<br>■ Ship Replacement
+```
+![fleet_name.jpg](/fleet_name.jpg =600x)
+4. Open the advanced settings
+![set_advanced_settings.jpg](/set_advanced_settings.jpg =600x)
+5. Set fleet access based on standings (require at least 1.0 standings = blue access)
+![community_mining_fleet_settings.jpg](/community_mining_fleet_settings.jpg =600x)
+6. Register the fleet
+7. Change MOTD to (copy paste):
+
+> Copy and paste the following code as your fleet MOTD and adjust the information according to your fleet (such as mining location):
+{.is-warning}
+
+```html
+<font size="13" color="#ff999999"></font><font size="13" color="#ffffffff">Welcome to LinkNet Public Mining Fleet<br><br>The EVE LinkNet is a non-profit community program that connects the right players with the right corporations. Come mine with us and connect up with the rest of EVE.<br><br></font><font size="12" color="#ffffffff">The goal of the mining fleet is to help you to follow our recommended mining procedures. These procedures are here to keep you safe while mining as well as replace your ship if you lose them despite doing everything correct.<br><br>If you lose your ship to a gank after following the following rules you can request for SRP and get your money back.<br><br>Please join us on our </font><font size="12" color="#ffffe400"><a href="https://discord.gg/R4dFYbX">Discord</a></font><font size="12" color="#ffffffff"> while mining for better security!<br><br><b><u>Requirements for SRP</b></u><br><br>■ Fly one of the following ships and fits: </font><font size="12" color="#ffd98d00"><a href="fitting:32880:483;2:31716;1:25861;1:31788;2:22542;1:3829;1:439;1:444;1:2454;2::">Venture</a></font><font size="12" color="#ffffffff">, </font><font size="12" color="#ffd98d00"><a href="fitting:17480:28576;2:2281;1:31724;1:31790;2:3831;1:17912;2:2299;1:9660;1:2456;5:23707;5::">Procurer</a></font><font size="12" color="#ffffffff">, </font><font size="12" color="#ffd98d00"><a href="fitting:22546:28576;2:2048;1:2281;2:2539;1:2547;1:31796;2:3831;1:17912;2:2456;5:10250;5:32787;5:23707;5::">Skiff</a></font><font size="12" color="#ffffffff">, or </font><font size="12" color="#ffd98d00"><a href="fitting:28606:2048;1:43555;2:2281;2:33900;2:3598;2:2303;1:1335;1:43898;1:2299;1:2301;1:43551;2:10250;5:28207;5:2488;10:32787;5:2456;5:23707;5:42696;3001:42829;3001:42830;3001:42695;3000::">Orca</a><br></font><font size="12" color="#ffffffff">■ Keep your active hardeners on<br>■ Do not AFK, and do warp out if you see gankers land on grid<br><br>If you die despite following the steps above you can apply for SRP in </font><font size="12" color="#ffffe400"><loc><a href="https://auth.eve-linknet.com/srp/47D0F1F9/request">here</a></loc></font><font size="12" color="#ffffffff">.<br><br></font><font size="12" color="#bfffffff"><b><u>Fleet tips:</b></u><br><br>■ Use </font><font size="12" color="#ffffe400"><loc><a href="https://buyback.eve-linknet.com/">Buyback Program</a></loc></font><font size="12" color="#bfffffff"> for selling your items fast. This will also support the community<br>■ Stay within orca boosting range but avoid mining their rocks (in radius of ~5 km from orca)<br>■ Also avoid double mining (mining same rock with someone else)<br>■ Use </font><font size="12" color="#ffffe400"><loc><a href="https://auth.eve-linknet.com/belttracker/">belttracker</a></loc></font><font size="12" color="#bfffffff"> for marking empty belts and looking for full one.<br><br><b><u>Current location:</b></u><br>■ </font><font size="12" color="#ffd98d00"><a href="showinfo:5//30003080">Jarkkolen</a></font><font size="12" color="#bfffffff"> - belt mining<br><br><b><u>Fleet Access Status:</b></u><br></font><font size="12" color="#ffffff00">&gt;&gt; LinkNet Members Only &lt;&lt;<br><br></font><font size="12" color="#ff00ff00"><b>↑ Read the information above in the MOTD for standard fleet procedures ↑</b></font>
+```
+
+After copying the text your MOTD should look something like this:
+![mining_fleet_motd.jpg](/mining_fleet_motd.jpg =200x)
+
+You may also add other information to the MOTD that you see fit.
+
+## Public Mining Fleet
+When you want to open the mining fleet for public access (also everyone outside of the community) you can set up a LinkNet Public Mining Fleet by following the settings bellow. Note that everyone including gankers will be able to join this fleet.
+
+The goal with raising a public fleet is to bring awarenes of our community to the public eyes and also raise conversations about possible threats for mining such as ganking.
+
 1. Open the agency window and navigate to the fleet up tab
 ![fleet_up.jpg](/fleet_up.jpg =600x)
 2. Register a new fleet
@@ -136,7 +187,7 @@ The EVE LinkNet is a non-profit community program that connects the right player
 ![fleet_name.jpg](/fleet_name.jpg =600x)
 4. Open the advanced settings
 ![set_advanced_settings.jpg](/set_advanced_settings.jpg =600x)
-5. Set fleet to public access
+5. Set fleet to public access by setting standing requirement to 0.0
 ![advanced_settings_public.jpg](/advanced_settings_public.jpg =600x)
 6. Register the fleet
 7. Change MOTD to (copy paste):
