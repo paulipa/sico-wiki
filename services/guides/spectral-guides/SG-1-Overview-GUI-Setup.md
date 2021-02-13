@@ -2,7 +2,7 @@
 title: SG-1 - Overview/GUI Setup
 description: 
 published: true
-date: 2020-11-15T12:28:53.492Z
+date: 2021-02-13T10:48:50.956Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:34:27.063Z
@@ -24,8 +24,5 @@ Alternatively, feel free to mail Haunting Deity in-game if you want a copy of my
 
 I also recommend you ask myself or an experienced PVP pilot for their broadcast settings regardless of which overview you use.
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
 
 Fly safe
-   - Deity
