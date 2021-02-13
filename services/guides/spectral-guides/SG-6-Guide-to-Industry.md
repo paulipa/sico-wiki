@@ -2,7 +2,7 @@
 title: SG-6 - Guide to Industry
 description: 
 published: true
-date: 2020-11-15T12:29:34.596Z
+date: 2021-02-13T10:51:00.007Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:13:37.913Z
@@ -82,8 +82,4 @@ You will find that for most of the low cost, cheaper blueprints such as these li
 
 To make a good profit in industry, you need to have your reprocessing skills maxed out, a fully researched blueprint and access to a nice industrial structure such as our Ronne - SiCO Industry Tower (Strategic Holding - 3rd Division).
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
-
 Fly safe
-   - Deity
