@@ -2,7 +2,7 @@
 title: SG-3 - Guide to Mission Running
 description: 
 published: true
-date: 2020-11-15T12:29:11.119Z
+date: 2021-02-13T10:48:23.532Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:47:32.560Z
@@ -106,8 +106,4 @@ To improve the pay you get from mission running, you can train Negotiation to ge
 
 You can also train Connections to increase your standing with NPC corporations so you can move on to higher level missions faster.
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
-
 Fly safe
-   - Deity
