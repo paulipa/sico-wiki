@@ -2,7 +2,7 @@
 title: SG-4 - Mission Running Fits
 description: 
 published: true
-date: 2020-11-15T12:29:15.387Z
+date: 2021-02-13T10:50:26.452Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:48:49.400Z
@@ -765,8 +765,5 @@ Scan Resolution Script x1
 Targeting Range Script x1
 </details>
   
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
 
 Fly safe
-   - Deity
