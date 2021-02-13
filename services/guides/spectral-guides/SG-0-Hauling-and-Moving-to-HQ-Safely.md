@@ -2,7 +2,7 @@
 title: SG-0 - Hauling and Moving to HQ Safely
 description: 
 published: true
-date: 2020-11-15T12:28:46.860Z
+date: 2021-02-13T10:49:17.935Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:06:48.995Z
@@ -177,8 +177,4 @@ I recommend reading this guide for information on how to deal with triglavian in
 https://wiki.silentcoalition.com/services/guides/dealing-with-triglavian-invasion-systems.
 
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
-
 Fly safe
-   - Deity
