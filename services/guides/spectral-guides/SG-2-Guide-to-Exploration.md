@@ -2,7 +2,7 @@
 title: SG-2 - Guide to Exploration
 description: 
 published: true
-date: 2020-11-15T12:29:03.329Z
+date: 2021-02-13T10:49:59.938Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:45:32.487Z
@@ -90,9 +90,5 @@ Core Scanner Probe I x16
 
 The fittings for the other three frigates are shown near the end of the first video in the above mentioned seies.
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
-
 Fly safe
-   - Deity
 
