@@ -2,7 +2,7 @@
 title: SG-7 - Guide to Incursions
 description: 
 published: true
-date: 2020-11-15T12:29:37.864Z
+date: 2021-02-13T10:51:56.541Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:16:12.464Z
@@ -59,8 +59,4 @@ Step 3 - Read and fully understand https://wiki.silentcoalition.com/services/fli
 Step 4 - Ensure you have a properly setup overview and GUI, if you haven't already done this, please head to SG-1 mailing list for guidance on how to do this.
 
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
-
 Fly safe
-   - Deity
