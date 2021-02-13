@@ -2,7 +2,7 @@
 title: SG-8 - Guide to the MQP
 description: 
 published: true
-date: 2020-11-15T12:29:42.840Z
+date: 2021-02-13T10:52:11.703Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:14:43.739Z
@@ -26,8 +26,5 @@ If you need any help with the above, and/or want to see a preview of what an MQP
 
 Ignore the section on activating mumble - we currently exclusively use discord in SiCo.
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
 
 Fly safe
-   - Deity
