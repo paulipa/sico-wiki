@@ -2,7 +2,7 @@
 title: SG-5 - Guide to Mining
 description: 
 published: true
-date: 2020-11-15T12:29:23.184Z
+date: 2021-02-13T10:49:39.435Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:12:45.064Z
@@ -207,8 +207,4 @@ It should be noted that there are technically three variants to each ore, for Pl
 
 Here's a useful website to visualise all the ores and see where they are found and what their variants are https://ore.cerlestes.de/ore.
 
----
-I hope you found this guide useful, if you have any further questions please feel free to mail Haunting Deity either in-game or on discord.
-
 Fly safe
-   - Deity
