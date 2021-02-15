@@ -2,7 +2,7 @@
 title: Dealing With Triglavian Invasion Systems
 description: 
 published: true
-date: 2021-02-13T10:54:00.186Z
+date: 2021-02-15T09:17:01.154Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-10T14:20:35.289Z
@@ -140,7 +140,9 @@ Grab your filaments and ammo, warp to a safespot and yeet yourself into Pochven!
 
 Shooting Drifters, Sleepers or Drone forces inside Pochven gives you double reputation standings with both EDENCOM and Triglavians. If you're in a planned fleet - you might want to consider taking on beefier targets like sleepers and Drifters for more reputation, but for the sake of this guide we'll assume you're solo so simply avoid anything big and find some Drones.
 
-These can spawn anywhere in system and they roam around often fighting Triglavians on stations, belts, moons and planets. So, keep on D-scanning until you find a solid chunk of Drones in space. You can also take a look at local anomalies since they also offer drone spawns.
+These can spawn anywhere in system and they roam around often fighting Triglavians on stations, belts, moons and planets. So, keep on D-scanning until you find a solid chunk of Drones in space. You can also take a look at local anomalies since they also offer drone spawns. To find lone Sleeper frigates, try scanning down wormhole exits. These will often have Edencom forces (usually on Hi-sec exits) or Drifters / Sleepers (on other Wormhole entrances).
+
+> Be careful when you're warping to Pochven WH exits. Warping to "zero" will actually land you 70km away from the wormhole. This can be problematic if there are hostile forces on grid that can easily kill you by the time you reach the WH itself. Instead, warp at 100km, bookmark the wormhole, ping off and warp back to the bookmark at zero. {.is-info}
 
 ![pochven-dscan.8aed7eb.jpg](/pochven-dscan.8aed7eb.jpg)
 
