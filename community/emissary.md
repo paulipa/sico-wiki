@@ -2,7 +2,7 @@
 title: Emissary
 description: Our emissary program allows non community partners to raise fleets for our community without the need of a partnership.
 published: true
-date: 2021-02-16T12:54:37.175Z
+date: 2021-02-16T13:01:28.950Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-16T12:44:45.954Z
@@ -10,6 +10,8 @@ dateCreated: 2021-02-16T12:44:45.954Z
 
 # The Emissary Program
 The emissary program is designed to allow third party entities to raise fleets for LinkNet members without the need of a permanent [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements) with the community.
+
+All emissary based content and fleets should be raised inside our systems and use our communication channels. This program is not to advertise your corporation but to advertise your content. For corporation advertisement see the [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements) program
 
 ## Requirements
 In order to qualify for the emissary program you will need to ensure us that you are qualified to raise fleets for the content type you are aiming at. This is to make sure that all of the fleets, classes and events that are advertised for our community members reach our quality standards.
@@ -47,3 +49,10 @@ Once your fleet is about to go live you should ping it on our discord. In order 
 {.is-warning}
 
 The guide for creating pings on our discord is located in [here](https://wiki.eve-linknet.com/en/tools/auth#discord-fleet-pings).
+
+## Fleets and comms
+When you raise your fleet you should be using one of the discord channels located on our discord. You may either use the public channels or the community restricted channels depending on the access type you want to host for your fleet.
+
+To invite memers in the fleet please post the fleet in `LinkNet General` ingame channel or use the new fleet up tool to open up the fleet with public access. 
+
+Use require accept if needed for members to join the fleet if the fleet is restricted only for LinkNet members or set up personal standings for them to be able to join the fleet. The list of our corporations is located in [here](https://wiki.eve-linknet.com/community/coalition-corporations).
