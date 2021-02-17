@@ -2,7 +2,7 @@
 title: Dealing With Triglavian Invasion Systems
 description: 
 published: true
-date: 2021-02-15T09:17:01.154Z
+date: 2021-02-17T07:41:13.010Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-10T14:20:35.289Z
@@ -101,7 +101,7 @@ So, to start things off - you will need a ship (duuh!). Anything will do since w
     Scan Resolution Script x1
     Caldari Navy Tungsten Charge S x500
 ``` 
-After you've settled with your ship - consider it lost! There will be a way of saving yourselves, and in all fairness - you will not lose your ship if you follow this guide, but there's always a possibility you get attacked by another player or simply mess up something. With your ship ready, head over to the closest trad ehub and grab a pair of filaments. You can always scan a wormhole entrance into Pochven since they spawn in a 3-jump radius from where the system used to be - but filamenting in and out is by far the fastest and easiest way of achieving this goal.
+After you've settled with your ship - consider it lost! There will be a way of saving yourselves, and in all fairness - you will not lose your ship if you follow this guide, but there's always a possibility you get attacked by another player or simply mess up something. With your ship ready, head over to the closest trade hub and grab a pair of filaments. You can always scan a wormhole entrance into Pochven since they spawn in a 3-jump radius from where the system used to be - but filamenting in and out is by far the fastest and easiest way of achieving this goal.
 
 #### Pochven enter filaments:
 
