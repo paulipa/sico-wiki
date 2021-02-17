@@ -2,7 +2,7 @@
 title: Coalition Member Corporations
 description: 
 published: true
-date: 2021-02-17T13:35:16.114Z
+date: 2021-02-17T14:23:50.574Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -128,6 +128,11 @@ Nevermore. is an english-speaking wormhole corporation. If you are interested in
 - Industry/PI
 
 ## [Dark Venture Corporation [DKVC]](/community/coalition-corporations/dkvc)
+Dark Venture is a wormhole corporation designed to show newer players how to utilize wormholes to explore all areas of EVE and gain access to resources from all corners of the EVE universe. DVC provides opportunities for all levels of wormhole life: from incredible isk opportunities to intense combat action. Take part in all that wormholes have to offer.
+- Location: Wormholes
+- Timezone: Global
+- PVP in all capacity's excluding sov warfare
+- Teaching wormhole survival techniques 
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
 Invite only PvP corporation that hosts PvP operations. Easiest way to get to know the corporation and join them is to join the open pvp fleets.
