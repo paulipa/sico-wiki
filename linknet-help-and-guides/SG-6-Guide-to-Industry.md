@@ -1,8 +1,8 @@
 ---
-title: SG-6 - Guide to Industry
+title: Industry
 description: 
 published: true
-date: 2021-02-13T10:51:00.007Z
+date: 2021-02-18T16:18:41.687Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:13:37.913Z
