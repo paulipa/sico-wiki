@@ -2,7 +2,7 @@
 title: Exploration
 description: 
 published: true
-date: 2021-02-18T16:15:46.058Z
+date: 2021-02-18T16:15:56.185Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:45:32.487Z
