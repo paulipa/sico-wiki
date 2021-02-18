@@ -2,7 +2,7 @@
 title: Community Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-18T16:57:20.698Z
+date: 2021-02-18T16:58:12.968Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -17,6 +17,7 @@ Each program is designed to start out with a basic 101 class followed by a pract
 Basic program that will teach you how to use the community tools to join fleets and operate while flying in a fleet.
 
 # Community Programs
+The community programs are open programs for any community members that will help them forwards towards different goals in EVE. These programs are designed to help you achieve goals that might be hard to do without guidance.
 
 ## [Loud Crew Ganking Squad](/community-programs/loucr)
 Ganking special interest group
