@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T16:09:18.215Z
+date: 2021-02-18T16:10:58.297Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -15,8 +15,15 @@ Jump clones are pods that you can leave in stations around New Eden. You are abl
 ## [Overview](/linknet-help-and-guides/overview)
 In order to survive in EVE you will need to know where and who your enemies are. The default overview settings work for starters but as soon as you advance into areas where you will be engaging other players it will no longer be sufficient.
 
-## Spectral Guides
-The guides Spectral have to offer are also delivered in the form of mailing lists. To join a mailing list - open up your mail in-game, then at the bottom left click "Add Mailing List" and enter the name of the guide you wish to access.
+## Hauling and Moving to HQ Safely
+
+## Guide to Exploration
+## Guide to Mission Running
+## Mission Running Fits
+## Guide to Mining
+## Guide to Industry
+## Guide to Incursions
+## Guide to the MQP
 
 # Ingame Services
 
