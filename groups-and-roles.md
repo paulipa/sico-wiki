@@ -2,7 +2,7 @@
 title: Groups & Roles
 description: Guides and manuals for various different community roles
 published: true
-date: 2021-02-18T16:47:27.224Z
+date: 2021-02-18T16:47:42.896Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:30:59.007Z
@@ -27,6 +27,7 @@ How to use the different tools located on AUTH for community groups and roles
 Checklist for running MQP fleets
 
 ## [VG FC Trainee Checklist ](/groups-and-roles/vgincfc)
+Standard checklist for VG fleet commanders
 
 ## [Editing Wiki](/groups-and-roles/editing-wiki)
 How to edit and manage this wiki site.
