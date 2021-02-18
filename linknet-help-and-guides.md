@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T15:48:45.669Z
+date: 2021-02-18T15:49:22.424Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -44,3 +44,23 @@ Systems in minor victory or EDENCOM Fotress stage will have both invasion sites 
 
 ## Editing Wiki
 How to edit and manage this wiki site.
+
+## Fleet Commanders Checklist for MQP fleets
+Checklist for running MQP fleets
+
+## Wormholes
+Manual for SEADC members and pilots who want to learn to live and survive in wormhole space.
+
+## Wormhole Daytrips
+Giving LinkNet members a chance to taste wormhole space in a fleet environment.
+
+## Null Sec
+This manual will explain to you how to get into the 2SLOW null sec corporaiton and what is expected to happen once you are in
+
+## Incursions
+One of the best ways to make money in High Sec
+
+## Wartime Standard Operating Procedures
+What will happen when a war starts? How do you survive and what you should avoid?
+
+## Forward Operating Bases
