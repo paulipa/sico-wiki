@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T16:28:56.438Z
+date: 2021-02-18T16:37:03.216Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -48,9 +48,6 @@ Systems in minor victory or EDENCOM Fotress stage will have both invasion sites 
 
 ## [Editing Wiki](/linknet-help-and-guides/editing-wiki)
 How to edit and manage this wiki site.
-
-## [Fleet Commanders Checklist for MQP fleets](/linknet-help-and-guides/fc-mqp-checklist)
-Checklist for running MQP fleets
 
 ## [Wormholes](/linknet-help-and-guides/wormholes)
 Manual for SEADC members and pilots who want to learn to live and survive in wormhole space.
