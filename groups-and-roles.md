@@ -2,7 +2,7 @@
 title: Groups & Roles
 description: Guides and manuals for various different community roles
 published: true
-date: 2021-02-18T16:43:47.334Z
+date: 2021-02-18T16:44:30.794Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:30:59.007Z
@@ -25,5 +25,5 @@ Checklist for running MQP fleets
 
 ## [VG FC Trainee Checklist ](/groups-and-roles/vgincfc)
 
-## [Editing Wiki](/linknet-help-and-guides/editing-wiki)
+## [Editing Wiki](/groups-and-roles/editing-wiki)
 How to edit and manage this wiki site.
