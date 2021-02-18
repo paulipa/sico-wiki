@@ -1,8 +1,8 @@
 ---
-title: SG-3 - Guide to Mission Running
+title: Mission Running
 description: 
 published: true
-date: 2021-02-13T10:48:23.532Z
+date: 2021-02-18T16:17:13.676Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T05:47:32.560Z
