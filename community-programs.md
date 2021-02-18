@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-18T17:00:47.325Z
+date: 2021-02-18T17:08:54.806Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -16,6 +16,15 @@ Basic program that will teach you how to use the community tools to join fleets 
 
 ## [Career Introduction: Wormhole PVE](/community-programs/wh-daytrips)
 Giving LinkNet members a chance to taste wormhole space in a fleet environment.
+
+# Service Programs
+Different programs that runs as services to help you with different areas of the game.
+
+## [Buyback Program](/community-programs/buyback)
+Makes it possible for you to sell your items at our operation locations for a secure price.
+
+## [Ship Replacement Programs](/community-programs/ship-replacement-program)
+The community offers a Ship Replacement program that is designed to help our new members in the situations where they have lost their bellowed ships. It also aims to teach you how to use SRP systems so that once you advance in your career and take part in fleets that offer 100% coverage on your losses you know how to get your money back.
 
 # Community Programs
 The community programs are open programs for any community members that will help them forwards towards different goals in EVE. These programs are designed to help you achieve goals that might be hard to do without guidance.
@@ -31,9 +40,6 @@ The training program for new fleet commanders aim to help pilots with little or 
 
 ## [Capital Ship Support Program](/community-programs/capital-ship-support-program)
 Helping you to get into a capital or super capital class vessel
-
-## [Ship Replacement Programs](/community-programs/ship-replacement-program)
-The community offers a Ship Replacement program that is designed to help our new members in the situations where they have lost their bellowed ships. It also aims to teach you how to use SRP systems so that once you advance in your career and take part in fleets that offer 100% coverage on your losses you know how to get your money back.
 
 ## [War Response Program SLTRN](/community-programs/war-response-program)
 The primary war response in high sec wars. While its members are mainly alpha alt (alternative) characters with low skill points and very narrow skills to only fly the current doctrines, it may also be joined with older or omega accounts.
