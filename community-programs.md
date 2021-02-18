@@ -2,7 +2,7 @@
 title: Community Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-18T16:58:12.968Z
+date: 2021-02-18T16:59:48.261Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -15,6 +15,9 @@ Each program is designed to start out with a basic 101 class followed by a pract
 
 ## [Career Introduction: Fleets & PvP](/community-programs/mqp)
 Basic program that will teach you how to use the community tools to join fleets and operate while flying in a fleet.
+
+## [Career Introduction: Wormhole PVE](/community-programs/wh-daytrips)
+Giving LinkNet members a chance to taste wormhole space in a fleet environment.
 
 # Community Programs
 The community programs are open programs for any community members that will help them forwards towards different goals in EVE. These programs are designed to help you achieve goals that might be hard to do without guidance.
