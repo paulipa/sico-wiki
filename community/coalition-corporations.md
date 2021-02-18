@@ -1,8 +1,8 @@
 ---
-title: Coalition Member Corporations
+title: Community Partner Corporations
 description: 
 published: true
-date: 2021-02-17T14:23:50.574Z
+date: 2021-02-18T17:02:49.214Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
