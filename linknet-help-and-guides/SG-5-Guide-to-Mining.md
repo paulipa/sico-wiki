@@ -1,8 +1,8 @@
 ---
-title: SG-5 - Guide to Mining
+title: Mining
 description: 
 published: true
-date: 2021-02-13T10:49:39.435Z
+date: 2021-02-18T16:18:32.477Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-15T00:12:45.064Z
