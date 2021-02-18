@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T16:15:28.873Z
+date: 2021-02-18T16:24:15.954Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -17,57 +17,54 @@ In order to survive in EVE you will need to know where and who your enemies are.
 
 ## Hauling and Moving to HQ Safely
 
-## [Exploration](/linknet-help-and-guides/SG-2-Guide-to-Exploration)
-## Guide to Mission Running
-## Mission Running Fits
-## Guide to Mining
-## Guide to Industry
-## Guide to Incursions
-## Guide to the MQP
+## [Exploration](/linknet-help-and-guides/exploration)
+## [Mission Running](/linknet-help-and-guides/mission-running)
+## [Mining](/linknet-help-and-guides/mining)
+## [Industry](/linknet-help-and-guides/industry)
 
 # Ingame Services
 
-## Asset Deposit
+## [Asset Deposit](/linknet-help-and-guides/asset-deposit)
 If you have some extra assets that you do not actively need or use and notice that the coalition might have use for them then you should have a look at the Asset Deposit service that we have in the coalition.
 
-## Citadels
+## [Citadels](/linknet-help-and-guides/citadels)
 Upwell Structures or citadels are player-built and controlled stations with a variety of services. Currently they are still under development and have a limited amount of features but as time goes on the amount of things they are capable of will go up.
 
-## Refining Service
+## [Refining Service](/linknet-help-and-guides/highend-refining)
 May you be a miner looking to sell his/her ores in a more friendly form or a manufacturer that needs his ores to be refined in order to manufacture some fancy stuff refining is the only way to go. Training for a perfect refiner takes a long long time not to mention you need the correct facilities to max out your refining yield. To max out all refining skills for each ores takes roughly a year. This is where we will step in!
 
-## Mining Fleets
+## [Mining Fleets](/linknet-help-and-guides/mining-fleets)
 Upon joining one of the LinkNet partner corporations or by gaining an allied status you will be given the chance to benefit from our mining boosting system.
 
 The community has several Mining Boosters capable of boosting our miners with up to 70% efficiency and raising mining fleets almost at any given time! All of the boosters are volunteers willing to make your mining a more enjoyable and profitable experience.
 
-## Public Blueprints
+## [Public Blueprints](/linknet-help-and-guides/public-blueprints)
 Amongst many other things LinkNet offers services for manufacturers. The primary service for manufacturers is called public BPO system. What it means in practice is that the coalition has bought a variety of original blueprints with the funds that we have made and locked them down in designated research systems. When a blueprint is locked down it means that it can be used by all the members that have the required role to view the corporation hangar but it is not possible to remove or move the BPO at all which will prevent any undesired theft.
 
 # Basic Operation Manuals
 
-## Dealing With Triglavian Invasion Systems
+## [Dealing With Triglavian Invasion Systems](/linknet-help-and-guides/dealing-with-triglavian-invasion-systems)
 Systems in minor victory or EDENCOM Fotress stage will have both invasion sites spawning in them as well as very strong Edencom or Triglavian NPCs patrolling the system depending on in whos favor the minor victory is. If a system has become a minor victory for Triglavians then Triglavian fleets will patrol the gates and the stations in the system.
 
-## Editing Wiki
+## [Editing Wiki](/linknet-help-and-guides/editing-wiki)
 How to edit and manage this wiki site.
 
-## Fleet Commanders Checklist for MQP fleets
+## [Fleet Commanders Checklist for MQP fleets](/linknet-help-and-guides/fc-mqp-checklist)
 Checklist for running MQP fleets
 
-## Wormholes
+## [Wormholes](/linknet-help-and-guides/wormholes)
 Manual for SEADC members and pilots who want to learn to live and survive in wormhole space.
 
-## Wormhole Daytrips
+## [Wormhole Daytrips](/linknet-help-and-guides/wh-daytrips)
 Giving LinkNet members a chance to taste wormhole space in a fleet environment.
 
-## Null Sec
+## [Null Sec](/linknet-help-and-guides/null-sec)
 This manual will explain to you how to get into the 2SLOW null sec corporaiton and what is expected to happen once you are in
 
 ## Incursions
 One of the best ways to make money in High Sec
 
-## Wartime Standard Operating Procedures
+## [Wartime Standard Operating Procedures](/linknet-help-and-guides/wtsop)
 What will happen when a war starts? How do you survive and what you should avoid?
 
-## Forward Operating Bases
+## [Forward Operating Bases](/linknet-help-and-guides/forward-operating-bases)
