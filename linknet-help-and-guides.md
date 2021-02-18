@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T16:10:58.297Z
+date: 2021-02-18T16:15:28.873Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -17,7 +17,7 @@ In order to survive in EVE you will need to know where and who your enemies are.
 
 ## Hauling and Moving to HQ Safely
 
-## Guide to Exploration
+## [Exploration](/linknet-help-and-guides/SG-2-Guide-to-Exploration)
 ## Guide to Mission Running
 ## Mission Running Fits
 ## Guide to Mining
