@@ -2,14 +2,14 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T15:53:23.824Z
+date: 2021-02-18T15:53:51.491Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
 ---
 
 # Guides
-## [Clones](/services/linknet-help-and-guides/clones)
+## [Clones](/linknet-help-and-guides/clones)
 Jump clones are pods that you can leave in stations around New Eden. You are able to jump from your current location to an installed jump clone location anywhere in known space. This allows you to rapidly change your location. Jump cloning will only move your character to the jump clone location, you will need to move all assets the traditional way.
 
 ## Overview Setup
