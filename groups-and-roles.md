@@ -2,7 +2,7 @@
 title: Groups & Roles
 description: Guides and manuals for various different community roles
 published: true
-date: 2021-02-18T16:39:40.906Z
+date: 2021-02-18T16:40:09.734Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:30:59.007Z
@@ -20,7 +20,7 @@ The emissary program is designed to allow third party entities to raise fleets f
 # Manuals
 Manuals for different roles.
 
-## [Fleet Commanders Checklist for MQP fleets](/linknet-help-and-guides/fc-mqp-checklist)
+## [Fleet Commanders Checklist for MQP fleets](/groups-and-roles/fc-mqp-checklist)
 Checklist for running MQP fleets
 
 ## [VG FC Trainee Checklist ](/groups-and-roles/vgincfc)
