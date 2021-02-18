@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T16:42:54.935Z
+date: 2021-02-18T16:43:33.293Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -45,9 +45,6 @@ Amongst many other things LinkNet offers services for manufacturers. The primary
 
 ## [Dealing With Triglavian Invasion Systems](/linknet-help-and-guides/dealing-with-triglavian-invasion-systems)
 Systems in minor victory or EDENCOM Fotress stage will have both invasion sites spawning in them as well as very strong Edencom or Triglavian NPCs patrolling the system depending on in whos favor the minor victory is. If a system has become a minor victory for Triglavians then Triglavian fleets will patrol the gates and the stations in the system.
-
-## [Editing Wiki](/linknet-help-and-guides/editing-wiki)
-How to edit and manage this wiki site.
 
 ## [Wormholes](/linknet-help-and-guides/wormholes)
 Manual for SEADC members and pilots who want to learn to live and survive in wormhole space.
