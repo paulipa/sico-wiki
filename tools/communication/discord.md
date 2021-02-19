@@ -2,7 +2,7 @@
 title: Discord
 description: 
 published: true
-date: 2020-10-12T08:07:29.805Z
+date: 2021-02-19T08:59:20.575Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T16:13:01.899Z
@@ -50,7 +50,7 @@ If you have just joined the corporation the ESI might not have updated yet. If y
 # Discord Ping rules
 Since we do not want to spam people with too many pings on discord which may cause them simply to mute all pings there are some rules and restrictions for pings
 
-Our ping rules are located in here: https://wiki.eve-linknet.com/en/tools/auth#discord-fleet-pings
+Our ping rules are located in here: https://wiki.eve-linknet.com/groups-and-roles/auth-tools#discord-fleet-pings
 
 # Troubleshooting
 Most common fix for discord not linking your roles
