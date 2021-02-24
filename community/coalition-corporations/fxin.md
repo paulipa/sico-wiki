@@ -2,7 +2,7 @@
 title: Fatalix Industries [FXIN]
 description: 
 published: true
-date: 2020-12-30T00:15:48.700Z
+date: 2021-02-24T06:34:46.563Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:51.171Z
@@ -34,4 +34,6 @@ Additionally:
 - 5m skillpoints
 
 # How To Join
-The best way to contact Fatalix is to join our in-game channel "FXIN Public" and say hello!
+You can find out application process here: https://wiki.fatalix.com/en/apply
+
+You should also join our in-game channel "FXIN Public" and say hello!
