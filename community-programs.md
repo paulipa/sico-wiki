@@ -2,14 +2,14 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-25T14:45:56.011Z
+date: 2021-02-25T14:46:12.108Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
 ---
 
 # Career Introduction Fleets [CIF]
-Career introduction programs are aimed at helping you to gain understanding of the different career options and things to do in EVE. Each program is designed to start out with a basic 101 class followed by a practical excample of the content in question. This is most often achieved with a fleet operation.
+Career introduction fleets are aimed at helping you to gain understanding of the different career options and things to do in EVE. Each program is designed to start out with a basic 101 class followed by a practical excample of the content in question. This is most often achieved with a fleet operation.
 
 ## [CIF: Fleets & PvP](/community-programs/mqp)
 Basic program that will teach you how to use the community tools to join fleets and operate while flying in a fleet.
