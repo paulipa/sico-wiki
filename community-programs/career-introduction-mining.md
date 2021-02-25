@@ -2,7 +2,7 @@
 title: Career Introduction Fleet: Mining
 description: Mining is not as easy as it might seem. Learn how to mine safe and sound!
 published: true
-date: 2021-02-25T14:43:19.719Z
+date: 2021-02-25T14:50:04.014Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T14:43:19.719Z
@@ -84,7 +84,7 @@ System with FOB: https://i.imgur.com/VbLULfg.png
 
 EVE University link: https://wiki.eveuniversity.org/Forward_Operating_Base
 
-## Mining fleet program
+# Mining fleet program
 
 As part of the programs we offer in the coalition, we have a standing mining fleet that’s almost 24/7 doing mining operations in the Jarkkolen system. Mining in a fleet has more benefits than mining solo, you can mine faster and more with mining boosts, and with more people in the fleet, we can share intel on possible dangers that I showed you earlier.
 
@@ -98,21 +98,21 @@ Mining boosts
 
 Now you may be wondering what are the mining boosts I talked about. There is a special type of ships called Industrial Command ships, namely the Porpoise and the Orca, that can use area of effect modules to give boosts to fleet members near them, basically buffs to make your lasers reach farther and mine faster, sometimes shield buffs are used too. Boosts have limited range and never would be further than 50 km (mostly less), so you need to be in the same ore belt with a booster to get it.
 
-### Mining fleet comms
+## Mining fleet comms
 
 When you’re mining in a fleet, usually the fleet chat is a good way to share information. But we also suggest you to use the voice comms on Discord, especially when there are potential dangers, so we can stay more alert.
 
-### Recommended fittings
+## Recommended fittings
 
 List of ships and their fits recommended for usage in the mining fleet are available in the message of the day of LINE or LinkNet Standing Mining Fleet chat. Main concept of that ship fits - balance of yield, EHP, and cost.
 
-### Mining SRP
+## Mining SRP
 
 Having said all above, if you still lose your ship to a ganker even after taking all the precautions, that is you’re using the correct ship and fitting, you’re not mining afk and you’re on comms. In this case you’ve tried your best and we say it’s not your fault, so the coalition will SRP your mining ship. SRP means ship replacement program, basically you submit a request, and if it’s valid, the coalition will pay you the value of the ship you lost. It’s a program that the coalition has to help our members.
 
 EVE LinkNet link: https://wiki.eve-linknet.com/services/programs/ship-replacement-program
 
-### Mining fleet etiquette
+## Mining fleet etiquette
 
 After talking about the more formal rules, I’m going to talk a little about the “mining etiquette”. Now, when you’re mining in the fleet, you’re working together with other people, and there are a few “unspoken rules” about it to make it a better experience for everyone. 
 
