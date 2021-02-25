@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-25T14:45:25.200Z
+date: 2021-02-25T14:45:56.011Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -14,7 +14,7 @@ Career introduction programs are aimed at helping you to gain understanding of t
 ## [CIF: Fleets & PvP](/community-programs/mqp)
 Basic program that will teach you how to use the community tools to join fleets and operate while flying in a fleet.
 
-## [CIF: Wormhole PVE](/community-programs/wh-daytrips)
+## [CIF: Wormhole Daytrips](/community-programs/wh-daytrips)
 Giving LinkNet members a chance to taste wormhole space in a fleet environment.
 
 ## [CIF: Mining](/community-programs/career-introduction-mining)
