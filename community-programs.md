@@ -2,27 +2,27 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-25T14:47:24.405Z
+date: 2021-02-26T08:40:55.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
 ---
 
-# Career Introduction Fleets [CIF]
-Career introduction fleets are aimed at helping you to gain understanding of the different career options and things to do in EVE. 
+# General Rookie Introduction Program [GRIP]
+GRIP fleets are aimed at helping you to gain understanding of the different career options and things to do in EVE. 
 
 Each program is designed to start out with a basic 101 class followed by a practical excample of the content in question. This is most often achieved with a fleet operation. The basic structure is as follows:
 1. Preparations
 1. 101 basic class
 1. Practical examples in fleet
 
-## [CIF: Fleets & PvP](/community-programs/mqp)
+## [GRIP: Fleets & PvP](/community-programs/mqp)
 Basic program that will teach you how to use the community tools to join fleets and operate while flying in a fleet.
 
-## [CIF: Wormhole Daytrips](/community-programs/wh-daytrips)
+## [GRIP: Wormhole Daytrips](/community-programs/wh-daytrips)
 Giving LinkNet members a chance to taste wormhole space in a fleet environment.
 
-## [CIF: Mining](/community-programs/career-introduction-mining)
+## [GRIP: Mining](/community-programs/career-introduction-mining)
 Mining is not as easy as you might think! Learn how to mine safe and sound and take advantage of the community mining services.
 
 # Service Programs
