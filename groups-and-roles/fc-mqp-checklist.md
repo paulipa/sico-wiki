@@ -2,19 +2,20 @@
 title: FC's checklist for MQP fleets
 description: 
 published: true
-date: 2020-07-29T18:19:41.567Z
+date: 2021-02-26T09:14:13.872Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-07T07:20:11.126Z
 ---
 
-# FC's MQP checklist
-**Almost every fleet you raise that covers basic fleet training before you head into action qualifies as a MQP fleet.** The primary goal with the MQP fleets is to teach your pilots how to fly in fleets and also show them some fleet action. 
+# FC's GRIP: Fleets & PvP checklist
+**Almost every fleet you raise that covers basic fleet training before you head into action qualifies as a MQP fleet.** The primary goal with the GRIP fleets is to teach your pilots how to fly in fleets and also show them some fleet action. 
 
-It doesn’t matter what type of action the fleet is aiming for as long as it is not a mining fleet. So a fleet that you take into wormhole sites will qualify as MQP fleet if you teach the basics of fleet mechanisms for your members before you start running site to make sure they are all aware of them and know how to use them!
+It doesn’t matter what type of action the fleet is aiming for as long as it is not a mining fleet. So a fleet that you take into wormhole sites will qualify as GRIP fleet if you teach the basics of fleet mechanisms for your members before you start running site to make sure they are all aware of them and know how to use them!
 
 You are always also allowed to take members with you that already have completed the MQP training or are older members who just like to stick around. Obviously they do not need to attend the training phase that happens before the fleet departures.
 
-When running a MQP fleet it is important that:
+When running a GRIP: Fleets & PvP fleet it is important that:
 - You do the training phase where you explain new members how to do each things mentioned on this checklist
 - You do a roam in null sec space and seek to get some action.
 
@@ -29,8 +30,8 @@ As a fleet commander or a fleet commander trainee you need to setup your systems
 
 Make sure you have set up Mumble so that you have command channel keys set up. Guide for setting them up is in here https://www.silentcoalition.com/help-center/mumble/#Setting-up-keybinds
 
-## A pure MQP fleet
-A fleet that is only aimed to complete the parts needed for MQP training is a null sec roaming fleet to Curse/Catch region. It will go through a few low sec gates into a random null sec pocket.
+## A pure GRIP: Fleets & PvP fleet
+A fleet that is only aimed to complete the parts needed for GRIP training is a null sec roaming fleet to Curse/Catch region. It will go through a few low sec gates into a random null sec pocket.
 
 Distance to final destination is normally around 15 jumps. The whole fleet will take 1-2 hours in total including the training part (one third training and two thirds traveling and fighting)
 
@@ -39,11 +40,11 @@ Current closest null sec entry is in Curse.
 ## Comms
 Select what voice comms you are going to use. In most cases you will be using Discord as it is a bit easier to use. Mumble is used for larger operations or operations where we have multiple fleets out at the sametime.
 
-> Most often you want to use Discord for MQP fleets
+> Most often you want to use Discord for GRIP: Fleets & PvP fleets
 {.is-info}
 
 ### Discord
-Make sure all of your members are on discord as this is a requirement for the MQP fleet. With this we will make sure that the members have activated their discord service.
+Make sure all of your members are on discord as this is a requirement for the GRIP fleet. With this we will make sure that the members have activated their discord service.
 
 ### Mumble
 Make sure that all of your fleet members are in mumble. Make also sure that you have set your own keybiddings correctly as described in here: https://www.silentcoalition.com/help-center/mumble/#Setting-up-keybinds
@@ -61,9 +62,9 @@ Before heading out you will need to make sure that each player is in the right s
 Before you head into action you will need to cover basic fleet mechanisms and the usage of the fleet window
 
 ### Doctrines
-Make sure that players are in the right ships. Only MQP frigates are valid for SRP. The second reason for the correct doctrine is that each member needs to have a ship that behaves similar in combat ie. prop mods.
+Make sure that players are in the right ships. Only GRIP frigates are valid for SRP. The second reason for the correct doctrine is that each member needs to have a ship that behaves similar in combat ie. prop mods.
 
-> SRP only covers the MQP doctrine!
+> SRP only covers the GRIP: Fleets & PvP doctrine!
 {.is-warning}
 
 ## Medical clones and implants
@@ -78,7 +79,7 @@ Make sure people do not have implants on them. Explain that they can change thei
 > The reason we use these jump clones is so that if we get podded we don’t loose our implants, they will be stored safely in your jump clone to pick back up again.
 
 # After Undock
-After you have given the undock command you will be able to cover the next section of the MQP training phase.
+After you have given the undock command you will be able to cover the next section of the GRIP training phase.
 
 ## Undock and stop ship
 After undocking the fleet should stop their ships by pressing ctrl + space. This shortcut can also be used in mid warp to prevent any after landing actions such as jumping gates from happening.
@@ -259,13 +260,12 @@ Once you are back from low and null sec space and enter the high sec space again
 > (Hitting High Sec) Ok, the last command we will cover today is Free Burn, Free burn means you are free to burn to your destination at the fastest speed you can as fleet warping will always move you at the speed of the slowest ship in the fleet to keep the group together, this means until you hit your destination the fleet will split up. Free burn back to HQ
 
 ## After the fleet
-Give out a fat link. Rename the FAT link as MQP | `<possible fleet description>` like MQP | Wormhole diving
+Give out a fat link. Rename the FAT link as GRIP | `<possible fleet description>` like MQP | Wormhole diving
 
-> MQP fat links must include the phrase MQP in somewhere in the links name or we can't track it as an MQP FAT
+> GRIP fat links must include the phrase GRIP in somewhere in the links name or we can't track it as an GRIP: Fleets & PvP FAT
 {.is-danger}
 
-
-If you had losses you can SRP the MQP doctrines. Any other doctrines are up for your own consideration and wallet.
+If you had losses you can SRP the GRIP: Fleets & PvP doctrines. Any other doctrines are up for your own consideration and wallet.
 
 Notify people about our SLTRN military response program and briefly tell it how it works: Make a new account with a buddy invite and create a caldari character in it. Then inject the SP for the doctrines and voila you have a pvp ready char always in the right place with the right skills!
 
