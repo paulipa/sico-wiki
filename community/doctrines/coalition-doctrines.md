@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-02-10T08:57:12.320Z
+date: 2021-02-26T08:56:59.686Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -742,7 +742,7 @@ Scan Resolution Script x2
 Targeting Range Script x2
 </details>
 
-## MQP Fleet
+## GRIP: Fleets & PvP
 These ships are used with the member qualification program (MQP). They are cheap and easy to get into.
 
 > MQP frigates can be used with almost any fleet as a tackle if you cant fly the primary doctrine.
