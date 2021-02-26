@@ -2,13 +2,13 @@
 title: Wormhole Daytrips
 description: 
 published: true
-date: 2020-12-20T02:46:41.377Z
+date: 2021-02-26T08:46:22.287Z
 tags: wormholes, pve
 editor: markdown
 dateCreated: 2020-10-05T18:11:19.241Z
 ---
 
-# RVEN Wormhole daytrips
+# GRIP: RVEN Wormhole daytrips
 A "wormhole daytrip" is a cozy term for an organized entry-level group content that revolves around taking a fleet of cruisers for ratting into a class 3 j-system. The objectives of these fleets are as follows:
 > 1. Teach players the basics of fleet discipline 
 > 1. Teach players about some basic procedures and etiquette about wormhole space
@@ -17,38 +17,36 @@ A "wormhole daytrip" is a cozy term for an organized entry-level group content t
 > 1. Lastly, but the most important, HAVE FUN!
 
 # FAQ
-## Do I need to join an MQP fleet before showing up for a wormhole daytrip?
-No. As stated in the objectives, we will teach you the basics of fleet discipline in a similar manner as the regular MQP fleets.
-<br>
+## Do I need to join an [GRIP: Fleets & PvP](https://wiki.eve-linknet.com/community-programs/mqp)  fleet before showing up for a wormhole daytrip?
+No. As stated in the objectives, we will teach you the basics of fleet discipline in a similar manner as the regular GRIP: Fleets & PvP fleets.
+
 ## How long does it last?
 Depends on the FC and what happens during the event, but generally our "Wormhole Daytrips" last between 2 and 3 hours.
-<br>
 
 ## What will I learn?
 You will learn the basics of fleet mechanics, wormholes and fleet PVE discipline.
-<br>
+
 ## What is wormhole space? What are wormholes?
 Wormhole space is a collection of lawless systems only accessible through wormholes, which act as stargates. You can get more information [here](/services/flightmanuals/wormholes) .
-<br>
+
 ## How much ISK will I be making?
 Depending on the number of finished sites and pilots in fleet, the general payouts are between 25-40mil ISK/player, sometimes even more.
-<br>
+
 ## What ship should I bring?
 The fleet is mainly composed of armor cruiser DPS/Logi and battlecruiser boosts. Our "Wormhole Daytrip" fits can be found [here](/community/doctrines/coalition-doctrines#wh-daytrip) .
-<br>
+
 ## Is there SRP in the event of ship loss?
 SRP is not available. If you don't have a ship beforehand, handouts can be provided when initially forming.
-<br>
+
 ## How do I sign up? Where do I go?
 You will find any coalition scheduled daytrips here: https://auth.eve-linknet.com/opcalendar/ . Formup system is usually the coalition staging system, which as of this time is Ronne. 
 Alternatively, the fleet can form in one of our wormhole bases, in which case the FC will provide the entry system (as close to Ronne as possible) and you will need to go there (use a shuttle or a fast frigate). 
-<br>
+
 ## I am here, why hasn't the daytrip started already?
 Finding a good wormhole system for these events can be quite time consuming sometimes. Unless the operation has been canceled, rest assured that it is being worked upon. Just please, have a little patience!
-<br>
+
 ## I just logged in. Is it too late to join?
 Most often depends on the FC, but usually you won’t be able to join if the fleet has moved to the destination j-system.
-<br>
 
 # What will actually happen?
 First, we will travel to the k-space destination where the entry wormhole is to be found and from there we will be going through wormhole space. 
