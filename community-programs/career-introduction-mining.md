@@ -2,13 +2,13 @@
 title: Career Introduction Fleet: Mining
 description: Mining is not as easy as it might seem. Learn how to mine safe and sound!
 published: true
-date: 2021-02-25T14:50:04.014Z
+date: 2021-02-26T08:43:57.562Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T14:43:19.719Z
 ---
 
-# Mining Career Introduction Fleet Doc
+# GRIP: Mining
 
 This is an overview (basic) guide covering mining in EVE Online. This guide is likely to be the most interesting and useful for players with little experience. First day players may have problems with terminology and knowledge of the game interface, while experienced players already know most of the below.
 
