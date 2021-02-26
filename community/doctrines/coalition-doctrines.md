@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-02-26T08:57:59.628Z
+date: 2021-02-26T08:58:49.786Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -750,7 +750,7 @@ These ships are used with the [GRIP: Fleets & PvP fleet](https://wiki.eve-linkne
 
 ### Tackle
 <details>
-  <summary>Incursus - MQP (Alpha)</summary>
+  <summary>Incursus - GRIP (Alpha)</summary>
 [Incursus, Incursus - PVP (Alpha Fleet)]
 
 Damage Control I
@@ -779,7 +779,7 @@ Caldari Navy Antimatter Charge S x1000
 </details>
 
 <details>
-  <summary>Merlin - MQP (Alpha)</summary>
+  <summary>Merlin - GRIP (Alpha)</summary>
 [Merlin, Merlin - PVP (Alpha Fleet)]
 
 Damage Control I
@@ -805,7 +805,7 @@ Caldari Navy Antimatter Charge S x1000
 </details>
 
 <details>
-  <summary>Rifter - MQP (Alpha)</summary>
+  <summary>Rifter - GRIP (Alpha)</summary>
 [Rifter, Rifter - PVP (Alpha Fleet)]
 
 Damage Control I
@@ -831,7 +831,7 @@ Republic Fleet Phased Plasma S x1000
 </details>
 
 <details>
-  <summary>Tormentor - MQP (Alpha)</summary>
+  <summary>Tormentor - GRIP (Alpha)</summary>
 [Tormentor, Tormentor - PVP (MQP)]
 
 Damage Control I
@@ -860,7 +860,7 @@ Imperial Navy Multifrequency S x3
 
 <details>
   <summary>T2 Merlin - Only for Returners (Omega)</summary>
-[Merlin, T2 MQP MERLIN]
+[Merlin, T2 GRIP MERLIN]
 
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
@@ -890,7 +890,7 @@ Null S x1000
 
 ### Logistics
 <details>
-  <summary>Burst - MQP (Alpha)</summary>
+  <summary>Burst - GRIP (Alpha)</summary>
 [Burst, Burst - PVP (Alpha Fleet)]
 
 Damage Control I
@@ -916,7 +916,7 @@ Warrior I x1
 Navy Cap Booster 400 x15
 </details>
 <details>
-  <summary>Bantam - MQP (Alpha)</summary>
+  <summary>Bantam - GRIP (Alpha)</summary>
 [Bantam, Bantam - PVP (Alpha Fleet)]
 
 Damage Control I
@@ -946,7 +946,7 @@ Navy Cap Booster 400 x15
 ### Snowflake 1x per fleet
 
 <details>
-<summary>Sabre - MQP (Omega)</summary>
+<summary>Sabre - GRIP (Omega)</summary>
 [Sabre, Bubbler - Fleet - Omega]
 
 Damage Control II
