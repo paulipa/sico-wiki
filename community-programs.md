@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-26T08:42:38.408Z
+date: 2021-02-26T09:30:57.862Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -15,6 +15,8 @@ Each program is designed to start out with a basic 101 class followed by a pract
 1. Preparations
 1. 101 basic class
 1. Practical examples in fleet
+
+You will be able to identify the GRIP fleets on our [calendar](https://auth.eve-linknet.com/opcalendar/) with the GRIP tag.
 
 ## [GRIP: Fleets & PvP](/community-programs/mqp)
 - How to use LinkNet Tools
