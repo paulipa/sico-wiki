@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-02-26T09:37:25.691Z
+date: 2021-02-26T09:38:09.648Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -103,10 +103,10 @@ The most obvious way of getting your ship and the fitting for it is to buy them 
 
 You can check if your local station can supply you with all of the needed modules by copying the whole doctrine fit and pastingit into the multibuy window on the market browser.
 
-In the case of the MQP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the LinkNet Trade Center. Due to the logistical effort the prices here might be higher than in Jita. The closest large hub to us is Amarr.
+In the case of the GRIP: Fleets & PvP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the LinkNet Trade Center. Due to the logistical effort the prices here might be higher than in Jita. The closest large hub to us is Amarr.
 
 ### Handout ships
-Sometimes ships are handed out in fleets. You can find this information from the event details on our [operation calendar](https://auth.eve-linknet.com/opcalendar/). However MQP ships are not handed out as the goal is to teach you how to buy and fit your own ships.
+Sometimes ships are handed out in fleets. You can find this information from the event details on our [operation calendar](https://auth.eve-linknet.com/opcalendar/). However GRIP: Fleets & PvP ships are not handed out as the goal is to teach you how to buy and fit your own ships.
 
 ### Fitting doctrine ships
 You are allowed to change the meta version of the module (T1, T2 or meta 1-4) of any doctrine if you are unable to fly the fit with the T2 modules. Open the show info window of each module and go to the variations tab to see the different meta variations.
