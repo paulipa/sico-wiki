@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-02-26T09:11:01.227Z
+date: 2021-02-26T09:37:25.691Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -40,7 +40,7 @@ Special Interest Groups are open groups that anyone can join or leave at any tim
 
 SIG groups are also used as ping targets on our discord so that it is possible for our members only to receive those pings they might be interested in.
 
-### Special Interest Group: MQP
+### Special Interest Group: PvP
 Special Interest: PvP group is yet again a special interest group designed for people who like to know when the GRIP fleet for PvP or ayn other pvp related fleet go up. 
 
 This group will be globally pinged whenever a The GRIP: Fleets & PvP fleet goes live so it is important that you apply for it. You are able to leave it later on if you have no further interest in pvp fleets after your first run.
