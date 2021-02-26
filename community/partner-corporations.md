@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-02-18T17:02:49.214Z
+date: 2021-02-26T09:51:04.744Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -78,7 +78,10 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Location: Low Sec
 - Timezone: EU
 - Faction Warfare, Low Sec Piracy
-- PVP 
+- PVP
+
+## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
+
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
 You ever wondered what it's like to fly in an actual team orientated environment? Sensible People invests heavily into it's members by it's members. We put team over self. Although there is individual profit driven outlets we assist one another in the most effective paths to achieve those goals. Leadership is available and not AFK and the corporation has goals and aspirations that are practical and achievable.
 - Location: Low Sec
