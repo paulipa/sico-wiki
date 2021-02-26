@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-26T08:40:55.214Z
+date: 2021-02-26T08:42:38.408Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -17,13 +17,18 @@ Each program is designed to start out with a basic 101 class followed by a pract
 1. Practical examples in fleet
 
 ## [GRIP: Fleets & PvP](/community-programs/mqp)
-Basic program that will teach you how to use the community tools to join fleets and operate while flying in a fleet.
+- How to use LinkNet Tools
+- How to join and fly in fleets
+- Fleet PvP 101
 
 ## [GRIP: Wormhole Daytrips](/community-programs/wh-daytrips)
-Giving LinkNet members a chance to taste wormhole space in a fleet environment.
+- Fleet flying in wormhole space
+- Wormhole PVE and anomalies
 
 ## [GRIP: Mining](/community-programs/career-introduction-mining)
-Mining is not as easy as you might think! Learn how to mine safe and sound and take advantage of the community mining services.
+- Basics of mining
+- Fleet mining
+- Mining services
 
 # Service Programs
 Different programs that runs as services to help you with different areas of the game.
