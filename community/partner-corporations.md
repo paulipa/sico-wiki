@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-02-28T11:57:54.350Z
+date: 2021-02-28T11:59:03.816Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -88,7 +88,11 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - PVP
 
 ## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
-
+Serenity Cartel in an Australian based corporation, in Faction Warfare (Amarr Mil). We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies looking to cut their teeth on some PVP, to veterans seeking some of that small gang action.
+- Location: Low Sec
+- Timezone: AUS
+- Faction Warfare
+- Small Gang PVP
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
 You ever wondered what it's like to fly in an actual team orientated environment? Sensible People invests heavily into it's members by it's members. We put team over self. Although there is individual profit driven outlets we assist one another in the most effective paths to achieve those goals. Leadership is available and not AFK and the corporation has goals and aspirations that are practical and achievable.
 - Location: Low Sec
