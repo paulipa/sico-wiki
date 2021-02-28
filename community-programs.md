@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-28T10:14:57.000Z
+date: 2021-02-28T10:16:27.973Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -22,6 +22,7 @@ You will be able to identify the GRIP fleets on our [calendar](https://auth.eve-
 - How to use LinkNet Tools
 - How to join and fly in fleets
 - Fleet PvP 101
+- [FC Checklist for GRIP: Fleets & PvP](https://wiki.eve-linknet.com/groups-and-roles/fc-mqp-checklist)
 
 ## [GRIP: Wormhole Daytrips](/community-programs/wh-daytrips)
 - Fleet flying in wormhole space
