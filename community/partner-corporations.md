@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-02-28T11:12:26.314Z
+date: 2021-02-28T11:57:54.350Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
