@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-02-26T09:51:04.744Z
+date: 2021-02-28T11:11:32.183Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -70,6 +70,9 @@ We at Snuggles spend our time hunting. We hunt highsec for that fat loot to plun
 - Timezone: AUS
 - Hauler/Freightor and Incursion/Mission runner ganking
 - Low/Null hunting and Blops 
+
+## [Control Monkeys [CT.M.]](/community/coalition-corporations/ctm)
+
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
 Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
