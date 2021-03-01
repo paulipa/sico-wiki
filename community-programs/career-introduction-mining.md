@@ -2,7 +2,7 @@
 title: Career Introduction Fleet: Mining
 description: Mining is not as easy as it might seem. Learn how to mine safe and sound!
 published: true
-date: 2021-02-26T08:43:57.562Z
+date: 2021-03-01T18:55:32.206Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-25T14:43:19.719Z
@@ -10,91 +10,113 @@ dateCreated: 2021-02-25T14:43:19.719Z
 
 # GRIP: Mining
 
-This is an overview (basic) guide covering mining in EVE Online. This guide is likely to be the most interesting and useful for players with little experience. First day players may have problems with terminology and knowledge of the game interface, while experienced players already know most of the below.
+This is an overview (basic guide) covering high secutiry space mining in EVE Online. This guide is likely to be the most interesting and useful for players with little experience. First day players may have problems with terminology and knowledge of the game interface, while experienced players already know most of the below.
 
-Mining in EvE may look like an easy job, it kinda is, but there are many things you should be aware about. Today we’re going to explain what problems you can have when mining, how to deal with them, and why it’s better to mine in a fleet.
+Mining in EvE may look like an easy job, it kinda is, but there are many things you should be aware about. In this guide we’re going to explain what problems you can have when mining, how to deal with them, and why it’s better to mine in a fleet.
 
 ## Suicide ganking
 
-The first thing we’re going to talk about is something you might be familiar with, which is suicide ganking.
+The first topic we’re going cover is something you might be familiar with, which is suicide ganking.
 
-The game is characterized by seeming slowness: movements within the system last tens of seconds, the cycles of mining lasers - minutes, and movements from one system to another can take tens of minutes. However, as in the games of the “shooter” genre, sometimes there are situations when the count goes for seconds and even for fractions of seconds.
+This game is characterized by seeming slowness: movements within the system last tens of seconds, the cycles of mining lasers - minutes, and travels from one system to another can take tens of minutes. However, as in the games of the “shooter” genre, sometimes there are situations when the count goes for seconds and even for fractions of seconds.
 
-Suicide ganking is killing another ship in highsec without a valid reason. The attacker will lose their ship to Concord but a victim irrevocably loses their ship almost always too. It’s usually done for a profit, or in our case, it’s mostly for griefing. A ganking ship doesn’t cost very much, but can deal a lot of damage.
+*Highsec mining in a nutshell: https://www.youtube.com/watch?v=1k0v2xNcmKw*
 
-We’re in a 0.8 system, and it takes 7 seconds for concord to arrive, and 2 seconds for them to stop the gankers, a standard T2 catalyst ganker ship can deal over 600 dps. That makes over 5000 damage from a single ship. As soon as gankers mainly works by group of 2 to 6 at least, you may multiply by that number.
+Suicide ganking is killing another ship in highsec without a valid reason. The attacker will lose their ship to Concord but the victim irrevocably loses their ship almost always too. It’s usually done for a profit, or in our case, it’s mostly for griefing. A ganking ship doesn’t cost very much, but can deal a lot of damage.
+
+Taking the Jarkkolen system as an example. It's a 0.8 system, and it takes 7 seconds for Concord to arrive, and 2 seconds for them to stop the gankers, a standard T2 fir Catalyst ganker ship can deal over 600 dps. That makes over 5000 damage from a single ship. As gankers mainly works by group of 2 to 6 at least, you may multiply by that number.
 
 For this reason it’s better to fly a tanky ship to make it harder to kill you. Out of the three mining barges, the Procurer has the most tank, and can have a lot more EHP (Effective Hit Points) than the Retriever or Covetor with correct fit.
 
-And if there are gankers in the system, it’s better to stay aligned (being pre-aligned) to a station or celestial, so you can warp out if they come to gank you. It’s not really helpful with a Venture mining frigate which has very high speed byself (and leaving the mining field quickly), but well fine with mining barges and exhumers.
+> *Fly a tanky ship, don't end up like this: https://zkillboard.com/kill/90459193/*
+{.is-warning}
+
+
+And if there are gankers in the system, it’s better to stay aligned (being pre-aligned, i.e. flying towards it at 80% top speed) to a station or celestial, so you can warp out if they come to gank you. It’s not really helpful for a Venture mining frigate which has very high speed and agility by itself (and thus can leave the mining field quickly), but well fine for mining barges and exhumers.
 
 For slowing down the barge while it’s aligned it’s possible to use Medium Higgs Anchor. It will allow you not to move away from the rocks too quickly and be aligned at same time.
 
-https://www.youtube.com/watch?v=1k0v2xNcmKw
-https://zkillboard.com/kill/90459193/
+> EVE University Article - Suicide Ganking: https://wiki.eveuniversity.org/Suicide_ganking
+{.is-info}
 
-EVE University link: https://wiki.eveuniversity.org/Suicide_ganking
 
 ## Bumping
 
-Another type of griefing behavior is bumping, that means running a ship into another to push it away. You do not lose your ship but not be able to mine ore without moving to another belt (and going away from booster’s bonuses). Sometimes it’s just to ruin your day, and sometimes it’s to steal your drones, especially if you have the expensive ones.
+Another type of griefing behavior is bumping, that means running a ship into another to push it away. You do not lose your ship but will not be able to mine ore without moving to another belt (and going away from booster’s bonuses). Sometimes it’s just to ruin your day, and sometimes it’s to steal your drones, especially if you have the expensive ones.
 
-Expensive drone: <url=showinfo:43694>'Augmented' Mining Drone</url>
+Expensive drone: `<url=showinfo:43694>'Augmented' Mining Drone</url>` (paste in-game)
 
-A bumper usually comes in a massive and fast ship, something like a Machariel or Stabber, if you see them on grid, you might want to pull in your drones, stay aligned, or dock up if they keep bumping.
+As you have learned from physics class, force is mass multiplied by accerelation, a bumper usually comes in a massive (as in ship mass attirbute) and fast ship for the best results, something like a Machariel or Stabber, if you see them on grid, you might want to pull in (recall) your drones, stay aligned, or dock up if they keep bumping.
 
-Bumpers prefer to bump orcas, because they are very slow and large targets, but would bump any other mining ship as soon as it’s their gameplay style.
+> If you're successfully bumped, you will fly away from the belt at ludicrous speed, taking minutes to recover, and likely end up very far from the belt.
+{.is-danger}
 
-EVE University link: https://wiki.eveuniversity.org/Advanced_piloting_techniques#Bumping
+
+Bumpers prefer to bump Orcas, because they are very slow and large targets, but would bump any other mining ship as that's their gameplay style.
+
+> EVE University Article - Bumping: https://wiki.eveuniversity.org/Advanced_piloting_techniques#Bumping
+{.is-info}
+
 
 ## Use of local and standings
 
-A good way to check if it’s safe to mine is to use the local chat. Usually during mining fleets there will usually be a lot of purple, those are people in your fleet, and green and blue, those are people in your corporation or alliance. However if you see a lot of gray or worse, red or flashy (people with flashing red or yellow skull icon) popping up, it might be a sign of trouble. It’s also a good idea to set the standings of some known gankers to red, so you see them immediately in local. 
+A good way to check if it’s safe to mine is to use the local chat player list. Usually during mining fleets there will be a lot of purple, those are people in your fleet, and green and blue, those are people in your corporation or alliance. However if you see a lot of gray (i.e. neutral standing) or worse, red (i.e. bad standing) or flashy (people with flashing red or yellow skull icon, i.e. suspects and criminals) popping up, it might be a sign of trouble. 
 
-Another more advanced way to check is with your directional scanner (dscan), the default key is V, or Alt+D. It will bring out a small window, by default (the 2 sliders are all the way to right) it will scan for everything in a 14.3 AU radius, if you see ships that’s usually used for ganking or bumping, for example Catalyst or Machariel/Stabber/Omen, that means you might be in danger.
+> It’s also a good idea to set the standings of some known gankers to red, so you see them immediately in local. 
+{.is-success}
 
-EVE University link: https://wiki.eveuniversity.org/Directional_scanning
+Another more advanced way to assess the situation is with your directional scanner (dscan), the default key is V, or Alt+D. It will bring out a small window, by default (the 2 sliders are all the way to right) it will scan for everything in a 14.3 AU radius, if you see ships that’s usually used for ganking or bumping, for example Catalyst/Coercer or Machariel/Stabber/Omen, that means you might be in danger.
+
+> EVE University Article - Directional Scanning: https://wiki.eveuniversity.org/Directional_scanning
+{.is-info}
+
 
 ## Safety and baiting
 
-Now we’ve talked about suicide ganking, in that case the ganker loses their ship by attacking you. The same thing will happen if you attack someone on your own, for example if someone is just bumping you and you attack them, then you’ll be killed by concord. When you’re mining in highsec, you should always set your safety to green, in this way it’ll prevent you from doing actions that give you a suspect or criminal status.
+Now we’ve talked about suicide ganking, in that case the ganker loses their ship by attacking you. The same thing will happen if you attack someone on your own without a valid reason. For example, if someone is just bumping you (therefore doesn't make them a legal target per se) and you decide to attack them, then you’ll be killed by Concord. When you’re mining in highsec, you should always set your safety to green, in this way it’ll prevent you from doing actions that give you a suspect or criminal status.
 
-A special case is when someone themself is a suspect or criminal, in this case you can legally attack them even with safety set to green. However you should still never attack them, because if you attack someone, you’ll get a limited engagement timer, and the other person can fight back without concord killing them, which will be bad for you if you’re in a mining ship because that person might be trying to bait you into aggressing them, so they can destroy your ship easily. The limited engagement timer also prevents other people from helping you, because that would count as interfering, and they will get the criminal timer. So even when you’re getting shot, as long as you don’t shoot back, other people can still help you.
+A special case is when someone themself is a suspect or criminal, in this case you can legally attack them even with safety set to green. However you should still never attack them, because if you attack someone, you’ll get a limited engagement timer, and the other person can fight back without Concord intervetion, which will be bad for you if you’re in a mining ship. Because that person might be trying to bait you into aggressing them, so they can destroy your ship easily. The limited engagement timer also prevents other people from helping you, because that would count as interfering, and they will get the criminal timer doing so. So even when you’re getting shot, as long as you don’t shoot back, other people can still help you.
+
+> *Don't make a mess over one troll like here: https://zkillboard.com/related/30003080/202008301800/*
+{.is-danger}
 
 For that reason it’s recommended to switch your drones into passive mode (drone window menu).
 
-https://zkillboard.com/related/30003080/202008301800/
-
 ## Kill rights and wardecs
 
-And another thing you should watch out when mining is if you have a kill right on you. A kill right means someone can activate it to let you become suspect for 15 minutes during which anyone can fire at you legally. And wardec is when your corporation/alliance is at war, your enemies (enemies of your corporation/alliance) can shoot you legally in highsec.
+And another mechanic you should watch out when mining is if you have a kill right on you. Having a kill right means someone can activate it to let you become suspect for 15 minutes during which anyone can fire at you legally. And wardec is when your corporation/alliance is at war, your enemies (enemies of your corporation/alliance) can shoot you legally in highsec.
 
-To check if you have kill rights on you, you can use your character sheet, then interactions, kill rights. Kill right on you never appears just byself, but like a result of your aggression on someone. So be careful, if you have tried to shoot some other player not far ago, and check kill rights as described above.
+To check if you have kill rights on you, you can use your character sheet, then interactions, kill rights. Kill right on you never appears just byself, but is likely a result of your aggression on someone. So be careful, if you have tried to shoot some other player not far ago, you should check for kill rights as described above.
 If you’re in a corporation that’s in the Silent Company alliance, you shouldn’t have problems with wardecs.
 
 ## FOB
 
-Lastly we’re going to talk about FOBs, unlike other things, this is a game mechanic rather than a PvP problem. Sometimes a structure called a FOB, that is a Forward Operating Base, will spawn in a system, when that happens, there will be so called “diamond rats” roaming in the system, these are rats (NPC ships marked by red color in Overview) with a diamond symbol in their name, and are much much stronger than regular rats. It’s usually a good idea to stop mining in that system until the FOB is destroyed.
+Lastly we’re going to cover FOBs, unlike other things, this is a game mechanic rather than a PvP problem. Sometimes a structure called a FOB, that is a Forward Operating Base, will spawn in a system, when that happens, there will be so called “diamond rats” roaming in the system, these are rats (NPC ships marked by red color in Overview) with a diamond symbol in their name, and are much much stronger than regular rats. It’s usually a good idea to stop mining in that system until the FOB is destroyed.
 
-Killmail: <url=killReport:90465314:2988dba250f4f9f27857a1acf72717beeb8f4652>Kill: thecrazytilted's Porpoise</url>
+*Or you might end up like this dude here: `<url=killReport:90465314:2988dba250f4f9f27857a1acf72717beeb8f4652>Kill: thecrazytilted's Porpoise</url>`*
 
-To see if there is a FOB in the system, or in systems near you, you can use the Agency, Encounters, then the Pirate Strongholds tab to check.
+> To see if there is a FOB in the system, or in systems near you, you can use the Agency, Encounters, then the Pirate Strongholds tab to check. 
+*System with FOB: https://i.imgur.com/VbLULfg.png*
+{.is-success}
 
-System with FOB: https://i.imgur.com/VbLULfg.png
 
-EVE University link: https://wiki.eveuniversity.org/Forward_Operating_Base
+> EVE University Article - Forward Operating Base: https://wiki.eveuniversity.org/Forward_Operating_Base
+{.is-info}
 
-# Mining fleet program
 
-As part of the programs we offer in the coalition, we have a standing mining fleet that’s almost 24/7 doing mining operations in the Jarkkolen system. Mining in a fleet has more benefits than mining solo, you can mine faster and more with mining boosts, and with more people in the fleet, we can share intel on possible dangers that I showed you earlier.
+# Mining Fleet program
+
+As part of the programs we offer in the coalition, we have a standing mining fleet that’s almost 24/7 doing mining operations in the Jarkkolen system. Mining in a fleet has more benefits than mining solo, you can mine faster and more with mining boosts, and with more people in the fleet, we can share intel on possible dangers described earlier.
 
 To find the mining fleet you can use the fleet finder, and look for LINE Standing Mining Fleet, or LinkNet Standing Mining Fleet, when you join the fleet you can ask in the fleet chat where people are mining. There is also a tool on Auth called belt tracker, that we can use to let each other know which belts are already empty.
 
 If you can’t find a mining fleet, you can ask in the mining channel on Discord.
 
-EVE LinkNet link: https://wiki.eve-linknet.com/services/ingame-services/mining-fleets
+> EVE LinkNet Wiki Page - Mining Fleets: 
+> https://wiki.eve-linknet.com/en/linknet-help-and-guides/mining-fleets
+{.is-info}
 
-Mining boosts
+## Mining boosts
 
 Now you may be wondering what are the mining boosts I talked about. There is a special type of ships called Industrial Command ships, namely the Porpoise and the Orca, that can use area of effect modules to give boosts to fleet members near them, basically buffs to make your lasers reach farther and mine faster, sometimes shield buffs are used too. Boosts have limited range and never would be further than 50 km (mostly less), so you need to be in the same ore belt with a booster to get it.
 
@@ -110,25 +132,29 @@ List of ships and their fits recommended for usage in the mining fleet are avail
 
 Having said all above, if you still lose your ship to a ganker even after taking all the precautions, that is you’re using the correct ship and fitting, you’re not mining afk and you’re on comms. In this case you’ve tried your best and we say it’s not your fault, so the coalition will SRP your mining ship. SRP means ship replacement program, basically you submit a request, and if it’s valid, the coalition will pay you the value of the ship you lost. It’s a program that the coalition has to help our members.
 
-EVE LinkNet link: https://wiki.eve-linknet.com/services/programs/ship-replacement-program
+> EVE LinkNet Wiki Page - Ship Replacement Program: https://wiki.eve-linknet.com/community-programs/ship-replacement-program
+{.is-info}
 
 ## Mining fleet etiquette
 
-After talking about the more formal rules, I’m going to talk a little about the “mining etiquette”. Now, when you’re mining in the fleet, you’re working together with other people, and there are a few “unspoken rules” about it to make it a better experience for everyone. 
+After talking about the more formal rules, here's a little about the “mining etiquette”. Now, when you’re mining in the fleet, you’re working together with other people, and there are a few “unspoken rules” about it to make it a better experience for everyone. 
 
-First is something about the boosters, we know that they provide boosts to let you mine faster, therefore make more money, and in doing so they are going to pay for the charges they use. So, when there is a booster helping you, it might be a good idea to give them a tip.
+First is something about the boosters, we know that they provide boosts to let you mine faster, therefore make more money, and in doing so they are going to pay for the booster charges they use (like when you use ammo to fire your guns). So, when there is a booster helping you, it might be a good idea to give them a tip.
 
 Speaking of the boosters, it’s also a good idea to avoid mining the rocks near them, because they need to use drones to mine (thus, their yield depends on the distance to rocks) and their ship is very slow. Leaving some rocks near them means they can mine in peace while also providing boosts without having to move around.
 
-Also when you’re mining with others and there are a lot of rocks left in the belt. You should try to avoid double mining, that means mining the same rock as someone else, because belt rocks are small and one laser cycle can just deplete it, meaning one of the two people won’t get anything. And btw you should also not cherry pick, this is pretty much self explanatory.
+Also when you’re mining with others and there are a lot of rocks left in the belt. You should try to avoid double mining, that means mining the same rock as someone else, because belt rocks are small and one laser cycle can just deplete it, meaning one of the two people won’t get anything. And you should also not cherry pick, this is pretty much self explanatory.
 
-One last thing is MTU (Mobile Tractor Unit). Some people in the fleet might be jetcan mining, and because you’re in a fleet, your MTU will pull in his can with the ore too. Some fleets don’t allow MTU at all for this reason, so it’s better to ask before using one. 
+One last thing is regarding MTU (Mobile Tractor Unit). Some people in the fleet might be jetcan mining, and because you’re in a fleet, your MTU will pull in their cans with the ore too. Some fleets don’t allow MTU at all for this reason, so it’s better to ask before using one. 
 
 ## Buyback program
 
 Now you know how you should be mining in highsec, let’s also talk about the ore you mine. Obviously we mine to make money, maybe you want to sell the ore, for this reason the coalition has the buyback program that you can use to sell the ore directly to the coalition. There will be a little tax, but it saves you the time to move the ore to the market to sell.
 
-EVE LinkNet link: https://wiki.eve-linknet.com/community-programs/ship-replacement-program
+> EVE LinkNet Wiki Page - Buyback Program: 
+> https://wiki.eve-linknet.com/community-programs/buyback
+{.is-info}
+
 
 ### Mining MQP Links Page 1
 
@@ -143,7 +169,7 @@ EVE LinkNet link: https://wiki.eve-linknet.com/community-programs/ship-replaceme
 ```html
 <font size="13" color="#ff999999"></font><font size="13" color="#b3ffffff"><b>= Boosters =<br><br></font><font size="13" color="#ffd98d00"><a href="fitting:28606:1952;1:8641;2:2299;1:2048;1:2281;1:33900;3:1335;1:4250;1:2303;1:2301;1:43551;3:2456;5:2185;1:10250;10:32787;5:43700;1:29011;1:42829;300:42830;300:42831;300:12084_;1:2333_;1::">༺<loc>༒༻ Fleet Support Orca</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:42244">Porpoise</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:43551">Mining Foreman Burst II</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:42829">Mining Laser Field Enhancement Charge</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:42830">Mining Laser Optimization Charge</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:42831">Mining Equipment Preservation Charge</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:43555">Shield Command Burst II</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:42695">Shield Harmonizing Charge</a></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br></font><font size="13" color="#ffd98d00"><a href="showinfo:42696">Shield Extension Charge</a></loc></font><font size="13" color="#ffffe400"><a href="https://auth.eve-linknet.com/belttracker/"> </a><br><br></font><font size="13" color="#b3ffffff">= Mining SRP =<br><br></font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/services/programs/ship-replacement-program">Wiki - SR</loc>P</a><br><br></font><font size="13" color="#b3ffffff">= Mining Etiquette =<br><br></font><font size="13" color="#ffd98d00"><a href="showinfo:33475">Mobile Tractor Unit</a></b></font><font size="13" color="#b3ffffff"> <br></font><font size="13" color="#ffffe400"><loc><a href="https://i.imgur.com/qYjtsPb.png">Scan Result</a></loc><br><br></font><font size="13" color="#b3ffffff"><b>= Buyback Program =<br><br></font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/tools/buyback">Wiki - Buyback Service</a></loc><br><br></font><font size="13" color="#b3ffffff">= Recruitment Plug =<br><br></font><font size="13" color="#ffd98d00"><a href="showinfo:2//98616538">Silent Industry</a></b></font><font size="13" color="#b3ffffff"> </font>
 ```
-Version 1.0 - 2020-02-14
-Doc by LocusAzzurro Orisis, with help of Ardolafar Ryad
+
+Original Doc by LocusAzzurro Orisis, with help of Ardolafar Ryad
 
 
