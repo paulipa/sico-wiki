@@ -2,7 +2,7 @@
 title: Fatalix Industries [FXIN]
 description: 
 published: true
-date: 2021-02-28T02:14:58.634Z
+date: 2021-03-04T19:05:09.572Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:51.171Z
@@ -14,7 +14,7 @@ Fatalix Industries is a null sec corporation and member of Brave Collective and 
 Originally founded in 2006, Fatalix has a long history of activity throughout New Eden. While our identity has changed over the years, we've always remained a group who focused on making sure the game was fun, and maintaining a positive atmosphere. We take the game seriously while not letting it get in the way of real life.
 
 # Benefits
-Fatalix Industries strives to make sure 
+Fatalix Industries strives to make sure our members have access to all of the resources they need to be successful. 
 - Mining Opportunities (Null Sec Ore, Ice, and Moons)
 - Get paid bonus ISK to rat in low ADM systems, or do small gang PVP
 - Buyback Program (Custom tool which includes both Jita and Perimeter buy orders for pricing)
