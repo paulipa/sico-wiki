@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-03-06T13:15:35.595Z
+date: 2021-03-06T13:19:56.917Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -49,6 +49,7 @@ Explorers' Sanctum is a small, EU based, alpha friendly, hi-sec corp that operat
 - Recruitment contact:
 - PVP - Smallgang & NPSI
 - Abyssal deadspace
+- Contact: Skipp Doe (ingame or Discord)
 ## [Silent Industry [XSINY]](/community/coalition-corporations/xsiny)
 Silent Industry is the Highsec Industry Wing for the LinkNet Community, part of the Silent Company alliance. Our primary focuses are industry operations aiming to provide support for alliance operations, aswell as resource harvesting such as mining operations.
 - Location: High Sec
