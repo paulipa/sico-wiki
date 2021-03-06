@@ -2,7 +2,7 @@
 title: Doctrines
 description: 
 published: true
-date: 2021-02-04T08:15:57.278Z
+date: 2021-03-06T01:49:27.560Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T06:00:31.610Z
@@ -39,5 +39,12 @@ For more help and info, join the in-game channel: "EX-SA Abyssals"
 ___
 ## [TKAM Doctrines](/community/doctrines/TKAM-Doctrines)
 Dctrines used by the TKAM (The king asked me to guard the Mountain) Corporation
+
+___
 ## [Tama Gate Camp Fits](/community/doctrines/tama-fits)
 Fits used for Tama gate camps
+
+___
+## [EVE Uni Doctrines](/community/doctrines/EVE-Uni-Fits)
+
+Doctrines and fits that will be used for the collaboration fleet with EvE Uni, currenly hosted by RedFish
