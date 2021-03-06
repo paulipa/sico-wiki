@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-03-06T19:15:23.698Z
+date: 2021-03-06T19:22:47.035Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -115,7 +115,7 @@ Fatalix Industries is a null based corporation, and member of Brave Collective. 
 - Timezone: US
 - Group PVP
 - Null PVE
-- Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/recruitment)
+- Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FI.RE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
 - Location: Null Sec
