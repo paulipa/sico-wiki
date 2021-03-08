@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-02-18T16:59:08.799Z
+date: 2021-03-08T06:09:19.653Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -50,7 +50,7 @@ Systems in minor victory or EDENCOM Fotress stage will have both invasion sites 
 Manual for SEADC members and pilots who want to learn to live and survive in wormhole space.
 
 ## [Null Sec](/linknet-help-and-guides/null-sec)
-This manual will explain to you how to get into the 2SLOW null sec corporaiton and what is expected to happen once you are in
+General guide about Null Sec
 
 ## [Incursions](/linknet-help-and-guides/incursions)
 One of the best ways to make money in High Sec
