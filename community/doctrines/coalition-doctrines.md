@@ -2,7 +2,7 @@
 title: Coalition Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-02-26T08:58:49.786Z
+date: 2021-03-08T16:11:18.852Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -573,7 +573,7 @@ Medium Thermal Shield Reinforcer I
 
 Warrior II x3
 Spike M x2000
-Cap Booster 200 x51
+Navy Cap Booster 400x20
 Caldari Navy Antimatter Charge M x1000
 </details>
 
