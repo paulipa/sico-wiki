@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-03-08T05:58:19.423Z
+date: 2021-03-08T06:00:06.291Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -187,7 +187,7 @@ Best way to figure out what you would like to do in EVE is to try out different 
 Similar to GRIP: Fleets & PvP we have other GRIP fleets focusing on different areas of EVE.
 
 ## Join a more focused corporation
-After you have found out the things you like to do in EVE we encourage you to move to a more focused corporation. A lot of the community corporations are focusing on different things and playing the game in different regions. You can find a list of [community corporations](https://wiki.eve-linknet.com/community/coalition-corporations) on this wiki.
+After you have found out the things you like to do in EVE we encourage you to move to a more focused corporation. A lot of the community corporations are focusing on different things and playing the game in different regions. You can find a list of [Community Partner Corporations](/en/community/partner-corporations) on this wiki.
 
 Each corporation has a chat channel on our discord under the `#recruitment` folder where you can ask more questions about joining a spesific corporation.
 
