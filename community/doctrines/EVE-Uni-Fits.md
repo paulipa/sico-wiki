@@ -2,7 +2,7 @@
 title: Eve Uni Doctrines
 description: Fits and doctrines that will be used for current and furute EVE Uni collaobration fleets
 published: true
-date: 2021-03-08T14:51:53.317Z
+date: 2021-03-08T14:53:42.831Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-06T02:06:25.678Z
@@ -26,17 +26,21 @@ Medium Shield Extender I
 X5 Enduring Stasis Webifier
 Faint Epsilon Scoped Warp Scrambler
 
-Modal Light Neutron Particle Accelerator I
-Modal Light Neutron Particle Accelerator I
-Modal Light Neutron Particle Accelerator I
+Regulated Light Neutron Phase Cannon I
+Regulated Light Neutron Phase Cannon I
+Regulated Light Neutron Phase Cannon I
 
 Small EM Shield Reinforcer I
 Small Thermal Shield Reinforcer I
 Small Ancillary Current Router II
 
 
-Caldari Navy Antimatter Charge S x1200
+
+
+Caldari Navy Antimatter Charge S x1000
 Nanite Repair Paste x10
+
+
 </details>
 
 <details> 
