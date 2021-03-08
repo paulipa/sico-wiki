@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-03-08T06:00:06.291Z
+date: 2021-03-08T06:01:33.340Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -59,7 +59,7 @@ Voice comms are a must for all fleet operations. It is important that you are ab
 {.is-danger}
 
 ## 5. Overview Setup
-It is important to have a good overview setup. We highly recommend that you use our overview guide and the Z-S Overview pack as your overview base. The guide for the setup is found in here: [Overview guide](/services/guides/overview)
+It is important to have a good overview setup. We highly recommend that you use our overview guide and the Z-S Overview pack as your overview base. The guide for the setup is found in here: [Overview guide](/en/linknet-help-and-guides/overview)
 
 ## 6. Train for ships | Doctrines
 When we are talking about doctrinse in EVE online we are talking about ships, fits and their relations in fleet operations. Doctrines are pre-doctrined setups that are to be used in different engagements.
