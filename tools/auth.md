@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2021-03-08T06:02:50.256Z
+date: 2021-03-08T06:03:36.564Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -23,7 +23,7 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 
 # Quick setup
 1. Register on https://auth.eve-linknet.com
-1. Join groups on https://wiki.eve-linknet.com/community/groups
+1. Join groups on https://wiki.eve-linknet.com/en/groups-and-roles/groups
 1. Authenticate on discord https://auth.eve-linknet.com/discord/activate/
 
 # Step by step registration
