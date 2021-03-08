@@ -2,7 +2,7 @@
 title: Eve Uni Doctrines
 description: Fits and doctrines that will be used for current and furute EVE Uni collaobration fleets
 published: true
-date: 2021-03-06T02:06:25.678Z
+date: 2021-03-08T14:51:53.317Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-06T02:06:25.678Z
@@ -16,6 +16,7 @@ dateCreated: 2021-03-06T02:06:25.678Z
 <details>
   <summary>T1 Merlin (Beginner fit)</summary>
 [Merlin, Magic Merlin T1]
+
 Vortex Compact Magnetic Field Stabilizer
 Vortex Compact Magnetic Field Stabilizer
 Micro Auxiliary Power Core I
