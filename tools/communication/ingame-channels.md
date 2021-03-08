@@ -2,14 +2,14 @@
 title: Ingame channels
 description: 
 published: true
-date: 2020-10-12T08:04:49.117Z
+date: 2021-03-08T06:04:55.943Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T16:44:56.344Z
 ---
 
 # LinkNet General | Primary channel
-**All of the corporations that belongs to LINE are using the custom in-game channel called `LinkNet GEneral` for all of their general chattering.** The Message Of The Day (MOTD) of this channel also includes everything that you need to know about ongoing events such as wars or upcoming community events. The different corporations may be using their own chat channels for sensitive information such as null sec events but all of the general chattering should be kept in the general channel.
+**All of the corporations that belongs to LINE are using the custom in-game channel called `LinkNet General` for all of their general chattering.** The Message Of The Day (MOTD) of this channel also includes everything that you need to know about ongoing events such as wars or upcoming community events. The different corporations may be using their own chat channels for sensitive information such as null sec events but all of the general chattering should be kept in the general channel.
 
 The channel is accessible by all characters that are inside one of the community corporations. If you wish to join this channel with an out of community alt you need to poke a director. Note that all characters in this channel needs to be registered in our auth system.
 
