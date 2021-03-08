@@ -2,7 +2,7 @@
 title: Eve Uni Doctrines
 description: Fits and doctrines that will be used for current and furute EVE Uni collaobration fleets
 published: true
-date: 2021-03-08T14:53:42.831Z
+date: 2021-03-08T14:54:31.839Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-06T02:06:25.678Z
@@ -32,7 +32,7 @@ Regulated Light Neutron Phase Cannon I
 
 Small EM Shield Reinforcer I
 Small Thermal Shield Reinforcer I
-Small Ancillary Current Router II
+Small Ancillary Current Router I
 
 
 
