@@ -2,7 +2,7 @@
 title: AUTH
 description: Central access management program
 published: true
-date: 2021-02-18T16:46:48.743Z
+date: 2021-03-08T06:02:50.256Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T17:33:02.063Z
@@ -50,7 +50,7 @@ We are currently using a modified version of https://gitlab.com/allianceauth/all
 ## Joining Groups
 The community has a lot of different types of players with different goals in EVE. Since we do not want to spam you with any content you are not interested in we have created special interest groups, SIGs
 ![auth6-1400x429.jpg](/auth6-1400x429.jpg =300x)
-You can find descriptions of different groups from here: [groups](/community/groups)
+You can find descriptions of different groups from here: [groups](/en/groups-and-roles/groups)
 
 ### Special Interest Groups
 By joining the special interest groups you will gain access to the respective discord rooms. In these rooms you will receive notifications about the content related to your interests.
