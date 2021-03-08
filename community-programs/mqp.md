@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-02-26T09:38:09.648Z
+date: 2021-03-08T05:58:19.423Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -173,9 +173,9 @@ Now that you are in a fleet all of the commands and information will be given ov
 # During the Fleet
 From this point on you are in the hands of your fleet commander. 
 
-During the GRIP: Fleets & PvP fleets the commander will take you through the following things mentioned in the FC’s Checklist for MQP Fleets in here: [FC Checlist for MQP fleets](/services/flightmanuals/fc-mqp-checklist)
+During the GRIP: Fleets & PvP fleets the commander will take you through the following things mentioned in the FC’s Checklist for MQP Fleets in here: [FC Checlist for MQP fleets](/en/groups-and-roles/fc-mqp-checklist )
 
-If there were losses during the fleet the FC will guide you to apply for [Ship replacement program](/services/programs/ship-replacement-program)
+If there were losses during the fleet the FC will guide you to apply for [Ship replacement program](/en/community-programs/ship-replacement-program)
 
 After the fleet your participation will be tracked by the fleet commander by using a FAT system. You can check your own FAT points from auth fleet [activity section](https://auth.eve-linknet.com/imicusfat/).
 # After the fleet, whats next
