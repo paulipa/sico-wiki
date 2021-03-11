@@ -2,7 +2,7 @@
 title: Fatalix Industries [FXIN]
 description: 
 published: true
-date: 2021-03-04T19:05:09.572Z
+date: 2021-03-11T07:28:47.710Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:51.171Z
@@ -19,7 +19,7 @@ Fatalix Industries strives to make sure our members have access to all of the re
 - Get paid bonus ISK to rat in low ADM systems, or do small gang PVP
 - Buyback Program (Custom tool which includes both Jita and Perimeter buy orders for pricing)
 - Ship Replacement Program (SRP) for PVP Fleet losses. PVP for cheap!
-- Access to the corp's extensive BPO library
+- Access to the corp's extensive BPO library, and a MASSIVE alliance BPC library, all for free
 - PVE Help and advice
 - Great opportunities for PI and other industrial activities
 - A Helpful Group to Ask and Learn!
