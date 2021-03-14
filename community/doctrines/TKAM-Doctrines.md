@@ -2,7 +2,7 @@
 title: Tkam Doctrines
 description: 
 published: true
-date: 2021-01-17T21:21:59.621Z
+date: 2021-03-14T08:35:51.948Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T18:03:49.642Z
@@ -179,9 +179,8 @@ Nanite Repair Paste x100
 
 <details>
   <summary>Osprey - Meta/T1</summary>
- [Osprey, Silent Moas no t2 ]
-  
-  
+[Osprey, Silent Moas no t2 ]
+
 Damage Control II
 Mark I Compact Reactor Control Unit
 F-89 Compact Signal Amplifier
