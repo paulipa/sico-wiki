@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-03-06T19:22:47.035Z
+date: 2021-04-02T12:45:53.579Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -84,6 +84,11 @@ We are a new player friendly, High sec mercenary corporation,  with an aim to te
 - High sec Wars
 - PvP
 - Contact:
+
+## [The Ringing Vale [VLOR]](/community/coalition-corporations/vlor)
+- Location:
+- Timezone:
+- Contact:
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
 Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
@@ -95,12 +100,11 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - PVP
 - Contact:
 ## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
-Serenity Cartel in an Australian based corporation, in Faction Warfare (Amarr Mil). We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies looking to cut their teeth on some PVP, to veterans seeking some of that small gang action.
-- Location: Low Sec
+Serenity Cartel is an Australian based PvP corporation, based in Nullsec. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long stabding vets, looking for some community and content in the AU timezone.
+- Location: Nullsec
 - Timezone: AUS
-- Faction Warfare
-- Small Gang PVP
-- Contact:
+- Small to Med size PvP and null living
+- Contact: VagabondBR, Munkey Dallocort
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
 You ever wondered what it's like to fly in an actual team orientated environment? Sensible People invests heavily into it's members by it's members. We put team over self. Although there is individual profit driven outlets we assist one another in the most effective paths to achieve those goals. Leadership is available and not AFK and the corporation has goals and aspirations that are practical and achievable.
 - Location: Low Sec
@@ -169,7 +173,8 @@ Invite only PvP corporation that hosts PvP operations. Easiest way to get to kno
 - Timezone: EU
 - PvP
 - Nomadic PvP
-- Contact:
+- Contact: Garen Willow, Sierra Sin
+
 ## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
 # Language Partners
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
