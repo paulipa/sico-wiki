@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-04-02T12:45:53.579Z
+date: 2021-04-09T05:37:32.691Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -183,5 +183,5 @@ Invite only PvP corporation that hosts PvP operations. Easiest way to get to kno
 - Russian
 ## [Russian Space Academy [RSAAA]](/community/coalition-corporations/rsaaa)
 - Russian
-## [AOM University [AOM.U]](/community/coalition-corporations/aom-u)
+## [People Mountain People Sea[PMPS]](/community/coalition-corporations/pmps)
 - Chinese
