@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-04-11T15:30:55.393Z
+date: 2021-04-11T15:35:20.774Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -99,12 +99,7 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Faction Warfare, Low Sec Piracy
 - PVP
 - Contact:
-## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
-Serenity Cartel is an Australian based PvP corporation, based in Nullsec. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long stabding vets, looking for some community and content in the AU timezone.
-- Location: Nullsec
-- Timezone: AUS
-- Small to Med size PvP and null living
-- Contact: VagabondBR, Munkey Dallocort
+
 ## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
 You ever wondered what it's like to fly in an actual team orientated environment? Sensible People invests heavily into it's members by it's members. We put team over self. Although there is individual profit driven outlets we assist one another in the most effective paths to achieve those goals. Leadership is available and not AFK and the corporation has goals and aspirations that are practical and achievable.
 - Location: Low Sec
@@ -120,6 +115,14 @@ Fatalix Industries is a null based corporation, and member of Brave Collective. 
 - Group PVP
 - Null PVE
 - Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
+## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
+Serenity Cartel is an Australian based PvP corporation, based in Nullsec. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
+- Location: Nullsec
+- Timezone: AUS
+- Small to Med gang PvP 
+- Corp + Alliance Moons, 
+- Ratting and Group PvE
+- Contact: VagabondBR, Munkey Dallocort
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FI.RE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
 - Location: Null Sec
