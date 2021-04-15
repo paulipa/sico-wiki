@@ -2,7 +2,7 @@
 title: Buyback Program
 description: How to sell your items to the coalition
 published: true
-date: 2020-10-12T07:58:08.274Z
+date: 2021-04-15T14:15:26.346Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T10:10:46.659Z
@@ -32,7 +32,7 @@ The buyback system is coded on Symfony and it pulls it price data currently from
 
 Price data is updated most often once a day to ensure that the prices you get are as close to the real prices as possible. When calculating prices we will show you how the price is built and what the sell price in Jita would be if you would sell the items yourself. Note that the sell price we show does not include the market taxes you have to pay when selling items in the stations.
 
-The program is privately hosted under our own server and maintained by the Silent Coalition.
+The program is privately hosted under our own server and maintained by the EVE LinkNet.
 
 # Using the system
 The system works by using Contracts. To create a contract you can either select all your items in your hangar and right click and press Create Contract. 
