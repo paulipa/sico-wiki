@@ -1,15 +1,15 @@
 ---
-title: Silent Coalition Manifesto 2019
+title: LinkNet Manifesto 2019
 description: 
 published: true
-date: 2020-10-07T18:39:15.937Z
+date: 2021-04-15T14:13:55.479Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T07:52:32.782Z
 ---
 
 # Introduction to LinkNet
-**The LinkNet is a community of different corporations and players** who all have their unique playstyle and focus on EVE and may operate in different areas of New Eden. Despite this fact the corporations are interacting and playing together whenever possible. This allows both individual members and other corporations to get a glimpse of different playstyles and careers in EVE without the need to dedicate their characters on the gameplay style right away. This also makes it possible for you to keep on playing with your old friends whenever your decide that it is time to try something new and join a corporation within the coalition that is doing something different than your current corporation.
+**The LinkNet is a community of different corporations and players** who all have their unique playstyle and focus on EVE and may operate in different areas of New Eden. Despite this fact the corporations are interacting and playing together whenever possible. This allows both individual members and other corporations to get a glimpse of different playstyles and careers in EVE without the need to dedicate their characters on the gameplay style right away. This also makes it possible for you to keep on playing with your old friends whenever your decide that it is time to try something new and join a corporation within the community that is doing something different than your current corporation.
 
 **LinkNet is a neutral state who only operates on corporation level** in order to try to provide a vast variety of different type of gameplay opportunities for all types of players. While many of our member corporations are part of other alliances and EVE coalitions, we do not hold any standings or opinions against those larger entities within LinkNet. The only standings we keep track on community levels are the standings for our member corporations within LinkNet. All of the other standings are internal matters for each different corporation.
 
@@ -29,7 +29,7 @@ Our other goals are:
 - To create a community of players that would have fun and interact with each other’s while playing the game despite their real-life divergences.
 - To provide a friendly and mature community that respects all types of players despite their in-game orientations.
 - To help individual members to find active corporations that suit their personal game play needs in EVE Online
-- To help corporations provide content across of the whole coalition and help them pursuit their own goals
+- To help corporations provide content across of the whole community and help them pursuit their own goals
 
 # LinkNet Community Structure
 The following section will you an idea how the LinkNet community is structured, operated and kept intact. It aims to paint a clear picture for each community member so that they would understand the mechanisms that we are using to keep the community functional and how we are able to allow autonomy for our member corporations.
@@ -39,7 +39,7 @@ EVE is a massive game and there is a lot to do in it. For this same reason a sin
 ![player_flow.png](/player_flow.png)
 
 ## Membership levels
-There are several different membership types for coalition member corporations. You can find the explanations and requirements for each type in here: [Requirements for coalition corporations](/community/rules-and-requirements#general-partner-member-requirements-gpmr)
+There are several different membership types for community member corporations. You can find the explanations and requirements for each type in here: [Requirements for coalition corporations](/community/rules-and-requirements#general-partner-member-requirements-gpmr)
 
 ## Joint operations
 Each corporation in the community has the ability to open their own type of content and fleets towards other community members. By doing this they allow members outside of their own corporation who are part of the community to gain a trial sneak peak of the corporations content.
@@ -51,12 +51,12 @@ By offering fleets and content for other community members you also educate them
 ## Standings
 Each corporation or alliance that is part of LinkNet may be also part of other coalitions or alliances. 
 
-The most typical case is for a null sec corporation to be part of LinkNet, their own null sec alliance and their null sec mega coalition. However only the corporation that is officially part of LinkNet is treated as a community partner while the alliance and mega coalition are simply neutral states toward LinkNet.
+The most typical case is for a null sec corporation to be part of LinkNet, their own null sec alliance and their null sec mega community. However only the corporation that is officially part of LinkNet is treated as a community partner while the alliance and mega community are simply neutral states toward LinkNet.
 
 ![standings_(7)_(1).png](/standings_(7)_(1).png)
 
-Each linked standing our partner corporations may inherit from their own entitie parters such as alliances or coalitions will be ignored on community level. While the alliance and coalition may be blue to the community partner corporation they hold no standings with the rest of the community partners.
-> Coalition only operates on corporation level regarding memberships
+Each linked standing our partner corporations may inherit from their own entitie parters such as alliances or coalitions will be ignored on community level. While the alliance and community may be blue to the community partner corporation they hold no standings with the rest of the community partners.
+> community only operates on corporation level regarding memberships
 {.is-info}
 
 ![standings_(7)_(2).png](/standings_(7)_(2).png)
@@ -72,7 +72,7 @@ In order to cross borders with communications all general chattering that is not
 This again makes it possible for you to not to lose any friends even if you would move to the different side of New Eden into a totally different type of gameplay, all your friends can still be found from the global channels!
 
 ## Technical solutions
-As the community has entities operating in different areas and as we do not want to restrict their gameplay and allow them to have 100% autonomy over their own corporation we have created some technical solutions to keep our entities together as a coalition. 
+As the community has entities operating in different areas and as we do not want to restrict their gameplay and allow them to have 100% autonomy over their own corporation we have created some technical solutions to keep our entities together as a community. 
 
 > While there is a high sec alliance for non war decable corporations (silent company) there are plenty of corporations that can’t or do not want to join it for several different reasons.
 {.is-info}
@@ -100,12 +100,12 @@ The goal of LinkNet is to allow different types of players to play the game the 
 
 The goals of each different LinkNet partner corporations are up to them to decide. They may change over time completely over. In situations like this the LinkNet structure allows players to advance again to another corporation if the new change does not match their desires in eve.
 
-The secondary goal is to help people find the right place they want to be in EVE. This is why we are trying to have different corporations in the community in different areas so that they would each bring something in to the coalition as in terms of content.
+The secondary goal is to help people find the right place they want to be in EVE. This is why we are trying to have different corporations in the community in different areas so that they would each bring something in to the community as in terms of content.
 
 # Rules
 In order to keep our community of thousands of players as a friendly and a nice place to play we have set some ground rules that apply on each member within the Linknet partner corporations. With these rules we are trying to keep our focus on EVE and on enjoying the game with players from all over the world with all types of ideologies. 
 
-The rules that are currently in effect can be found from here: [Coalition Rules](/community/rules)
+The rules that are currently in effect can be found from here: [community Rules](/community/rules)
 
 # Logo
 The high resolution version of our logo can be found from here:
