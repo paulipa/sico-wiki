@@ -2,7 +2,7 @@
 title: Joining us
 description: 
 published: true
-date: 2020-10-31T12:52:38.231Z
+date: 2021-04-18T17:38:18.994Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:27:30.474Z
@@ -28,7 +28,7 @@ Our ultimate goal is to find you a corporation that matches your personal goals 
 Any player in EVE can join us if they agree on our simple rules located in here: [Community rules](/community/rules). If you are an friendly and mature player you will be good to go! A list of our entry level corporations that accept any players in are located in the "sico public" ingame channel and listed on our homepage.
 
 ### Step 1
-Join ingame channel called `LinkNet public` by pressing on the `+` sign on top of any chat window and by typing in `LinkNet public` in the search field
+Join ingame channel called `EVE LinkNet Recruitment` by pressing on the `+` sign on top of any chat window and by typing in `EVE LinkNet Recruitment` in the search field
 
 ### Step 2
 Read the MOTD message (the pinned message on the channel)
