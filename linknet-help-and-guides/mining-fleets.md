@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-02-10T06:44:52.220Z
+date: 2021-04-18T17:39:49.429Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -65,7 +65,7 @@ The easiest way for you to see any fleets available for you is to use the fleet 
 ![fleet-search.jpg](/fleet-search.jpg =300x)
 
 ### Using Fleet Links
-Sometimes the mining fleet may be linked in the LinkNet General channel MOTD. People may also drag and drop the fleet advert from the fleet finder window to chat channels to create direct links to the fleets. When you click on these links you will automatically join the fleet but only if you meet the set requirements (aka. you would see the fleet yourself on the fleet finder).
+Sometimes the mining fleet may be linked in the Eve LinkNet Partners channel MOTD. People may also drag and drop the fleet advert from the fleet finder window to chat channels to create direct links to the fleets. When you click on these links you will automatically join the fleet but only if you meet the set requirements (aka. you would see the fleet yourself on the fleet finder).
 
 ### Direct Invite
 The only way for you to join a fleet that you can’t see in the fleet finder is for someone to directly invite you to it. Each player in the fleet is able to invite players directly in to the positions below their own position. The easiest way for a commander to do this is to drag and drop the name of the player from a chat window to the desired position. When you receive a direct invite a pop-up window will appear. You only have 120 seconds to accept this invitation or the invitation expires. The pop-up will remain on your screen until you close it or try to accept it but if the invitation has expired you will not be able to join the fleet.
@@ -95,8 +95,8 @@ Discord is a third party chat and voice program which allows you to contact all 
 
 After registering and authenticating on [discord](/tools/communication/discord) you simply type `@imining booster` in the #linknet-general chat channel and ask them if anyone would be able to set up a fleet. Only ask once a while and never spam it in case no one is answering to you.
 
-### LinkNet General chat
-If you do not want to use discord for some reason or happen to see a Industry Commander online in LinkNet General you can try to ask in there for them to raise a fleet. However the disadvantage in this compared to discord is that the players holding the role are not getting a notification for this and the message could easily scroll away. The second downside is that the players might be simply AFK or doing something else on some other accounts.
+### Eve LinkNet Partners chat
+If you do not want to use discord for some reason or happen to see a Industry Commander online in Eve LinkNet Partners you can try to ask in there for them to raise a fleet. However the disadvantage in this compared to discord is that the players holding the role are not getting a notification for this and the message could easily scroll away. The second downside is that the players might be simply AFK or doing something else on some other accounts.
 
 ## Ship Replacement Request 
 Sometimes you lose your ship and that is perfectly normal in EVE. To try to avoid this you should follow the guidelines we have set in here for the standard mining fleet:
