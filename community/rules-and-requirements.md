@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2021-04-19T11:32:07.689Z
+date: 2021-04-19T11:32:58.367Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -69,7 +69,7 @@ Depending on your corporation partnership level you may have different requireme
 - **Corporations CEO must have a corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other community entities** whenever possible.
 - **Seek to provide content and fleets for other community members whenever possible** by opening their corporation fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
-- **No hostile actions against any structures or camping strategic systems** regardless of standing settings. PvP roaming is allowed with the limitations of standings used.
+- **No hostile actions against any structures or camping strategic systems (NIP)** regardless of standing settings. PvP roaming is allowed with the limitations of standings used.
 - **Set aside any standing differences or in game political ambitions** that your corporation might be inheriting from your alliance or mega coalition when interacting with other community entities. For example, you are not allowed to underrate other partner corporations that are part of your rival alliances. We operate only on corporation level.
 - **Corporation must keep an updated corp description page on the wiki** for their corporation. This is the advertisement and information page for coalition members who seek to join your corporation. This page must include information about:
 	- Requirements for joining your corporation
