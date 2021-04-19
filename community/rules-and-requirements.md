@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2021-04-19T11:31:36.028Z
+date: 2021-04-19T11:32:07.689Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -66,7 +66,7 @@ Depending on your corporation partnership level you may have different requireme
 
 ## General Partner Corporation Requirements (GPCR)
 - **Have our global in game chat channel linked** in your primary corporation chat channel
-- **Corporations must have a corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
+- **Corporations CEO must have a corporation tracking token on AUTH** which will track the service and registration statuses of their members on our services. No other information is tracked.
 - **Seek to help out other community entities** whenever possible.
 - **Seek to provide content and fleets for other community members whenever possible** by opening their corporation fleets and services for them. This is the best way to show other members what your corporation is doing and advertise your corporation for those who seek the game play type your corporation is participating in.
 - **No hostile actions against any structures or camping strategic systems** regardless of standing settings. PvP roaming is allowed with the limitations of standings used.
