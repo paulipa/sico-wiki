@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2021-04-26T04:49:13.961Z
+date: 2021-04-26T04:55:22.316Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -51,7 +51,7 @@ Members that are part of any of the partner corporations are allowed to request 
 
 Each of the partner corporations have most often one or two primary focuses. If these focuses align better with your personal interests then it might be a good idea to consider changing your corporation.
 ![player_flow.png](/player_flow.png)
-You are able to find a list of all of our corporations in here: [community partners](/community/coalition-members)
+You are able to find a list of all of our corporations in here: [community partners](/community/partner-corporations)
 
 > Corporations are not allowed to poach members from other corporations. Make your corporations attractive so that people want to join you to get their hands on the content you are creating for them!
 {.is-warning}
@@ -107,10 +107,10 @@ On the last weekend of the recruitment week a recruitment weekend may be hosted 
 ## Base services
 We offer a set of base services for our partner corporations to use. They may decide themselves if they take advantage of these systems.
 - Member sourcing from entry corporations
-- [Buyback](/tools/buyback) access and buyback setup at their own operating locations
-- [Ship Replacement](/services/programs/ship-replacement-program) for coalition hosted operations
-- [Blueprint copying](/services/ingame-services/public-blueprints) system access
-- [Citadel](/services/ingame-services/citadels) access and services hosted by the community
+- [Buyback](/community-programs/buyback) access and buyback setup at their own operating locations
+- [Ship Replacement](/community-programs/ship-replacement-program) for coalition hosted operations
+- [Blueprint copying](/linknet-help-and-guides/public-blueprints) system access
+- [Citadel](/linknet-help-and-guides/citadels) access and services hosted by the community
 - Access to coalition training fleets and ability to run coalition training fleets
 - Ability to take part in joint partner operations hosted by other partner corporations.
 - Ability to call on War support but not demand it.
@@ -145,9 +145,9 @@ A flexible partnership level that uses blue standing to limit PvP engagements an
 - Full autonomy
 
 ### Requirements
-- [General Partner Member Requirements](#general-partner-member-requirements) are applied
-- [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
-- [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
+- [General Partner Member Requirements](#general-partner-member-requirements-gpmr) are applied
+- [General Partner Corporation Requirements](#general-partner-corporation-requirements-gpcr) are applied
+- [Proof of activity](#proof-of-activity-poa) is required
 - Minimum of 30 active real players
 - **Corporation will be set to +10** and is required to keep +10 standings towards all blue partners and the silent company alliance partner.
 - Corporation will set all neutral partners with +0 standings to identify them in space.
@@ -157,7 +157,7 @@ A flexible partnership level that uses blue standing to limit PvP engagements an
 - **Corporation has full autonomy over themselves** including the ability to join an alliance in EVE. Only the partner corporation entity will be part of the community and the other alliance members the corporation has joined will be treated as neutral entities.
 
 ## Neutral partner
-A flexible partnership level that does not use standing to limit PvP engagements. Requires more management work from leadership to prevent any strategic operations against other community partner corporations.
+A flexible partnership level that does not use standing to limit PvP engagements and works like a NIP. Requires more management work from leadership to prevent any strategic operations against other community partner corporations.
 
 ### Perks
 - Eligible for base services
@@ -165,9 +165,9 @@ A flexible partnership level that does not use standing to limit PvP engagements
 - Full autonomy
 
 ### Requirements
-- [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
-- [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
-- [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
+- [General Partner Member Requirements](#general-partner-member-requirements-gpmr) are applied
+- [General Partner Corporation Requirements](#general-partner-corporation-requirements-gpcr) are applied
+- [Proof of activity](#proof-of-activity-poa) is required
 - Minimum of 30 active real players
 - **Corporation will be set to +0** and is required to keep +0 standings towards other community partner corporations
 - Corporation needs to update each coalition standing change on corporation level and keep the standings updated.
@@ -195,9 +195,9 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 - Not eligible for wars
 
 ### Requirements
-- [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
-- [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
-- [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
+- [General Partner Member Requirements](#general-partner-member-requirements-gpmr) are applied
+- [General Partner Corporation Requirements](#general-partner-corporation-requirements-gpcr) are applied
+- [Proof of activity](#proof-of-activity-poa) is required
 - Corporation needs to have at least 50 active individual members in the corporation
 - The alliance will manage all standings and service accesses on behalf of the corporation. If the corporation leaves the alliance they are treated as a neutral entity and will lose access to the services.
 - Corporations in the entry level alliance are not allowed to hold any structures under their corporations.
