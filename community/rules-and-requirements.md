@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2021-04-19T11:32:58.367Z
+date: 2021-04-26T04:49:13.961Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -145,7 +145,7 @@ A flexible partnership level that uses blue standing to limit PvP engagements an
 - Full autonomy
 
 ### Requirements
-- [General Partner Member Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-member-requirements) are applied
+- [General Partner Member Requirements](#general-partner-member-requirements) are applied
 - [General Partner Corporation Requirements](https://wiki.silentcoalition.com/en/rules-and-requirements#general-partner-corporation-requirements) are applied
 - [Proof of activity](https://wiki.silentcoalition.com/en/rules-and-requirements#proof-of-activity) is required
 - Minimum of 30 active real players
