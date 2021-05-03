@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2021-04-26T04:55:22.316Z
+date: 2021-05-03T20:50:40.276Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -185,7 +185,7 @@ Corporations who want to fly under the banner of the Silent Company alliance and
 > Corporations in the entry level alliance are not allowed to hold any structures under their corporations. The entry level alliance will never be eligible for war. If this rule is broken and a corporation anchors any structures making the alliance venerable for wars the corporation will be removed without any warning. It is the responsibility of the CEO to make sure that regular members are unable to anchor structures.
 {.is-danger}
 
-> Corporations in the entry alliance will need to keep the setting to reject all structure transfers on at all times.
+> Corporations in the entry alliance will need to keep the setting to reject all structure transfers on at all times and follow the [procedures for pre application](/sico_pre_join_steps.pdf) before getting accepted into the alliance.
 {.is-warning}
 ### Perks
 - Eligible for base services
