@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-04-11T15:35:20.774Z
+date: 2021-05-06T13:06:10.350Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -84,7 +84,10 @@ We are a new player friendly, High sec mercenary corporation,  with an aim to te
 - High sec Wars
 - PvP
 - Contact:
-
+## [Eve Rookies [EROOK]](/community/coalition-corporations/erook)
+- Location:
+- Timezone:
+- Contact:
 ## [The Ringing Vale [VLOR]](/community/coalition-corporations/vlor)
 - Location:
 - Timezone:
