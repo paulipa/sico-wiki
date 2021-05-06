@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-05-06T13:06:10.350Z
+date: 2021-05-06T13:38:22.272Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -85,13 +85,23 @@ We are a new player friendly, High sec mercenary corporation,  with an aim to te
 - PvP
 - Contact:
 ## [Eve Rookies [EROOK]](/community/coalition-corporations/erook)
-- Location:
-- Timezone:
-- Contact:
+EVE Rookies [EROOK] Is a Corporation Dedicated to helping New Players find something they Love in EVE Online. We will help you learn the fundamentals of the game through our well established Mentors, and in time, help place you in a more specialised corporation full of people that Love the things you Love too! If you are brand new to EVE Online, or struggling to find a path that suits you, then EVE Rookies is the place to be! We have direct access to all manner of Activities, including PvP Fleets (Both Large & Small Scale), Alpha Friendly Incursions, Mining Fleets, NPSI Fleets, and more. Join Channel Eve Rookies Public for more information or any questions!
+- Location: High Sec
+- Timezone: EU
+- Improving New Player Experience (Mentoring Newbies)
+- NPSI/ Public Fleets
+- Contact: Dread Nowt
 ## [The Ringing Vale [VLOR]](/community/coalition-corporations/vlor)
-- Location:
-- Timezone:
-- Contact:
+We are a close knit group, that welcomes returning vets and new players alike. We love to teach all things Eve, but currently our core focus is on building on our high sec pocket in Minmatar space. We have an athanor for refining, a raitaru for manufacturing, as well as plenty of close by trade hubs to sell goods. We also have a good number of NPC corp options for our mission runners and dedicated salvagers. 
+
+As players develop core skills, we offer introductions to exploration content as well as some limited PVP. We have actually defended our home system with our corp and allies helpfully removing an abandoned citadel.
+
+Continue your journey and come fly with us.
+- Location: High Sec
+- Timezone: US
+- Mining
+- Missions and Exploration
+- Contact: RGB Dragon
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
 Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
