@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-05-06T13:38:22.272Z
+date: 2021-05-10T20:14:48.037Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -149,6 +149,12 @@ Newayz our mission if you must know is to defend the country side against all ar
 - Timezone: EU
 - Little Guy Fighting the Big Guy
 - Protecting The Mountian
+- Contact:
+## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
+- Location: 
+- Timezone: 
+-
+-
 - Contact:
 ## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
 # Wormholes
