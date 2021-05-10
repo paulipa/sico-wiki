@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-05-10T20:14:48.037Z
+date: 2021-05-10T20:27:50.513Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -151,11 +151,12 @@ Newayz our mission if you must know is to defend the country side against all ar
 - Protecting The Mountian
 - Contact:
 ## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
-- Location: 
-- Timezone: 
--
--
-- Contact:
+A little about the corp, We are a Null Sec based corp whose primary focus is Industry and mining, and Multi-boxing! Some of the things we offer!
+- Location: Null Sec
+- Timezone: US
+- Industry, Mining
+- Making Dank Isk
+- Contact: Xanos Ragnarok, Cresenne Jaterba
 ## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
 # Wormholes
 
