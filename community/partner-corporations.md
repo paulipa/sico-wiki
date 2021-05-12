@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-05-10T20:27:50.513Z
+date: 2021-05-12T03:25:29.985Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -157,7 +157,7 @@ A little about the corp, We are a Null Sec based corp whose primary focus is Ind
 - Industry, Mining
 - Making Dank Isk
 - Contact: Xanos Ragnarok, Cresenne Jaterba
-## [Validus Industries [.V-I.]](/community/coalition-corporations/v-i)
+
 # Wormholes
 
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
