@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-05-12T03:25:29.985Z
+date: 2021-05-13T17:41:19.985Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -122,11 +122,12 @@ You ever wondered what it's like to fly in an actual team orientated environment
 - Contact:
 # Null Sec
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
-Fatalix Industries is a null based corporation, and member of Brave Collective. We live in Catch and active with mining, ratting, and industry. We have small and large PVP fleets running almost 24/7, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
+Fatalix Industries is a null (Querious) based corporation, and member of Brave Collective. We engage in all aspects of Eve from PVP to Industry and Mining. We have small and large PVP fleets running almost 24/7, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
 - Location: Null Sec
 - Timezone: US
-- Group PVP
-- Null PVE
+- Large Fleet and Small Gang PVP
+- Null PVE (ratting / explo / etc...)
+- Moon Mining
 - Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
 ## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
 Serenity Cartel is an Australian based PvP corporation, based in Nullsec. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
