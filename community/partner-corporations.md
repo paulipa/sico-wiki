@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-05-13T17:41:19.985Z
+date: 2021-05-29T13:02:53.183Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -130,13 +130,13 @@ Fatalix Industries is a null (Querious) based corporation, and member of Brave C
 - Moon Mining
 - Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
 ## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
-Serenity Cartel is an Australian based PvP corporation, based in Nullsec. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
-- Location: Nullsec
+Serenity Cartel is an Australian based PvP corporation, based in Nullsec, with a  higfhsec prescence. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
+- Location: Nullsec + Highsec
 - Timezone: AUS
 - Small to Med gang PvP 
 - Corp + Alliance Moons, 
 - Ratting and Group PvE
-- Contact: VagabondBR, Munkey Dallocort
+- Contact: Ykika MooCow, Munkey Dallocort
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FI.RE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
 - Location: Null Sec
