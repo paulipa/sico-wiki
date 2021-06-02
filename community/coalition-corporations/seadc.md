@@ -2,27 +2,24 @@
 title: STRATEGIC EXPLORATION AND DEVELOPMENT CORP [SEADC]
 description: 
 published: true
-date: 2021-02-04T11:41:27.611Z
+date: 2021-06-02T07:39:09.805Z
 tags: entry corporation, joining sico
 editor: markdown
 dateCreated: 2020-07-08T16:30:18.889Z
 ---
 
-SEADC is the active High Sec routing department of LinkNet community for players who seek to actively interact with the rest of our community!
+SEADC is the entry corporation and active High Sec routing department of LinkNet community for players who seek to actively interact with the rest of our community!
 
-> If you are not interested in interacting with the community but would still like to be part of us, please apply and move to Deep Stellar Coalition Enterprises [DLSC]. This allows us to keep spots open for active players in the active department.
-{.is-warning}
+While the entry corporation has no requirements and you can keep on playing the game as you feel like to, we highly recommend that you interact with other community members and take part in our activities. There are tons of different types of activities and fleets for you to join for and the best way to learn about the different career options in EVE is to try them out!
 
+One of the hardest thing in EVE is to learn to understand to universe around you. EVE is an complex game and it is almost impossible to learn to master the different aspects of the game by relying on the information provided for you only by the game client.
 
-As this corporation is dedicated for active players we will require you to register on our [authentication system](https://wiki.eve-linknet.com/en/tools/auth) and [discord](https://wiki.eve-linknet.com/tools/communication/discord) server. Players who do not register on these services are expected to not seek to interact with the rest of the community and will be removed.
+For this reason playing EVE heavily relies on third party tools and sites that will help you connect with older players, gain information about the events happening around you and learn the basics of different mechanisms.
 
-Besides of the registrations there are no mandatory tasks for you. You can come and go as you wish and join any activities that may interest you.
-
-Our ultimate goal in SEADC is to find you a corporation that matches your personal goals and gameplay needs in EVE. While we do have several corporations within the coalition doing different things there might be situations when we simply can’t provide the perfect corporation for your personal needs within the coalition. In situations like this we try to guide you towards corporations and entities that are not part of the coalition that we think would work out for you. We hold no political stances against any entities so we are completely neutral in our guidance.
+The goal of this corporation is to allow you to get to know different types of gameplay options so that you can then pick a corporation later on that might have more requirements from you but also offer more focused content within your interest areas.
 
 > In other words our goal is not to keep you in SEADC but push you out into a corporation that is specializing in the same things you want to focus on.
 {.is-success}
-
 
 ## Joining requirements
 We are the new way of starting out your EVE career. We open our doors for all age and type of pilots as long as you have a friendly and mature attitude and are able to communicate in English!
@@ -32,10 +29,6 @@ We accept both players within the coalition and outside of the coalition with th
 - You must have a friendly and mature attitude
 - You must be able to communicate in English
 - You must register on AUTH and our discord
-
-> Failure to register on AUTH and Discord will result for your removal from the corporation. If you seek not to register on these services, please join the entry level corporations instead.
-{.is-danger}
-
 
 ## Life in SEADC
 How you want to live your life while in SEADC is completely up to you. You may join our joint operations held by other coalition corporations and participate in activities such as wormhole diving, low and null sec roaming and mining. Each of the coalition corporations is trying to provide you a sneak peak of their own way of life by offering you these operations.
