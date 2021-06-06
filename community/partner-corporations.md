@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-06-02T07:36:32.363Z
+date: 2021-06-06T04:36:45.300Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -87,6 +87,7 @@ Continue your journey and come fly with us.
 - Mining
 - Missions and Exploration
 - Contact: RGB Dragon
+
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
 Red Sky Morning have been formed about 12 years now, formed in Amarr FW. Since then the corp has been to nullsec and back. We are an active PvP centric corporation abundance of small, medium and large scale fights
@@ -145,7 +146,6 @@ A little about the corp, We are a Null Sec based corp whose primary focus is Ind
 - Contact: Xanos Ragnarok, Cresenne Jaterba
 
 # Wormholes
-
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
 Our goal is to give anyone who wants it an opportunity to experience life in a wormhole, while providing a safe, friendly environment for new players to learn the basics of different aspects of the game. We combine the knowledge & experience of veteran players with the infrastructure and teaching mentality of the LinkNet community in order to make sure you’ll get the best start to your EVE career. This is the WAEY.
 - Location: Wormholes
@@ -175,6 +175,13 @@ Dark Venture is a wormhole corporation designed to show newer players how to uti
 - PVP in all capacity's excluding sov warfare
 - Teaching wormhole survival techniques 
 - Contact:
+## [Ground Zero [GRNDZ]](/community/coalition-corporations/grndz)
+We are a fast growing former high sec corporation moving into Wormhole life.  We have our own structures, regular boosted mining fleets, Teamspeak, Discord, Ore BuyBack and SRP set ups with access to many Blueprint Copies.  Looking for WH pilots and PvP pilots for roams and to protect our WH.
+- Location: Wormholes
+- Timezone: US
+- Wormhole / Mining / Manufacturing
+- Small -  Medium PvP roams
+- Contact: Zaldera / Retributian / SkullCrusher2107 Smith
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
 Invite only PvP corporation that hosts PvP operations. Easiest way to get to know the corporation and join them is to join the open pvp fleets.
