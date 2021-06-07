@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-04-18T17:39:49.429Z
+date: 2021-06-07T21:39:03.815Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -37,9 +37,9 @@ LinkNet mining fleets have a standard setup so that it is easy for you to get in
 The type of boost and its efficiency depends on the modules fitted on the boosting ship and the skill level of the booster. While most of the official Industry Commanders are all using our standard boosting fit and have the best possible skills for boosting you need to keep in mind that as it takes a long time to train up all of the boosting skills some of the boosters might not have yet the time to max all of their skills.
 
 While in a LINE Mining fleet you will be receiving the following boost:
-- `Mining Laser Field Enhancement` – Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners – Maximum Bonus +114.26%
-- `Mining Laser Optimization` – Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters – Maximum Bonus -57.13%
-- `Mining Equipment Preservation` – Reduces volatility of mining crystals (the speed they break down) – Maximum Bonus -57.13%
+- `Mining Laser Field Enhancement` – Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners – Maximum Bonus +107.8%
+- `Mining Laser Optimization` – Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters – Maximum Bonus -40.4%
+- `Mining Equipment Preservation` – Reduces volatility of mining crystals (the speed they break down) – Maximum Bonus -40.4%
 
 ## How to join the LN Mining fleet
 There are three different ways for you to join a fleet. In order for you to be able to see and join a fleet without someone inviting you to it you will need to match the criteria set by the fleet boss. Since all the Mining Boosters in LinkNet have all of the community partner corporations (and the members in these corporations) set to be able to access and see the fleets by default there should be no problems for you to see any of the mining fleets, if there are any online.
