@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2021-02-12T16:45:13.487Z
+date: 2021-06-10T19:43:01.113Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -87,7 +87,7 @@ You can now fly the Ferox, Osprey and Naga doctrines with your new character and
 # Life in SLTRN
 Since the corporation is primarily used as a initial response force for defending our structure or attacking hostile structures there is not much “normal life” while in this corporation. Of course you can do your daily business while in this corporation as long as you remember that this corporation is likely to be at war at all times.
 
-> One important thing you need to do is to apply to the Defence Against the Dark Arts Wizzard group on AUTH. This will add you to the discord group for SLTRN as on normal cases AUTH only adds you to the rooms your main characters belongs to (and your main is likely not in SLTRN)
+> One important thing you need to do is to make sure you have added your SLTRN Alt into Auth as an alternate character. Make sure your character is properly added in Auth will automatically add you to the correct Discord group so that you receive all notifications. 
 {.is-danger}
 
 ## Citadel Gunnery
