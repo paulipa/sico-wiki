@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-06-06T04:36:45.300Z
+date: 2021-06-16T09:02:08.593Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -98,14 +98,6 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Faction Warfare, Low Sec Piracy
 - PVP
 - Contact:
-
-## [Sensible People [5EN5E]](/community/coalition-corporations/5en5e)
-You ever wondered what it's like to fly in an actual team orientated environment? Sensible People invests heavily into it's members by it's members. We put team over self. Although there is individual profit driven outlets we assist one another in the most effective paths to achieve those goals. Leadership is available and not AFK and the corporation has goals and aspirations that are practical and achievable.
-- Location: Low Sec
-- Timezone: Global
-- PvP
-- Efficient isk outlets
-- Contact:
 # Null Sec
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
 Fatalix Industries is a null (Querious) based corporation, and member of Brave Collective. We engage in all aspects of Eve from PVP to Industry and Mining. We have small and large PVP fleets running almost 24/7, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
@@ -129,13 +121,6 @@ A primarily industrial corporation who enjoys the benefits of mining and ratting
 - Timezone: Global
 - Industry
 - PvP
-- Contact:
-## [the king asked me to guard the mountain [TKAM]](/community/coalition-corporations/tkam)
-Newayz our mission if you must know is to defend the country side against all arrays of enemies and make them face full life consequences! So if u see signs in our local space channel that says "u shudnt come here" then u should turn around or go a different way. We will defend ourselves against you and continue making guard until the sun is almost down from the top of the sky (dinner time).
-- Location: Null Sec
-- Timezone: EU
-- Little Guy Fighting the Big Guy
-- Protecting The Mountian
 - Contact:
 ## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
 A little about the corp, We are a Null Sec based corp whose primary focus is Industry and mining, and Multi-boxing! Some of the things we offer!
@@ -190,8 +175,6 @@ Invite only PvP corporation that hosts PvP operations. Easiest way to get to kno
 - PvP
 - Nomadic PvP
 - Contact: Garen Willow, Sierra Sin
-
-## [Stribog Kybernaut Subclade [SKS3]](/community/coalition-corporations/sks3)
 # Language Partners
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
 - Russian
