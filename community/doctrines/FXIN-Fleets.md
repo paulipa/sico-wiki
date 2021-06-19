@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-19T22:53:29.151Z
+date: 2021-06-19T22:57:59.851Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -187,7 +187,7 @@ Agency 'Overclocker' SB5 Dose II x1
 Standard Mindflood Booster x1
 </details>
 <details>
-  <summary>Thalia (Logi)</summary>
+<summary>Thalia (Logi)</summary>
 [Thalia, Thalia MWD Fleet Null]
 
 Explosive Energized Membrane II
