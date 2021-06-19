@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-19T22:15:15.840Z
+date: 2021-06-19T22:49:25.767Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -14,6 +14,7 @@ These fits are NOT official LinkNet fits, and are intended for fleets hosted by 
 ## Kikimoras
 Kiki man is coming for you. Doctrine primarily spider tanks, so max Kikis desrired. T1 armor destroyers can be used as a low skill option. Assault Frigs or Interceptors can be used for additional tackle.
 Destroyers can be fit however you want, as long as they have a 200mm plate and 5mn MWD. 
+2 to 3 logi frigates can be used if fleet size is large enough.
 <details>
   <summary>Kiki (T2 Guns)</summary>
 [Kikimora, Kiki FXIN Spider]
@@ -159,7 +160,32 @@ Void S x2000
 Null S x1000
 Caldari Navy Antimatter Charge S x1000
 </details>
+<details>
+<summary>Deacon (Logi)</summary>
+[Deacon, Deacon]
 
+400mm Steel Plates II
+Multispectrum Energized Membrane II
+Micro Auxiliary Power Core II
+Multispectrum Coating II
+Damage Control II
+
+5MN Quad LiF Restrained Microwarpdrive
+Small F-RX Compact Capacitor Booster
+
+Small Remote Armor Repairer II
+Small Remote Armor Repairer II
+Small Remote Armor Repairer II
+
+Small Trimark Armor Pump II
+Small Trimark Armor Pump II
+
+
+Navy Cap Booster 400 x19
+Nanite Repair Paste x40
+Agency 'Overclocker' SB5 Dose II x1
+Standard Mindflood Booster x1
+</details>
 ## Thorax ESS Robbing
 <details>
   <summary>Thorax - T2 Guns</summary>
