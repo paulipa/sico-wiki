@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-19T22:49:25.767Z
+date: 2021-06-19T22:53:29.151Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -22,7 +22,7 @@ Destroyers can be fit however you want, as long as they have a 200mm plate and 5
 Reactive Armor Hardener
 Multispectrum Energized Membrane II
 Entropic Radiation Sink II
-200mm Rolled Tungsten Compact Plates
+200mm Federation Navy 200mm Steel Plates
 
 Small Capacitor Booster II, Navy Cap Booster 200
 Initiated Compact Warp Disruptor
@@ -53,7 +53,7 @@ J5b Enduring Warp Scrambler x1
 Reactive Armor Hardener
 Multispectrum Energized Membrane II
 Entropic Radiation Sink II
-200mm Rolled Tungsten Compact Plates
+200mm Federation Navy 200mm Steel Plates
 
 Small Capacitor Booster II, Navy Cap Booster 200
 Initiated Compact Warp Disruptor
@@ -186,6 +186,35 @@ Nanite Repair Paste x40
 Agency 'Overclocker' SB5 Dose II x1
 Standard Mindflood Booster x1
 </details>
+<details>
+  <summary>Thalia (Logi)</summary>
+[Thalia, Thalia MWD Fleet Null]
+
+Explosive Energized Membrane II
+400mm Rolled Tungsten Compact Plates
+Multispectrum Energized Membrane II
+Damage Control II
+
+F-90 Compact Sensor Booster, Scan Resolution Script
+Small Capacitor Booster II, Navy Cap Booster 400
+5MN Y-T8 Compact Microwarpdrive
+
+Small Remote Armor Repairer II
+Small Remote Armor Repairer II
+Small Solace Scoped Remote Armor Repairer
+
+Small Trimark Armor Pump II
+Small Ancillary Current Router I
+
+
+Light Hull Maintenance Bot I x1
+
+
+Navy Cap Booster 400 x20
+Agency 'Overclocker' SB3 Dose I x1
+Standard Mindflood Booster x1
+</details>
+
 ## Thorax ESS Robbing
 <details>
   <summary>Thorax - T2 Guns</summary>
