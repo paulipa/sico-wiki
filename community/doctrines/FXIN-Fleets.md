@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-21T18:40:33.775Z
+date: 2021-06-21T23:39:21.821Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -22,7 +22,7 @@ Destroyers can be fit however you want, as long as they have a 200mm plate and 5
 Reactive Armor Hardener
 Multispectrum Energized Membrane II
 Entropic Radiation Sink II
-200mm Federation Navy 200mm Steel Plates
+Federation Navy 200mm Steel Plates
 
 Small Capacitor Booster II, Navy Cap Booster 200
 Initiated Compact Warp Disruptor
@@ -53,7 +53,7 @@ J5b Enduring Warp Scrambler x1
 Reactive Armor Hardener
 Multispectrum Energized Membrane II
 Entropic Radiation Sink II
-200mm Federation Navy 200mm Steel Plates
+Federation Navy 200mm Steel Plates
 
 Small Capacitor Booster II, Navy Cap Booster 200
 Initiated Compact Warp Disruptor
