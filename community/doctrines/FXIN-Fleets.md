@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-19T22:57:59.851Z
+date: 2021-06-21T18:36:38.227Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -103,6 +103,40 @@ Small Ancillary Current Router I
 Cap Booster 200 x30
 Imperial Navy Microwave S x8
 Standard S x8
+</details>
+<details>
+ <summary> 
+Algos (Low Skill Option)</summary>
+[Algos, Algos PVP RR Newbro]
+
+200mm Crystalline Carbonide Restrained Plates
+Damage Control II
+Overdrive Injector System II
+
+5MN Cold-Gas Enduring Microwarpdrive
+Drone Navigation Computer I
+Small F-RX Compact Capacitor Booster, Navy Cap Booster 400
+
+Small I-ax Enduring Remote Armor Repairer
+Small I-ax Enduring Remote Armor Repairer
+Small I-ax Enduring Remote Armor Repairer
+150mm Light 'Scout' Autocannon I, Carbonized Lead S
+150mm Light 'Scout' Autocannon I, Carbonized Lead S
+150mm Light 'Scout' Autocannon I, Carbonized Lead S
+
+Small Explosive Armor Reinforcer I
+Small Polycarbon Engine Housing I
+Small Auxiliary Thrusters I
+
+
+Hammerhead II x2
+Hobgoblin II x3
+
+
+Navy Cap Booster 400 x1
+Carbonized Lead S x480
+Depleted Uranium S x480
+EMP S x480
 </details>
 <details>
   <summary> 
