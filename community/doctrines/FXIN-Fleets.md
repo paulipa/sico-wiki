@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-21T18:36:38.227Z
+date: 2021-06-21T18:40:33.775Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -83,7 +83,7 @@ Damage Control I
 Mark I Compact Reactor Control Unit
 200mm Rolled Tungsten Compact Plates
 
-5MN Y-T8 Compact Microwarpdrive
+5MN Cold-Gas Enduring Microwarpdrive
 Small F-RX Compact Capacitor Booster, Cap Booster 200
 
 Small Focused Anode Particle Stream I, Imperial Navy Multifrequency S
@@ -96,7 +96,7 @@ Small Focused Anode Particle Stream I, Imperial Navy Multifrequency S
 Small Focused Anode Particle Stream I, Imperial Navy Multifrequency S
 
 Small Capacitor Control Circuit I
-Small Energy Collision Accelerator I
+Small Auxiliary Thrusters I
 Small Ancillary Current Router I
 
 
@@ -115,7 +115,7 @@ Overdrive Injector System II
 
 5MN Cold-Gas Enduring Microwarpdrive
 Drone Navigation Computer I
-Small F-RX Compact Capacitor Booster, Navy Cap Booster 400
+Small F-RX Compact Capacitor Booster, Cap Booster 200
 
 Small I-ax Enduring Remote Armor Repairer
 Small I-ax Enduring Remote Armor Repairer
@@ -133,7 +133,7 @@ Hammerhead II x2
 Hobgoblin II x3
 
 
-Navy Cap Booster 400 x1
+Cap Booster 200 x32
 Carbonized Lead S x480
 Depleted Uranium S x480
 EMP S x480
