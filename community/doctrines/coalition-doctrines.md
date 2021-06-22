@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-06-22T18:26:23.070Z
+date: 2021-06-22T18:26:48.240Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -573,7 +573,7 @@ Medium Thermal Shield Reinforcer I
 
 Warrior II x3
 Spike M x2000
-Navy Cap Booster 20x400
+Navy Cap Booster 400x20
 Caldari Navy Antimatter Charge M x1000
 </details>
 
