@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2021-06-22T20:37:47.560Z
+date: 2021-06-23T09:11:07.017Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
@@ -25,7 +25,7 @@ To get you started out right in Null, upon your arrival we provide you with a st
 
 Game of Drones boasts a massive collection of over 1000 Blueprint Originals that members have access to use and make their own copies. We also have a player curated general store that is available for all corp members to use. We stage out of one of the major null market hubs which is a short couple jumps from high level ratting and mining sites.
 
-Our members enjoy taking on big projects such as Capital, Sub-Capital production, and operating as a frontline wartime supplier. Plus smaller projects such as; stocking markets with needed items and building fuel for allied starbases so there will always be something for you to do. Within our area of space, there are many choices open to you beyond just mining and industry. Thanks to our alliance and association to Fire Coalition we have access to bigger fleets aimed at PvP and PvE such as roaming, WH day trips, and more. We also have some active and helpful intel channels, these are here to help keep you safe from threats such as roaming groups and gankers while you are playing in Null Sec space.
+Our members enjoy taking on big projects such as Capital, Sub-Capital production and operating as a frontline wartime supplier. Plus smaller projects such as; stocking markets with needed items and building fuel for allied starbases so there will always be something for you to do. Within our area of space, there are many choices open to you beyond just mining and industry. Thanks to our alliance and association to Fire Coalition we have access to bigger fleets aimed at PvP and PvE such as roaming, WH day trips, and more. We also have some active and helpful intel channels, these are here to help keep you safe from threats such as roaming groups and gankers while you are playing in Null Sec space.
 
 ![3gods_middlepage.jpg](/3gods_middlepage.jpg)
 
