@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2021-06-23T09:11:07.017Z
+date: 2021-06-24T10:02:10.147Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
@@ -11,7 +11,7 @@ dateCreated: 2020-07-17T14:55:07.154Z
 ![3gods_header_color_new.jpg](/3gods_header_color_new.jpg)
 # Who are we, you ask?
 
-Game of Drones is a Nullsec Mining, Industrial, and Planetary Interaction specialized Corporation within the Silent Coalition and Nullsec with many of us enjoying the carebear lifestyle but with the options to delve into bigger things, such as PvP.
+Game of Drones is a Nullsec Mining, Industrial, and Planetary Interaction specialized Corporation within LinkNet and Nullsec with many of us enjoying the carebear lifestyle but with the options to delve into bigger things, such as PvP.
 
 We aim to create a great place for like-minded players that also wish to experience all that eve has to offer. And give our members an opportunity to make large amounts of ISK.
 
@@ -33,7 +33,7 @@ Our members enjoy taking on big projects such as Capital, Sub-Capital production
 
 In order to become a part of Game of Drones, you will need to fulfill some basic requirements. Though we are an entry-level corp, null-sec is a harsh and unforgiving place. These requirements are here for you to be able to make the most of your time in Null Sec
 
-- A) Have been within any of Silent Coalition’s corporations for at least 30 days, or Previously have lived in Null Sec for more than 60 days.
+- A) Have been within any of the Linknet corporations for at least 30 days, or Previously have lived in Null Sec for more than 60 days.
 - B) You will need to have at least 15 million skill points and be able to at least fly a fit procurer or an entry level ratting ship. Omega is strongly preferred. Basic skills into PvP ships and accompanying fittings will be a big plus.
 - C) Be willing to work as a team, while we generally let people pursue the activities that interest them the most, please be willing to work towards a common goal within the corporation. Such as; Mining ores if we need more minerals or Setting up Planetary if a big job requires it.
 - D) In order to keep both the corp and our alliance safe, we review incoming members. This does not mean that if you have previously been part of another big null bloc that we will refuse you. We just want to know any pertinent information so that we are aware of the situation as it stands so that we may keep our corp a fun place for all.
