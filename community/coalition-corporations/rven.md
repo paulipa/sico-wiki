@@ -2,7 +2,7 @@
 title: Nevermore. [.RVEN]
 description: 
 published: true
-date: 2021-02-02T19:53:44.370Z
+date: 2021-07-10T21:19:54.762Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:10:43.731Z
@@ -73,7 +73,7 @@ Thirty days is the minimum requirement; we may require longer. Exceptions can be
 > - Team-player mentality. Support your fellow members and your corporation as a whole.
 > - Join fleet activities whenever possible.
 
-For a quick preview of how our bookmarking convention works, you can check this page: https://wiki.eve-linknet.com/en/services/flightmanuals/wormholes#naming-bookmarks
+For a quick preview of how our bookmarking convention works, you can check this page: https://wiki.eve-linknet.com/linknet-help-and-guides/wormholes#bookmarking-bookmarks
 
 Other that this, nothing is mandatory. Play as much as you want – when you want. Obviously, there are times where having as many people as possible would be especially appreciated. For this reason, we expect people to respond to pings/join fleets if they can.
 However, this is a game and real life comes first – for all of us.
