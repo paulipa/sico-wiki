@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-06-16T09:02:08.593Z
+date: 2021-07-22T06:12:37.264Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -107,8 +107,8 @@ Fatalix Industries is a null (Querious) based corporation, and member of Brave C
 - Null PVE (ratting / explo / etc...)
 - Moon Mining
 - Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
-## [Serenity Cartel [S...C]](/community/coalition-corporations/s__c)
-Serenity Cartel is an Australian based PvP corporation, based in Nullsec, with a  higfhsec prescence. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
+## [Iron Solaris[ENVOI]](/community/coalition-corporations/envoi)
+Iron Solaris is an Australian based PvP corporation, based in Nullsec, with a  higfhsec prescence. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
 - Location: Nullsec + Highsec
 - Timezone: AUS
 - Small to Med gang PvP 
