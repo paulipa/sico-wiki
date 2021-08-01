@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-03-08T06:01:33.340Z
+date: 2021-08-01T16:02:18.099Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -180,6 +180,9 @@ If there were losses during the fleet the FC will guide you to apply for [Ship r
 After the fleet your participation will be tracked by the fleet commander by using a FAT system. You can check your own FAT points from auth fleet [activity section](https://auth.eve-linknet.com/imicusfat/).
 # After the fleet, whats next
 After completing the GRIP: Fleets & PvP you should have a basic understanding of how to find different fleets within the community. The next step is to figure out which types of fleets  you enjoy the most. Our community offers plenty of activities hosted by the community partner corporations.
+
+## SEADC Member Title
+After completing the GRIP you are qualified for the member title in SEADC. In order to get your title send a mail to the SEADC CEO `Ikarus Cesaille` that you have completed your GRIP fleet and would like to get the member title.
 
 ## Try out different things, the General Rookie Introduction Program [GRIP]
 Best way to figure out what you would like to do in EVE is to try out different things. Take part in the different operations that are scheduled on the [calendar](https://auth.eve-linknet.com/opcalendar/) the same way you joined for the GRIP fleet. Talk with other players that are interested in similar content with you on our discord by opting in to the [Special Interest groups](https://auth.eve-linknet.com/groups/).
