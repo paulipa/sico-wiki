@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-07-22T06:12:37.264Z
+date: 2021-08-18T00:34:20.086Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -77,16 +77,13 @@ EVE Rookies [EROOK] Is a Corporation Dedicated to helping New Players find somet
 - NPSI/ Public Fleets
 - Contact: Dread Nowt
 ## [The Ringing Vale [VLOR]](/community/coalition-corporations/vlor)
-We are a close knit group, that welcomes returning vets and new players alike. We love to teach all things Eve, but currently our core focus is on building on our high sec pocket in Minmatar space. We have an athanor for refining, a raitaru for manufacturing, as well as plenty of close by trade hubs to sell goods. We also have a good number of NPC corp options for our mission runners and dedicated salvagers. 
-
-As players develop core skills, we offer introductions to exploration content as well as some limited PVP. We have actually defended our home system with our corp and allies helpfully removing an abandoned citadel.
-
-Continue your journey and come fly with us.
+The Ringing Vale is a community focused hi-sec industry, PvE and PvP Defence Corp based in Metropolis space. We offer a wide range of services and events centered on providing corp funded work designed to integrate and maximise players' experience in their playstyle of choice via our department system. Learn to maximize your EVE career with The Ringing Vale!
+IRL comes first, community second. New players and returning vets alike are welcome.
 - Location: High Sec
-- Timezone: US
-- Mining
-- Missions and Exploration
-- Contact: RGB Dragon
+- Timezone: US/EU/AU
+- Mining & Industry
+- PvE and PvP services
+- Contact: Harnaget Ostus
 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
