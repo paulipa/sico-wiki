@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-08-18T00:34:20.086Z
+date: 2021-08-24T10:09:10.144Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -82,7 +82,7 @@ IRL comes first, community second. New players and returning vets alike are welc
 - Location: High Sec
 - Timezone: US/EU/AU
 - Mining & Industry
-- PvE and PvP services
+- PvE missions and PvP services
 - Contact: Harnaget Ostus
 
 # Low sec
