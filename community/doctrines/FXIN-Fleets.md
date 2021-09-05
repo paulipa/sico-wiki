@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-09-05T06:14:22.961Z
+date: 2021-09-05T06:15:50.256Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -326,6 +326,7 @@ Warp Scrambler II x1
 <details>
   <summary>Scythe - Optimal</summary>
 [Scythe, AB Scythe Optimal]
+
 Capacitor Power Relay II
 Capacitor Power Relay II
 Capacitor Power Relay II
@@ -354,6 +355,7 @@ Nanite Repair Paste x25
 <details>
   <summary>Scythe Logi T1/Alpha</summary>
 [Scythe, AB Scythe Alpha]
+  
 IFFA Compact Damage Control
 Type-D Restrained Capacitor Power Relay
 Type-D Restrained Capacitor Power Relay
