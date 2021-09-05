@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-06-21T23:39:21.821Z
+date: 2021-09-05T06:14:22.961Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -250,9 +250,9 @@ Standard Mindflood Booster x1
 </details>
 
 ## Thorax ESS Robbing
+Go into an ESS, steal from it, and force your enemy to fight you at zero
 <details>
   <summary>Thorax - T2 Guns</summary>
-Go into an ESS, steal from it, and force your enemy to fight you at zero
 [Thorax, ESS Thorax]
 
 Magnetic Field Stabilizer II
@@ -323,5 +323,62 @@ Caldari Navy Antimatter Charge M x600
 Warp Disruptor II x1
 Warp Scrambler II x1
 </details>
+<details>
+  <summary>Scythe - Optimal</summary>
+[Scythe, AB Scythe Optimal]
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Damage Control II
+
+10MN Monopropellant Enduring Afterburner
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+Cap Recharger II
+Large F-S9 Regolith Compact Shield Extender
+
+Medium S95a Scoped Remote Shield Booster
+Medium S95a Scoped Remote Shield Booster
+Medium S95a Scoped Remote Shield Booster
+
+Medium EM Shield Reinforcer I
+Medium Core Defense Field Extender I
+Medium Processor Overclocking Unit I
+
+Acolyte II x4
+Hornet EC-300 x5
+
+Nanite Repair Paste x25
+</details>
+<details>
+  <summary>Scythe Logi T1/Alpha</summary>
+[Scythe, AB Scythe Alpha]
+IFFA Compact Damage Control
+Type-D Restrained Capacitor Power Relay
+Type-D Restrained Capacitor Power Relay
+Type-D Restrained Capacitor Power Relay
+Type-D Restrained Capacitor Power Relay
+
+10MN Monopropellant Enduring Afterburner
+Eutectic Compact Cap Recharger
+Large F-S9 Regolith Compact Shield Extender
+Compact Multispectrum Shield Hardener
+Compact Multispectrum Shield Hardener
+
+Medium S95a Scoped Remote Shield Booster
+Medium S95a Scoped Remote Shield Booster
+Medium S95a Scoped Remote Shield Booster
+
+Medium EM Shield Reinforcer I
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+
+Acolyte I x9
+
+Nanite Repair Paste x25
+</details>
+
+
 
 
