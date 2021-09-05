@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-09-05T06:19:49.213Z
+date: 2021-09-05T06:22:25.870Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -312,7 +312,7 @@ Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 Medium Polycarbon Engine Housing I
 
-Hobgoblin II x5
+Hobgoblin I x5
 Hornet EC-300 x5
 
 Caldari Navy Antimatter Charge M x600
