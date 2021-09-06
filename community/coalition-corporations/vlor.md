@@ -2,13 +2,13 @@
 title: The Ringing Vale [VLOR]
 description: 
 published: true
-date: 2021-09-06T13:39:03.430Z
+date: 2021-09-06T13:42:57.061Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T12:46:18.544Z
 ---
 
-The Ringing Vale
+![the_ringing_vale_recruitment_application.png](/pictures/the_ringing_vale_recruitment_application.png)The Ringing Vale
 
 The Ringing Vale is continuing its search for pilots that want to work hand-in-hand with their corporation towards a shared goal. Our current members range in experience from recent Academy graduates, to veterans of the various pathways in space, and somewhere in-between.
 
