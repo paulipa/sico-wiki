@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-09-05T19:04:45.762Z
+date: 2021-09-15T16:18:29.902Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -84,6 +84,13 @@ IRL comes first, community second. New players and returning vets alike are welc
 - Mining & Industry
 - PvE missions and PvP services
 - Contact: Harnaget Ostus
+## [Horsemen Industries [HRSM]](/community/coalition-corporations/hrsm)
+Horsemen Industries is an Industry focused high sec corp. Always looking for new or returning pilots to join our ranks, We help to achieve steady progression in networth and skill within Eve. 
+- Location: High Sec
+- Timezone: US
+- Industry
+- PVE
+- Contact: Zerocool416
 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
