@@ -2,7 +2,7 @@
 title: Community
 description: 
 published: true
-date: 2021-02-18T17:05:07.881Z
+date: 2021-09-15T15:05:57.581Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T08:08:40.322Z
@@ -25,3 +25,6 @@ All coalition members are free to look for a new corporation when they feel like
 
 ## [LinkNet Manifesto](/community/coalition-manifesto)
 Detailed explanation of community structure and goals.
+
+## [Corporation Self Check In Process](/community/corporation-self-check-in-process)
+This process may be used to speed up corporation partnership process if there are timezone issues with the integration manager and the corporation applying for the partnership.
