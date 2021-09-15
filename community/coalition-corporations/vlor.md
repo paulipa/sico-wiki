@@ -2,7 +2,7 @@
 title: The Ringing Vale [VLOR]
 description: 
 published: true
-date: 2021-09-15T04:53:01.627Z
+date: 2021-09-15T05:18:34.168Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T12:46:18.544Z
