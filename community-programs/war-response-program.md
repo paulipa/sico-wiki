@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2021-06-10T19:43:01.113Z
+date: 2021-09-17T16:44:42.631Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -37,7 +37,7 @@ The free SP you get is enough for you to inject to the entry version of our prim
 1. Make an ingame application to the Defence Against the Dark Arts [SLTRN] corporation. Use the search bar on the top left corner as this corporation does not have an advert up in the corporation finder tool.
 7. Link your SLTRN alt with your main character by pressing on the [add character button](https://auth.eve-linknet.com/account/characters/add/) on AUTH dashboard.
 
-> Without adding your SLTRN alt on AUTH you won't be able to see the discord channel for this corporation and will not see the pings for their operations.
+> Without adding your SLTRN character on AUTH under your main account you won't be able to see the discord channel for this corporation and will not see the pings for their operations. Updating the group after addind the character may take up to one hour.
 {.is-warning}
 
 
