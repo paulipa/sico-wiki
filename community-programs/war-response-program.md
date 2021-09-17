@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2021-09-17T17:51:12.985Z
+date: 2021-09-17T17:52:11.394Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -45,7 +45,7 @@ You have now created your new SLTRN character! Next we will be injecting the nee
 # Injecting Doctrine Skills
 The following section will explain you how to inject to the required skills to fly our entry level doctrinre. You will be injecting to: Ferox, Naga and Osprey fittings.
 
-## Ferox
+## Full Plan, Ferox & Osprey Alpha
 1. The first thing that you need to do is to obviously to redeem the free skill points. Open your redeem item windows and redeem the civilian skill point pack! You now have 1 000 000 free skill points that you can inject.
 ![redeem_items.jpg](/redeem_items.jpg =500x)
 1. Ask in the `EVE LinkNet partners` channel ingame or on our discord for an officer to send you 15 mil isk. You will need this to buy the needed skill books.
