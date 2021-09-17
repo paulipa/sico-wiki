@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-06-22T18:31:55.938Z
+date: 2021-09-17T18:03:20.933Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -29,89 +29,92 @@ This doctrine has proper logi to withstand enemy DPS for a longer duration of ti
 
 ### DPS
 <details>
-  <summary>Ferox - SLTRN (Basic)</summary>
-[Ferox, Ferox - SLTRN (Basic)]
+  <summary>Ferox Fleet, Ferox Alpha</summary>
+[Ferox, Ferox Fleet, Ferox Alpha]
 
 Damage Control II
-Magnetic Field Stabilizer II
+Mark I Compact Reactor Control Unit
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
 
-50MN Cold-Gas Enduring Microwarpdrive
-Large F-S9 Regolith Compact Shield Extender
-Large F-S9 Regolith Compact Shield Extender
-Compact Multispectrum Shield Hardener
-Compact Multispectrum Shield Hardener
-Small F-RX Compact Capacitor Booster
+50MN Microwarpdrive I
+Large Shield Extender II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+Sensor Booster I
 
+Drone Link Augmentor I
 250mm Railgun I
 250mm Railgun I
 250mm Railgun I
 250mm Railgun I
 250mm Railgun I
 250mm Railgun I
-[Empty High slot]
 
-Medium Ancillary Current Router I
+Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 Medium EM Shield Reinforcer I
 
 
-Acolyte I x5
 
+Hornet I x5
 
-Cap Booster 200 x25
-Antimatter Charge M x3000
-Caldari Navy Antimatter Charge M x1000
-Caldari Navy Tungsten Charge M x1000
+Thorium Charge M x1000
+Antimatter Charge M x2500
+ECCM Script x1
+Targeting Range Script x1
+Scan Resolution Script x1
+Iron Charge M x1000
 </details>
 
 <details>
-  <summary>Ferox - SLTRN</summary>
+  <summary>Ferox Fleet, Ferox Omega</summary>
 You can replace Drone Link Augmentor I with command burst modules if you are an skilled Omega pilot
   
-[Ferox, Ferox - SLTRN]
+[Ferox, Ferox Fleet, Ferox Omega]
 
 Damage Control II
+Mark I Compact Reactor Control Unit
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
-Reactor Control Unit II
 
-50MN Y-T8 Compact Microwarpdrive
+50MN Microwarpdrive II
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
-EM Shield Hardener II
-Small Capacitor Booster II
+Multispectrum Shield Hardener II
+Sensor Booster II
 
+Drone Link Augmentor II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
-[Empty High slot]
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
-Medium Thermal Shield Reinforcer I
+Medium EM Shield Reinforcer I
 
 
-Warrior II x5
 
+Hornet II x5
 
 Javelin M x1000
+ECCM Script x1
 Spike M x1000
-Cap Booster 200 x25
-Antimatter Charge M x3000
-Caldari Navy Antimatter Charge M x1000
+Antimatter Charge M x2740
+Targeting Range Script x1
+Scan Resolution Script x1
 </details>
 
 ### Logistics
 
 <details>
-  <summary>Osprey - SLTRN</summary>
-[Osprey, Osprey - SLTRN]
+  <summary>Ferox Fleet, Osprey Alpha</summary>
+[Osprey, Ferox Fleet, Osprey Alpha]
 
 Damage Control II
 Power Diagnostic System II
@@ -133,15 +136,14 @@ Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 
-
-Warrior I x4
+Hornet I x4
 </details>
 
 ### Booster
 
 <details>
-  <summary>Sleipnir - SLTRN</summary>
-[Sleipnir, Sleipnir - SLTRN]
+  <summary>Ferox Fleet, Sleipnir Omega</summary>
+[Sleipnir, Ferox Fleet, Sleipnir Omega]
 
 Damage Control II
 Power Diagnostic System II
@@ -182,8 +184,8 @@ Shield Harmonizing Charge x300
 
 ### Tackle
 <details>
-  <summary>Merlin - Scram Merlin</summary>
-[Merlin, Merlin - Scram Merlin]
+  <summary>Ferox Fleet, Scram Merlin Alpha</summary>
+[Merlin, Ferox Fleet, Scram Merlin Alpha]
 
 Damage Control I
 Magnetic Field Stabilizer I
