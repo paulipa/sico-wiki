@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2021-09-17T16:44:42.631Z
+date: 2021-09-17T16:46:23.935Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -87,8 +87,8 @@ You can now fly the Ferox, Osprey and Naga doctrines with your new character and
 # Life in SLTRN
 Since the corporation is primarily used as a initial response force for defending our structure or attacking hostile structures there is not much “normal life” while in this corporation. Of course you can do your daily business while in this corporation as long as you remember that this corporation is likely to be at war at all times.
 
-> One important thing you need to do is to make sure you have added your SLTRN Alt into Auth as an alternate character. Make sure your character is properly added in Auth will automatically add you to the correct Discord group so that you receive all notifications. 
-{.is-danger}
+> Without adding your SLTRN character on AUTH under your main account you won't be able to see the discord channel for this corporation and will not see the pings for their operations. Updating the group after addind the character may take up to one hour.
+{.is-warning}
 
 ## Citadel Gunnery
 As a member of SLTRN you have the permissions to man and shoot with most of the coalition citadels. A armed and manned citadel will scare away solo attackers or very small gangs that do not have logistics.
@@ -126,7 +126,7 @@ Once you have skilled for the doctrine ships you may have some SP left over to s
 
 We recommend that you keep on training the skills needed to improve the ferox or osprey by aiming towards the t2 fitted version of both ships.
 
-> The T2 variant of the ferox is located in here https://auth.silentcoalition.com/fittings/fit/33/
+> The T2 variant of the ferox is located in here https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#ferox-fleet
 {.is-info}
 
 - Hull Upgrade IV -> Damage Control II
