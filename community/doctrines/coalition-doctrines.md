@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-09-17T18:03:20.933Z
+date: 2021-09-20T09:05:09.601Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -30,42 +30,42 @@ This doctrine has proper logi to withstand enemy DPS for a longer duration of ti
 ### DPS
 <details>
   <summary>Ferox Fleet, Ferox Alpha</summary>
-[Ferox, Ferox Fleet, Ferox Alpha]
+[Ferox, SLTRN Ferox Alpha]
 
 Damage Control II
-Mark I Compact Reactor Control Unit
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
+Power Diagnostic System I
 
-50MN Microwarpdrive I
-Large Shield Extender II
-Large Shield Extender II
 Multispectrum Shield Hardener II
-Multispectrum Shield Hardener II
-Sensor Booster I
+Large F-S9 Regolith Compact Shield Extender
+50MN Quad LiF Restrained Microwarpdrive
+Large F-S9 Regolith Compact Shield Extender
+EM Shield Hardener II
+Small Capacitor Booster I
 
+250mm Railgun I
+250mm Railgun I
+250mm Railgun I
 Drone Link Augmentor I
 250mm Railgun I
 250mm Railgun I
 250mm Railgun I
-250mm Railgun I
-250mm Railgun I
-250mm Railgun I
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
-Medium EM Shield Reinforcer I
+Medium Thermal Shield Reinforcer I
 
 
+Warrior I x5
 
-Hornet I x5
 
-Thorium Charge M x1000
+Navy Cap Booster 400 x31
 Antimatter Charge M x2500
-ECCM Script x1
-Targeting Range Script x1
-Scan Resolution Script x1
+Caldari Navy Antimatter Charge M x2240
 Iron Charge M x1000
+Thorium Charge M x1000
+Inherent Implants 'Squire' Power Grid Management EG-602 x1
 </details>
 
 <details>
