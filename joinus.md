@@ -2,7 +2,7 @@
 title: Joining us
 description: 
 published: true
-date: 2021-04-18T17:38:18.994Z
+date: 2021-10-03T20:08:27.648Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T15:27:30.474Z
@@ -66,5 +66,5 @@ The default entry corporations are english speaking only. If you are looking for
 Follow the information in the pinned message in each channel to proceed to join the corporation of your choice.
 
 # Joining community as a corporation
-If you are seeking to join the community as a corporation please refer to the community rules and the requirements for different types of community corporations in here: [Requirements for community corporations](/community/rules#requirements-for-all-coalition-members)
+If you are seeking to join the community as a corporation please refer to the community rules and the requirements for different types of community corporations in here: [Requirements for community corporations](/en/community/rules-and-requirements#partner-requirements)
 
