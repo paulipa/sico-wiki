@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-09-15T16:18:29.902Z
+date: 2021-10-03T11:14:19.665Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -39,7 +39,7 @@ Silent Industry is the Highsec Industry Wing for the LinkNet Community, part of 
 - Timezone: EU
 - Industry
 - Resource Harvesting
-- Contact:
+- Contact: LocusAzzurro Orisis (LocusAzzurro#7414)
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
 Hello Pilots of Eve, If your looking for a specialized group to grow with then check us out. We are Mining and Industry Focused, but we have a range of activities such as, PI, Missions, Moon mining, Exploration, Abyss runs, Ice mining, We have a huge array of BPO,BPC to help you get starting in your manufacturing career. We run regular Corp fleets to provide Boosts for mining …We are a close group of pilots all with the same interests which makes playing a lot more fun.. Come check us out if your interested we look forwards to flying with you o7
 - Location: High Sec
