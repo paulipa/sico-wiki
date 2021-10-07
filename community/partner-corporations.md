@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-10-03T11:14:19.665Z
+date: 2021-10-07T04:25:42.369Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -104,7 +104,7 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Contact:
 # Null Sec
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
-Fatalix Industries is a null (Geminate) based corporation, and member of Brave Collective. We engage in all aspects of Eve from PVP to Industry and Mining. We have small and large PVP fleets running during all timezones, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
+Fatalix Industries is a null (Pure Blind) based corporation, and member of Brave Collective. We engage in all aspects of Eve from PVP to Industry and Mining. We have small and large PVP fleets running during all timezones, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
 - Location: Null Sec
 - Timezone: US
 - Large Fleet and Small Gang PVP
