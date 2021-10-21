@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T21:38:00.328Z
+date: 2021-10-21T22:37:02.182Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -472,8 +472,8 @@ Ballistic Control System II
 
 5MN Y-T8 Compact Microwarpdrive
 Medium Azeotropic Restrained Shield Extender
-X5 Enduring Stasis Webifier
-X5 Enduring Stasis Webifier
+Stasis Webifier II
+Stasis Webifier II
 
 [Empty High slot]
 Rocket Launcher II, Scourge Rage Rocket
