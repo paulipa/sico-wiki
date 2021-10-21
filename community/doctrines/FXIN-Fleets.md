@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T20:22:14.123Z
+date: 2021-10-21T21:00:59.029Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -415,6 +415,27 @@ Caldari Navy Mjolnir Rocket x550
 Caldari Navy Nova Rocket x400
 Caldari Navy Scourge Rocket x400
 </details>
+<details>
+  <summary>Stiletto - Light Tackle</summary>
+[Stiletto, Fleet Light Tackle]
+F-89 Compact Signal Amplifier
+Overdrive Injector System II
+Small Ancillary Armor Repairer
+
+5MN Quad LiF Restrained Microwarpdrive
+Faint Epsilon Scoped Warp Scrambler
+Warp Disruptor II
+Fleeting Compact Stasis Webifier
+
+Small Ghoul Compact Energy Nosferatu
+[Empty High slot]
+Interdiction Nullifier I
+
+Small Hyperspatial Velocity Optimizer II
+Small Polycarbon Engine Housing II
+
+Nanite Repair Paste x150  
+  </details>
 <details>
   <summary>Vigil Fleet Issue - Dual Web</summary>
 [Vigil Fleet Issue, Vigil Fleet GRIP]
