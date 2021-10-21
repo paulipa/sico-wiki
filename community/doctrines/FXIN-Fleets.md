@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T20:13:51.589Z
+date: 2021-10-21T20:21:41.934Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -468,6 +468,35 @@ Hail S x1000
 Phased Plasma S x2000
 Republic Fleet Phased Plasma S x1000
 </details>
+<details>
+  <summary>Incursus - T2 Fit</summary>
+[Incursus, Incursus - GRIP T2]
+
+Damage Control II
+Magnetic Field Stabilizer II
+Nanofiber Internal Structure II
+Micro Auxiliary Power Core I
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Azeotropic Restrained Shield Extender
+Initiated Compact Warp Scrambler
+
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+Small Processor Overclocking Unit I
+
+
+Warrior II x1
+
+
+Null S x1000
+Void S x1000
+Antimatter Charge S x2000
+Caldari Navy Antimatter Charge S x1000
 <details>
   <summary>Burst - Kevin Grumman Special</summary>
 [Burst, Burst Kevin Special]
