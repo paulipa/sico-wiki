@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T21:08:55.919Z
+date: 2021-10-21T21:26:38.089Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -439,7 +439,7 @@ Nanite Repair Paste x150
   </details>
   <details>
   <summary>Slasher - T1 Light Tackle</summary>
-  [Slasher, Slasher Tackle Alpha]
+[Slasher, Slasher Tackle Alpha]
 
 Damage Control I
 Type-D Restrained Nanofiber Structure
