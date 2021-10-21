@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T20:21:41.934Z
+date: 2021-10-21T20:22:14.123Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -489,14 +489,13 @@ Small EM Shield Reinforcer I
 Small Core Defense Field Extender I
 Small Processor Overclocking Unit I
 
-
 Warrior II x1
-
 
 Null S x1000
 Void S x1000
 Antimatter Charge S x2000
 Caldari Navy Antimatter Charge S x1000
+  </details>
 <details>
   <summary>Burst - Kevin Grumman Special</summary>
 [Burst, Burst Kevin Special]
