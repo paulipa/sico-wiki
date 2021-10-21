@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T21:02:19.802Z
+date: 2021-10-21T21:08:55.919Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -436,6 +436,31 @@ Small Hyperspatial Velocity Optimizer II
 Small Polycarbon Engine Housing II
 
 Nanite Repair Paste x150  
+  </details>
+  <details>
+  <summary>Slasher - T1 Light Tackle</summary>
+  [Slasher, Slasher Tackle Alpha]
+
+Damage Control I
+Type-D Restrained Nanofiber Structure
+
+5MN Y-T8 Compact Microwarpdrive
+Faint Scoped Warp Disruptor
+Medium Azeotropic Restrained Shield Extender
+Stasis Webifier I
+
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+[Empty High slot]
+
+Small Core Defense Field Extender I
+Small Core Defense Field Extender I
+Small Core Defense Field Extender I
+
+Phased Plasma S x600
+Republic Fleet Phased Plasma S x1000
+J5b Enduring Warp Scrambler x1
   </details>
 <details>
   <summary>Vigil Fleet Issue - Dual Web</summary>
