@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-09-05T06:22:25.870Z
+date: 2021-10-21T19:54:48.011Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -378,5 +378,93 @@ Nanite Repair Paste x25
 </details>
 
 
+## GRIP Supplemental Ships
+Joining a GRIP but want to fly something fancier? These are some suggestions! Individaul FCs may not allow these ships in their fleet, so check in advance. Fatalix Industries may hand out some of these ships when we're providing ships for a GRIP.
+<details>
+  <summary>Jaguar - RamJag Heavy Tackle</summary>
+[Jaguar, Jaguar Heavy Tackle]
 
+Assault Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
 
+5MN Y-T8 Compact Microwarpdrive
+Republic Fleet Medium Shield Extender
+Medium Ancillary Shield Booster, Navy Cap Booster 50
+Warp Scrambler II
+Compact Explosive Shield Amplifier
+
+Rocket Launcher II, Inferno Rage Rocket
+Rocket Launcher II, Inferno Rage Rocket
+[Empty High slot]
+[Empty High slot]
+
+Small Kinetic Shield Reinforcer II
+Small Ancillary Current Router II
+
+Hobgoblin II x4
+
+Inferno Rage Rocket x400
+Mjolnir Rage Rocket x400
+Nova Rage Rocket x400
+Scourge Rage Rocket x400
+Navy Cap Booster 50 x50
+Nanite Repair Paste x50
+Caldari Navy Inferno Rocket x400
+Caldari Navy Mjolnir Rocket x550
+Caldari Navy Nova Rocket x400
+Caldari Navy Scourge Rocket x400
+</details>
+<details>
+  <summary>Vigil Fleet Issue - Dual Web</summary>
+[Vigil Fleet Issue, Vigil Fleet GRIP]
+
+Damage Control II
+Nanofiber Internal Structure II
+Ballistic Control System II
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Azeotropic Restrained Shield Extender
+X5 Enduring Stasis Webifier
+X5 Enduring Stasis Webifier
+
+[Empty High slot]
+Rocket Launcher II, Scourge Rage Rocket
+Rocket Launcher II, Scourge Rage Rocket
+
+Small Core Defense Field Extender I
+Small Auxiliary Thrusters II
+Small EM Shield Reinforcer II
+
+Hobgoblin II x3
+
+Inferno Javelin Rocket x200
+Mjolnir Javelin Rocket x200
+Nova Rage Rocket x200
+Scourge Rage Rocket x200
+</details>
+<details>
+  <summary>Rifter T2 Fit</summary>
+[Rifter, Rifter - GRIP T2]
+
+Damage Control II
+Gyrostabilizer II
+Micro Auxiliary Power Core I
+Nanofiber Internal Structure II
+
+5MN Y-T8 Compact Microwarpdrive
+Medium Azeotropic Restrained Shield Extender
+Initiated Compact Warp Scrambler
+
+200mm AutoCannon II, Hail S
+200mm AutoCannon II, Hail S
+200mm AutoCannon II, Hail S
+
+Small EM Shield Reinforcer I
+Small Core Defense Field Extender I
+Small Processor Overclocking Unit I
+
+Hail S x1000
+Phased Plasma S x2000
+Republic Fleet Phased Plasma S x1000
+</details>
