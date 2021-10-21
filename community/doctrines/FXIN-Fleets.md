@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T21:00:59.029Z
+date: 2021-10-21T21:02:19.802Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -418,6 +418,7 @@ Caldari Navy Scourge Rocket x400
 <details>
   <summary>Stiletto - Light Tackle</summary>
 [Stiletto, Fleet Light Tackle]
+
 F-89 Compact Signal Amplifier
 Overdrive Injector System II
 Small Ancillary Armor Repairer
