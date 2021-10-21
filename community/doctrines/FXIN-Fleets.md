@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T19:54:48.011Z
+date: 2021-10-21T20:13:51.589Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -349,7 +349,7 @@ Hornet EC-300 x5
 Nanite Repair Paste x25
 </details>
 <details>
-  <summary>Scythe Logi T1/Alpha</summary>
+  <summary>Scythe - Logi T1/Alpha</summary>
 [Scythe, AB Scythe Alpha]
   
 IFFA Compact Damage Control
@@ -444,7 +444,7 @@ Nova Rage Rocket x200
 Scourge Rage Rocket x200
 </details>
 <details>
-  <summary>Rifter T2 Fit</summary>
+  <summary>Rifter - T2 Fit</summary>
 [Rifter, Rifter - GRIP T2]
 
 Damage Control II
@@ -467,4 +467,26 @@ Small Processor Overclocking Unit I
 Hail S x1000
 Phased Plasma S x2000
 Republic Fleet Phased Plasma S x1000
+</details>
+<details>
+  <summary>Burst - Kevin Grumman Special</summary>
+[Burst, Burst Kevin Special]
+
+Damage Control II
+Micro Auxiliary Power Core I
+Micro Auxiliary Power Core I
+
+5MN Quad LiF Restrained Microwarpdrive
+Small Shield Extender I
+Small F-RX Compact Capacitor Booster, Navy Cap Booster 400
+
+Small S95a Scoped Remote Shield Booster
+Small S95a Scoped Remote Shield Booster
+Medium Ancillary Remote Shield Booster, Navy Cap Booster 50
+
+Small Ancillary Current Router I
+Small EM Shield Reinforcer I
+Small Thermal Shield Reinforcer I
+
+Warrior I x1
 </details>
