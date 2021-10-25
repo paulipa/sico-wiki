@@ -2,7 +2,7 @@
 title: FC's checklist for MQP fleets
 description: 
 published: true
-date: 2021-02-26T09:14:13.872Z
+date: 2021-10-25T18:02:08.430Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T07:20:11.126Z
@@ -28,28 +28,30 @@ Before you even undock there are several things that you should do to make sure 
 ## Pre setup
 As a fleet commander or a fleet commander trainee you need to setup your systems before you can start running fleets.
 
-Make sure you have set up Mumble so that you have command channel keys set up. Guide for setting them up is in here https://www.silentcoalition.com/help-center/mumble/#Setting-up-keybinds
+Make sure that you have a shout key configured in Discord if you have the necessary roles to use it. This can be found in Discord settings under Keybinds. Set the action to "Push to Talk (Priority)" and assign a key that's different than your normal push to talk key. If using Mumble, verify you have the appropriate whisper and shout keys setup.
+
+Verify you're happy with your overview. Make sure all of your tabs are fully setup with various things you may want them to show.
+
+Consider setting up broadcast hotkeys ingame. These can be found in the Eve settings under Shortcuts->Navigation. Align, Warp, and Target shortcuts can be handy in addition to the more common Need Shield/Armor/Cap ones that you may already have setup.
 
 ## A pure GRIP: Fleets & PvP fleet
-A fleet that is only aimed to complete the parts needed for GRIP training is a null sec roaming fleet to Curse/Catch region. It will go through a few low sec gates into a random null sec pocket.
+A fleet that is only aimed to complete the parts needed for GRIP training is a null sec roaming fleet. This can be done by roamining into one of the nearby low sec regions, by using a filament, or getting to null via nearby wormholes. Current closest null sec entry is in Curse.
 
-Distance to final destination is normally around 15 jumps. The whole fleet will take 1-2 hours in total including the training part (one third training and two thirds traveling and fighting)
-
-Current closest null sec entry is in Curse.
+The whole fleet should take 1-2 hours in total including the training part (one third training and two thirds traveling and fighting)
 
 ## Comms
 Select what voice comms you are going to use. In most cases you will be using Discord as it is a bit easier to use. Mumble is used for larger operations or operations where we have multiple fleets out at the sametime.
 
-> Most often you want to use Discord for GRIP: Fleets & PvP fleets
+> Most often you want to use Discord for GRIP: Fleets & PvP fleets. If you plan on using another service like Mumble, be sure to provide advance notice to your fleet so they can configure Mumble in advance.
 {.is-info}
 
 ### Discord
 Make sure all of your members are on discord as this is a requirement for the GRIP fleet. With this we will make sure that the members have activated their discord service.
 
 ### Mumble
-Make sure that all of your fleet members are in mumble. Make also sure that you have set your own keybiddings correctly as described in here: https://www.silentcoalition.com/help-center/mumble/#Setting-up-keybinds
+Make sure that all of your fleet members are in mumble. Make also sure that you have set your own keybiddings correctly
 
-To use Mumble as it is intended to be used you as the commander should sit inside a command channel while your fleet members should sit inside the fleet channel that is linked to your command channel. Each fleet channel has a command channel that is linked to the fleet channel with a similar name (alpha, bravo …). How to use your voice buttons is described in here https://www.silentcoalition.com/help-center/mumble/#Setting-up-keybinds
+To use Mumble as it is intended to be used you as the commander should sit inside a command channel while your fleet members should sit inside the fleet channel that is linked to your command channel. Each fleet channel has a command channel that is linked to the fleet channel with a similar name (alpha, bravo …).
 
 ## Docked at form up station
 In order to not provide possible “hostile” pilots information about our fleet composition a player waiting for a fleet to form up should always be docked up in the form up station.
@@ -77,6 +79,12 @@ Make sure people do not have implants on them. Explain that they can change thei
 > Once you have a jump clone installed you can go to your character sheet by clicking your portrait on the top left of the screen in the neocom menu, go to the character tab, below that you will see jump clones and should be able to jump into your clone.
 
 > The reason we use these jump clones is so that if we get podded we don’t loose our implants, they will be stored safely in your jump clone to pick back up again.
+
+## Ship Readiness Check
+Ask your fleet to verify they have their rigs installed and not in their cargo. Be sure that they also have adequate ammo, drones, and/or cap boosters. 
+
+## Timers and Filaments
+Make sure to remind your fleet not to take ANY aggressive action if you are going to use a filament.
 
 # After Undock
 After you have given the undock command you will be able to cover the next section of the GRIP training phase.
@@ -149,6 +157,8 @@ Explain your members the different route settings. In pvp fleets you most often 
 > you should see a system in your fleet chat highlighted in orange, right click it and select “Set Destination”. Now above the green and red squares you will see the word route with a big A to the left of it, if you left click on the big A it will open a menu, the main things to look at here are prefer shorter and prefer safer route, in your normal travels you will most likely be using prefer safer as it will attempt to avoid low security systems wherever possible, today we will be using prefer shorter since we intend to be in these systems. We will often ask people to allign to the out gate, the outgate is always the yellow gate on your overview, please select the yellow outgate in your overview and allign to outgate.
 
 ## Voice comms
+When speaking in voice comms, always try to speak in the third person. Saying "me" or "I" doesn't work unless everybody knows your voice. GRIP fleets are full of first time participants, so you need to use your own name.
+
 Sometimes when things are heating up and there is a lot of chattering going on it is a good idea to use some of the comms status commands.
 
 > It is mportant that you teach your fleet members about voice comms discipline
@@ -160,9 +170,9 @@ Sometimes when things are heating up and there is a lot of chattering going on i
 
 ## Fleetwarp
 - Warp the fleet to the first gate and explain what just happened
-- Explain why it is important to be aligned when told so – Strugglers are likely to die if a hostile fleet is following your fleet if they are left out from fleet warp or warp slower than the fleet
+- Explain why it is important to be aligned when told so – Stragglers are likely to die if a hostile fleet is following your fleet if they are left out from fleet warp or warp slower than the fleet
 
-> You should have noticed us all warping together, warping as a whole group means that none of us drop behind so can’t be picked off by an enemy as the rest of the fleet are leaving. Now we ant to Hold on the gate, that means we will wait at the gate and not click the jump button, speaking of the word jump… as a fleet member we never want to use the J word, it can easily confuse a large group with a few people having similar voices and leave half your fleet stuck on the wrong side of a gate.
+> You should have noticed us all warping together, warping as a whole group means that none of us drop behind so can’t be picked off by an enemy as the rest of the fleet are leaving. Now we want to Hold on the gate, that means we will wait at the gate and not click the jump button, speaking of the word jump… as a fleet member we never want to use the J word, it can easily confuse a large group with a few people having similar voices and leave half your fleet stuck on the wrong side of a gate.
 
 > if you are unsure of if you should be moving through to the next system the best way to check is to ask your FC for the gate status, the FC can then tell you if the gate is red or green, you should never take a gate when it is red, and should jump a gate on arrival if the gate is green.
 
@@ -260,16 +270,16 @@ Once you are back from low and null sec space and enter the high sec space again
 > (Hitting High Sec) Ok, the last command we will cover today is Free Burn, Free burn means you are free to burn to your destination at the fastest speed you can as fleet warping will always move you at the speed of the slowest ship in the fleet to keep the group together, this means until you hit your destination the fleet will split up. Free burn back to HQ
 
 ## After the fleet
-Give out a fat link. Rename the FAT link as GRIP | `<possible fleet description>` like MQP | Wormhole diving
+Give out a FAT link. Rename the FAT link as GRIP | `<possible fleet description>` like MQP | Wormhole diving
 
-> GRIP fat links must include the phrase GRIP in somewhere in the links name or we can't track it as an GRIP: Fleets & PvP FAT
+> GRIP FAT links must include the phrase GRIP in somewhere in the links name or we can't track it as an GRIP: Fleets & PvP FAT
 {.is-danger}
 
 If you had losses you can SRP the GRIP: Fleets & PvP doctrines. Any other doctrines are up for your own consideration and wallet.
 
 Notify people about our SLTRN military response program and briefly tell it how it works: Make a new account with a buddy invite and create a caldari character in it. Then inject the SP for the doctrines and voila you have a pvp ready char always in the right place with the right skills!
 
-> Now while you guys are on the way back I’ll give you a fat link, fat stands for fleet activity tracker and is used to work out who has been on waht fleets when we are splitting loot or seeing who we need to give out there member status to. if you click this link you will be taken to the SiCo Auth page, select the portrait of your character, it will log your fleet participation and your corp will be able to hand out your new rank.
+> Now while you guys are on the way back I’ll give you a FAT link, FAT stands for fleet activity tracker and is used to work out who has been on waht fleets when we are splitting loot or seeing who we need to give out there member status to. if you click this link you will be taken to the SiCo Auth page, select the portrait of your character, it will log your fleet participation and your corp will be able to hand out your new rank.
 
 > (if, and we hope that one did… a ship in our fleet died) We also on official fleets using doctrine ships will be using the ship replacement program, Here is a SRP link and a link to Zkillboard, you will want to go to Zkilboard, find your death, click on the picture of the ship and copy the URL into the SRP page, when someone with permissions is able they will refund the cost of the ship to your character.
   
