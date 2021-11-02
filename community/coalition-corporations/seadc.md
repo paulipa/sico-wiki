@@ -2,7 +2,7 @@
 title: STRATEGIC EXPLORATION AND DEVELOPMENT CORP [SEADC]
 description: 
 published: true
-date: 2021-11-02T07:00:57.521Z
+date: 2021-11-02T07:01:41.384Z
 tags: entry corporation, joining sico
 editor: markdown
 dateCreated: 2020-07-08T16:30:18.889Z
@@ -46,4 +46,4 @@ As we in SiCO do not have any mandatory operations is it also up to you to decid
 All the services we offer for our members are at your disposal regardless of what your endgame goals are and how much you interact with the rest of the coalition.
 
 ## To join SEADC
-Simply make an application to the corporation!
+Simply make an application to the corporation! Step by step guide for joining us is located in here https://eve-linknet.com/#joining-us
