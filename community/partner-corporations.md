@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-10-07T04:25:42.369Z
+date: 2021-11-08T18:08:39.509Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -133,6 +133,14 @@ A little about the corp, We are a Null Sec based corp whose primary focus is Ind
 - Industry, Mining
 - Making Dank Isk
 - Contact: Xanos Ragnarok, Cresenne Jaterba
+
+## [TEMPLAR.](/community/coalition-corporations/tmp)
+Join like minded people who want to experience all opportunities New Eden has to offer, Gas, Ore and Ice mining, PVE, PVP, make isk but always remember you are the Imperator’s Templar, immortal warrior of the Imperium!
+- Location: Null Sec
+- Timezone: EU
+- Null Sec PvP
+- Null Sec PvE
+- Contact: Renius
 
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
