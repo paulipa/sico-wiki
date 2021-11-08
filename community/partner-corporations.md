@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-11-08T18:08:39.509Z
+date: 2021-11-08T18:20:48.767Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -76,21 +76,6 @@ EVE Rookies [EROOK] Is a Corporation Dedicated to helping New Players find somet
 - Improving New Player Experience (Mentoring Newbies)
 - NPSI/ Public Fleets
 - Contact: Dread Nowt
-## [The Ringing Vale [VLOR]](/community/coalition-corporations/vlor)
-The Ringing Vale is a community focused hi-sec industry, PvE and PvP Defence Corp based in Metropolis space. We offer a wide range of services and events centered on providing corp funded work designed to integrate and maximise players' experience in their playstyle of choice via our department system. Learn to maximize your EVE career with The Ringing Vale!
-IRL comes first, community second. New players and returning vets alike are welcome.
-- Location: High Sec
-- Timezone: US/EU/AU
-- Mining & Industry
-- PvE missions and PvP services
-- Contact: Harnaget Ostus
-## [Horsemen Industries [HRSM]](/community/coalition-corporations/hrsm)
-Horsemen Industries is an Industry focused high sec corp. Always looking for new or returning pilots to join our ranks, We help to achieve steady progression in networth and skill within Eve. 
-- Location: High Sec
-- Timezone: US
-- Industry
-- PVE
-- Contact: Zerocool416
 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
@@ -134,7 +119,7 @@ A little about the corp, We are a Null Sec based corp whose primary focus is Ind
 - Making Dank Isk
 - Contact: Xanos Ragnarok, Cresenne Jaterba
 
-## [TEMPLAR.](/community/coalition-corporations/tmp)
+## [TEMPLAR. [TMP.]](/community/coalition-corporations/tmp)
 Join like minded people who want to experience all opportunities New Eden has to offer, Gas, Ore and Ice mining, PVE, PVP, make isk but always remember you are the Imperator’s Templar, immortal warrior of the Imperium!
 - Location: Null Sec
 - Timezone: EU
