@@ -2,7 +2,7 @@
 title: FXIN Fleet Doctrines
 description: Doctrines used by Fatalix Industries
 published: true
-date: 2021-10-21T22:37:02.182Z
+date: 2021-11-11T06:36:22.456Z
 tags: fxin, fatalix, fatalix industries, doctrines, fleets
 editor: markdown
 dateCreated: 2021-06-19T22:15:15.840Z
@@ -564,4 +564,122 @@ Small EM Shield Reinforcer I
 Small Thermal Shield Reinforcer I
 
 Warrior I x1
+</details>
+
+## FOB Removal
+This doctrine is used for killing FOBs. Fatalix Industries uses a different fit than the official LinkNet fit. It's important to use the correct fit that matches the rest of your fleet. Most FXIN FOB removals will have ships provided to you.
+
+Additionally, we'll usually have some modules available. If possible, it's good to upgrade as much as possible from the minimum fit towards the optimal fit. 
+
+Eos is one per fleet intended only for the FC.
+
+<details>
+  <summary>Myrmidon - Minimum (Alpha Friendly)</summary>
+[Myrmidon, Myrmidon - FXIN FOB Minimum (Alpha)]
+
+Damage Control II
+True Sansha EM Armor Hardener
+True Sansha EM Armor Hardener
+True Sansha Thermal Armor Hardener
+True Sansha Thermal Armor Hardener
+Drone Damage Amplifier II
+
+Denny Enduring Omnidirectional Tracking Link
+Large Compact Pb-Acid Cap Battery
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Drone Link Augmentor I
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+Medium Solace Scoped Remote Armor Repairer
+Medium Solace Scoped Remote Armor Repairer
+
+Medium EM Armor Reinforcer I
+Medium Thermal Armor Reinforcer I
+Medium Remote Repair Augmentor I
+
+Imperial Navy Acolyte x5
+Imperial Navy Infiltrator x5
+Imperial Navy Praetor x5
+
+Standard Mindflood Booster
+
+Nanite Repair Paste x100
+Tracking Speed Script x1
+</details>
+
+<details>
+  <summary>Myrmidon - Optimal</summary>
+[Myrmidon, Myrmidon - FXIN FOB Optimal]
+
+Damage Control II
+True Sansha EM Armor Hardener
+True Sansha EM Armor Hardener
+True Sansha Thermal Armor Hardener
+True Sansha Thermal Armor Hardener
+Drone Damage Amplifier II
+
+Omnidirectional Tracking Link II
+Large Cap Battery II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Drone Link Augmentor II
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+Medium Remote Armor Repairer II
+Medium Remote Armor Repairer II
+
+Medium Remote Repair Augmentor I
+Medium EM Armor Reinforcer I
+Medium Thermal Armor Reinforcer I
+
+Acolyte II x5
+Infiltrator II x5
+Praetor II x5
+
+Standard Mindflood Booster
+
+Nanite Repair Paste x100
+Tracking Speed Script x1
+</details>
+<details>
+  <summary>Eos - FC Ship</summary>
+[Eos, Eos - FC FXIN FOB]
+
+EM Armor Hardener II
+Thermal Armor Hardener II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Omnidirectional Tracking Enhancer II
+Omnidirectional Tracking Enhancer II
+
+Large Cap Battery II
+Cap Recharger II
+Target Painter II
+Target Painter II
+
+Armor Command Burst II, Armor Energizing Charge
+Armor Command Burst II, Rapid Repair Charge
+Centum A-Type Medium Remote Armor Repairer
+Large Remote Capacitor Transmitter II
+Medium Remote Capacitor Transmitter II
+
+Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer I
+
+Infiltrator II x5
+Ogre II x5
+Praetor II x5
+
+Armored Command Mindlink
+
+Armor Energizing Charge x600
+Rapid Repair Charge x600
+Nanite Repair Paste x250
+Standard Mindflood Booster x1
 </details>
