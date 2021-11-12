@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-11-08T18:20:48.767Z
+date: 2021-11-12T16:25:14.971Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -126,6 +126,14 @@ Join like minded people who want to experience all opportunities New Eden has to
 - Null Sec PvP
 - Null Sec PvE
 - Contact: Renius
+
+## [Aegis Reforged [AEGRF]](/community/coalition-corporations/aegrf)
+Aegis Reforged is a Nullsec PvP and industry corporation based in immensea on the front lines of the ongoing Goonswarm vs Panfam conflict.
+- Location: Null Sec
+- Timezone: US
+- Null Sec PvP
+- Industry
+- Contact: Cephelange 
 
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
