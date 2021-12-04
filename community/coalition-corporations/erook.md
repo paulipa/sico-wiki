@@ -2,7 +2,7 @@
 title: Eve Rookies [EROOK]
 description: 
 published: true
-date: 2021-12-04T14:03:49.464Z
+date: 2021-12-04T14:06:21.895Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-06T13:06:57.098Z
@@ -19,6 +19,7 @@ Additionally, Eve Rookies often holds pveVP events in low and null. These fleets
 All of our sanctioned activities are open to Link Net members as well as the general public!
 
 Join Discord: https://discord.gg/X5uYmcdGtQ
+Website: http://everookies.com
 Join Relevant Ingame Channels: 
 - Eve Rookies Public
 - Eve Rookies Incursions
