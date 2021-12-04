@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-11-12T16:25:14.971Z
+date: 2021-12-04T13:14:58.580Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -110,7 +110,7 @@ A primarily industrial corporation who enjoys the benefits of mining and ratting
 - Timezone: Global
 - Industry
 - PvP
-- Contact:
+- Contact: Storytellar Stargazer, Jafner
 ## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
 A little about the corp, We are a Null Sec based corp whose primary focus is Industry and mining, and Multi-boxing! Some of the things we offer!
 - Location: Null Sec
