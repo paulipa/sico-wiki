@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-09-20T09:05:20.711Z
+date: 2021-12-11T10:30:47.764Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -69,45 +69,43 @@ Inherent Implants 'Squire' Power Grid Management EG-602 x1
 </details>
 
 <details>
-  <summary>Ferox Fleet, Ferox Omega</summary>
-You can replace Drone Link Augmentor I with command burst modules if you are an skilled Omega pilot
+  <summary>Ferox Fleet, Ferox Omega V1.2</summary>
   
-[Ferox, Ferox Fleet, Ferox Omega]
-
+[Ferox, Ferox Fleet, Ferox Omega V1.2]
 Damage Control II
-Mark I Compact Reactor Control Unit
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
+Power Diagnostic System II
 
-50MN Microwarpdrive II
-Large Shield Extender II
-Large Shield Extender II
 Multispectrum Shield Hardener II
-Multispectrum Shield Hardener II
-Sensor Booster II
+Large F-S9 Regolith Compact Shield Extender
+50MN Y-T8 Compact Microwarpdrive
+Large F-S9 Regolith Compact Shield Extender
+EM Shield Hardener II
+Small Capacitor Booster II
 
-Drone Link Augmentor II
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
+Drone Link Augmentor I
 250mm Railgun II
 250mm Railgun II
 250mm Railgun II
 
-Medium Core Defense Field Extender I
-Medium Core Defense Field Extender I
-Medium EM Shield Reinforcer I
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
+Medium Thermal Shield Reinforcer II
 
 
 
-Hornet II x5
+Warrior II x5
 
-Javelin M x1000
-ECCM Script x1
-Spike M x1000
-Antimatter Charge M x2740
-Targeting Range Script x1
-Scan Resolution Script x1
+Antimatter Charge M x3000
+Caldari Navy Antimatter Charge M x1000
+Spike M x2000
+Navy Cap Booster 400 x31
+Iron Charge M x1000
+Inherent Implants 'Squire' Power Grid Management EG-602 x1
 </details>
 
 ### Logistics
