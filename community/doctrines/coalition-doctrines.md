@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-12-11T10:30:47.764Z
+date: 2021-12-15T13:29:26.991Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -30,7 +30,7 @@ This doctrine has proper logi to withstand enemy DPS for a longer duration of ti
 ### DPS
 <details>
   <summary>Ferox Fleet, Ferox Alpha V1.2</summary>
-[Ferox, SLTRN Ferox Alpha]
+[Ferox, Ferox Fleet, Ferox Alpha V1.2]
 
 Damage Control II
 Magnetic Field Stabilizer II
