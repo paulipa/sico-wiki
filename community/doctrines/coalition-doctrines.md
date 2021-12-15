@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-12-15T13:29:26.991Z
+date: 2021-12-15T13:30:32.931Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -112,7 +112,7 @@ Inherent Implants 'Squire' Power Grid Management EG-602 x1
 
 <details>
   <summary>Ferox Fleet, Osprey Alpha</summary>
-[Osprey, Ferox Fleet, Osprey Alpha]
+[Osprey, Ferox Fleet, Osprey Alpha V1.2]
 
 Damage Control II
 Power Diagnostic System II
