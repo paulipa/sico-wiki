@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2021-12-04T13:20:22.119Z
+date: 2021-12-21T12:23:24.922Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
@@ -49,6 +49,11 @@ Even if you want to live your Null life as a miner, as a part of Valkyrie Allian
 1. $ Profit $
 
 There is always something for everyone to enjoy. So let’s go forth and dominate New Eden for fun and profit!
+
+# Interested in Joining?
+
+Please join our Discord with this link: https://discord.gg/ArtkzPTjwT 
+Introduce yourself in #public and read the Google Doc in #how-to-join-3gods.
 
 ## For more information please contact one of the following:
 **US and non-EU Timezones:**
