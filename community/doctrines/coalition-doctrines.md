@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-12-15T13:30:32.931Z
+date: 2021-12-25T19:17:59.978Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -978,13 +978,15 @@ Republic Fleet EMP S x1188
 ## Mining Fleet
 Mining doctrines for solo and fleet mining.
 
-> Mining SRP only covers venturers, procurers, skiffs and orcas
+> Ships covered by [mining fleet SRP](/linknet-help-and-guides/mining-fleets#ship-replacement-request) are marked with <i style="color:green;" class="fas fa-file-invoice-dollar"></i> icon
 {.is-info}
 
+
 ### Frigate
+
 <details>
-<summary>Venture, Mining - Frigate - Starter</summary>
-[Venture, Mining - Frigate - Starter]
+<summary>Venture, Mining - Venture 1.0 <i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary> 
+[Venture, Mining - Venture 1.0]
 
 Mining Laser Upgrade I
 
@@ -1005,42 +1007,41 @@ Hobgoblin I x2
 
 ### Barges
 <details>
-<summary>Procurer, Mining - Barge - HS Solo</summary>
-[Procurer, Mining - Barge - HS Solo]
+<summary>Procurer, Mining - Procurer 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
+[Procurer, Mining - Procurer 2.0]
 
 Mining Laser Upgrade II
 Mining Laser Upgrade II
+Damage Control II
 
 Multispectrum Shield Hardener II
-Compact Thermal Shield Hardener
-Kinetic Shield Hardener II
-Medium Shield Extender II
+10MN Y-S8 Compact Afterburner
 
-Modulated Strip Miner II
-Modulated Strip Miner II
+Modulated Strip Miner II, Simple Asteroid Mining Crystal Type B II
+Modulated Strip Miner II, Simple Asteroid Mining Crystal Type B II
 
-Medium Core Defense Field Extender I
-Medium Core Defense Field Extender I
-Medium EM Shield Reinforcer II
+Medium Transverse Bulkhead II
+Medium Transverse Bulkhead II
+Medium Transverse Bulkhead II
+
 
 Hobgoblin II x5
-Hornet EC-300 x5
+Infiltrator II x5
+Mining Drone II x5
 </details>
 
 ### Exhumers
 <details>
-<summary>Skiff, Mining - Exhumer - HS Solo</summary>
-[Skiff, Mining - Exhumer - HS Solo]
-
+<summary>Skiff, Mining - Skiff 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
+[Skiff, Mining - Skiff 2.0]
 Damage Control II
-Mining Laser Upgrade II
+Power Diagnostic System II
 Mining Laser Upgrade II
 
-Thermal Shield Amplifier II
-Kinetic Shield Amplifier II
-Medium Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
+Thermal Shield Hardener II
+Large F-S9 Regolith Compact Shield Extender
 
 Modulated Strip Miner II
 Modulated Strip Miner II
@@ -1048,43 +1049,47 @@ Modulated Strip Miner II
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
-Hobgoblin II x5
-Salvage Drone I x5
-Mining Drone II x5
-Hornet EC-300 x5
+
+
+Hobgoblin II x10
+Mining Drone II x10
+
+Simple Asteroid Mining Crystal Type B II x2
 </details>
 
 ### Boosters
 <details>
-<summary>Porpoise, Mining - Booster - Omega</summary>
-[Porpoise, Mining - Booster - Omega]
-
+<summary>Porpoise, Mining - Porpoise 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
+[Porpoise, Mining - Porpoise 2.0]
 Damage Control II
-Power Diagnostic System II
+Reinforced Bulkheads II
 
+Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 Large Shield Extender II
 Large Shield Extender II
-Multispectrum Shield Hardener II
 
+Shield Command Burst II
 Mining Foreman Burst II
-Mining Foreman Burst II
 
-Medium Core Defense Field Extender I
-Medium Drone Mining Augmentor II
-Medium Drone Mining Augmentor I
+Medium Transverse Bulkhead II
+Medium Transverse Bulkhead II
+Medium Transverse Bulkhead II
 
-Acolyte II x10
-Infiltrator II x5
-Mining Drone II x5
-Mining Laser Field Enhancement Charge x600
-Mining Laser Optimization Charge x600
-Shield Harmonizing Charge x600
+
+
+Warrior II x10
+Mining Drone II x10
+Salvage Drone I x5
+
+Shield Extension Charge x3300
+Mining Laser Optimization Charge x3300
+Mining Equipment Preservation Charge x3000
 </details>
   
 <details>
-<summary>Orca, Mining - Booster - Omega</summary>
-[Orca, Mining - Booster - Omega]
+<summary>Orca, Mining - Orca 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
+[Orca, Mining - Orca 2.0]
 
 Damage Control II
 Reinforced Bulkheads II
@@ -1095,28 +1100,29 @@ EM Shield Hardener II
 Multispectrum Shield Hardener II
 Thermal Shield Hardener II
 
-Medium Remote Shield Booster II
-Medium Remote Shield Booster II
+Drone Link Augmentor II
+Small Tractor Beam I
+Large Industrial Core II
+Shield Command Burst II, Shield Extension Charge
 Mining Foreman Burst II
 Mining Foreman Burst II
-Shield Command Burst II
-Shield Command Burst II
 
 Large Transverse Bulkhead II
 Large Transverse Bulkhead II
-Large Command Processor I
+Large Transverse Bulkhead II
 
-Hobgoblin II x5
-Hornet EC-300 x5
+
+Hornet EC-300 x10
 Medium Shield Maintenance Bot II x5
 Mining Drone II x5
 Salvage Drone I x5
-Warrior II x5
-Warrior II x5
+Warrior II x10
+
+
 Mining Laser Field Enhancement Charge x3001
 Mining Laser Optimization Charge x3001
 Shield Extension Charge x3001
-Shield Harmonizing Charge x3000
+Heavy Water x50000
 </details>
 
 
