@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-12-25T19:21:31.298Z
+date: 2021-12-25T19:24:05.440Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1034,6 +1034,7 @@ Mining Drone II x5
 <details>
 <summary>Skiff, Mining - Skiff 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
 [Skiff, Mining - Skiff 2.0]
+  
 Damage Control II
 Power Diagnostic System II
 Mining Laser Upgrade II
@@ -1061,6 +1062,7 @@ Simple Asteroid Mining Crystal Type B II x2
 <details>
 <summary>Porpoise, Mining - Porpoise 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
 [Porpoise, Mining - Porpoise 2.0]
+
 Damage Control II
 Reinforced Bulkheads II
 
