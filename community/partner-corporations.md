@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-12-04T13:14:58.580Z
+date: 2021-12-30T00:40:21.766Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -55,14 +55,8 @@ Offer solo pvp srp, and eagle/cerb/scimitar pilots have 100m/month salary. Nulls
 - PvE ratting
 - PvP 
 - Contact:
-## [Snuggle Society [SNUGG]](/community/coalition-corporations/snugg)
-We at Snuggles spend our time hunting. We hunt highsec for that fat loot to plunder. We hunt low/null blopsing around and commiting random.acts of murder as we can find them.
-- Location: High Sec
-- Timezone: AUS
-- Hauler/Freightor and Incursion/Mission runner ganking
-- Low/Null hunting and Blops 
-- Contact:
-## [Control Monkeys [CT.M.]](/community/coalition-corporations/ctm)
+
+## [Control Monkeys [CT.M.] currenlty inactive](/community/coalition-corporations/ctm)
 We are a new player friendly, High sec mercenary corporation,  with an aim to teach players how to become efficient fighters and to help them become rich through pvp.
 - Location: High Sec
 - Timezone: EU
@@ -134,6 +128,14 @@ Aegis Reforged is a Nullsec PvP and industry corporation based in immensea on th
 - Null Sec PvP
 - Industry
 - Contact: Cephelange 
+
+## [Snuggle Society [DONP]](/community/coalition-corporations/snugg)
+We at Snuggles spend our time hunting, be that in highsec when we are bored wanting to get that juicy loot pop or where we are currenlty focused out in null looking to drop blops and dreads on our poor neighbors.
+- Location: NPC Null Sec
+- Timezone: AUS
+- Capital War, Blops Funzies
+- Low/Null hunting and yeeting
+- Contact: Don Purple
 
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
