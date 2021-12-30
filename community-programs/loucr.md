@@ -2,21 +2,26 @@
 title: Loud Crew [LOUCR]
 description: 
 published: true
-date: 2020-09-16T15:03:17.843Z
+date: 2021-12-30T00:26:11.571Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T15:31:35.738Z
 ---
 
-Loud Crew [LOUCR] is a special interest department for the SiCO members. It is designed to protect our high sec sovereignty against entities that are not war eligible. To do this the members of this corporations are committing themselves in criminal activities.
+Institute of the Dark Arts [-BONK] is a special interest group for SiCO members. It is designed to educate members on some of the darker aspects of eve online be that ganking, baiting, stealing, or going full murderhobo on folks trying to quietly mine the space you see as yours. 
 
-> As criminal actions in High Sec Space ruin your security standing the characters in LOCRE are recommended to be alts that have been created purely for this purpose.
+To do this the members of this corporations are committing themselves in criminal activities and will be subject to those reprocussions.
+
+> As criminal actions in High Sec Space ruin your security standing the characters in -BONK are recommended to be alts that have been created purely for this purpose.
 {.is-info}
 
-A lot what we use in LOUCR is already used in CODE. We highly recommend that you read the following guides for ganking at their page: http://www.minerbumping.com/p/blog-page.html
+A lot what we use in -BONK has already been used before, the methods are tried and true. We highly recommend that you read the following guides for ganking at the old minerbumping page: http://www.minerbumping.com/p/blog-page.html
 
-# Guide for creating LOUCR alt
-The process of creating an alt for LOUCR is very similar to the SLTRN war corporation alt with the exception that LOUCR alts mainly need to fly one ship where SLTRN alts needs to have a wider variety of skills.
+# Guide for creating a -BONK alt
+The process of creating an alt for Institute of the Dark Arts is very similar to the SLTRN war corporation alt besides one exception!
+
+>To be accpeted into the corporatoin and start recieving free ships to go about your murdo hobo ways you will either need a reference or to include a killmail of a solo gank kill in your application be that via mail or in the application itself.
+{.is-info}
 
 ## Creating the account
 The following steps will get you into your very own 500 dps ganking catalyst, made famous by CODE.
@@ -25,8 +30,8 @@ The following steps will get you into your very own 500 dps ganking catalyst, ma
 1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=dbb7443d-c7b0-4133-92ce-58d6165c71bd
 1. Create a new account and activate it.
 1. Next you want to create a gallente character.
-1. Make an ingame application to the Loud Crew [LOUCR] corporation
-1. Join to the Special Interest: Ganking & Piracy on AUTH or click the following link to join the group https://auth.silentcoalition.com/group/request_add/89
+1. Make an in game application to Institute of the Dark Arts [-BONK] corporation
+1. Join to the SIG Piracy on AUTH or click the following link to join the group https://auth.silentcoalition.com/group/request_add/89
 
 ## Injecting Skills
 Now we will use the skill point pack that you got from the buddy invite to inject you directly into the ship. You need to do 0 seconds of your own training.
@@ -56,7 +61,7 @@ Now we will use the skill point pack that you got from the buddy invite to injec
 
 3. You are now able to fly the T2 fitted catalyst that reaches over 500 DPS
 
-## Life in LOUCR
-LOUCR characters are really good only for one thing, which is ganking. We will be mainly focusing on ganking entities that are using our services in high sec space without committing to the coalition. So this is mainly neutral miners in our moon belts.
+## Life in -BONK
+-BONK characters are really good only for one thing, which is going full murderhobo. We have several different ways to go about this be it solo small stuff or big freightor ganks. Your characters in -BONK will end up on numerous lists and become hated by most people around you HOW FUN!
 
-You will be able to pick up ships from the corporation HQ hangar in our HQ system (Audaerne) and gank any player who is not blue to you. The primary goal is to maintain order in our high sec operating systems.
+You will be able to pick up ships from the corporation  hangar in any number of our staging systems and gank any player who is not blue to us. The primary goal is to see exactly how much you can burn down around you and even make a profit off of :)
