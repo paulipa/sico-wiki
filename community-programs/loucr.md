@@ -2,7 +2,7 @@
 title: Institute of the Dark Arts [-BONK]
 description: 
 published: true
-date: 2021-12-30T01:19:33.294Z
+date: 2021-12-30T02:09:24.185Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T15:31:35.738Z
@@ -20,7 +20,7 @@ A lot what we use in -BONK has already been used before, the methods are tried a
 # Guide for creating a -BONK alt
 The process of creating an alt for Institute of the Dark Arts is very similar to the SLTRN war corporation alt besides one exception!
 
->To be accpeted into the corporatoin and start recieving free ships to go about your murdo hobo ways you will either need a reference or to include a killmail of a solo gank kill in your application be that via mail or in the application itself.
+>To be accpeted into the corporatoin and start recieving free ships to go about your murdo hobo ways you will either need a reference or to include a killmail of a solo gank kill in your application be that via mail or in the application itself. You will be reinbursed up to 15m isk for this endeavor.
 {.is-info}
 
 ## Creating the account
