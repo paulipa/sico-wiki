@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-02-28T10:16:27.973Z
+date: 2021-12-30T00:08:25.492Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -45,8 +45,8 @@ The community offers a Ship Replacement program that is designed to help our new
 # Community Programs
 The community programs are open programs for any community members that will help them forwards towards different goals in EVE. These programs are designed to help you achieve goals that might be hard to do without guidance.
 
-## [Loud Crew Ganking Squad](/community-programs/loucr)
-Ganking special interest group
+## [Institute of the Dark Arts](/community-programs/loucr)
+Piracy special interest group. Learn all the fun interesting things in the dark side of Eve Online.
 
 ## [Fleet Activity Tracking](/community-programs/fleet-activity-tracking)
 Tracking your fleet participation
