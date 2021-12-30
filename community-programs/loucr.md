@@ -2,7 +2,7 @@
 title: Institute of the Dark Arts [-BONK]
 description: 
 published: true
-date: 2021-12-30T00:27:08.774Z
+date: 2021-12-30T01:19:33.294Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T15:31:35.738Z
@@ -27,7 +27,7 @@ The process of creating an alt for Institute of the Dark Arts is very similar to
 The following steps will get you into your very own 500 dps ganking catalyst, made famous by CODE.
 
 
-1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=dbb7443d-c7b0-4133-92ce-58d6165c71bd
+1. Use a buddy invite of your own by making on in here https://www.eveonline.com/recruit or alternatively you can use the buddy invite created by us: https://www.eveonline.com/signup?invc=4ae81f42-af67-488b-9e84-6cf4530d1db3
 1. Create a new account and activate it.
 1. Next you want to create a gallente character.
 1. Make an in game application to Institute of the Dark Arts [-BONK] corporation
