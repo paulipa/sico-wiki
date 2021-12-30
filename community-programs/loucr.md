@@ -1,8 +1,8 @@
 ---
-title: Loud Crew [LOUCR]
+title: Institute of the Dark Arts [-BONK]
 description: 
 published: true
-date: 2021-12-30T00:26:11.571Z
+date: 2021-12-30T00:27:08.774Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T15:31:35.738Z
