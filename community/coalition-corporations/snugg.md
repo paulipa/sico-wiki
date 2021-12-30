@@ -1,8 +1,8 @@
 ---
-title: Snuggle Society [SNUGG]
+title: Snuggle Society [-DONP]
 description: 
 published: true
-date: 2021-12-30T00:43:15.782Z
+date: 2021-12-30T00:43:26.798Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-15T07:05:42.564Z
