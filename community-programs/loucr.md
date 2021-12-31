@@ -2,7 +2,7 @@
 title: Institute of the Dark Arts [-BONK]
 description: 
 published: true
-date: 2021-12-30T02:09:24.185Z
+date: 2021-12-31T18:52:54.585Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T15:31:35.738Z
@@ -31,7 +31,7 @@ The following steps will get you into your very own 500 dps ganking catalyst, ma
 1. Create a new account and activate it.
 1. Next you want to create a gallente character.
 1. Make an in game application to Institute of the Dark Arts [-BONK] corporation
-1. Join to the SIG Piracy on AUTH or click the following link to join the group https://auth.silentcoalition.com/group/request_add/89
+1. Join to the SIG Piracy on AUTH or click the following link to join the group https://auth.eve-linknet.com/groups/
 
 ## Injecting Skills
 Now we will use the skill point pack that you got from the buddy invite to inject you directly into the ship. You need to do 0 seconds of your own training.
