@@ -2,25 +2,18 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2021-06-07T21:39:03.815Z
+date: 2022-01-04T15:06:21.524Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
 ---
 
-# Mining Fleets
-Upon joining one of the LinkNet partner corporations or by gaining an allied status you will be given the chance to benefit from our mining boosting system. 
+Standing mining fleets are up 27/7 and provide multipe benefits for you compared to solo mining. Any pilot who belongs to any of our partner corporations is able to join the standing mining fleet.
+- Mining boost
+- Mining coodination
+- Replaces for gank losses
 
-The community has several Mining Boosters capable of boosting our miners with up to 70% efficiency and raising mining fleets almost at any given time! All of the boosters are volunteers willing to make your mining a more enjoyable and profitable experience.
-
-## What is boosting and how does it work?
-Boosters in EVE (known as buffers in some MMOS) are players who are flying ships that are capable of fitting and using command burst modules. There are two different types of command bursts: mining and warfare. When loaded with ammunition these modules are able to increase the stats of the other players. In order for the other players to receive the boost two conditions will need to be filled: the players must be in the same fleet and they must be within the range of the command burst.
-![mining-commabd-burst-440x400.jpg](/mining-commabd-burst-440x400.jpg =300x)
-
-> Command burst modules do not stack. For this reason only the strongest boost of each kind in fleet counts if there are several boosters on the same are of effect
-{.is-info}
-
-## Fleet system
+# EVE Online Fleet System
 The fleeting system in EVE is a game mechanism that makes it easier to maneuver several players at the same time, provide fleet broadcasts and boost the other fleet members. Fleets can be created at any time for any reason by any pilots. Different settings are used to allow different access types for other players to the fleet.
 
 A fleet can only have one boss who determines he access settings and is able to change the MOTD message of the fleet. Besides the boss there can be several players in commander positions that are able to manipulate the players below them.
@@ -30,10 +23,17 @@ A fleet has three different layers in it but not all of them have to be used. On
 
 When creating a new fleet the fleet only contains the minimum setup to host one squad of members which is: One fleet commander, one wing commander and one squad commander the member squad. The player holding the fleet boss status is able to create more wings and squads if needed.
 
-# LinkNet Mining Fleets
+## Fleet boosting / fleet links
+Boosters in EVE (known as buffers in some MMOS) are players who are flying ships that are capable of fitting and using command burst modules. There are two different types of command bursts: mining and warfare. When loaded with ammunition these modules are able to increase the stats of the other players. In order for the other players to receive the boost two conditions will need to be filled: the players must be in the same fleet and they must be within the range of the command burst.
+![mining-commabd-burst-440x400.jpg](/mining-commabd-burst-440x400.jpg =300x)
+
+> Command burst modules do not stack. For this reason only the strongest boost of each kind in fleet counts if there are several boosters on the same are of effect
+{.is-info}
+
+# LinkNet Standing Mining Fleet
 LinkNet mining fleets have a standard setup so that it is easy for you to get into them and understand where and how they are operating.
 
-## What Boost am I getting?
+## Mining Boosts
 The type of boost and its efficiency depends on the modules fitted on the boosting ship and the skill level of the booster. While most of the official Industry Commanders are all using our standard boosting fit and have the best possible skills for boosting you need to keep in mind that as it takes a long time to train up all of the boosting skills some of the boosters might not have yet the time to max all of their skills.
 
 While in a LINE Mining fleet you will be receiving the following boost:
@@ -41,10 +41,10 @@ While in a LINE Mining fleet you will be receiving the following boost:
 - `Mining Laser Optimization` – Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters – Maximum Bonus -40.4%
 - `Mining Equipment Preservation` – Reduces volatility of mining crystals (the speed they break down) – Maximum Bonus -40.4%
 
-## How to join the LN Mining fleet
+## Joining the standing fleet
 There are three different ways for you to join a fleet. In order for you to be able to see and join a fleet without someone inviting you to it you will need to match the criteria set by the fleet boss. Since all the Mining Boosters in LinkNet have all of the community partner corporations (and the members in these corporations) set to be able to access and see the fleets by default there should be no problems for you to see any of the mining fleets, if there are any online.
 
-### Using Fleet Up tool
+### Fleet up tool
 1. Open the agency window (alt-M) and click on the fleet up tab
 ![fleet_up.jpg](/fleet_up.jpg =600x)
 2. Find `LinkNet Mining Fleet` or `LinkNet Public Mining Fleet` depending on the fleet type we have up. 
@@ -54,7 +54,7 @@ There are three different ways for you to join a fleet. In order for you to be a
 3. Click on the request to join button to join the fleet
 ![request_to_join.jpg](/request_to_join.jpg =600x)
 
-### Using Fleet Finder
+### Fleet finder window
 The easiest way for you to see any fleets available for you is to use the fleet finder window. You can only see the fleets that you are able to join by yourself in this window. If the fleet boss has incorrect settings or you are not on their “access list” for some reason there might be a fleet up and you would not see it in here.
 
 1. Click on the E on top of your Neocom or press §
@@ -70,19 +70,27 @@ Sometimes the mining fleet may be linked in the Eve LinkNet Partners channel MOT
 ### Direct Invite
 The only way for you to join a fleet that you can’t see in the fleet finder is for someone to directly invite you to it. Each player in the fleet is able to invite players directly in to the positions below their own position. The easiest way for a commander to do this is to drag and drop the name of the player from a chat window to the desired position. When you receive a direct invite a pop-up window will appear. You only have 120 seconds to accept this invitation or the invitation expires. The pop-up will remain on your screen until you close it or try to accept it but if the invitation has expired you will not be able to join the fleet.
 
+# Operating in the standing mining fleet
+This section will explain you the basics of operating as a member of the standing mining fleet. All players who are taking part in the standing mining fleet should follow the procedures explained in the following sections.
+
+By following the procedures you will be eligible for ship replacements as well as make sure each miner in the fleet is threated equally.
+
 ## How to receive the boost and find your fleet
 Once you have joined a fleet a new chat window and a fleet window will open. You will be using these windows to move yourself to the locations where the fleet is at and to receive the mining boost.
 
-In most LN Mining fleets the booster is sitting in the highest possible position and is holding the boss start for the fleet. Since the booster has to be located where the mining is happening the easiest way to find your fleet members is to right click on the fleet commander in the fleet window and pressing warp to member.
+In most Mining fleets the booster is sitting in the highest possible position and is holding the boss start for the fleet. Since the booster has to be located where the mining is happening the easiest way to find your fleet members is to right click on the fleet commander in the fleet window and pressing warp to member.
 
-If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster! Most of the LN fleets operates in Ronne or Jarkkolen as long as there is ores to be mined.
+If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster!
 
 After landing on the fleet you can start mining while remaining inside the range of the command burst ship. The best way to do this is to keep orbiting the command ship at range. Each minute the ship will send out an area of effect burst that will boost your mining attributes. Once your ore hold is full you simply empty it and repeat the steps.
 
-> All miners who are on the mining fleets should be on voice comms! This is to alert them for incoming gankers or criminals in space. As an open community we do have neutral alts from spies and gankers in our corporations who will also be able to join these fleets and provide information for their own groups. For this reason always pay attention when you are playing EVE as you should do in any situation.
-{.is-warning}
+## Standing fleet voice comms
+The standing fleet uses a dedicated voice chat channel on our discord server. When you are mining in the standing fleet you should join the `Standing Fleet` channel located under the public voice channels.
 
-Using our [buyback system](/tools/buyback) is the fastest and almost always the most profitable way of selling your ores
+Voice comms are mainly used to inform you of incoming hostiles and you do not have to talk in there unless you want to.
+
+> Beeing on voice comms is a requirement to be eligible for SRP due to gank losses.
+{.is-warning}
 
 ## No fleets online: Asking for a fleet
 There are a few places where you can ask for people to raise mining fleets in case there are none online (aka. Visible on the fleet finder). You should always first seek to find fleets within the coalition and only after that fleets that are raised by our allied players.
@@ -98,6 +106,32 @@ After registering and authenticating on [discord](/tools/communication/discord) 
 ### Eve LinkNet Partners chat
 If you do not want to use discord for some reason or happen to see a Industry Commander online in Eve LinkNet Partners you can try to ask in there for them to raise a fleet. However the disadvantage in this compared to discord is that the players holding the role are not getting a notification for this and the message could easily scroll away. The second downside is that the players might be simply AFK or doing something else on some other accounts.
 
+## CONCORD pre spawning
+Miners have always been a target for gankers. As moon mining is only possible in 0.5 security status systems and bellow it means that a well fitted ganker or two can easily take down a mining ship in time.
+
+### How CONCORD units work
+You can and should always pre spawn CONCORD at the location where the mining fleet is operating. Each pre spawned concord will instantly take down any gankers within its range of less than 150 km. If the CONCORD is 150km away from you or more it will take it the default time for them to land on you to help you!
+
+Each criminal activity in high sec space will be responded by one CONCORD units. This means that for one ganker one unit will spawn and for 50 gankers 50 units will spawn.
+
+If you have pre spawned one CONCORD unit on grid with you and you get ganked by two gankers then the other ganker will be destroyed instantly while the other ganker will have the 20 seconds until a CONCORD unit is spawned on them in a 0.5 sec system. This means adding more CONCORD units on grid with you will increase your odds of surviving a gank.
+
+### How to spawn CONCORD units
+The only way to spawn CONCORD at a location is to commit a criminal activity at that location. As commiting such activities will decrease your security standing it is not recommended to do these activities with your main character.
+
+Instead you and the other members of the standing mining fleet should organize the use of alt characters to spawn multiple CONCORD units at the current mining location. To do this:
+- Make an alpha character or an character you do not normally use on your omega account character slot
+- Take the rookie ship from any station
+- Warp to the mining fleet location
+- When all of the alts are on grid at the locations where you want to have concord units set your safety to red and shoot at something one time.
+- Concord will spawn at your location and kill your alt
+- CONCORD is now there to protect your miners
+
+### Moving a prespawned CONCORD
+Once CONCORD has been prespawned at your mining location it can also be moved to another location by following the same methods as mentioned earlier. If somewhere in a system someone commits a criminal act the CONCORD that has been prespawned in the system will warp to them.
+
+If you have prespawned CONCORD on your mining grid it also means gankers are forced to move them away from you before they can gank you. This will give you an clear warning that a gank is about to happen. In that case either respawn the CONCORD back or warp to safety.
+
 ## Ship Replacement Request 
 Sometimes you lose your ship and that is perfectly normal in EVE. To try to avoid this you should follow the guidelines we have set in here for the standard mining fleet:
 - Do not AFK mine
@@ -105,13 +139,14 @@ Sometimes you lose your ship and that is perfectly normal in EVE. To try to avoi
 - Use the doctrine Venture, Procurer, Skiff or Orca with proper fitting
 - Warp out when you see a lot of bad standing players log in or when they are reported for warping in
 - Mine at the official fleet location
+- Have CONCORD prespawned
 
 If despite these steps you lose your ship to a very well organized gank, then it is not your fault. In situations like this you can request for SRP.
 
-> Mining SRP covers losses for ganks in high sec space at the official LINE mining fleet location for players who are in the mining fleet.
+> Mining SRP covers losses for ganks in high sec space at the official mining fleet location for players who are in the mining fleet.
 {.is-info}
 
-To get SRP you will need to ask your fleet commander (taken that its an official SiCO Mining fleet with a proper booster as the boss) to create you a SRP link.
+If you have followed all the rules you may apply for SRP on our AUTH in the general mining SRP https://auth.eve-linknet.com/ship-replacement/srp-link/2PITnmQHWhNVL9KP/view-srp-requests/
 
 ## Belt Tracking
 Once a normal asteroid belt has been mined empty you can use the belt tracking tool found on AUTH to update the status https://auth.eve-linknet.com/belttracker/
