@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2021-12-30T00:40:21.766Z
+date: 2022-01-04T06:51:59.733Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -122,12 +122,12 @@ Join like minded people who want to experience all opportunities New Eden has to
 - Contact: Renius
 
 ## [Aegis Reforged [AEGRF]](/community/coalition-corporations/aegrf)
-Aegis Reforged is a Nullsec PvP and industry corporation based in immensea on the front lines of the ongoing Goonswarm vs Panfam conflict.
+Aegis Reforged is an emerging Nullsec PvP and industry corporation based in immensea. We mine, build, sell, hunt and destroy to fuel the circle of life in New Eden. Being in one of the most hotly contested regions of space, our team of veterans from all walks of life have no shortage of experience and content to share. Have you got what it takes to thrive on the front lines?
 - Location: Null Sec
-- Timezone: US
+- Timezone: US/EU/AU
 - Null Sec PvP
 - Industry
-- Contact: Cephelange 
+- Contact: Cephelange du'Krewiq
 
 ## [Snuggle Society [DONP]](/community/coalition-corporations/snugg)
 We at Snuggles spend our time hunting, be that in highsec when we are bored wanting to get that juicy loot pop or where we are currenlty focused out in null looking to drop blops and dreads on our poor neighbors.
