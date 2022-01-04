@@ -2,7 +2,7 @@
 title: Public Blueprints
 description: 
 published: true
-date: 2022-01-03T19:01:08.210Z
+date: 2022-01-04T19:44:33.839Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:26:58.839Z
@@ -23,7 +23,7 @@ All the original blueprints and the majority of the blueprint copies are stored 
 ## Access Requirements
 - Have a character inside our [high sec entry corporation](https://wiki.eve-linknet.com/community/coalition-corporations/seadc). You may also place a dedicated alt in the corporation for accessing the blueprint library.
 - Attend a [General Rookie Introduction Program](https://wiki.eve-linknet.com/en/community-programs#general-rookie-introduction-program-grip) fleet or class
-- Have your member title given for you
+- Have your member title given for you by mailing `Ikarus Cesaille` after completing your GRIP fleet
 
 After you meet the above requirements you then need to be located at the station where the blueprints are located or have enough levels in `Scientific Networking skill`, which allows you to install jobs from remote locations. 
 
