@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2021-03-08T06:09:19.653Z
+date: 2022-01-04T14:40:26.566Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -33,10 +33,8 @@ Upwell Structures or citadels are player-built and controlled stations with a va
 ## [Refining Service](/linknet-help-and-guides/highend-refining)
 May you be a miner looking to sell his/her ores in a more friendly form or a manufacturer that needs his ores to be refined in order to manufacture some fancy stuff refining is the only way to go. Training for a perfect refiner takes a long long time not to mention you need the correct facilities to max out your refining yield. To max out all refining skills for each ores takes roughly a year. This is where we will step in!
 
-## [Mining Fleets](/linknet-help-and-guides/mining-fleets)
-Upon joining one of the LinkNet partner corporations or by gaining an allied status you will be given the chance to benefit from our mining boosting system.
-
-The community has several Mining Boosters capable of boosting our miners with up to 70% efficiency and raising mining fleets almost at any given time! All of the boosters are volunteers willing to make your mining a more enjoyable and profitable experience.
+## [Standing Mining Fleets](/linknet-help-and-guides/mining-fleets)
+All LinkNet partner corporations are eligible to join our standing mining fleets. The mining fleets are up 27/7 and provide multiple benefits for you compared to solo mining such as mining boost and SRP for ship losses.
 
 ## [Public Blueprints](/linknet-help-and-guides/public-blueprints)
 Amongst many other things LinkNet offers services for manufacturers. The primary service for manufacturers is called public BPO system. What it means in practice is that the coalition has bought a variety of original blueprints with the funds that we have made and locked them down in designated research systems. When a blueprint is locked down it means that it can be used by all the members that have the required role to view the corporation hangar but it is not possible to remove or move the BPO at all which will prevent any undesired theft.
