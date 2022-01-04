@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2022-01-04T14:40:26.566Z
+date: 2022-01-04T14:41:57.244Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -36,8 +36,8 @@ May you be a miner looking to sell his/her ores in a more friendly form or a man
 ## [Standing Mining Fleets](/linknet-help-and-guides/mining-fleets)
 All LinkNet partner corporations are eligible to join our standing mining fleets. The mining fleets are up 27/7 and provide multiple benefits for you compared to solo mining such as mining boost and SRP for ship losses.
 
-## [Public Blueprints](/linknet-help-and-guides/public-blueprints)
-Amongst many other things LinkNet offers services for manufacturers. The primary service for manufacturers is called public BPO system. What it means in practice is that the coalition has bought a variety of original blueprints with the funds that we have made and locked them down in designated research systems. When a blueprint is locked down it means that it can be used by all the members that have the required role to view the corporation hangar but it is not possible to remove or move the BPO at all which will prevent any undesired theft.
+## [Blueprint Library](/linknet-help-and-guides/public-blueprints)
+Thousands of blueprints and copies that are free for anyone to use for any purposes. If you are unable to access the blueprints yourself you can also order them from our online library.
 
 # Basic Operation Manuals
 
