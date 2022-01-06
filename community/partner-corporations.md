@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-01-06T12:17:55.822Z
+date: 2022-01-06T16:20:07.501Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -135,6 +135,14 @@ We at Snuggles spend our time hunting, be that in highsec when we are bored want
 - Timezone: AUS
 - Capital War, Blops Funzies
 - Low/Null hunting and yeeting
+- Contact: Don Purple
+
+## [Stain Train [W00--]](/community/coalition-corporations/w00)
+Are you looking for a newb friendly/old school no BS/no Drama kinda group? We live in NPC null and expect you to show an effort to be out here with us. Our Focus is USTZ with a dash of AUTZ in there.
+- Location: Null Sec
+- Timezone: US
+- PVP, Black Ops
+- Capital Warfare, Industry
 - Contact: Don Purple
 
 # Wormholes
