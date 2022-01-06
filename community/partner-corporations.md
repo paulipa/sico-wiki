@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-01-04T06:51:59.733Z
+date: 2022-01-06T12:17:33.969Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -191,3 +191,14 @@ Invite only PvP corporation that hosts PvP operations. Easiest way to get to kno
 - Russian
 ## [People Mountain People Sea[PMPS]](/community/coalition-corporations/pmps)
 - Chinese
+
+# SIG Corporations
+Sig corporations are created for a set purpose inside the community. Each corporation in this category has a related program for them in the community.
+
+[Defence Against The Dark Arts[SLTRN]](https://wiki.eve-linknet.com/community-programs/war-response-program)
+- War Response Program
+
+[Institute of the Dark Arts [-BONK]](https://wiki.eve-linknet.com/community-programs/loucr)
+- High Sec Gank Program
+
+
