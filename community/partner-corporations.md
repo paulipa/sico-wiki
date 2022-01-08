@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-01-06T16:20:07.501Z
+date: 2022-01-08T21:52:48.618Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -82,14 +82,6 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - PVP
 - Contact:
 # Null Sec
-## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
-Fatalix Industries is a null (Pure Blind) based corporation, and member of Brave Collective. We engage in all aspects of Eve from PVP to Industry and Mining. We have small and large PVP fleets running during all timezones, with generous SRP (Ship Replacement Program). We're happy to integrate people who are new to null.
-- Location: Null Sec
-- Timezone: US
-- Large Fleet and Small Gang PVP
-- Null PVE (ratting / explo / etc...)
-- Moon Mining
-- Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
 ## [Iron Solaris[ENVOI]](/community/coalition-corporations/envoi)
 Iron Solaris is an Australian based PvP corporation, based in Nullsec, with a  higfhsec prescence. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
 - Location: Nullsec + Highsec
@@ -168,6 +160,15 @@ Nevermore. is an english-speaking wormhole corporation. If you are interested in
 - Wormhole PVE & PVP
 - Industry/PI
 - Contact:
+## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
+Fatalix Industries is a wormhole based corporation that likes to engage in all aspects of Eve from PVP to Industry and Mining. We have a variety of content to offer our members and we're happy to integrate people who are new to wormhole space.
+- Location: Wormholes
+- Timezone: EU / US
+- Wormhole PVE & PVP
+- Lots of gas huffing and some moon mining
+- ESS Fleets
+- Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
+- In-Game Channel: FXIN Public
 ## [Dark Venture Corporation [DKVC]](/community/coalition-corporations/dkvc)
 Dark Venture is a wormhole corporation designed to show newer players how to utilize wormholes to explore all areas of EVE and gain access to resources from all corners of the EVE universe. DVC provides opportunities for all levels of wormhole life: from incredible isk opportunities to intense combat action. Take part in all that wormholes have to offer.
 - Location: Wormholes
