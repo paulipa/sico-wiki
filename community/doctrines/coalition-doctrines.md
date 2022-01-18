@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2021-12-25T19:24:05.440Z
+date: 2022-01-18T22:45:41.013Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -762,9 +762,9 @@ Micro Auxiliary Power Core I
 Medium Shield Extender I
 Initiated Compact Warp Scrambler
 
-Anode Light Electron Particle Cannon I
-Anode Light Electron Particle Cannon I
-Anode Light Electron Particle Cannon I
+Modal Light Electron Particle Accelerator I
+Modal Light Electron Particle Accelerator I
+Modal Light Electron Particle Accelerator I
 
 Small EM Shield Reinforcer I
 Small Core Defense Field Extender I
@@ -791,9 +791,9 @@ Medium Shield Extender I
 X5 Enduring Stasis Webifier
 X5 Enduring Stasis Webifier
 
-Anode Light Electron Particle Cannon I
-Anode Light Electron Particle Cannon I
-Anode Light Electron Particle Cannon I
+Modal Light Electron Particle Accelerator I
+Modal Light Electron Particle Accelerator I
+Modal Light Electron Particle Accelerator I
 
 Small EM Shield Reinforcer I
 Small Core Defense Field Extender I
