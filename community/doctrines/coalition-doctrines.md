@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-29T08:58:17.626Z
+date: 2022-01-29T09:02:57.409Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1248,7 +1248,7 @@ Nanite Repair Paste x100
 Improved Mindflood Booster x2  
 </details>
 
-### Command SHips
+### Command Ships
 
 <details>
 <summary>Eos FOB, Booster 1.0</summary>
@@ -1286,21 +1286,6 @@ Rapid Repair Charge x600
 Nanite Repair Paste x250
 Improved Mindflood Booster x2
 </details>
-
-### Skill Plan
-To import a skillplan, go to the pastebin links and copy all of its contents.  Then go in-game and into your character sheet where your skills are. 
-
-To the left of the section where it says "Training Queue", there is an icon of 4 horizontal lines.  Click this, then click "Add skills listed in clipboard to end of queue".
-
-<details>
-  <summary>Minimum</summary>
- 
-  https://pastebin.com/RfAB0xyK
-
-This skillplan should fit within the 1,000,000 SP alpha alt and the skillbooks will cost approximately 7.5m in skills.
-  
-</details>
-
 
 ## Loud Crew | Ganking SIG [LOUCR]
 <details>
