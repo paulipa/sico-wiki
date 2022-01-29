@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-18T22:45:41.013Z
+date: 2022-01-29T08:58:17.626Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1129,19 +1129,10 @@ Heavy Water x50000
 
 
 ## FOB Removal Force
-<details>
-  <summary>FOB Removal Force</summary>
 
-
-To import a fitting from the wiki to in-game, copy the fitting then go to your fitting window in-game (ALT + F).
-
-Click the spanner to the left then at the bottom left click Import and Export > Import from Clipboard.
-
----
 ### DPS
-
 <details>
-  <summary>Myrmidon - PVE (FOB) <--- Standard Fit</summary>
+<summary>Myrmidon FOB, Standard 1.0</summary>
 [Myrmidon, Myrmidon - PVE (FOB)]
 
 Damage Control II
@@ -1178,10 +1169,11 @@ Tracking Speed Script x1
 Mobile Depot x1
 Ogre II x5
 Improved Mindflood Booster x2
+
 </details>
 
 <details>
-  <summary>Myrmidon - PVE (FOB - Minimum) <--- Newbro Friendly</summary>
+<summary>Myrmidon FOB, Starter 1.0</summary>
 [Myrmidon, Myrmidon - PVE (FOB - Basic)]
 
 Damage Control II
@@ -1220,10 +1212,8 @@ Federation Navy Ogre x5
 Improved Mindflood Booster x2
 </details>
 
----
-
 <details>
-  <summary>Eos - PVE (FOB) <--- Advanced Pilots</summary>
+<summary>Eos FOB, Advanced 1.0</summary>
 [Eos, Eos - PVE (FOB)]
 
 EM Armor Hardener II
@@ -1255,13 +1245,13 @@ Praetor II x5
 
 
 Nanite Repair Paste x100
-Improved Mindflood Booster x2
+Improved Mindflood Booster x2  
 </details>
 
-### Command
+### Command SHips
 
 <details>
-  <summary>Eos - FC (FOB)</summary>
+<summary>Eos FOB, Booster 1.0</summary>
 [Eos, Eos - FC (FOB)]
 
 EM Armor Hardener II
@@ -1291,7 +1281,6 @@ Infiltrator II x5
 Ogre II x5
 Praetor II x5
 
-
 Armor Energizing Charge x600
 Rapid Repair Charge x600
 Nanite Repair Paste x250
@@ -1312,7 +1301,6 @@ This skillplan should fit within the 1,000,000 SP alpha alt and the skillbooks w
   
 </details>
 
-</details>
 
 ## Loud Crew | Ganking SIG [LOUCR]
 <details>
