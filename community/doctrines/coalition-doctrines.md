@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-29T09:02:57.409Z
+date: 2022-01-29T09:09:17.805Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1133,7 +1133,7 @@ Heavy Water x50000
 ### DPS
 <details>
 <summary>Myrmidon FOB, Standard 1.0</summary>
-[Myrmidon, Myrmidon - PVE (FOB)]
+[Myrmidon, Myrmidon FOB, Standard 1.0]
 
 Damage Control II
 True Sansha EM Armor Hardener
@@ -1174,7 +1174,7 @@ Improved Mindflood Booster x2
 
 <details>
 <summary>Myrmidon FOB, Starter 1.0</summary>
-[Myrmidon, Myrmidon - PVE (FOB - Basic)]
+[Myrmidon, Myrmidon FOB, Starter 1.0]
 
 Damage Control II
 True Sansha Thermal Armor Hardener
@@ -1214,7 +1214,7 @@ Improved Mindflood Booster x2
 
 <details>
 <summary>Eos FOB, Advanced 1.0</summary>
-[Eos, Eos - PVE (FOB)]
+[Eos, Eos FOB, Advanced 1.]
 
 EM Armor Hardener II
 Thermal Armor Hardener II
@@ -1252,7 +1252,7 @@ Improved Mindflood Booster x2
 
 <details>
 <summary>Eos FOB, Booster 1.0</summary>
-[Eos, Eos - FC (FOB)]
+[Eos, Eos FOB, Booster 1.0]
 
 EM Armor Hardener II
 Thermal Armor Hardener II
