@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-29T09:09:17.805Z
+date: 2022-01-30T12:12:54.382Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1132,14 +1132,14 @@ Heavy Water x50000
 
 ### DPS
 <details>
-<summary>Myrmidon FOB, Standard 1.0</summary>
-[Myrmidon, Myrmidon FOB, Standard 1.0]
+<summary>Myrmidon FOB, Standard 1.1</summary>
+[Myrmidon, Myrmidon FOB, Standard 1.1]
 
 Damage Control II
-True Sansha EM Armor Hardener
-True Sansha EM Armor Hardener
 True Sansha Thermal Armor Hardener
-True Sansha Thermal Armor Hardener
+Reactive Armor Hardener
+Drone Damage Amplifier II
+Drone Damage Amplifier II
 Drone Damage Amplifier II
 
 Denny Enduring Omnidirectional Tracking Link
@@ -1154,55 +1154,14 @@ Medium Remote Capacitor Transmitter II
 Centum A-Type Medium Remote Armor Repairer
 Centum A-Type Medium Remote Armor Repairer
 
-Medium EM Armor Reinforcer II
+Medium Thermal Armor Reinforcer II
 Medium Thermal Armor Reinforcer II
 Medium Remote Repair Augmentor II
 
 
-Acolyte II x5
-Infiltrator II x5
-Praetor II x5
-
-
-Nanite Repair Paste x100
-Tracking Speed Script x1
-Mobile Depot x1
-Ogre II x5
-Improved Mindflood Booster x2
-
-</details>
-
-<details>
-<summary>Myrmidon FOB, Starter 1.0</summary>
-[Myrmidon, Myrmidon FOB, Starter 1.0]
-
-Damage Control II
-True Sansha Thermal Armor Hardener
-True Sansha EM Armor Hardener
-True Sansha EM Armor Hardener
-True Sansha Thermal Armor Hardener
-Drone Damage Amplifier II
-
-Denny Enduring Omnidirectional Tracking Link
-Large Compact Pb-Acid Cap Battery
-Cap Recharger II
-Cap Recharger II
-Cap Recharger II
-
-Drone Link Augmentor I
-Large Remote Capacitor Transmitter II
-Medium Remote Capacitor Transmitter II
-Centum A-Type Medium Remote Armor Repairer
-Centum A-Type Medium Remote Armor Repairer
-
-Medium EM Armor Reinforcer II
-Medium Thermal Armor Reinforcer II
-Medium Remote Repair Augmentor II
-
-
-Imperial Navy Acolyte x5
-Imperial Navy Infiltrator x5
-Imperial Navy Praetor x5
+Caldari Navy Hornet x5
+Caldari Navy Vespa x5
+Caldari Navy Wasp x5
 
 
 Nanite Repair Paste x100
