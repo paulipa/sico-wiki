@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-30T12:12:54.382Z
+date: 2022-01-30T12:30:05.548Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1172,10 +1172,9 @@ Improved Mindflood Booster x2
 </details>
 
 <details>
-<summary>Eos FOB, Advanced 1.0</summary>
-[Eos, Eos FOB, Advanced 1.]
-
-EM Armor Hardener II
+<summary>Eos FOB, Advanced 1.1</summary>
+[Eos, *Eos FOB, Advanced 1.1]
+Reactive Armor Hardener
 Thermal Armor Hardener II
 Drone Damage Amplifier II
 Drone Damage Amplifier II
@@ -1194,26 +1193,27 @@ Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
 Drone Link Augmentor II
 
-Medium EM Armor Reinforcer II
+Medium Capacitor Control Circuit II
 Medium Thermal Armor Reinforcer II
 
 
-Infiltrator II x5
+
+Wasp II x5
 Ogre II x5
-Praetor II x5
+Vespa II x5
 
-
-Nanite Repair Paste x100
-Improved Mindflood Booster x2  
+Armor Energizing Charge x600
+Rapid Repair Charge x600
+Nanite Repair Paste x250
+Improved Mindflood Booster x2
 </details>
 
 ### Command Ships
 
 <details>
-<summary>Eos FOB, Booster 1.0</summary>
-[Eos, Eos FOB, Booster 1.0]
-
-EM Armor Hardener II
+<summary>Eos FOB, Booster 1.1</summary>
+[Eos, Eos FOB, Booster 1.1]
+Reactive Armor Hardener
 Thermal Armor Hardener II
 Drone Damage Amplifier II
 Drone Damage Amplifier II
@@ -1232,13 +1232,14 @@ Centum A-Type Medium Remote Armor Repairer
 Large Remote Capacitor Transmitter II
 Medium Remote Capacitor Transmitter II
 
-Medium EM Armor Reinforcer II
+Medium Capacitor Control Circuit II
 Medium Thermal Armor Reinforcer II
 
 
-Infiltrator II x5
+
+Wasp II x5
 Ogre II x5
-Praetor II x5
+Vespa II x5
 
 Armor Energizing Charge x600
 Rapid Repair Charge x600
