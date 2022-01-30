@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-30T12:30:52.989Z
+date: 2022-01-30T12:31:33.523Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1214,6 +1214,7 @@ Improved Mindflood Booster x2
 <details>
 <summary>Eos FOB, Booster 1.1</summary>
 [Eos, Eos FOB, Booster 1.1]
+
 Reactive Armor Hardener
 Thermal Armor Hardener II
 Drone Damage Amplifier II
