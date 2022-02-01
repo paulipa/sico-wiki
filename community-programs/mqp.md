@@ -2,7 +2,7 @@
 title: Member Qualification Program
 description: 
 published: true
-date: 2021-08-01T16:02:18.099Z
+date: 2022-02-01T17:30:59.292Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T06:45:50.076Z
@@ -103,7 +103,7 @@ The most obvious way of getting your ship and the fitting for it is to buy them 
 
 You can check if your local station can supply you with all of the needed modules by copying the whole doctrine fit and pastingit into the multibuy window on the market browser.
 
-In the case of the GRIP: Fleets & PvP Doctrine, all of the required parts can be bought at our Coalition tradehub in Ronne, the LinkNet Trade Center. Due to the logistical effort the prices here might be higher than in Jita. The closest large hub to us is Amarr.
+In the case of the GRIP: Fleets & PvP Doctrine, all of the required parts can be bought at our HQ system staging station. Due to the logistical effort the prices here might be a bit higher than in Jita.
 
 ### Handout ships
 Sometimes ships are handed out in fleets. You can find this information from the event details on our [operation calendar](https://auth.eve-linknet.com/opcalendar/). However GRIP: Fleets & PvP ships are not handed out as the goal is to teach you how to buy and fit your own ships.
