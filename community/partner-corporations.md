@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-02-26T08:34:23.862Z
+date: 2022-02-26T09:15:31.120Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -185,8 +185,9 @@ We are a fast growing former high sec corporation moving into Wormhole life.  We
 - Contact: Zaldera / Retributian / SkullCrusher2107 Smith
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
-Invite only PvP corporation that hosts PvP operations. Easiest way to get to know the corporation and join them is to join the open pvp fleets.
-- Location: Roaming
+Invite only PvP corporation that hosts PvP operations in low and null sec. Easiest way to get to know the corporation and join them is to join the open pvp fleets. Fun > Killboard Stats!
+Happy Birthday Sierra!
+- Location: Tama 
 - Timezone: EU
 - PvP
 - Nomadic PvP
