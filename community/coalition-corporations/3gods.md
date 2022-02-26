@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2021-12-21T12:23:24.922Z
+date: 2022-02-26T09:02:31.694Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
@@ -57,10 +57,9 @@ Introduce yourself in #public and read the Google Doc in #how-to-join-3gods.
 
 ## For more information please contact one of the following:
 **US and non-EU Timezones:**
-- Jafner: Founder
+- Jafner: Co-CEO/Founder
 
 **EU Timezones:**
-- Storytellar Stargazer: CEO
-- Allegra Dante: Director
-- Savage Jones, Head Recruiter
+- Allegra Dante: Co-CEO
+- Savage Jones: Co-CEO/Head Recruiter
 
