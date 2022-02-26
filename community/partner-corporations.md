@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-01-08T21:52:48.618Z
+date: 2022-02-26T08:34:23.862Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -22,7 +22,7 @@ SEADC is the entry level and active High Sec routing department of LinkNet commu
 - Location: High Sec
 - Timezone: Global
 - Not eligible for wars
-- For Active High Sec players without a content focus
+- For all players without a content focus
 - Access to all community content
 - Contact: Ikarus Cesaille (ingame or discord)
 # High Sec
