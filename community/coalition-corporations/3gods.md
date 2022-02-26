@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2022-02-26T09:02:31.694Z
+date: 2022-02-26T09:05:38.142Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
