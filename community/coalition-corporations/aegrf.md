@@ -2,7 +2,7 @@
 title: AEGIS REFORGED
 description: Aegis Reforged is an emerging Nullsec PvP and industry corporation based in immensea. We mine, build, sell, hunt and destroy to fuel the circle of life in New Eden. Have you got what it takes to thrive on the front lines?
 published: true
-date: 2022-01-04T07:30:03.660Z
+date: 2022-02-27T07:55:05.696Z
 tags: pve, nullsec, sov, pvp, mining, industry, marketing, sov war
 editor: markdown
 dateCreated: 2022-01-04T07:30:03.660Z
@@ -12,12 +12,26 @@ dateCreated: 2022-01-04T07:30:03.660Z
 
 
 
-**We’re a new corporation** formed from a small core of veterans and fresh meat alike. The corp is a member of the Already Replaced [AARP.] alliance. Like us, they have a firm belief in real life (RL) taking precedence over pixel starships and together we mine, build and fight daily over the most contested space, and against some of the best pilots, in New Eden.
+Mine, Build, Rat, kill Aegis Reforged has it all!
 
-**So, what can we provide?** Honestly, as a corp, we’re still growing, so initially, we can provide you a group of folks you enjoy spending time in voice chat with, and blowing up internet spaceships with (whether it’s someone else’s or your own remains to be seen). Our primary focuses are PvP and PvE, and being a part of a sovereignty holding nullsec alliance grants us access to that content in spades. There are PvP fleets almost daily, often multiple per day. The space we control and support has combat site, mining and industry opportunity aplenty so there's no shortage of ISK to be made. 
+Aegis Reforged is a proud and growing community of players within the Already Replaced Alliance and part of the F.I.R.E collation.
 
-**What do we expect from you?** We need you to be active; not necessarily every day, but we don’t want you to just be a name on our corporation roster. Your character must be able to fly combat ships to support our corp, our alliance, and our coalition allies. We have some very good space to live in, and that’s only because everyone contributes to its defense and support.
+Based in Immensea we offer:
+- Experienced and mature leadership across all careers in eve.
+- Access to Corp, public moons and good pi with low tax.
+- Upgraded industrial systems.
+- Upgraded null sec systems ready for ratting.
+- Daily PVP and alliance backed SRP for CTA
+- Corp buy back.
+- Alliance logistic support, good local markets.
 
-If you're interesting in trying out Nullsec and feel like you have what it takes to learn the ins and outs of SovNull or are simply interested in joining a reliable crew with plenty of content to provide then please feel free to drop *Cephelange du'Krevviq* an in game mail and we can arrange a time to talk.
+What are we looking for:
 
-6m SP requirement - Omega only - Intermediate and Veteren capsuleers alike welcome!
+- Social and community based Omega players, we are corp that wants members to support each other and have fun.
+- Well rounded skillsets. We want you to be able to maximize isk making opportunities with a minimum of 6mil skill points with magic 15 and some in game experience.
+- Willingness to train alliance doctrine ships and take part in defence fleets.
+- Looking for all time zones.
+- We are also looking for people who want to move up within a Corp and take on additional roles or create content for members.
+- We are also open to merging smaller corps into ours and helping people to progress up the command chain.
+
+If you are looking for a mature corp with low stress and plenty of ISK making opportunities, come have a chat. https://discord.gg/6DeZNzjX
