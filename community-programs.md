@@ -2,7 +2,7 @@
 title: Programs
 description: Community Programs for the LinkNet community members
 published: true
-date: 2021-12-30T00:08:25.492Z
+date: 2022-03-05T13:23:44.727Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T16:14:31.774Z
@@ -51,8 +51,8 @@ Piracy special interest group. Learn all the fun interesting things in the dark 
 ## [Fleet Activity Tracking](/community-programs/fleet-activity-tracking)
 Tracking your fleet participation
 
-## [Fleet Commander Trainee Program](/community-programs/fleet-commander-trainee-program)
-The training program for new fleet commanders aim to help pilots with little or no fleet commander background to get started with their fleet commander training and raising fleet
+## [Fleet Commander Program](/community-programs/fleet-commander-trainee-program)
+The procedure to enlist as a fleet commander in our community. Both for brand new fleet commander trainees with little to none experience in fleet commanding and for seasoned veteran commanders.
 
 ## [Capital Ship Support Program](/community-programs/capital-ship-support-program)
 Helping you to get into a capital or super capital class vessel
