@@ -2,7 +2,7 @@
 title: Fleet Command
 description: 
 published: true
-date: 2022-03-05T13:57:56.128Z
+date: 2022-03-05T13:58:59.353Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T15:05:53.477Z
@@ -66,7 +66,7 @@ The role will be automatically given and removed from you based on the previous 
 ### Fleet Commander
 Fleet commanders are players with high experience in fleet commanding in the career area of their choosing. They have proven themselves in one way or another to gain this title by showing knowledge or running fleets of their focus area.
 
-This role can be given for players by two different ways: Any partner corporation CEO can vouch for a player to become a fleet commander. We will trust the judgement of each corporation leadership team when promoting players as fleet commanders based on their requests. How each corporation determines who is a fleet commander and who should be a junior fleet commander is up to them.
+This role can be given for players by two different ways: Any partner corporation CEO, leadership or other fleet commanders can vouch for a player to become a fleet commander. We will trust the judgement of each corporation leadership team when promoting players as fleet commanders based on their requests. How each corporation determines who is a fleet commander and who should be a junior fleet commander is up to them.
 
 In general fleet commanders should have more experience in running fleets than junior fleet commanders.
 
