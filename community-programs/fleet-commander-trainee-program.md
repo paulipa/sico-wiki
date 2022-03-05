@@ -2,7 +2,7 @@
 title: Fleet Command
 description: 
 published: true
-date: 2022-03-05T14:00:19.411Z
+date: 2022-03-05T14:01:11.725Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T15:05:53.477Z
@@ -50,7 +50,7 @@ Any experienced and active fleet commander, ceo or wing director with fleet comm
 
 **Loop for new trainees in the `sig-fleet-commanding` channel** who are looking up for backseats. Schedule a fleet for them that suites both of you.
 
-# Fleet commanding for experienced players & roles
+# Community command roles
 To hold a certain fleet commander role you will need to fulfill certain requirements. The community currently has multiple different Fleet Commander roles:
 
 ### Active Duty Officer
