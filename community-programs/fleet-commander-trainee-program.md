@@ -2,7 +2,7 @@
 title: Fleet Command
 description: 
 published: true
-date: 2022-03-05T14:02:12.655Z
+date: 2022-03-06T08:00:47.896Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T15:05:53.477Z
@@ -48,7 +48,7 @@ Any experienced and active fleet commander, ceo or wing director with fleet comm
 
 **You can take as many trainees as you feel comfortable with**. For now I recommend starting with 3 or 4 max so that you do not overwhelm yourself.
 
-**Loop for new trainees in the `sig-fleet-commanding` channel** who are looking up for backseats. Schedule a fleet for them that suites both of you.
+**Look for new trainees in the `sig-fleet-commanding` channel** who are looking up for backseats. Schedule a fleet for them that suites both of you.
 
 # Community command roles
 To hold a certain fleet commander role you will need to fulfill certain requirements. The community currently has multiple different Fleet Commander roles that represent your activities within our community:
@@ -56,7 +56,7 @@ To hold a certain fleet commander role you will need to fulfill certain requirem
 ### Active Duty Officer
 This is a role which is given for commanders who know how to use our community tools and are actively running fleets within our community. In order to gain and keep this role you will need to schedule fleets in our calendar, ping the fleets with our ping tools and FAT your fleets correctly.
 
-This role not reflect your skill to command fleets but your activity level running fleets within our community.
+This role does not reflect your skill to command fleets but your activity level running fleets within our community.
 
 > **In order to keep this role you are required to run at least one fleet every 30 days.**
 {.is-warning}
@@ -78,6 +78,6 @@ Junior fleet commanders are most often players who are still learning to become 
 You will gain all the needed permissions to schedule, ping and fat fleets with this role.
 
 ### PVE Fleet Commanders
-Playres who only want to focus on PVE Fleet commanding have their own group. These players are assigned similar as the Fleet Commanders by vouches from other players or by othervise prooving themselves in pve fleet commanding.
+Players who only want to focus on PVE Fleet commanding have their own group. These players are assigned similar as the Fleet Commanders by vouches from other players or by othervise prooving themselves in pve fleet commanding.
 
 You will gain all the needed permissions to schedule, ping and fat fleets with this role.
