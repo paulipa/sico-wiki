@@ -2,7 +2,7 @@
 title: Fleet Command
 description: 
 published: true
-date: 2022-03-06T08:02:15.332Z
+date: 2022-03-06T16:25:06.571Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-05T15:05:53.477Z
@@ -40,7 +40,7 @@ We do also offer a full text guide [fc-grip-checklist](/groups-and-roles/fc-mqp-
 
 **Do not fear to lose your fleet**. In fact it is preferred to lose a GRIP:PvP fleet rather than brining it home alive! The community offers full SRP for all GRIP fleets so there is no need to worry about money. Be bold with engaging on hostiles you find and learn from your mistakes. Making mistakes is the only way to learn about when you can take a fight and when you can’t.
 
-**Once you have ran a few fleets you will be promoted to Junior Fleet Commander** and can start to fly fleets on your own. After running fleets on your own and after gaining more experience you can be promoted both as an fleet commander and LinkNet officer depending on the amount of fleets you run.
+**Once you have ran a few fleets you will be promoted to Junior Fleet Commander** and can start to fly fleets on your own. After running fleets on your own and after gaining more experience you can be promoted both as an fleet commander and LinkNet content creator depending on the amount of fleets you run.
 
 # Mentors
 
@@ -53,7 +53,7 @@ Any experienced and active fleet commander, ceo or wing director with fleet comm
 # Community command roles
 To hold a certain fleet commander role you will need to fulfill certain requirements. The community currently has multiple different Fleet Commander roles that represent your activities within our community:
 
-### LinkNet Officer
+### LinkNet Content Creator
 This is a role which is given for commanders who know how to use our community tools and are actively running fleets within our community. In order to gain and keep this role you will need to schedule fleets in our calendar, ping the fleets with our ping tools and FAT your fleets correctly.
 
 This role does not reflect your skill to command fleets but your activity level running fleets within our community.
