@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-01-30T12:31:33.523Z
+date: 2022-03-08T16:04:52.547Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -1090,10 +1090,10 @@ Mining Equipment Preservation Charge x3000
 </details>
   
 <details>
-<summary>Orca, Mining - Orca 2.0<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
-[Orca, Mining - Orca 2.0]
+<summary>Orca, Mining - Orca 2.1<i style="padding-left:5px;color:green;" class="fas fa-file-invoice-dollar"></i></summary>
+[Orca, Mining - Orca 2.1]
 
-Damage Control II
+  Damage Control II
 Reinforced Bulkheads II
 
 Multispectrum Shield Hardener II
@@ -1102,10 +1102,10 @@ EM Shield Hardener II
 Multispectrum Shield Hardener II
 Thermal Shield Hardener II
 
-Drone Link Augmentor II
+Large Moon Ore Compressor I
 Small Tractor Beam I
 Large Industrial Core II
-Shield Command Burst II, Shield Extension Charge
+Shield Command Burst II
 Mining Foreman Burst II
 Mining Foreman Burst II
 
@@ -1114,16 +1114,16 @@ Large Transverse Bulkhead II
 Large Transverse Bulkhead II
 
 
-Hornet EC-300 x10
-Medium Shield Maintenance Bot II x5
+
+Warrior II x10
 Mining Drone II x5
 Salvage Drone I x5
-Warrior II x10
+Hornet EC-300 x10
+Medium Shield Maintenance Bot II x5
 
-
+Shield Extension Charge x3301
 Mining Laser Field Enhancement Charge x3001
 Mining Laser Optimization Charge x3001
-Shield Extension Charge x3001
 Heavy Water x50000
 </details>
 
