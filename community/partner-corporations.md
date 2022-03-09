@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-03-09T15:24:03.663Z
+date: 2022-03-09T15:26:20.067Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -191,8 +191,5 @@ Sig corporations are created for a set purpose inside the community. Each corpor
 
 ## [Defence Against The Dark Arts[SLTRN]](https://wiki.eve-linknet.com/community-programs/war-response-program)
 - War Response Program
-
-## [Institute of the Dark Arts [-BONK]](https://wiki.eve-linknet.com/community-programs/loucr)
-- High Sec Gank Program
 
 
