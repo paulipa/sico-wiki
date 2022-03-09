@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-03-09T08:45:02.703Z
+date: 2022-03-09T15:24:03.663Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -120,14 +120,6 @@ Aegis Reforged is an emerging Nullsec PvP and industry corporation based in imme
 - Null Sec PvP
 - Industry
 - Contact: Harnaget Ostus
-
-## [Stain Train [W00--]](/community/coalition-corporations/w00)
-Are you looking for a newb friendly/old school no BS/no Drama kinda group? We live in NPC null and expect you to show an effort to be out here with us. Our Focus is USTZ with a dash of AUTZ in there.
-- Location: Null Sec
-- Timezone: US
-- PVP, Black Ops
-- Capital Warfare, Industry
-- Contact: Don Purple
 
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
