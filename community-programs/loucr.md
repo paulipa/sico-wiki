@@ -2,11 +2,15 @@
 title: Institute of the Dark Arts [-BONK]
 description: 
 published: true
-date: 2021-12-31T18:52:54.585Z
+date: 2022-03-09T15:25:55.333Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T15:31:35.738Z
 ---
+
+> This SIG is no longer active
+{.is-danger}
+
 
 Institute of the Dark Arts [-BONK] is a special interest group for SiCO members. It is designed to educate members on some of the darker aspects of eve online be that ganking, baiting, stealing, or going full murderhobo on folks trying to quietly mine the space you see as yours. 
 
