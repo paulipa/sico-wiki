@@ -2,7 +2,7 @@
 title: Game Of Drones [3GODS]
 description: Welcome to 3GODS, a null sec corporation focused primarily on Industry and PvE.
 published: true
-date: 2022-02-26T09:05:38.142Z
+date: 2022-03-11T07:32:25.354Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:55:07.154Z
@@ -52,7 +52,7 @@ There is always something for everyone to enjoy. So let’s go forth and dominat
 
 # Interested in Joining?
 
-Please join our Discord with this link: https://discord.gg/ArtkzPTjwT 
+Please join our Discord for both 3GODS and Academy with this link: https://discord.gg/ArtkzPTjwT 
 Introduce yourself in #public and read the Google Doc in #how-to-join-3gods.
 
 ## For more information please contact one of the following:
@@ -60,6 +60,5 @@ Introduce yourself in #public and read the Google Doc in #how-to-join-3gods.
 - Jafner: Co-CEO/Founder
 
 **EU Timezones:**
-- Allegra Dante: Co-CEO
 - Savage Jones: Co-CEO/Head Recruiter
 
