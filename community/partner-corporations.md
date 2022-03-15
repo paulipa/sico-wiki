@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-03-15T10:37:20.183Z
+date: 2022-03-15T10:40:19.531Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -143,7 +143,7 @@ Nevermore. is an english-speaking wormhole corporation. If you are interested in
 - Timezone: EU / US
 - Wormhole PVE & PVP
 - Industry/PI
-- Contact:
+- Contact: Catyana Oskold
 ## [Fatalix Industries [FXIN]](/community/coalition-corporations/fxin)
 Fatalix Industries is a wormhole based corporation that likes to engage in all aspects of Eve from PVP to Industry and Mining. We have a variety of content to offer our members and we're happy to integrate people who are new to wormhole space.
 - Location: Wormholes
