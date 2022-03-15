@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-03-15T10:40:19.531Z
+date: 2022-03-15T18:30:13.605Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -64,12 +64,14 @@ We are a new player friendly, High sec mercenary corporation,  with an aim to te
 - PvP
 - Contact:
 ## [Eve Rookies [EROOK]](/community/coalition-corporations/erook)
-EVE Rookies [EROOK] Is a Corporation Dedicated to helping New Players find something they Love in EVE Online. We will help you learn the fundamentals of the game through our well established Mentors, and in time, help place you in a more specialised corporation full of people that Love the things you Love too! If you are brand new to EVE Online, or struggling to find a path that suits you, then EVE Rookies is the place to be! We have direct access to all manner of Activities, including PvP Fleets (Both Large & Small Scale), Alpha Friendly Incursions, Mining Fleets, NPSI Fleets, and more. Join Channel Eve Rookies Public for more information or any questions!
+EVE Rookies [EROOK] is a rookie incusion group dedicated to lowering the entry to incursions for those who have never flown incursions, lower skilled players and alphas. We always have a Praxis available to borrow so no need to bring your own ship to try it out!
+
+We also do other events on occassion such as pveVP or gate ratting in null!
 - Location: High Sec
 - Timezone: EU
-- Improving New Player Experience (Mentoring Newbies)
+- Incursions
 - NPSI/ Public Fleets
-- Contact: Dread Nowt
+- Contact: Katt Aideron
 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
