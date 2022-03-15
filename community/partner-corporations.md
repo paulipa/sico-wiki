@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-03-09T15:26:20.067Z
+date: 2022-03-15T10:37:20.183Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -167,6 +167,13 @@ We are a fast growing former high sec corporation moving into Wormhole life.  We
 - Wormhole / Mining / Manufacturing
 - Small -  Medium PvP roams
 - Contact: Zaldera / Retributian / SkullCrusher2107 Smith
+## [COMBAT PATROL [W-CP]](/community/coalition-corporations/wcp)
+Combat Patrol is a wormhole corporation which provides its citizens with excellent opportunities for PVP, PVE, and Industry (C2 HS+C3 statics). Our mission is to develop into one of the most fun and powerful corporations in Eve Online while continuing to uphold our core values of justice, freedom, and loyalty. We are building an organization on a grand scale that supports prosocial behavior, diverse playstyles, and content across all time zones.
+- Location: Wormholes
+- Timezone: US
+- PVE
+- PVP
+- Contact: Luke Pericles
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
 Invite only PvP corporation that hosts PvP operations in low and null sec. Easiest way to get to know the corporation and join them is to join the open pvp fleets. Fun > Killboard Stats!
