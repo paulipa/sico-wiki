@@ -2,7 +2,7 @@
 title: Eve Rookies [EROOK]
 description: 
 published: true
-date: 2021-12-04T14:06:21.895Z
+date: 2022-03-15T18:30:38.971Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-06T13:06:57.098Z
