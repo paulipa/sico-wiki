@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-03-15T18:30:13.605Z
+date: 2022-04-05T13:59:53.901Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -56,13 +56,6 @@ Offer solo pvp srp, and eagle/cerb/scimitar pilots have 100m/month salary. Nulls
 - PvP 
 - Contact:
 
-## [Control Monkeys [CT.M.] currenlty inactive](/community/coalition-corporations/ctm)
-We are a new player friendly, High sec mercenary corporation,  with an aim to teach players how to become efficient fighters and to help them become rich through pvp.
-- Location: High Sec
-- Timezone: EU
-- High sec Wars
-- PvP
-- Contact:
 ## [Eve Rookies [EROOK]](/community/coalition-corporations/erook)
 EVE Rookies [EROOK] is a rookie incusion group dedicated to lowering the entry to incursions for those who have never flown incursions, lower skilled players and alphas. We always have a Praxis available to borrow so no need to bring your own ship to try it out!
 
@@ -84,14 +77,6 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - PVP
 - Contact:
 # Null Sec
-## [Iron Solaris[ENVOI]](/community/coalition-corporations/envoi)
-Iron Solaris is an Australian based PvP corporation, based in Nullsec, with a  higfhsec prescence. We have a relaxed, friendly attitude, with no commitments required. We're looking for players of all skill levels, from newbies, to long standing vets, looking for some community and content in the AU timezone.
-- Location: Nullsec + Highsec
-- Timezone: AUS
-- Small to Med gang PvP 
-- Corp + Alliance Moons, 
-- Ratting and Group PvE
-- Contact: Ykika MooCow, Munkey Dallocort
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FI.RE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
 - Location: Null Sec
@@ -155,20 +140,6 @@ Fatalix Industries is a wormhole based corporation that likes to engage in all a
 - ESS Fleets
 - Recruitment Info: [FXIN Wiki](https://wiki.fatalix.com/en/apply)
 - In-Game Channel: FXIN Public
-## [Dark Venture Corporation [DKVC]](/community/coalition-corporations/dkvc)
-Dark Venture is a wormhole corporation designed to show newer players how to utilize wormholes to explore all areas of EVE and gain access to resources from all corners of the EVE universe. DVC provides opportunities for all levels of wormhole life: from incredible isk opportunities to intense combat action. Take part in all that wormholes have to offer.
-- Location: Wormholes
-- Timezone: Global
-- PVP in all capacity's excluding sov warfare
-- Teaching wormhole survival techniques 
-- Contact:
-## [Ground Zero [GRNDZ]](/community/coalition-corporations/grndz)
-We are a fast growing former high sec corporation moving into Wormhole life.  We have our own structures, regular boosted mining fleets, Teamspeak, Discord, Ore BuyBack and SRP set ups with access to many Blueprint Copies.  Looking for WH pilots and PvP pilots for roams and to protect our WH.
-- Location: Wormholes
-- Timezone: US
-- Wormhole / Mining / Manufacturing
-- Small -  Medium PvP roams
-- Contact: Zaldera / Retributian / SkullCrusher2107 Smith
 ## [COMBAT PATROL [W-CP]](/community/coalition-corporations/wcp)
 Combat Patrol is a wormhole corporation which provides its citizens with excellent opportunities for PVP, PVE, and Industry (C2 HS+C3 statics). Our mission is to develop into one of the most fun and powerful corporations in Eve Online while continuing to uphold our core values of justice, freedom, and loyalty. We are building an organization on a grand scale that supports prosocial behavior, diverse playstyles, and content across all time zones.
 - Location: Wormholes
@@ -188,12 +159,8 @@ Happy Birthday Sierra!
 # Language Partners
 ## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
 - Russian
-## [000 Russian Academy 000 [RUSAC]](/community/coalition-corporations/rusac)
-- Russian
 ## [Russian Space Academy [RSAAA]](/community/coalition-corporations/rsaaa)
 - Russian
-## [People Mountain People Sea[PMPS]](/community/coalition-corporations/pmps)
-- Chinese
 
 # SIG Corporations
 Sig corporations are created for a set purpose inside the community. Each corporation in this category has a related program for them in the community.
