@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-01-04T15:06:21.524Z
+date: 2022-04-06T16:00:34.804Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -73,6 +73,9 @@ The only way for you to join a fleet that you can’t see in the fleet finder is
 # Operating in the standing mining fleet
 This section will explain you the basics of operating as a member of the standing mining fleet. All players who are taking part in the standing mining fleet should follow the procedures explained in the following sections.
 
+> The core rules are mentioned in the mining fleet MOTD. Follow them as you mine with others.
+{.is-info}
+
 By following the procedures you will be eligible for ship replacements as well as make sure each miner in the fleet is threated equally.
 
 ## How to receive the boost and find your fleet
@@ -83,6 +86,11 @@ In most Mining fleets the booster is sitting in the highest possible position an
 If the mining fleet is not operating inside the same solar system that you are currently located you will need to move to the solar system before being able to warp on the booster!
 
 After landing on the fleet you can start mining while remaining inside the range of the command burst ship. The best way to do this is to keep orbiting the command ship at range. Each minute the ship will send out an area of effect burst that will boost your mining attributes. Once your ore hold is full you simply empty it and repeat the steps.
+
+## Ore compression
+If there is a booster on grid who uses our standard fit it should allow you to compress your ores on grid. This will greatly increase your mining times as you do not need to warp to a station to empty your cargo. A compressed ore takes 100 less space than uncompressed ones.
+
+To compress your ores simply be within the compression range of the booster, right click the items in your inventory and press compress.
 
 ## Standing fleet voice comms
 The standing fleet uses a dedicated voice chat channel on our discord server. When you are mining in the standing fleet you should join the `Standing Fleet` channel located under the public voice channels.
