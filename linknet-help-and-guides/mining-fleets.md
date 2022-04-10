@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-04-06T16:00:34.804Z
+date: 2022-04-10T07:25:27.985Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -171,8 +171,16 @@ Each day after downtime we will try to set up a mining fleet that would last unt
 - As the boss you can mine, boost, or AFK in station as long as you keep up the fleet advert.
 - When you need to go (aka. the fleet advert will drop) you ask another booster to take over the fleet and give them the boss status.
 
-## Who can raise LN Mining fleets
-To raise an official LN Mining fleet you need to hold a mining booster role (or another fleet commander role). You can apply for the mining booster role at the auth groups section in here: https://auth.eve-linknet.com.com/groups/
+## Requirements For Boosters
+To raise an official LN Mining fleet you need to hold a mining booster role (or another fleet commander role). After you have been accepted to the group you will be able to setup mining fleets and provide boosts by following the steps in this guide.
+
+### Application process
+1. Make sure that you have a toon who is able to fly one of the official boosting fits on our wiki: https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#boosters-1
+1. Add the booster toon on member audit on AUTH https://auth.eve-linknet.com/member-audit/launcher
+1. Make sure your discord server is activated https://auth.eve-linknet.com/services/
+1. Apply to the mining booster role on AUTH groups section https://auth.eve-linknet.com/groups/
+
+Once you have done the previous steps you will be accepted into the booster group.
 
 ## Community Standing Mining Fleet
 Community mining fleet is aimed at helping community miners to get organized and to receive mining boosts.
