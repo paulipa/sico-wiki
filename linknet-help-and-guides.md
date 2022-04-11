@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2022-01-04T14:41:57.244Z
+date: 2022-04-11T16:56:29.757Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -19,7 +19,6 @@ In order to survive in EVE you will need to know where and who your enemies are.
 
 ## [Exploration](/linknet-help-and-guides/exploration)
 ## [Mission Running](/linknet-help-and-guides/mission-running)
-## [Mining](/linknet-help-and-guides/mining)
 ## [Industry](/linknet-help-and-guides/industry)
 
 # Ingame Services
