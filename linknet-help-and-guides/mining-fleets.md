@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-04-11T17:01:35.747Z
+date: 2022-04-11T17:13:32.608Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -73,10 +73,32 @@ The only way for you to join a fleet that you can’t see in the fleet finder is
 # Operating in the standing mining fleet
 This section will explain you the basics of operating as a member of the standing mining fleet. All players who are taking part in the standing mining fleet should follow the procedures explained in the following sections.
 
-> The core rules are mentioned in the mining fleet MOTD. Follow them as you mine with others.
-{.is-info}
-
 By following the procedures you will be eligible for ship replacements as well as make sure each miner in the fleet is threated equally.
+
+## Warping on grid
+The easiest way to warp to the grid is first check out what the current active moon/grid is. You can do this from AUTH calendar or by asking in the fleet chat.
+
+Either warp 100km away from the active field, the refinery or use the bookmark folder for a warp in location. This allows you to see where the empty areas on the grid are. You want to avoid mining right next to another miner if possible. If you warp on a random fleet member instead you will need to re-locate yourself by bouncing to a bookmark and then back to an free asteroid area.
+
+## Mining formation
+The majority of our mining happens in pre-scheduled moon mining fields. The extracted moon fields always explode a round radius away from the refinery. In order for efficient operating and mining we are using a set mining formation to mine in these fields.
+
+When you land on a mining grid seek to try to find an asteroid that is not mined by any other player and that is as far away from the other playeres as possible.
+
+![mining_formation_copy.png](/mining_formation_copy.png)
+
+### Boosters
+If you are flying a booster ship you will start to mine fro mthe center of the ore field. This allows you to boost the whole radius of the ore field. It will also allow you to move less as you are in a slow drone mining ship. As the field gets mined out you will move outwards towards the edges of the field.
+
+### Miners
+If you are flying any other mining ship than the boosters you will start mining from the outer edges of the ore field. As the field gets mined out you will circle towards the center. No ore should be left on the outer edges when miners reach the center.
+
+Stay within the booster range, but at least 30km away from the boosters as lon as possible. When all of the other ores on the field are mined out you can go within this range.
+
+At no time should a miner be within 10km of the booster.
+
+## Mining Laser Targets
+Do not mine the same asteroids as other miners. You may split your lasers on multiple rocks but should always aim to mine the closest rocks to your ship. Move your ship if needed closer to new rocks as the old ones deplate.
 
 ## How to receive the boost and find your fleet
 Once you have joined a fleet a new chat window and a fleet window will open. You will be using these windows to move yourself to the locations where the fleet is at and to receive the mining boost.
@@ -245,7 +267,6 @@ The EVE LinkNet is a non-profit community program that connects the right player
 
 > Copy and paste the following code as your fleet MOTD and fill in the missing information:
 {.is-warning}
-
 
 ```html
 <font size="13" color="#ffbfbfbf"></font><font size="18" color="#ffffffff">LinkNet Standing Mining Fleet<br></font><font size="13" color="#99ffffff">The goal of the mining fleet is to help familiarize you with following our "doctrine" procedures, keep you Safe™ while mining, and replacing your ship when you lose it.<br><br>Links &amp; Info:<br>■ Mining: </font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/community-programs/career-introduction-mining">Intro</a></loc></font><font size="13" color="#99ffffff"> | </font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/community/doctrines/coalition-doctrines#mining-fleet">Doctrine Fits</a></loc></font><font size="13" color="#99ffffff"> | </font><font size="13" color="#ffffe400"><a href="https://wiki.eve-linknet.com/en/linknet-help-and-guides/mining-fleets">LinkNet Standing Mining Fleet Participation</a><br></font><font size="13" color="#99ffffff">■ Bookmarks: </font><font size="13" color="#ff00a99d"><a href="bookmarkFolder:5734908">LinkNet Public Static Locations</a></font><font size="13" color="#99ffffff"> \Moon Mining (drill/station tethers, etc)<br>■ BuyBack </font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/community-programs/buyback">Info</a></loc></font><font size="13" color="#99ffffff"> | </font><font size="13" color="#ffffe400"><loc><a href="https://auth.eve-linknet.com/buybackprogram/">Submissio</loc>n</a><br></font><font size="13" color="#99ffffff">■ Moon Schedule @ </font><font size="13" color="#ffffe400"><loc><a href="http://auth.eve-linknet.com/moonmining/extractions">Auth:Extraction</loc>s</a><br></font><font size="13" color="#ffbfbfbf"> - Daily extractions at 1100 and 2300 EVE time<br></font><font size="13" color="#99ffffff">■ </font><font size="13" color="#ffffe400"><a href="https://wiki.eve-linknet.com/en/community-programs/ship-replacement-program">SRP Info</a><br><br></font><font size="13" color="#99ffffff">SRP Highlights:<br>■ Follow the Mining Procedures<br>■ Fly a Doctrine fit<br>■ Keep your active hardeners on<br>■ Pre-spawn CONCORD<br>■ Warp out if you see gankers land on grid<br>■ Do Not AFK undocked<br><br>Tips and Etiquette:<br>■ Use</font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/mining_formation.png"> </a><a href="https://wiki.eve-linknet.com/mining_formation_copy.png">'The Donut' formation:</a></loc><br></font><font size="13" color="#99ffffff"> - Booster: Mine from center to outwards<br> - Miner: Mine from outer edge inwards<br>■ Stay within Orca boosting range, but at least 30km away and avoid mining rocks within that range until the end.<br> - at no time should a fleet member be within 10k of an Orca without express permission<br> - If you do not know a boosters given range, ask. This will vary by skill /fit /implants<br><br>HS Operations:<br>■ Oisio | Yria<br>■ </font><font size="13" color="#ff94ccff"><a href="helpPointer:unique_ui_agency_card_41">Ice Belts</a></font><font size="13" color="#99ffffff"> <br>■ FoB: </font><font size="13" color="#ff94ccff"><a href="helpPointer:unique_ui_agency_card_36">Pirate Strongholds</a></font><font size="13" color="#99ffffff"> (</font><font size="13" color="#ffffe400"><loc><a href="http://wiki.eveuniversity.org/Forward_Operating_Base">EVE Uni</a></loc></font><font size="13" color="#99ffffff">)<br> - known to be buggy, check systems you plan to be active in as you enter them<br><br></font><font size="13" color="#ffff00ff">A L E R T S:<br><br></font><font size="18" color="#ff00ff00">↑ Scroll up &amp; Read MOTD ↑</font>
