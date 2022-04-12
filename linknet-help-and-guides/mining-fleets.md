@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-04-12T11:39:41.404Z
+date: 2022-04-12T11:40:14.833Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -203,7 +203,7 @@ To raise an official LN Mining fleet you need to hold a mining booster role (or 
 1. Own a booster ship (you need to have it on your booster toon)
 1. Have logged in with your booster toon in the past 30 days
 
-> If all of the previous requirements are fulfilled you will be automatically added to the booster group
+> If all of the previous requirements are fulfilled you will be automatically added to the booster group. If one of the requirements is not fulfilled at any given time you will be removed from the booster group automatically.
 {.is-success}
 
 Once you have done the previous steps you will be accepted into the booster group.
