@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-04-12T08:54:48.423Z
+date: 2022-04-12T11:39:41.404Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -196,11 +196,15 @@ Each day after downtime we will try to set up a mining fleet that would last unt
 ## Requirements For Boosters
 To raise an official LN Mining fleet you need to hold a mining booster role (or another fleet commander role). After you have been accepted to the group you will be able to setup mining fleets and provide boosts by following the steps in this guide.
 
-### Application process
-1. Make sure that you have a toon who is able to fly one of the official boosting fits on our wiki: https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#boosters-1
+### Becoming a booster
+1. Train the skills needed to fly the booster ships including drones: https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#boosters-1
 1. Add the booster toon on member audit on AUTH https://auth.eve-linknet.com/member-audit/launcher
 1. Make sure your discord server is activated https://auth.eve-linknet.com/services/
-1. Apply to the mining booster role on AUTH groups section https://auth.eve-linknet.com/groups/
+1. Own a booster ship (you need to have it on your booster toon)
+1. Have logged in with your booster toon in the past 30 days
+
+> If all of the previous requirements are fulfilled you will be automatically added to the booster group
+{.is-success}
 
 Once you have done the previous steps you will be accepted into the booster group.
 
