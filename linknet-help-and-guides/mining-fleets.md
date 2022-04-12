@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-04-11T17:15:34.280Z
+date: 2022-04-12T08:54:48.423Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -204,11 +204,10 @@ To raise an official LN Mining fleet you need to hold a mining booster role (or 
 
 Once you have done the previous steps you will be accepted into the booster group.
 
-## Community Standing Mining Fleet
-Community mining fleet is aimed at helping community miners to get organized and to receive mining boosts.
+## Standing Mining Fleet Setup
+Community mining fleet is aimed at helping community miners to get organized and to receive mining boosts. It is open for all community partners.
 
-> Community Mining Fleet is the recommended fleet type for the standing mining fleet
-{.is-success}
+### Fleet settings
 
 1. Open the agency window and navigate to the fleet up tab
 ![fleet_up.jpg](/fleet_up.jpg =600x)
@@ -229,44 +228,9 @@ The EVE LinkNet is a non-profit community program that connects the right player
 6. Register the fleet
 7. Change MOTD to (copy paste):
 
-> Copy and paste the following code as your fleet MOTD and adjust the information according to your fleet (such as mining location):
-{.is-warning}
+### Fleet MOTD
 
-```html
-<font size="13" color="#ff999999"></font><font size="13" color="#ffffffff">Welcome to LinkNet Public Mining Fleet<br><br>The EVE LinkNet is a non-profit community program that connects the right players with the right corporations. Come mine with us and connect up with the rest of EVE.<br><br></font><font size="12" color="#ffffffff">The goal of the mining fleet is to help you to follow our recommended mining procedures. These procedures are here to keep you safe while mining as well as replace your ship if you lose them despite doing everything correct.<br><br>If you lose your ship to a gank after following the following rules you can request for SRP and get your money back.<br><br>Please join us on our </font><font size="12" color="#ffffe400"><a href="https://discord.gg/R4dFYbX">Discord</a></font><font size="12" color="#ffffffff"> while mining for better security!<br><br><b><u>Requirements for SRP</b></u><br><br>■ Fly one of the following ships and fits: </font><font size="12" color="#ffd98d00"><a href="fitting:32880:483;2:31716;1:25861;1:31788;2:22542;1:3829;1:439;1:444;1:2454;2::">Venture</a></font><font size="12" color="#ffffffff">, </font><font size="12" color="#ffd98d00"><a href="fitting:17480:28576;2:2281;1:31724;1:31790;2:3831;1:17912;2:2299;1:9660;1:2456;5:23707;5::">Procurer</a></font><font size="12" color="#ffffffff">, </font><font size="12" color="#ffd98d00"><a href="fitting:22546:28576;2:2048;1:2281;2:2539;1:2547;1:31796;2:3831;1:17912;2:2456;5:10250;5:32787;5:23707;5::">Skiff</a></font><font size="12" color="#ffffffff">, or </font><font size="12" color="#ffd98d00"><a href="fitting:28606:2048;1:43555;2:2281;2:33900;2:3598;2:2303;1:1335;1:43898;1:2299;1:2301;1:43551;2:10250;5:28207;5:2488;10:32787;5:2456;5:23707;5:42696;3001:42829;3001:42830;3001:42695;3000::">Orca</a><br></font><font size="12" color="#ffffffff">■ Keep your active hardeners on<br>■ Do not AFK, and do warp out if you see gankers land on grid<br><br>If you die despite following the steps above you can apply for SRP in </font><font size="12" color="#ffffe400"><loc><a href="https://auth.eve-linknet.com/srp/47D0F1F9/request">here</a></loc></font><font size="12" color="#ffffffff">.<br><br></font><font size="12" color="#bfffffff"><b><u>Fleet tips:</b></u><br><br>■ Use </font><font size="12" color="#ffffe400"><loc><a href="https://buyback.eve-linknet.com/">Buyback Program</a></loc></font><font size="12" color="#bfffffff"> for selling your items fast. This will also support the community<br>■ Stay within orca boosting range but avoid mining their rocks (in radius of ~5 km from orca)<br>■ Also avoid double mining (mining same rock with someone else)<br>■ Use </font><font size="12" color="#ffffe400"><loc><a href="https://auth.eve-linknet.com/belttracker/">belttracker</a></loc></font><font size="12" color="#bfffffff"> for marking empty belts and looking for full one.<br><br><b><u>Current location:</b></u><br>■ </font><font size="12" color="#ffd98d00"><a href="showinfo:5//30003080">Jarkkolen</a></font><font size="12" color="#bfffffff"> - belt mining<br><br><b><u>Fleet Access Status:</b></u><br></font><font size="12" color="#ffffff00">&gt;&gt; LinkNet Members Only &lt;&lt;<br><br></font><font size="12" color="#ff00ff00"><b>↑ Read the information above in the MOTD for standard fleet procedures ↑</b></font>
-```
-
-After copying the text your MOTD should look something like this:
-![mining_fleet_motd.jpg](/mining_fleet_motd.jpg =200x)
-
-You may also add other information to the MOTD that you see fit.
-
-## Public Mining Fleet
-When you want to open the mining fleet for public access (also everyone outside of the community) you can set up a LinkNet Public Mining Fleet by following the settings bellow. Note that everyone including gankers will be able to join this fleet.
-
-The goal with raising a public fleet is to bring awarenes of our community to the public eyes and also raise conversations about possible threats for mining such as ganking.
-
-1. Open the agency window and navigate to the fleet up tab
-![fleet_up.jpg](/fleet_up.jpg =600x)
-2. Register a new fleet
-![register_fleet_command.jpg](/register_fleet_command.jpg =600x)
-3. Set the following settings:
-- **Type**: Resource Harvesting
-- **Title**: LinkNet Public Mining Fleet
-- **Description**: (Copy paste) 
-```html 
-The EVE LinkNet is a non-profit community program that connects the right players with the right corporations. Come mine with us and connect up with the rest of EVE.<br><br>■ Boosting<br>■ Buyback<br>■ Community<br>■ Ship Replacement*
-```
-![fleet_name.jpg](/fleet_name.jpg =600x)
-4. Open the advanced settings
-![set_advanced_settings.jpg](/set_advanced_settings.jpg =600x)
-5. Set fleet to public access by setting standing requirement to 0.0
-![advanced_settings_public.jpg](/advanced_settings_public.jpg =600x)
-6. Register the fleet
-7. Change MOTD to (copy paste):
-
-> Copy and paste the following code as your fleet MOTD and fill in the missing information:
-{.is-warning}
+Copy and paste the following code as your fleet MOTD and adjust the information according to your fleet (such as mining location):
 
 ```html
 <font size="13" color="#ffbfbfbf"></font><font size="18" color="#ffffffff">LinkNet Standing Mining Fleet<br></font><font size="13" color="#99ffffff">The goal of the mining fleet is to help familiarize you with following our "doctrine" procedures, keep you Safe™ while mining, and replacing your ship when you lose it.<br><br>Links &amp; Info:<br>■ Mining: </font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/community-programs/career-introduction-mining">Intro</a></loc></font><font size="13" color="#99ffffff"> | </font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/community/doctrines/coalition-doctrines#mining-fleet">Doctrine Fits</a></loc></font><font size="13" color="#99ffffff"> | </font><font size="13" color="#ffffe400"><a href="https://wiki.eve-linknet.com/en/linknet-help-and-guides/mining-fleets">LinkNet Standing Mining Fleet Participation</a><br></font><font size="13" color="#99ffffff">■ Bookmarks: </font><font size="13" color="#ff00a99d"><a href="bookmarkFolder:5734908">LinkNet Public Static Locations</a></font><font size="13" color="#99ffffff"> \Moon Mining (drill/station tethers, etc)<br>■ BuyBack </font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/en/community-programs/buyback">Info</a></loc></font><font size="13" color="#99ffffff"> | </font><font size="13" color="#ffffe400"><loc><a href="https://auth.eve-linknet.com/buybackprogram/">Submissio</loc>n</a><br></font><font size="13" color="#99ffffff">■ Moon Schedule @ </font><font size="13" color="#ffffe400"><loc><a href="http://auth.eve-linknet.com/moonmining/extractions">Auth:Extraction</loc>s</a><br></font><font size="13" color="#ffbfbfbf"> - Daily extractions at 1100 and 2300 EVE time<br></font><font size="13" color="#99ffffff">■ </font><font size="13" color="#ffffe400"><a href="https://wiki.eve-linknet.com/en/community-programs/ship-replacement-program">SRP Info</a><br><br></font><font size="13" color="#99ffffff">SRP Highlights:<br>■ Follow the Mining Procedures<br>■ Fly a Doctrine fit<br>■ Keep your active hardeners on<br>■ Pre-spawn CONCORD<br>■ Warp out if you see gankers land on grid<br>■ Do Not AFK undocked<br><br>Tips and Etiquette:<br>■ Use</font><font size="13" color="#ffffe400"><loc><a href="https://wiki.eve-linknet.com/mining_formation.png"> </a><a href="https://wiki.eve-linknet.com/mining_formation_copy.png">'The Donut' formation:</a></loc><br></font><font size="13" color="#99ffffff"> - Booster: Mine from center to outwards<br> - Miner: Mine from outer edge inwards<br>■ Stay within Orca boosting range, but at least 30km away and avoid mining rocks within that range until the end.<br> - at no time should a fleet member be within 10k of an Orca without express permission<br> - If you do not know a boosters given range, ask. This will vary by skill /fit /implants<br><br>HS Operations:<br>■ Oisio | Yria<br>■ </font><font size="13" color="#ff94ccff"><a href="helpPointer:unique_ui_agency_card_41">Ice Belts</a></font><font size="13" color="#99ffffff"> <br>■ FoB: </font><font size="13" color="#ff94ccff"><a href="helpPointer:unique_ui_agency_card_36">Pirate Strongholds</a></font><font size="13" color="#99ffffff"> (</font><font size="13" color="#ffffe400"><loc><a href="http://wiki.eveuniversity.org/Forward_Operating_Base">EVE Uni</a></loc></font><font size="13" color="#99ffffff">)<br> - known to be buggy, check systems you plan to be active in as you enter them<br><br></font><font size="13" color="#ffff00ff">A L E R T S:<br><br></font><font size="18" color="#ff00ff00">↑ Scroll up &amp; Read MOTD ↑</font>
