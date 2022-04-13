@@ -2,11 +2,14 @@
 title: Fatalix Industries [FXIN]
 description: 
 published: true
-date: 2022-01-08T22:35:39.435Z
+date: 2022-04-13T03:58:54.735Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-17T14:54:51.171Z
 ---
+
+Former Member
+~~
 
 # About Us
 Fatalix Industries is a wormhole corporation and long time member of LinkNet.
@@ -37,3 +40,4 @@ Additionally:
 You can find out application process here: https://wiki.fatalix.com/en/apply
 
 You should also join our in-game channel "FXIN Public" and say hello!
+~~
