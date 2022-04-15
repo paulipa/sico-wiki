@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-04-13T03:59:56.639Z
+date: 2022-04-15T04:12:27.855Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -78,12 +78,12 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Contact:
 # Null Sec
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
-A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FI.RE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
+A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FIRE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
 - Location: Null Sec
 - Timezone: Global
-- Industry
+- Industry/Mining, PvE
 - PvP
-- Contact: Storytellar Stargazer, Jafner
+- Contact: Jafner, Savage Jones
 ## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
 A little about the corp, We are a Null Sec based corp whose primary focus is Industry and mining, and Multi-boxing! Some of the things we offer!
 - Location: Null Sec
