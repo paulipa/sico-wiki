@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-04-15T04:12:27.855Z
+date: 2022-04-15T07:38:11.250Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -138,6 +138,13 @@ Combat Patrol is a wormhole corporation which provides its citizens with excelle
 - PVE
 - PVP
 - Contact: Luke Pericles
+## [Stain Train [W00--]](/community/coalition-corporations/woo)
+Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well look no further we have the group for you! Big Yikes is looking for players of all skill levels new to experienced to join our tanks today!
+- Location: Wormholes
+- Timezone: US
+- PVP, Blops
+- Capital Warfare, Industry
+- Contact: Bradford Clear
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
 Invite only PvP corporation that hosts PvP operations in low and null sec. Easiest way to get to know the corporation and join them is to join the open pvp fleets. Fun > Killboard Stats!
