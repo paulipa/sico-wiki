@@ -2,7 +2,7 @@
 title: Rules and Requirements
 description: 
 published: true
-date: 2021-05-03T20:50:40.276Z
+date: 2022-05-06T13:13:13.324Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T14:09:14.826Z
@@ -141,6 +141,7 @@ A flexible partnership level that uses blue standing to limit PvP engagements an
 
 ### Perks
 - Eligible for base services
+- High Sec 24/7 mining fleet
 - Blue standings with other blue partners and alliance partners
 - Full autonomy
 
@@ -161,8 +162,11 @@ A flexible partnership level that does not use standing to limit PvP engagements
 
 ### Perks
 - Eligible for base services
+- High Sec 24/7 mining fleet*
 - Neutral standings allow engaging on other community members during roams
 - Full autonomy
+
+\* *Fleet advert is only visible for blues, join with request.*
 
 ### Requirements
 - [General Partner Member Requirements](#general-partner-member-requirements-gpmr) are applied
