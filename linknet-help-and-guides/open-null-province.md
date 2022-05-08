@@ -2,13 +2,13 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-08T18:46:06.050Z
+date: 2022-05-08T18:47:11.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
 ---
 
-# LinkNet Open Null Province
+# LinkNet Open Null Province [ONP]
 Our community offers an open null sec constellation where any blue may play and experience null sec gameplay without the initial need of commiting to a null sec corporation. The space is open for all **blue LinkNet partner corporations**, including the entry level corporation.
 
 You can check your current corporation partnership level by checking your standings towards the LinkNet alliance ingame.
