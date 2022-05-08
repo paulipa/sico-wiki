@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-03-08T16:04:52.547Z
+date: 2022-05-08T19:33:26.536Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -2484,4 +2484,33 @@ Medium Core Defense Field Purger I
 
 Strontium Clathrates x21
 
+</details>
+
+## Ratting
+<details>
+<summary>Vexor, Newbro Ratting 1.0</summary>
+[Vexor, Newbro Ratting 1.0]
+
+Medium I-a Enduring Armor Repairer
+Reactive Armor Hardener
+AE-K Compact Drone Damage Amplifier
+AE-K Compact Drone Damage Amplifier
+AE-K Compact Drone Damage Amplifier
+
+100MN Monopropellant Enduring Afterburner
+Medium Compact Pb-Acid Cap Battery
+Cap Recharger II
+Cap Recharger II
+
+Drone Link Augmentor I
+Drone Link Augmentor I
+
+Medium Capacitor Control Circuit I
+Medium Capacitor Control Circuit I
+Medium Capacitor Control Circuit I
+
+
+Hornet I x4
+Vespa I x3
+Wasp I x3
 </details>
