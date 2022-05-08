@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-08T18:47:11.847Z
+date: 2022-05-08T19:23:39.954Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -41,6 +41,8 @@ This section will explain to you how to use null sec related tools and ingame se
 ## SMT maps
 
 ## Standing fleet
+
+## More permanent life in ONP
 
 
 
