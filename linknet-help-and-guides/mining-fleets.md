@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-04-12T11:40:14.833Z
+date: 2022-05-09T04:23:54.277Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -37,9 +37,9 @@ LinkNet mining fleets have a standard setup so that it is easy for you to get in
 The type of boost and its efficiency depends on the modules fitted on the boosting ship and the skill level of the booster. While most of the official Industry Commanders are all using our standard boosting fit and have the best possible skills for boosting you need to keep in mind that as it takes a long time to train up all of the boosting skills some of the boosters might not have yet the time to max all of their skills.
 
 While in a LINE Mining fleet you will be receiving the following boost:
-- `Mining Laser Field Enhancement` – Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners – Maximum Bonus +107.8%
-- `Mining Laser Optimization` – Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters – Maximum Bonus -40.4%
-- `Mining Equipment Preservation` – Reduces volatility of mining crystals (the speed they break down) – Maximum Bonus -40.4%
+- `Mining Laser Field Enhancement` – Increases range of mining lasers, strip miners, ice harvesters, gas harvesters, and survey scanners – Maximum Bonus +124%
+- `Mining Laser Optimization` – Reduces cycle time and capacitor use of mining lasers, strip miners, ice harvesters, and gas harvesters – Maximum Bonus -46.5%
+- `Mining Equipment Preservation` – Reduces volatility of mining crystals (the speed they break down) – Maximum Bonus -46.5%
 
 ## Joining the standing fleet
 There are three different ways for you to join a fleet. In order for you to be able to see and join a fleet without someone inviting you to it you will need to match the criteria set by the fleet boss. Since all the Mining Boosters in LinkNet have all of the community partner corporations (and the members in these corporations) set to be able to access and see the fleets by default there should be no problems for you to see any of the mining fleets, if there are any online.
@@ -93,7 +93,7 @@ If you are flying a booster ship you will start to mine fro mthe center of the o
 ### Miners
 If you are flying any other mining ship than the boosters you will start mining from the outer edges of the ore field. As the field gets mined out you will circle towards the center. No ore should be left on the outer edges when miners reach the center.
 
-Stay within the booster range, but at least 30km away from the boosters as lon as possible. When all of the other ores on the field are mined out you can go within this range.
+Stay within the booster range, but at least 30km away from the boosters as long as possible. When all of the other ores on the field are mined out you can go within this range.
 
 At no time should a miner be within 10km of the booster.
 
@@ -110,7 +110,7 @@ If the mining fleet is not operating inside the same solar system that you are c
 After landing on the fleet you can start mining while remaining inside the range of the command burst ship. The best way to do this is to keep orbiting the command ship at range. Each minute the ship will send out an area of effect burst that will boost your mining attributes. Once your ore hold is full you simply empty it and repeat the steps.
 
 ## Ore compression
-If there is a booster on grid who uses our standard fit it should allow you to compress your ores on grid. This will greatly increase your mining times as you do not need to warp to a station to empty your cargo. A compressed ore takes 100 less space than uncompressed ones.
+If there is a booster on grid who uses our standard fit it should allow you to compress your ores on grid. This will greatly increase your mining times as you do not need to warp to a station to empty your cargo. A compressed ore takes 100 times less space than uncompressed ones.
 
 To compress your ores simply be within the compression range of the booster, right click the items in your inventory and press compress.
 
@@ -131,7 +131,7 @@ The ultimately best way to ask `mining boosters` to raise fleets is to do it in 
 Discord is a third party chat and voice program which allows you to contact all those boosters that are not currently online but would otherwise be able to set up a fleet for you!
 ![ping-commander-800x222.jpg](/ping-commander-800x222.jpg =400x)
 
-After registering and authenticating on [discord](/tools/communication/discord) you simply type `@imining booster` in the #linknet-general chat channel and ask them if anyone would be able to set up a fleet. Only ask once a while and never spam it in case no one is answering to you.
+After registering and authenticating on [discord](/tools/communication/discord) you simply type `@booster orca pilot` in the #linknet-general chat channel and ask them if anyone would be able to set up a fleet. Only ask once a while and never spam it in case no one is answering to you.
 
 ### Eve LinkNet Partners chat
 If you do not want to use discord for some reason or happen to see a Industry Commander online in Eve LinkNet Partners you can try to ask in there for them to raise a fleet. However the disadvantage in this compared to discord is that the players holding the role are not getting a notification for this and the message could easily scroll away. The second downside is that the players might be simply AFK or doing something else on some other accounts.
