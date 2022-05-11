@@ -2,7 +2,7 @@
 title: LinkNet Help & Guides
 description: Guides related to LinkNet operations
 published: true
-date: 2022-04-11T16:56:29.757Z
+date: 2022-05-11T05:44:02.198Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T15:39:55.518Z
@@ -22,6 +22,9 @@ In order to survive in EVE you will need to know where and who your enemies are.
 ## [Industry](/linknet-help-and-guides/industry)
 
 # Ingame Services
+
+## [LinkNet Open Null Province [ONP]](/linknet-help-and-guides/open-null-province)
+Our community offers an open null sec constellation where any blue may play and experience null sec gameplay without the initial need of commiting to a null sec corporation. The space is open for all blue LinkNet partner corporations, including the entry level corporation.
 
 ## [Asset Deposit](/linknet-help-and-guides/asset-deposit)
 If you have some extra assets that you do not actively need or use and notice that the coalition might have use for them then you should have a look at the Asset Deposit service that we have in the coalition.
