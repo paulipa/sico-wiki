@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-11T05:34:47.277Z
+date: 2022-05-11T05:37:28.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -50,6 +50,9 @@ The ship will be contracted you as soon as possible.
 
 ## Freight to Feythabolis
 You can use our freight service to ship items to Feythabolis. The freight calculator is located at https://auth.eve-linknet.com/freight/calculator
+
+All contracts are assigned for `LinkNet Freight`
+![linknet_freight.png](/linknet_freight.png)
 
 Keep in mind that due to the extremely long route this is not an express shipping service. Collateral is currently not used in this route and the corporation the contracts are assigned to are managed only by trusted players. In an event off loss of freight we will try to reimbush your loss with our best cababilities.
 
