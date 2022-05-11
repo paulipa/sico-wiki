@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-08T19:48:01.658Z
+date: 2022-05-11T05:32:55.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -47,6 +47,13 @@ To request a ship simply type your character name and the ship you want in the [
 The ship will be contracted you as soon as possible.
 
 ![ship-request.png](/ship-request.png)
+
+## Freight to Feythabolis
+You can use our freight service to ship items to Feythabolis. The freight calculator is located at https://auth.eve-linknet.com/freight/calculator
+
+Keep in mind that due to the extremely long route this is not an express shipping service. Collateral is currently not used in this route and the corporation the contracts are assigned to are managed only by trusted players. In an event off loss of freight we will try to reimbush your loss with our best cababilities.
+
+## Getting to Feythabolis
 
 ## Intel channel
 
