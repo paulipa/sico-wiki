@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-11T05:37:28.089Z
+date: 2022-05-13T05:14:36.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -31,7 +31,7 @@ The rules for operating in this area are pretty much similar to our other areas 
 1. Join the special interest group for [SIG: Open Null Province](https://auth.eve-linknet.com/group/request/join/281/)
 1. Use the intel channel: `LinkNetFeyth.Intel`
 1. Use ingame channel:  `EVE LinkNet NS` for topics related to the open null province
-1. Use SMT maps
+1. Use SMT maps (3rd party EVE map tool. https://github.com/Slazanger/SMT/releases/tag/SMT_109)
 1. Be in a standing fleet at all times. 
 
 # Handbook
