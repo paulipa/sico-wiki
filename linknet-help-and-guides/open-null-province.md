@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-13T05:14:46.559Z
+date: 2022-05-14T08:21:08.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -22,7 +22,7 @@ We currently habit the constellation pocket of [RHG-4O](https://evemaps.dotlan.n
 ## Rules
 The rules for operating in this area are pretty much similar to our other areas with a few exceptions.
 
-1. Do not shoot any players with blue standings
+1. Do not shoot any players with blue standings to SLTRN/LINE. This especially includes COSCO.
 1. **Do not shoot any structures, ever**
 1. Follow our base [rules and requirements](https://wiki.eve-linknet.com/en/community/rules-and-requirements) when interacting with other pilots
 
