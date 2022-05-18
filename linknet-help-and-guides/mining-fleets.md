@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2022-05-09T04:23:54.277Z
+date: 2022-05-18T13:28:02.851Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -228,7 +228,7 @@ The EVE LinkNet is a non-profit community program that connects the right player
 4. Open the advanced settings
 ![set_advanced_settings.jpg](/set_advanced_settings.jpg =600x)
 5. Set fleet access based on standings (require at least 1.0 standings = blue access)
-![community_mining_fleet_settings.jpg](/community_mining_fleet_settings.jpg =600x)
+![community_mining_fleet_settings.png](/community_mining_fleet_settings.png =600x)
 6. Register the fleet
 7. Change MOTD to (copy paste):
 
