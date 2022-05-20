@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-14T08:21:08.284Z
+date: 2022-05-20T13:50:15.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -42,7 +42,7 @@ To celebrate the launch of our new province we are offering free welcome ships a
 - [Procurers and venturers](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#mining-fleet)
 - [Ratting vexors](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#ratting)
 
-To request a ship simply type your character name and the ship you want in the [#ship-request](https://discord.com/channels/230672980814987264/972946904348508160) channel on our community discord located under the `open-null-province` folder.
+To request a ship simply type your character name and the ship you want in the [#requests](https://discord.com/channels/230672980814987264/972946904348508160) channel on our community discord located under the `open-null-province` folder.
 
 The ship will be contracted you as soon as possible.
 
