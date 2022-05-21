@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-05-08T08:07:45.562Z
+date: 2022-05-21T21:20:52.226Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -117,6 +117,13 @@ FW Scuad is the oldest spanish-speaking corporation active in New Eden. We'be be
 - Mining & Industry
 - Contact: Selenix
 
+## [Stain Train [W00--]](/community/coalition-corporations/woo)
+Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well look no further we have the group for you! Stain Train is looking for players of all skill levels new to experienced to join our tanks today! NPC Stain is where we are staged with multiple opportunities for new and old players to learn and grow. Join our public today "Big Yikes Public".
+- Location: Null Sec
+- Timezone: US/AU
+- PVP, Blops, Newbro Friendly
+- Capital Warfare, Industry
+- Contact: Bradford Clear, hkmpseven, Sinester Shadow
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
 Our goal is to give anyone who wants it an opportunity to experience life in a wormhole, while providing a safe, friendly environment for new players to learn the basics of different aspects of the game. We combine the knowledge & experience of veteran players with the infrastructure and teaching mentality of the LinkNet community in order to make sure you’ll get the best start to your EVE career. This is the WAEY.
@@ -147,13 +154,7 @@ Combat Patrol is a wormhole corporation which provides its citizens with excelle
 - PVE
 - PVP
 - Contact: Luke Pericles
-## [Stain Train [W00--]](/community/coalition-corporations/woo)
-Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well look no further we have the group for you! Big Yikes is looking for players of all skill levels new to experienced to join our tanks today!
-- Location: Wormholes
-- Timezone: US
-- PVP, Blops
-- Capital Warfare, Industry
-- Contact: Bradford Clear
+
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
 Invite only PvP corporation that hosts PvP operations in low and null sec. Easiest way to get to know the corporation and join them is to join the open pvp fleets. Fun > Killboard Stats!
