@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-05-21T21:20:52.226Z
+date: 2022-05-23T03:23:32.636Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -85,11 +85,13 @@ A primarily industrial corporation who enjoys the benefits of mining and ratting
 - PvP
 - Contact: Jafner, Savage Jones
 ## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
-A little about the corp, We are a Null Sec based corp whose primary focus is Industry and mining, and Multi-boxing! Some of the things we offer!
+What can we say? We do everything. We don't limit how our members make isk or enjoy the game. From lucritive mining opertunities, capital ship construction, PvE, PvP. There is always corp projects going on and ways for you to make isk! We also offer a corp wide Buyback as a service to our members! We always put our members IRL before Eve as well. Psst.... Did we mention we have the most extensive BPO library in all of Linknet publicly available to our members?
 - Location: Null Sec
-- Timezone: US
-- Industry, Mining
+- Timezone: Primarily US, but we have global members who always want friends! 
 - Making Dank Isk
+- PvE
+- Null sec PvP - Small gang corp roams, Or large scale alliance fleets. 
+- Null sec Mining/Industry/PI - Max Rorual boost, Max Reprocessing Skills, Advanced Industry Infrustructure. 
 - Contact: Xanos Ragnarok, Cresenne Jaterba
 
 ## [TEMPLAR. [TMP.]](/community/coalition-corporations/tmp)
