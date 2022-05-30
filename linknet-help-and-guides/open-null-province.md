@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-30T16:43:46.407Z
+date: 2022-05-30T16:53:14.760Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -66,8 +66,18 @@ All the information you will need is given on the freight calculator. Please use
 
 
 ## Getting to Feythabolis
+The route to Fay is quite long if you are coming from Oisio or Jita. The easiest way to get to our null sec HQ is simply to board a shuttle and start jumping your way to our staging system. If you are in a cheap clone you can autopilot your shuttles all the way down to the last high sec system.
+
+Shuttles are immune to warp bubble and align faster than most tackling ships are able to lock you up. This is why your route to the null staging will most likely go without any issues.
 
 ## Intel channel
+While you are operating in our ONP you will be using a dedicated channel for player movement intel. To open this channel simply join the `LinkNetFeyth.Intel` channel that is linked in the null sec chat MOTD.
+
+When you see a new neutral player enter the system you are in simply drag and drop the players name into the interl channel. After the player name drag your system name. If you have visual information about the ship type the neutral is flying you can also type that in after the system name.
+
+See guide gif: [reporting-on-intel.mp4](/reporting-on-intel.mp4)
+
+![intel.jpg](/intel.jpg)
 
 ## SMT maps
 
