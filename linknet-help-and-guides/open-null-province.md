@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2022-05-20T13:50:15.745Z
+date: 2022-05-30T16:41:54.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -18,6 +18,9 @@ We currently habit the constellation pocket of [RHG-4O](https://evemaps.dotlan.n
 
 > Only blue partners are able to play in the open province area.
 {.is-info}
+
+> If you do seem to find out that null sec is your thing we highly recommend that you move to one of our more focused partner corporations located in different regions of null sec space to gain the full null sec experience. A list of our null partners is locted in [here](https://wiki.eve-linknet.com/en/community/partner-corporations#null-sec).
+{.is-success}
 
 ## Rules
 The rules for operating in this area are pretty much similar to our other areas with a few exceptions.
