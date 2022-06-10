@@ -2,7 +2,7 @@
 title: Emissary
 description: Our emissary program allows non community partners to raise fleets for our community without the need of a partnership.
 published: true
-date: 2021-02-16T13:01:28.950Z
+date: 2022-06-10T07:11:23.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-16T12:44:45.954Z
@@ -14,12 +14,7 @@ The emissary program is designed to allow third party entities to raise fleets f
 All emissary based content and fleets should be raised inside our systems and use our communication channels. This program is not to advertise your corporation but to advertise your content. For corporation advertisement see the [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements) program
 
 ## Requirements
-In order to qualify for the emissary program you will need to ensure us that you are qualified to raise fleets for the content type you are aiming at. This is to make sure that all of the fleets, classes and events that are advertised for our community members reach our quality standards.
-
-There are multiple ways for you to reach these quality standards:
-- Have someone we know vouch for you
-- Have positive public reputation for running NPSI fleets
-- Prove your qualification by representing facts of your previous actions such as AAR's, killboards or news blogs
+In order to apply to the emissary program you will need to have at least one player who is going to be responsible for communicating and coordinating things with our community. This player is most often the CEO, director or a fleet commander of your corporation. This player will be granted the Emissary role while the rest of the corporation members will gain the emissary partner state which allows them to access our channels.
 
 ## Benefits
 The emissary program is the easiest way to start interacting with LinkNet without a [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements). With the emissary program you will be given the required roles in our systems to share the required information needed for players to find out about your fleets or content.
