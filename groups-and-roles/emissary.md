@@ -2,14 +2,14 @@
 title: Emissary
 description: Our emissary program allows non community partners to raise fleets for our community without the need of a partnership.
 published: true
-date: 2022-06-10T07:11:23.431Z
+date: 2022-06-10T07:16:39.007Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-16T12:44:45.954Z
 ---
 
 # The Emissary Program
-The emissary program is designed to allow third party entities to raise fleets for LinkNet members without the need of a permanent [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements) with the community.
+The emissary program is designed to allow third party entities to raise fleets for LinkNet members without the need of a permanent [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements) with the community. Emissary corporations may request a +5 standing with our blue partner corporations.
 
 All emissary based content and fleets should be raised inside our systems and use our communication channels. This program is not to advertise your corporation but to advertise your content. For corporation advertisement see the [partnership](https://wiki.eve-linknet.com/en/community/rules-and-requirements#partner-requirements) program
 
