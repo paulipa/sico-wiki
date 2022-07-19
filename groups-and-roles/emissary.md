@@ -2,7 +2,7 @@
 title: Emissary
 description: Our emissary program allows non community partners to raise fleets for our community without the need of a partnership.
 published: true
-date: 2022-06-10T07:16:39.007Z
+date: 2022-07-19T13:37:37.048Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-16T12:44:45.954Z
@@ -48,6 +48,6 @@ The guide for creating pings on our discord is located in [here](https://wiki.ev
 ## Fleets and comms
 When you raise your fleet you should be using one of the discord channels located on our discord. You may either use the public channels or the community restricted channels depending on the access type you want to host for your fleet.
 
-To invite memers in the fleet please post the fleet in `LinkNet General` ingame channel or use the new fleet up tool to open up the fleet with public access. 
+To invite memers in the fleet please post the fleet in `LinkNet General` ingame channel or use the new fleet up tool to open up the fleet with public access. For posting fleets for our community members only use the `EVE LinkNet Partners` channel.
 
 Use require accept if needed for members to join the fleet if the fleet is restricted only for LinkNet members or set up personal standings for them to be able to join the fleet. The list of our corporations is located in [here](https://wiki.eve-linknet.com/community/coalition-corporations).
