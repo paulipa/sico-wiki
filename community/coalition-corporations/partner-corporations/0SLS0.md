@@ -2,7 +2,7 @@
 title: Suddenly Spaceless [0SLS0]
 description: Welcome to Suddenly Spaceless, a beginner friendly nullsec corporation that does a bit of everything
 published: true
-date: 2022-08-03T13:51:24.564Z
+date: 2022-08-03T13:51:42.818Z
 tags: pve, nullsec, pvp, industry, eve online, blob, small gang, fleet, command, fc, rorqual
 editor: markdown
 dateCreated: 2022-08-03T13:37:53.959Z
@@ -30,6 +30,8 @@ https://evemaps.dotlan.net/alliance/Literally_Triggered
 (Not Counting the Coalition's Assets)
 The Alliance itself now has its very own 2 Keepstars!
 as well as Sotiyos and Tataras!
+Even some fancy Faction Fortizars!
+
 
 ## What we need from you.
 
