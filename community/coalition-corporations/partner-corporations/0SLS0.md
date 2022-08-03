@@ -2,7 +2,7 @@
 title: Suddenly Spaceless [0SLS0]
 description: Welcome to Suddenly Spaceless, a beginner friendly nullsec corporation that does a bit of everything
 published: true
-date: 2022-08-03T13:47:46.977Z
+date: 2022-08-03T13:50:53.242Z
 tags: pve, nullsec, pvp, industry, eve online, blob, small gang, fleet, command, fc, rorqual
 editor: markdown
 dateCreated: 2022-08-03T13:37:53.959Z
@@ -14,6 +14,12 @@ Welcome to the Suddenly Spaceless Wikipedia Article
 
 We are a small casual Corporation in Eve Online.  We are the founding member of Literally Triggered Alliance.  Proud members of Winter Coalition up in the North.  
 
+We are well established and have been around for many years now.
+
+We are a PVP focused Corporation however we have lots of people who also do industry and different types of krabbing. (Making Money in Null).
+
+Primary Time zone is EU. 
+
 ## Where are we located?
 We are between Vale and Tribute. Overall Super close to Jita, 1 JumpBrdge and a few gates to home.  (Our Alliance Staging is in Tribute)
 https://evemaps.dotlan.net/alliance/Literally_Triggered 
@@ -21,8 +27,13 @@ https://evemaps.dotlan.net/alliance/Literally_Triggered
 
 ## What do we offer?
 
+WIP
 
 ## What we need from you.
+
+5 Million Skill Points and an interest in PVP.
+Seat Registration
+and possibly an Interview
 
 **NOTE: Waivers available depeneding on pilot
 
