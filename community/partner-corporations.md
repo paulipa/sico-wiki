@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-08-01T16:54:22.022Z
+date: 2022-08-03T13:42:37.099Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -102,12 +102,14 @@ Join like minded people who want to experience all opportunities New Eden has to
 - Null Sec PvE
 - Contact: Renius
 
-## Suddenly Spaceless [0SLS0](/community/coalition-corporations/0sls0)
+## [0SLS0](/community/coalition-corporations/partner-corporations/0SLS0) Suddenly Spaceless [0SLS0](/community/coalition-corporations/0sls0)
 - Location: Null Sec
-- Timezone: 
-- 
-- 
-- Contact: 
+- Timezone: EU Primary
+- PVP Focused
+- Industry and Isk Opportunities
+- CEO's:  
+Hila Kashada
+Ragnar Voll
 
 ## [Aegis Reforged [AEGRF]](/community/coalition-corporations/aegrf)
 Aegis Reforged is an emerging Nullsec PvP and industry corporation based in immensea. We mine, build, sell, hunt and destroy to fuel the circle of life in New Eden. Being in one of the most hotly contested regions of space, our team of veterans from all walks of life have no shortage of experience and content to share. Have you got what it takes to thrive on the front lines?
