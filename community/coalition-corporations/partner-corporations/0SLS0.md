@@ -2,7 +2,7 @@
 title: Suddenly Spaceless [0SLS0]
 description: Welcome to Suddenly Spaceless, a beginner friendly nullsec corporation that does a bit of everything
 published: true
-date: 2022-08-03T13:51:42.818Z
+date: 2022-08-03T13:51:56.857Z
 tags: pve, nullsec, pvp, industry, eve online, blob, small gang, fleet, command, fc, rorqual
 editor: markdown
 dateCreated: 2022-08-03T13:37:53.959Z
@@ -32,6 +32,7 @@ The Alliance itself now has its very own 2 Keepstars!
 as well as Sotiyos and Tataras!
 Even some fancy Faction Fortizars!
 
+This is not even including all the benefits our whole coalition offers. We are Number one for most SOV owned in all of Eve Online.  Tons of Keepstars, Fortizars, Sotiyos, ETC for you to utilize. The most space out of all of the game, A genuinely Wholesome group of people.  Standing Fleet Activities for those who are bored and always looking for people to hang out and shoot hostiles who fly through our space.
 
 ## What we need from you.
 
