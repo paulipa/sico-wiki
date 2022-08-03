@@ -2,7 +2,7 @@
 title: Suddenly Spaceless [0SLS0]
 description: Welcome to Suddenly Spaceless, a beginner friendly nullsec corporation that does a bit of everything
 published: true
-date: 2022-08-03T13:45:42.749Z
+date: 2022-08-03T13:47:46.977Z
 tags: pve, nullsec, pvp, industry, eve online, blob, small gang, fleet, command, fc, rorqual
 editor: markdown
 dateCreated: 2022-08-03T13:37:53.959Z
@@ -42,5 +42,10 @@ https://discord.gg/FTTAcF3ma8
 - Sosuemees: Director
 
 
-Channels for Videos:
+Literally Triggered's Youtube:
+https://www.youtube.com/channel/UC6G5eiCohB0rEwcRWKfJkNQ 
+
+Streamers from LTRIG: 
+https://www.twitch.tv/anlions_v
+
 
