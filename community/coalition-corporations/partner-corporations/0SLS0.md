@@ -2,7 +2,7 @@
 title: Suddenly Spaceless [0SLS0]
 description: Welcome to Suddenly Spaceless, a beginner friendly nullsec corporation that does a bit of everything
 published: true
-date: 2022-08-03T13:37:53.959Z
+date: 2022-08-03T13:45:42.749Z
 tags: pve, nullsec, pvp, industry, eve online, blob, small gang, fleet, command, fc, rorqual
 editor: markdown
 dateCreated: 2022-08-03T13:37:53.959Z
@@ -33,12 +33,14 @@ https://discord.gg/FTTAcF3ma8
 
 **US and non-EU Timezones:**
 - Anlions V: Linknet Diplomat
+- Owl Hoot: Recruiter
 
 **EU Timezones:**
 - Hila Kashada: Alliance Exec
 - Ragnar Voll: CEO of Corporation
 - Calistai Huranu: Director
 - Sosuemees: Director
-- Owl Hoot: Recruiter
 
+
+Channels for Videos:
 
