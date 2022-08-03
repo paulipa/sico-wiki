@@ -2,7 +2,7 @@
 title: Suddenly Spaceless [0SLS0]
 description: Welcome to Suddenly Spaceless, a beginner friendly nullsec corporation that does a bit of everything
 published: true
-date: 2022-08-03T14:05:01.274Z
+date: 2022-08-03T14:06:38.581Z
 tags: pve, nullsec, pvp, industry, eve online, blob, small gang, fleet, command, fc, rorqual
 editor: markdown
 dateCreated: 2022-08-03T13:37:53.959Z
