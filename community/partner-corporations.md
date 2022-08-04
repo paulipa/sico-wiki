@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-08-03T13:42:37.099Z
+date: 2022-08-04T23:47:56.238Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -103,9 +103,11 @@ Join like minded people who want to experience all opportunities New Eden has to
 - Contact: Renius
 
 ## [0SLS0](/community/coalition-corporations/partner-corporations/0SLS0) Suddenly Spaceless [0SLS0](/community/coalition-corporations/0sls0)
+We are a small community with a casual approach to the game. We have all the oppertunities you can ask for from a nullsec corporation. Are you relativley new to the game and are scared of spooky nullsec? We are very beginner friendly and have a super wholesome group of people who would love to help you learn. Minimum requirement is simply having an interest in PVP. You don't have to be a Elite Pvper, we sure aren't. But we just simply want people who have the interest.  
 - Location: Null Sec
 - Timezone: EU Primary
-- PVP Focused
+- PVP 
+- Pochven Sig ($$$)
 - Industry and Isk Opportunities
 - CEO's:  
 Hila Kashada
