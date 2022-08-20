@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-08-04T23:47:56.238Z
+date: 2022-08-20T14:56:41.304Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -137,6 +137,14 @@ Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well 
 - PVP, Blops, Newbro Friendly
 - Capital Warfare, Industry
 - Contact: Bradford Clear, hkmpseven, Sinester Shadow
+
+## [Surreptitious Technologies [STGIS]](/community/coalition-corporations/stgis)
+We are a growing 0.0 pvp organization who are a member of the Shadow Ultimatum alliance. We are a pvp focused corporation with our aim at becoming a real threat with black ops warfare and pvp in general. Progression in all areas of what we do is primary. We are focused on consistent growth to help enable the alliance to take and hold its own sov territory. It is the way. Alliance Intro: https://www.youtube.com/watch?v=OJxvW_NbQOc&t
+- Location: Null Sec
+- Timezone: Global
+- PVP, Mining, Ratting, Null Sec
+- Black Ops
+- Contact: Sebekk knap
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
 Our goal is to give anyone who wants it an opportunity to experience life in a wormhole, while providing a safe, friendly environment for new players to learn the basics of different aspects of the game. We combine the knowledge & experience of veteran players with the infrastructure and teaching mentality of the LinkNet community in order to make sure you’ll get the best start to your EVE career. This is the WAEY.
