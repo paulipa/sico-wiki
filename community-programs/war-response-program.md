@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2021-09-17T17:52:11.394Z
+date: 2023-01-05T14:48:35.723Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -12,7 +12,7 @@ dateCreated: 2020-07-07T17:28:01.656Z
 —Description of the Dark Arts
 
 # HS War Response Program
-Welcome to Defence Of The Dark Arts. **This corporation is the primary fast response military corporation for the LinkNet community.** While its members are mainly alpha alt (alternative) characters with low skill points and very narrow skills to only fly the current doctrines, it may also be joined with older or omega accounts.
+Welcome to Defence Against the Dark Arts. **This corporation is the primary fast response military corporation for the LinkNet community.** While its members are mainly alpha alt (alternative) characters with low skill points and very narrow skills to only fly the current doctrines, it may also be joined with older or omega accounts.
 
 > The primary purpose for this corporation is to serve as a response fleet for the initial aggressions against our structures or allies.
 {.is-info}
