@@ -2,7 +2,7 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2023-01-05T14:48:46.337Z
+date: 2023-01-11T15:55:39.503Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
@@ -48,7 +48,7 @@ The following section will explain you how to inject to the required skills to f
 ## Full Plan, Ferox & Osprey Alpha
 1. The first thing that you need to do is to obviously to redeem the free skill points. Open your redeem item windows and redeem the civilian skill point pack! You now have 1 000 000 free skill points that you can inject.
 ![redeem_items.jpg](/redeem_items.jpg =500x)
-1. Ask in the `EVE LinkNet partners` channel ingame or on our discord for an officer to send you 15 mil isk. You will need this to buy the needed skill books.
+1. Ask in the `EVE LinkNet partners` channel ingame or on our discord for an officer to send you 30 mil isk. You will need this to buy the needed skill books.
 1. Next open the corporation chat window and look for the skill plans. Open up the Full Plan, Ferox & Osprey Alpha
 ![sltrn-full-plan.jpg](/sltrn-full-plan.jpg =400x)
 1. After you open the plan you will notice that you are not able to start the plan just yet. This is due to your character lacking the needed skills. Open up the plan by pressing on the `Show skill plan content` button.
