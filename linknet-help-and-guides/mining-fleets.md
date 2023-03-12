@@ -2,7 +2,7 @@
 title: Mining Fleets
 description: 
 published: true
-date: 2023-03-12T19:06:34.571Z
+date: 2023-03-12T19:10:38.780Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-06T17:15:46.499Z
@@ -242,7 +242,7 @@ Copy and paste the following code as your fleet MOTD and adjust the information 
 *MOTD Updated last on 11th of of April 2022*
 
 After copying the text your MOTD should look something like this:
-![mining_fleet_motd.jpg](/mining_fleet_motd.jpg =200x)
+![exefile_2023-03-12_13-07-52.png](/exefile_2023-03-12_13-07-52.png =200x)
 
 You may also add other information to the MOTD that you see fit.
 
