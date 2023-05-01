@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2022-08-20T14:58:11.387Z
+date: 2023-05-01T07:59:19.922Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -76,6 +76,15 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Faction Warfare, Low Sec Piracy
 - PVP
 - Contact:
+
+## [modro [MODRO]](/community/coalition-corporations/modro)
+modro is a 16 year old eve corp with players in all time zones focusing on small gang pvp but with mining and industry players as well basically we are care bears with teeth ,modro has recently returned to eve after a few years dormant while we focused on null space in the nc , we offer experianced fc's including a senior spectre fleet fc within corp we also offer srp for  corp fleets and discounts on personal ships we also offer mining and wormhole  opportunities  come fly with modro and our laid back gaming style chat with us ingame at [ Mother modros chit chat ] we have players in eu,us,au time zones 
+- Location: Low Sec
+- Timezone: US
+- small gang pvp
+- manufacturing
+- Contact: dianathegreat
+
 # Null Sec
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FIRE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
