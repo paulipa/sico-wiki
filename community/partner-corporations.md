@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-01T07:59:19.922Z
+date: 2023-05-02T12:52:25.018Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -205,5 +205,8 @@ Sig corporations are created for a set purpose inside the community. Each corpor
 
 ## [Defence Against The Dark Arts[SLTRN]](https://wiki.eve-linknet.com/community-programs/war-response-program)
 - War Response Program
+
+## [Silent Amethyst[SIL4]](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province)
+- Corporation for more permanent ONP players
 
 
