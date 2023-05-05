@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2023-05-05T12:29:11.104Z
+date: 2023-05-05T12:31:17.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -25,7 +25,7 @@ All [community partners](https://wiki.eve-linknet.com/en/community/partner-corpo
 
 SEADC members who try out life in Provi are expected to move over to the null corps within 1-2 weeks. Silent Vale & Silent Amethyst are current corporations offering home for permanent provi pilots. These corporations have also extra blues from the next door alliances and are more safe against random ganks compared to other linknet community corporations.
 
-> Service taxes are intentianlly increased for SEADC to discourage you to sit in the entry corporation if you permanently live in ONP. Moving to the proper null corporation will decrease your taxes and costs.
+> Service taxes are intentianlly increased for non null sec alliance corporations such as SEADC and SLTRN to discourage you to sit in the entry corporation if you permanently live in ONP. Moving to the proper null corporation will decrease your taxes and costs.
 {.is-warning}
 
 ## Requirements
