@@ -2,7 +2,7 @@
 title: Open Null Province: Feythabolis
 description: 
 published: true
-date: 2023-05-05T12:31:17.883Z
+date: 2023-05-05T12:45:04.121Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -36,6 +36,7 @@ SEADC members who try out life in Provi are expected to move over to the null co
 1. **Do not shoot any structures, ever**
 1. Follow our base [rules and requirements](https://wiki.eve-linknet.com/en/community/rules-and-requirements) when interacting with other pilots
 1. Use SMT maps (3rd party EVE map tool. https://github.com/Slazanger/SMT/releases/tag/SMT_109)
+1. If you are not part of the null sec LinkNet alliance join the [SIG: Open Null Province](https://auth.eve-linknet.com/group/request/join/281/) to receive important pings
 
 # Handbook
 This section will explain to you how to use null sec related tools and ingame services.
