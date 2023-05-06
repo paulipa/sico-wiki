@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-02T12:52:25.018Z
+date: 2023-05-06T10:31:50.352Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -162,14 +162,7 @@ Our goal is to give anyone who wants it an opportunity to experience life in a w
 - Wormhole activities: PvE, PvP, industry, exploration and more.
 - Teaching the basics, newbro friendly
 - Contact:
-## [Useless Idea [US3]](/community/coalition-corporations/us3)
-Useless idea is currently one of the biggest polish coorporation in EVE. We are heavily PvP focused - the only good reason to farm is to have ISK for ships/skill injectors to be able to pew pew pew more. We hapilly invite both experienced and new players, we are prepared to make a murderer out of 1 day account :) Polish only.
-- Location: Wormholes
-- Timezone: EU
-- Language: Polish
-- Wormhole PvP
-- Wormhole PvE
-- Contact:
+
 ## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
 Nevermore. is an english-speaking wormhole corporation. If you are interested in fulltime living in wormhole space alongside a friendly tight-knit community of players, then check out our wiki page for more details. Fly safe and remember you dscanner!
 - Location: Wormholes
