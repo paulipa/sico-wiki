@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-06T10:31:50.352Z
+date: 2023-05-06T12:58:04.211Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -41,12 +41,13 @@ Silent Industry is the Highsec Industry Wing for the LinkNet Community, part of 
 - Resource Harvesting
 - Contact: LocusAzzurro Orisis (LocusAzzurro#7414)
 ## [Atlantis Industrial Ltd [20AIL]](/community/coalition-corporations/20ail)
-Hello Pilots of Eve, If your looking for a specialized group to grow with then check us out. We are Mining and Industry Focused, but we have a range of activities such as, PI, Missions, Moon mining, Exploration, Abyss runs, Ice mining, We have a huge array of BPO,BPC to help you get starting in your manufacturing career. We run regular Corp fleets to provide Boosts for mining …We are a close group of pilots all with the same interests which makes playing a lot more fun.. Come check us out if your interested we look forwards to flying with you o7
-- Location: High Sec
+Hello Pilots of Eve, If your looking for a specialized group to grow with then check us out. We are a C1 Wormhole based corporation with Industry, Mining, PI and exploration being our main focus.
+We are a close group of pilots with similar interests which makes playing a lot more fun.. Come check us out if your interested we look forwards to flying with you o7
+- Location: Wormhole/ High Sec
 - Timezone: EU
 - Mining
 - Industry 
-- Contact:
+- Contact: Viktor Sawhead
 ## [Absolute Order [ABSOD]](/community/coalition-corporations/absod)
 Eu TZ, very selective recruitement. Need 5M+ SP to be eligible, need minimum 2 participations in CTA per month.
 Offer solo pvp srp, and eagle/cerb/scimitar pilots have 100m/month salary. Nullsec offer kill reward, 100% of their hull value. (for example killed a gila then you get 210m cash)
