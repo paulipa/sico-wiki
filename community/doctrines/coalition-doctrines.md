@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2022-05-08T19:33:26.536Z
+date: 2023-05-06T06:09:08.452Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -2488,9 +2488,8 @@ Strontium Clathrates x21
 
 ## Ratting
 <details>
-<summary>Vexor, Newbro Ratting 1.0</summary>
+<summary>Vexor, Newbro Ratting 1.1</summary>
 [Vexor, Newbro Ratting 1.0]
-
 Medium I-a Enduring Armor Repairer
 Reactive Armor Hardener
 AE-K Compact Drone Damage Amplifier
@@ -2510,7 +2509,8 @@ Medium Capacitor Control Circuit I
 Medium Capacitor Control Circuit I
 
 
-Hornet I x4
-Vespa I x3
-Wasp I x3
+
+Acolyte I x5
+Infiltrator I x10
+
 </details>
