@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-07T10:29:48.099Z
+date: 2023-05-07T10:31:13.753Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -104,6 +104,14 @@ Parner corporation for those players who wish to play in our [ONP](https://wiki.
 - Industry/Mining
 - Sov warfare PvP
 - Contact: Barbarella Nolen, Larissa Nolen
+
+## [Silent Vale [.SLV.]](/community/coalition-corporations/slv)
+Initially started as a lowsec division of EX-SA, Silent Vale has now joined Linknet nullsec ventures with a goal of establishing a new home in our own space. We are looking for active (ideally Omega) pilots focusing on PVP & PVE in search of a friendly community of both newbro and veteran capsuleers. Parner corporation for those players who wish to play in our [ONP](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province) region.
+- Location: Null Sec
+- Timezone: EU
+- Nullsec PVE & PVP
+- Pilot training & Education
+- Contact: Lea Mei, Skipp Doe
 
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FIRE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
