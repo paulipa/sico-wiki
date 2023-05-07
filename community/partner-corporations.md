@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-07T10:31:13.753Z
+date: 2023-05-07T10:41:10.921Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -105,7 +105,7 @@ Parner corporation for those players who wish to play in our [ONP](https://wiki.
 - Sov warfare PvP
 - Contact: Barbarella Nolen, Larissa Nolen
 
-## [Silent Vale [.SLV.]](/community/coalition-corporations/slv)
+## [Silent Vale [.SLV.]](https://explorers-sanctum.com/silent-vale/)
 Initially started as a lowsec division of EX-SA, Silent Vale has now joined Linknet nullsec ventures with a goal of establishing a new home in our own space. We are looking for active (ideally Omega) pilots focusing on PVP & PVE in search of a friendly community of both newbro and veteran capsuleers. Parner corporation for those players who wish to play in our [ONP](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province) region.
 - Location: Null Sec
 - Timezone: EU
