@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-07T10:23:40.510Z
+date: 2023-05-07T10:29:48.099Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -98,7 +98,12 @@ modro is a 16 year old eve corp with players in all time zones focusing on small
 
 # Null Sec
 ## [Silent Amethyst[SIL4]](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province)
-- Corporation for more permanent ONP players
+Parner corporation for those players who wish to play in our [ONP](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province) region. This corporation is focused on industry, pve and mining but also offers sov warfare gameplay to defend sov held directly under LinkNet alliance
+- Location: Null Sec
+- Timezone: Global
+- Industry/Mining
+- Sov warfare PvP
+- Contact: Barbarella Nolen, Larissa Nolen
 
 ## [Game Of Drones [3GODS]](/community/coalition-corporations/3gods)
 A primarily industrial corporation who enjoys the benefits of mining and ratting in Null Sec space, we pride ourselves on being miners with teeth. And we are not afraid to get down and dirty when required in defense of the space we live in.  Together with other members of the Valkyrie alliance and the larger FIRE coalition, we protect, defend, and inhabit the majority of 4 prominent null sec regions.
