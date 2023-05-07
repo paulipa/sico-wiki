@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-06T12:58:04.211Z
+date: 2023-05-07T10:22:06.777Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -66,6 +66,16 @@ We also do other events on occassion such as pveVP or gate ratting in null!
 - Incursions
 - NPSI/ Public Fleets
 - Contact: Katt Aideron
+
+## [Atlantis Exploration and Development Corp [AEADC]](/community/coalition-corporations/aeadc)
+AEADC is a high sec Corp with a Mining and Industrial Focus.  We carry out many other activities eve has to offer From Moon Mining, Plantery Interaction , PVE Missions , Abyss , Low sec Mining , Incursions , Exploration , Hauling , Market trading. We have many skilled pilots who can help any new players that want to get there feet wet in any of these activities.
+- Location: High Sec
+- Timezone: EU
+- HS Mining
+- WH Exploration
+- Contact: fuflo
+
+## [Junior Businessmen [JS1MP]](/community/coalition-corporations/js1mp)
 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
