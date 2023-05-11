@@ -2,7 +2,7 @@
 title: Community Doctrines
 description: List of official general doctrines for the coalition
 published: true
-date: 2023-05-06T06:09:08.452Z
+date: 2023-05-11T06:14:40.875Z
 tags: fittings, sico official
 editor: markdown
 dateCreated: 2020-07-17T10:35:25.702Z
@@ -2490,7 +2490,8 @@ Strontium Clathrates x21
 <details>
 <summary>Vexor, Newbro Ratting 1.1</summary>
 [Vexor, Newbro Ratting 1.0]
-Medium I-a Enduring Armor Repairer
+
+  Medium I-a Enduring Armor Repairer
 Reactive Armor Hardener
 AE-K Compact Drone Damage Amplifier
 AE-K Compact Drone Damage Amplifier
