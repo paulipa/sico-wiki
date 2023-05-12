@@ -2,7 +2,7 @@
 title: Open Null Province: Providence
 description: 
 published: true
-date: 2023-05-05T12:45:46.468Z
+date: 2023-05-12T04:49:31.552Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -41,16 +41,12 @@ SEADC members who try out life in Provi are expected to move over to the null co
 # Handbook
 This section will explain to you how to use null sec related tools and ingame services.
 
-## Welcome ship
-To celebrate the launch of our new province we are offering free welcome ships at ONP staging station. We currently stock: 
+## Starter PvE ships in ONP
+We are keeping three basic starter fits stocked on on the ONP market. These ships and fits include:
 - [Procurers and venturers](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#mining-fleet)
 - [Ratting vexors](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#ratting)
 
-To request a ship simply type your character name and the ship you want in the [#requests](https://discord.com/channels/230672980814987264/972946904348508160) channel on our community discord located under the `open-null-province` folder.
-
-The ship will be contracted you as soon as possible.
-
-![ship-request.png](/ship-request.png)
+If the market runs out of a particular module or a ship you may request more to be put up on the market in the [#requests](https://discord.com/channels/230672980814987264/972946904348508160)  channel on our discord
 
 ## Freight to ONP
 You can use our freight service to ship items to ONP. The freight calculator is located at https://auth.eve-linknet.com/freight/calculator
