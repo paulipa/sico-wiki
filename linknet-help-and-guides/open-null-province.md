@@ -2,7 +2,7 @@
 title: Open Null Province: Providence
 description: 
 published: true
-date: 2023-05-12T04:49:31.552Z
+date: 2023-05-12T04:51:44.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T16:51:15.912Z
@@ -46,7 +46,9 @@ We are keeping three basic starter fits stocked on on the ONP market. These ship
 - [Procurers and venturers](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#mining-fleet)
 - [Ratting vexors](https://wiki.eve-linknet.com/community/doctrines/coalition-doctrines#ratting)
 
-If the market runs out of a particular module or a ship you may request more to be put up on the market in the [#requests](https://discord.com/channels/230672980814987264/972946904348508160)  channel on our discord
+If the market runs out of a particular module or a ship you may request more to be put up on the market in the [#requests](https://discord.com/channels/230672980814987264/972946904348508160)  channel on our discord.
+
+You may also request T2 modules of the doctrine ships to be put on the market. For other items please use the freight service to ship the items in.
 
 ## Freight to ONP
 You can use our freight service to ship items to ONP. The freight calculator is located at https://auth.eve-linknet.com/freight/calculator
