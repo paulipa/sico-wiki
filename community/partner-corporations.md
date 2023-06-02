@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-05-07T10:41:10.921Z
+date: 2023-06-02T16:20:24.681Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -110,6 +110,7 @@ Initially started as a lowsec division of EX-SA, Silent Vale has now joined Link
 - Location: Null Sec
 - Timezone: EU
 - Nullsec PVE & PVP
+- StratOps
 - Pilot training & Education
 - Contact: Lea Mei, Skipp Doe
 
