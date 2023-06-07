@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-06-07T20:07:59.588Z
+date: 2023-06-07T20:10:43.411Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -121,7 +121,7 @@ A primarily industrial corporation who enjoys the benefits of mining and ratting
 - Industry/Mining, PvE
 - PvP
 - Contact: Jafner, Savage Jones
-## [Simple Businessmen [S1MP.]](https://auth.simplebusinessmen.com/)
+## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
 What can we say? We do everything. We don't limit how our members make isk or enjoy the game. From lucrative mining opportunities and capital ship construction to ratting and PvP, there are always corp projects going on and ways for you to make isk! We offer a corp-wide buyback as a service to our members! We always put our members' IRL before Eve as well. We also have the most extensive BPO library in all of Linknet, publicly available to our members!
 - Location: Null Sec
 - Timezone: Primarily US/Global
