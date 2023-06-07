@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-06-02T16:20:24.681Z
+date: 2023-06-07T20:07:59.588Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -121,15 +121,16 @@ A primarily industrial corporation who enjoys the benefits of mining and ratting
 - Industry/Mining, PvE
 - PvP
 - Contact: Jafner, Savage Jones
-## [Simple Businessmen [S1MP.]](/community/coalition-corporations/s1mp)
-What can we say? We do everything. We don't limit how our members make isk or enjoy the game. From lucrative mining opportunities and capital ship construction to ratting and PvP, there are always corp projects going on and ways for you to make isk! We also offer a corp-wide buyback as a service to our members! We always put our members' IRL before Eve as well. We also have the most extensive BPO library in all of Linknet, publicly available to our members!
+## [Simple Businessmen [S1MP.]](https://auth.simplebusinessmen.com/)
+What can we say? We do everything. We don't limit how our members make isk or enjoy the game. From lucrative mining opportunities and capital ship construction to ratting and PvP, there are always corp projects going on and ways for you to make isk! We offer a corp-wide buyback as a service to our members! We always put our members' IRL before Eve as well. We also have the most extensive BPO library in all of Linknet, publicly available to our members!
 - Location: Null Sec
-- Timezone: Primarily US, but we have global members who always want friends! 
+- Timezone: Primarily US/Global
 - Making Dank Isk
+- Null Sec PvP - Small gang corp roams and large-scale alliance fleets
 - PvE - Ratting, missions, escalations
-- Null sec PvP - Small gang corp roams and large-scale alliance fleets
 - Null sec Mining/Industry/PI - Max Rorqual boosts, Max Reprocessing Skills, Advanced Industry Infrustructure. 
-- Contacts: Cresenne jaTerba and Xanos Ragnarok
+- Giant BPO library
+- Contacts:Xanos Ragnarok & Lahota Bimsey 
 
 ## [TEMPLAR. [TMP.]](/community/coalition-corporations/tmp)
 Join like minded people who want to experience all opportunities New Eden has to offer, Gas, Ore and Ice mining, PVE, PVP, make isk but always remember you are the Imperator’s Templar, immortal warrior of the Imperium!
