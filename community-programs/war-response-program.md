@@ -2,12 +2,13 @@
 title: DEFENCE AGAINST THE DARK ARTS [SLTRN]
 description: 
 published: true
-date: 2023-01-11T15:55:39.503Z
+date: 2023-06-30T07:26:12.341Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-07T17:28:01.656Z
 ---
 
+![20230629-sico.png](/20230629-sico.png =200x)
 > The Dark Arts are many, varied, ever-changing, and eternal. Fighting them is like fighting a many-headed monster, which, each time a neck is severed, sprouts a head even fiercer and cleverer than before. You are fighting that which is unfixed, mutating, indestructible.
 —Description of the Dark Arts
 
