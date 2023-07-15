@@ -2,7 +2,7 @@
 title: LinkNet Manifesto 2019
 description: 
 published: true
-date: 2021-04-15T14:13:55.479Z
+date: 2023-07-15T05:21:09.515Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-09T07:52:32.782Z
@@ -111,5 +111,7 @@ The rules that are currently in effect can be found from here: [community Rules]
 The high resolution version of our logo can be found from here:
 [sico-logo.eps](/sico.eps)
 [sico-logo-png](/sico.png)
+[linknet-logo.png](/20230629-sico.png)
+[linknet-logo.eps](/20230629-sico.eps)
 
 
