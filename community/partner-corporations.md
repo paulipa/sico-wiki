@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-06-07T20:10:43.411Z
+date: 2023-07-29T03:12:51.378Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -151,23 +151,6 @@ We are a small community with a casual approach to the game. We have all the opp
 Hila Kashada
 Ragnar Voll
 
-## [Aegis Reforged [AEGRF]](/community/coalition-corporations/aegrf)
-Aegis Reforged is an emerging Nullsec PvP and industry corporation based in immensea. We mine, build, sell, hunt and destroy to fuel the circle of life in New Eden. Being in one of the most hotly contested regions of space, our team of veterans from all walks of life have no shortage of experience and content to share. Have you got what it takes to thrive on the front lines?
-- Location: Null Sec
-- Timezone: US/EU/AU
-- Null Sec PvP
-- Industry
-- Contact: Harnaget Ostus
-
-## [FW Scuad [FWS] ](/community/coalition-corporations/fws)
-FW Scuad is the oldest spanish-speaking corporation active in New Eden. We'be been fighting in most of the big battles that happened in the last 15 years. We are the first ones in the battlefield and the last ones to stay alive. We never retreat, no matter the cost. We have trained great pilots among the years that have stamped their seal in New Eden story. If you want to join the spanish legend of New Eden come and talk to us. Our ingame channels are FWS & FWCEFLES.
-- Language: Spanish
-- Location: Null Sec
-- Timezone: Global
-- PVP
-- Mining & Industry
-- Contact: Selenix
-
 ## [Stain Train [W00--]](/community/coalition-corporations/woo)
 Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well look no further we have the group for you! Stain Train is looking for players of all skill levels new to experienced to join our tanks today! NPC Stain is where we are staged with multiple opportunities for new and old players to learn and grow. Join our public today "Big Yikes Public".
 - Location: Null Sec
@@ -176,13 +159,6 @@ Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well 
 - Capital Warfare, Industry
 - Contact: Bradford Clear, hkmpseven, Sinester Shadow
 
-## [Surreptitious Technologies [STGIS]](/community/coalition-corporations/stgis)
-We are a growing 0.0 pvp organization who are a member of the Shadow Ultimatum alliance. We are a pvp focused corporation with our aim at becoming a real threat with black ops warfare and pvp in general. Progression in all areas of what we do is primary. We are focused on consistent growth to help enable the alliance to take and hold its own sov territory. It is the way. Alliance Intro: https://www.youtube.com/watch?v=OJxvW_NbQOc&t
-- Location: Null Sec
-- Timezone: Global
-- PVP, Mining, Ratting, Null Sec
-- Black Ops
-- Contact: Sebekk knap
 # Wormholes
 ## [Wormhole Academy for Exploration and Yeet [WAEY]](/community/coalition-corporations/waey)
 Our goal is to give anyone who wants it an opportunity to experience life in a wormhole, while providing a safe, friendly environment for new players to learn the basics of different aspects of the game. We combine the knowledge & experience of veteran players with the infrastructure and teaching mentality of the LinkNet community in order to make sure you’ll get the best start to your EVE career. This is the WAEY.
@@ -199,13 +175,6 @@ Nevermore. is an english-speaking wormhole corporation. If you are interested in
 - Wormhole PVE & PVP
 - Industry/PI
 - Contact: Catyana Oskold
-## [COMBAT PATROL [W-CP]](/community/coalition-corporations/wcp)
-Combat Patrol is a wormhole corporation which provides its citizens with excellent opportunities for PVP, PVE, and Industry (C2 HS+C3 statics). Our mission is to develop into one of the most fun and powerful corporations in Eve Online while continuing to uphold our core values of justice, freedom, and loyalty. We are building an organization on a grand scale that supports prosocial behavior, diverse playstyles, and content across all time zones.
-- Location: Wormholes
-- Timezone: US
-- PVE
-- PVP
-- Contact: Luke Pericles
 
 # Snowflakes
 ## [Silent Nomads [N0M3D]](/community/coalition-corporations/n0m3d)
