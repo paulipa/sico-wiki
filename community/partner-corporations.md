@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-07-29T03:12:51.378Z
+date: 2023-07-29T03:19:59.250Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -53,9 +53,9 @@ Eu TZ, very selective recruitement. Need 5M+ SP to be eligible, need minimum 2 p
 Offer solo pvp srp, and eagle/cerb/scimitar pilots have 100m/month salary. Nullsec offer kill reward, 100% of their hull value. (for example killed a gila then you get 210m cash)
 - Location: High Sec + Null Sec
 - Timezone: Global
-- PvE ratting
+- Military RP
 - PvP 
-- Contact:
+- Contact: Governor Lee
 
 ## [Eve Rookies [EROOK]](/community/coalition-corporations/erook)
 EVE Rookies [EROOK] is a rookie incusion group dedicated to lowering the entry to incursions for those who have never flown incursions, lower skilled players and alphas. We always have a Praxis available to borrow so no need to bring your own ship to try it out!
@@ -76,6 +76,12 @@ AEADC is a high sec Corp with a Mining and Industrial Focus.  We carry out many 
 - Contact: fuflo
 
 ## [Junior Businessmen [JS1MP]](/community/coalition-corporations/js1mp)
+Junior Businessmen is a independent High Sec training corp for Simple Businessmen. Mostly us based and mining/industry guided outside of the main goal of training new players! 
+- Location: High Sec
+- Timezone: US
+- High Sec new player development
+- Industry/Mining
+- Contact: Roshy462
 
 # Low sec
 ## [Red Sky Morning [R.S.M]](/community/coalition-corporations/rsm)
@@ -86,7 +92,7 @@ Plenty of Plex Ships ( Frigs / Destroyers)
 - Timezone: EU
 - Faction Warfare, Low Sec Piracy
 - PVP
-- Contact:
+- Contact: CDLoon
 
 ## [modro [MODRO]](/community/coalition-corporations/modro)
 modro is a 16 year old eve corp with players in all time zones focusing on small gang pvp but with mining and industry players as well basically we are care bears with teeth ,modro has recently returned to eve after a few years dormant while we focused on null space in the nc , we offer experianced fc's including a senior spectre fleet fc within corp we also offer srp for  corp fleets and discounts on personal ships we also offer mining and wormhole  opportunities  come fly with modro and our laid back gaming style chat with us ingame at [ Mother modros chit chat ] we have players in eu,us,au time zones 
@@ -147,9 +153,7 @@ We are a small community with a casual approach to the game. We have all the opp
 - PVP 
 - Pochven Sig ($$$)
 - Industry and Isk Opportunities
-- CEO's:  
-Hila Kashada
-Ragnar Voll
+- Contact: Hila Kashada / Ragnar Voll
 
 ## [Stain Train [W00--]](/community/coalition-corporations/woo)
 Are you looking for a newb friendly/old school no BS/no Drama kinda group? Well look no further we have the group for you! Stain Train is looking for players of all skill levels new to experienced to join our tanks today! NPC Stain is where we are staged with multiple opportunities for new and old players to learn and grow. Join our public today "Big Yikes Public".
@@ -166,7 +170,7 @@ Our goal is to give anyone who wants it an opportunity to experience life in a w
 - Timezone: Global
 - Wormhole activities: PvE, PvP, industry, exploration and more.
 - Teaching the basics, newbro friendly
-- Contact:
+- Contact: Alain / Zyal
 
 ## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
 Nevermore. is an english-speaking wormhole corporation. If you are interested in fulltime living in wormhole space alongside a friendly tight-knit community of players, then check out our wiki page for more details. Fly safe and remember you dscanner!
@@ -186,10 +190,6 @@ Happy Birthday Sierra!
 - Nomadic PvP
 - Contact: Garen Willow, Sierra Sin
 # Language Partners
-## [Red Cold Chili Banderlogs Academy [RCCBA]](/community/coalition-corporations/rccba)
-- Russian
-## [Russian Space Academy [RSAAA]](/community/coalition-corporations/rsaaa)
-- Russian
 
 # SIG Corporations
 Sig corporations are created for a set purpose inside the community. Each corporation in this category has a related program for them in the community.
