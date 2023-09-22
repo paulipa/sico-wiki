@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-07-29T03:19:59.250Z
+date: 2023-09-22T03:28:39.502Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -170,7 +170,7 @@ Our goal is to give anyone who wants it an opportunity to experience life in a w
 - Timezone: Global
 - Wormhole activities: PvE, PvP, industry, exploration and more.
 - Teaching the basics, newbro friendly
-- Contact: Alain / Zyal
+- Contact: Martin Dagoalie
 
 ## [Nevermore. [.RVEN]](/community/coalition-corporations/rven)
 Nevermore. is an english-speaking wormhole corporation. If you are interested in fulltime living in wormhole space alongside a friendly tight-knit community of players, then check out our wiki page for more details. Fly safe and remember you dscanner!
