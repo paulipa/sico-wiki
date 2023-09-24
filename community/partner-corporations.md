@@ -2,7 +2,7 @@
 title: Community Partner Corporations
 description: 
 published: true
-date: 2023-09-22T03:28:39.502Z
+date: 2023-09-24T08:01:39.322Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-08T16:24:40.484Z
@@ -103,13 +103,13 @@ modro is a 16 year old eve corp with players in all time zones focusing on small
 - Contact: dianathegreat
 
 # Null Sec
-## [Silent Amethyst[SIL4]](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province)
+## [Silent Knights. [SLKN.]](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province)
 Parner corporation for those players who wish to play in our [ONP](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province) region. This corporation is focused on industry, pve and mining but also offers sov warfare gameplay to defend sov held directly under LinkNet alliance
 - Location: Null Sec
 - Timezone: Global
 - Industry/Mining
 - Sov warfare PvP
-- Contact: Barbarella Nolen, Larissa Nolen
+- Contact: Sierra Sin
 
 ## [Silent Vale [.SLV.]](https://explorers-sanctum.com/silent-vale/)
 Initially started as a lowsec division of EX-SA, Silent Vale has now joined Linknet nullsec ventures with a goal of establishing a new home in our own space. We are looking for active (ideally Omega) pilots focusing on PVP & PVE in search of a friendly community of both newbro and veteran capsuleers. Parner corporation for those players who wish to play in our [ONP](https://wiki.eve-linknet.com/linknet-help-and-guides/open-null-province) region.
